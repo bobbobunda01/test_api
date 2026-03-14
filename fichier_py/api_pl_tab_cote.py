@@ -10,8 +10,9 @@ import pandas as pd
 from flask import Flask, jsonify, request
 from joblib import load
 from pydantic import BaseModel
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from fonction import (
+from fichier_py.fonction import (
     prepare_input_features_enriched,
     predict_match_with_proba,
     log_prediction,
@@ -21,6 +22,7 @@ from fonction import (
     apply_unexpected_layer,
     resolve_fixture_id_local,
     explanation_from_pred_final,
+    clean_extract_final_result,
 )
 
 app = Flask(__name__)
@@ -705,9 +707,9 @@ def _build_match_result(match: MatchInput) -> Dict[str, Any]:
     pred_final["5_dern_perf_away"] = np.array(perf_away).item()
     pred_final["plus_but"] = int(pred_but)
     pred_final["mess_but"] = str(mess_but)
-     #final_json = clean_extract_final_result(pred_final)
+    final_json = clean_extract_final_result(pred_final)
 
-    return pred_final
+    return final_json
 
 # -------------------------------------------------------------------
 # ROUTES
@@ -719,26 +721,81 @@ def accueil():
 
 
 @app.route("/predire/pl", methods=["POST"])
+
 def prediction():
     if not request.json:
         return jsonify({"Erreur": "Aucun fichier JSON fourni"}), 400
 
     try:
         body = RequestBody(**request.json)
-        all_results = []
 
-        for match in body.matches:
-            all_results.append(_build_match_result(match))
-        
-        #final_json = clean_extract_final_result(pred_final)
+        matches = body.matches or []
+        if not matches:
+            return jsonify({"Erreur": "La liste des matchs est vide"}), 400
 
-        logging.basicConfig(level=logging.INFO)
-        logging.info("📊 Résultats all_results calculés")
+        # Précharge une seule fois les ressources par compétition
+        needed_comps = sorted({int(m.comp) for m in matches})
+        for comp in needed_comps:
+            _load_comp_resources(comp)
 
-        return jsonify({"Resultats": all_results})
+        all_results = [None] * len(matches)
+        errors = []
+
+        max_workers = min(4, len(matches))
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_to_idx = {
+                executor.submit(_build_match_result, match): idx
+                for idx, match in enumerate(matches)
+            }
+
+            for future in as_completed(future_to_idx):
+                idx = future_to_idx[future]
+                match = matches[idx]
+
+                try:
+                    all_results[idx] = future.result()
+                except Exception as e:
+                    errors.append({
+                        "index": idx,
+                        "home": getattr(match, "HomeTeam", None),
+                        "away": getattr(match, "AwayTeam", None),
+                        "comp": getattr(match, "comp", None),
+                        "error": f"{type(e).__name__}: {str(e)[:300]}"
+                    })
+
+                    all_results[idx] = {
+                        "home": getattr(match, "HomeTeam", None),
+                        "away": getattr(match, "AwayTeam", None),
+                        "prediction": None,
+                        "prediction_model": None,
+                        "proba_0": None,
+                        "proba_1": None,
+                        "proba_2": None,
+                        "double_chance": None,
+                        "bias_detected": None,
+                        "low_confidence": None,
+                        "realtime_risk": {
+                            "available": False,
+                            "fixture_id": getattr(match, "fixture_id", None),
+                            "missing": [f"parallel_match_error:{type(e).__name__}"],
+                            "reasons": [f"parallel_match_error:{type(e).__name__}"],
+                            "risk_level": "UNKNOWN",
+                            "risk_score": 0.0,
+                            "summary": {}
+                        },
+                        "explanation": "Analyse indisponible pour ce match.",
+                        "notes": [f"parallel_match_error:{type(e).__name__}"]
+                    }
+
+        response = {"Resultats": all_results}
+        if errors:
+            response["warnings"] = errors
+
+        return jsonify(response)
 
     except Exception as e:
-        return jsonify({"Erreur": str(e)}), 400
+        return jsonify({"Erreur": f"{type(e).__name__}: {str(e)}"}), 400
     
 if __name__ == '__main__':
     app.run(debug=True)
