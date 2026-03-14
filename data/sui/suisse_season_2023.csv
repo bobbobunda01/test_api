@@ -1,0 +1,231 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Suisse,2023,2023-07-22,FC ST. Gallen,FC Basel 1893,2,1,1,1,H
+Suisse,2023,2023-07-22,Grasshoppers,Servette FC,1,3,1,0,A
+Suisse,2023,2023-07-22,FC Winterthur,FC Luzern,0,0,0,0,D
+Suisse,2023,2023-07-23,BSC Young Boys,Lausanne,2,1,0,2,H
+Suisse,2023,2023-07-23,FC Zurich,Yverdon Sport,2,0,1,1,H
+Suisse,2023,2023-07-26,Stade Lausanne-Ouchy,FC Lugano,0,3,0,0,A
+Suisse,2023,2023-07-29,FC Lugano,FC ST. Gallen,1,0,0,1,H
+Suisse,2023,2023-07-29,Lausanne,Grasshoppers,1,1,1,0,D
+Suisse,2023,2023-07-29,Servette FC,FC Zurich,2,2,0,2,D
+Suisse,2023,2023-07-30,FC Luzern,Stade Lausanne-Ouchy,2,1,0,2,H
+Suisse,2023,2023-07-30,FC Basel 1893,FC Winterthur,5,2,1,4,H
+Suisse,2023,2023-07-30,Yverdon Sport,BSC Young Boys,2,2,0,2,D
+Suisse,2023,2023-08-05,BSC Young Boys,FC Winterthur,5,2,3,2,H
+Suisse,2023,2023-08-05,Stade Lausanne-Ouchy,Servette FC,1,1,0,1,D
+Suisse,2023,2023-08-05,FC Zurich,FC Lugano,3,0,0,3,H
+Suisse,2023,2023-08-06,Lausanne,Yverdon Sport,1,2,1,0,A
+Suisse,2023,2023-08-06,FC ST. Gallen,FC Luzern,2,1,0,2,H
+Suisse,2023,2023-08-06,Grasshoppers,FC Basel 1893,3,1,3,0,H
+Suisse,2023,2023-08-12,FC Winterthur,Grasshoppers,3,1,1,2,H
+Suisse,2023,2023-08-12,Stade Lausanne-Ouchy,FC Zurich,0,3,0,0,A
+Suisse,2023,2023-08-12,Servette FC,FC ST. Gallen,1,1,1,0,D
+Suisse,2023,2023-08-13,FC Basel 1893,Lausanne,1,2,0,1,A
+Suisse,2023,2023-08-13,FC Lugano,Yverdon Sport,6,1,3,3,H
+Suisse,2023,2023-08-13,FC Luzern,BSC Young Boys,1,1,1,0,D
+Suisse,2023,2023-08-26,FC Zurich,FC ST. Gallen,1,1,0,1,D
+Suisse,2023,2023-08-26,Yverdon Sport,Servette FC,4,1,1,3,H
+Suisse,2023,2023-08-27,Grasshoppers,FC Luzern,0,1,0,0,A
+Suisse,2023,2023-08-27,Lausanne,FC Winterthur,2,5,0,2,A
+Suisse,2023,2023-09-02,FC ST. Gallen,Lausanne,2,1,0,2,H
+Suisse,2023,2023-09-02,Stade Lausanne-Ouchy,Grasshoppers,2,1,0,2,H
+Suisse,2023,2023-09-02,FC Winterthur,Yverdon Sport,1,1,1,0,D
+Suisse,2023,2023-09-03,Servette FC,BSC Young Boys,0,1,0,0,A
+Suisse,2023,2023-09-03,FC Basel 1893,FC Zurich,2,2,0,2,D
+Suisse,2023,2023-09-03,FC Luzern,FC Lugano,3,2,2,1,H
+Suisse,2023,2023-09-23,Lausanne,FC Zurich,0,0,0,0,D
+Suisse,2023,2023-09-23,FC Winterthur,Stade Lausanne-Ouchy,2,1,2,0,H
+Suisse,2023,2023-09-23,Grasshoppers,FC ST. Gallen,1,1,1,0,D
+Suisse,2023,2023-09-24,Yverdon Sport,FC Basel 1893,3,2,1,2,H
+Suisse,2023,2023-09-24,BSC Young Boys,FC Lugano,4,1,3,1,H
+Suisse,2023,2023-09-24,FC Luzern,Servette FC,2,0,2,0,H
+Suisse,2023,2023-09-26,FC Zurich,Grasshoppers,2,1,1,1,H
+Suisse,2023,2023-09-27,FC Lugano,Lausanne,2,1,1,1,H
+Suisse,2023,2023-09-27,FC ST. Gallen,BSC Young Boys,2,1,0,2,H
+Suisse,2023,2023-09-27,Servette FC,FC Winterthur,2,2,0,2,D
+Suisse,2023,2023-09-28,FC Basel 1893,FC Luzern,1,1,0,1,D
+Suisse,2023,2023-09-28,Stade Lausanne-Ouchy,Yverdon Sport,1,1,0,1,D
+Suisse,2023,2023-09-30,FC Winterthur,FC Lugano,2,3,0,2,A
+Suisse,2023,2023-09-30,Servette FC,Lausanne,2,1,0,2,H
+Suisse,2023,2023-09-30,Grasshoppers,BSC Young Boys,0,1,0,0,A
+Suisse,2023,2023-10-01,Yverdon Sport,FC ST. Gallen,1,0,1,0,H
+Suisse,2023,2023-10-01,FC Basel 1893,Stade Lausanne-Ouchy,0,3,0,0,A
+Suisse,2023,2023-10-01,FC Luzern,FC Zurich,1,4,0,1,A
+Suisse,2023,2023-10-07,FC Zurich,FC Winterthur,3,2,2,1,H
+Suisse,2023,2023-10-07,Yverdon Sport,Grasshoppers,0,3,0,0,A
+Suisse,2023,2023-10-07,FC ST. Gallen,Stade Lausanne-Ouchy,4,0,2,2,H
+Suisse,2023,2023-10-08,FC Lugano,Servette FC,0,1,0,0,A
+Suisse,2023,2023-10-08,BSC Young Boys,FC Basel 1893,3,0,2,1,H
+Suisse,2023,2023-10-08,Lausanne,FC Luzern,3,1,0,3,H
+Suisse,2023,2023-10-21,BSC Young Boys,FC Zurich,0,0,0,0,D
+Suisse,2023,2023-10-21,Stade Lausanne-Ouchy,Lausanne,2,2,0,2,D
+Suisse,2023,2023-10-21,FC Basel 1893,Servette FC,0,1,0,0,A
+Suisse,2023,2023-10-22,FC Winterthur,FC ST. Gallen,2,1,0,2,H
+Suisse,2023,2023-10-22,FC Luzern,Yverdon Sport,2,1,1,1,H
+Suisse,2023,2023-10-22,Grasshoppers,FC Lugano,2,1,0,2,H
+Suisse,2023,2023-10-28,FC ST. Gallen,Grasshoppers,3,1,3,0,H
+Suisse,2023,2023-10-28,Yverdon Sport,FC Winterthur,1,1,1,0,D
+Suisse,2023,2023-10-28,FC Zurich,Stade Lausanne-Ouchy,1,1,1,0,D
+Suisse,2023,2023-10-29,Lausanne,FC Basel 1893,3,0,1,2,H
+Suisse,2023,2023-10-29,FC Lugano,BSC Young Boys,1,1,0,1,D
+Suisse,2023,2023-10-29,Servette FC,FC Luzern,4,2,1,3,H
+Suisse,2023,2023-11-04,Lausanne,FC Lugano,3,1,0,3,H
+Suisse,2023,2023-11-04,FC Winterthur,BSC Young Boys,1,4,1,0,A
+Suisse,2023,2023-11-04,FC Zurich,Servette FC,0,2,0,0,A
+Suisse,2023,2023-11-05,FC Luzern,Grasshoppers,2,0,1,1,H
+Suisse,2023,2023-11-05,FC Basel 1893,Yverdon Sport,2,1,1,1,H
+Suisse,2023,2023-11-05,Stade Lausanne-Ouchy,FC ST. Gallen,2,5,2,0,A
+Suisse,2023,2023-11-11,FC ST. Gallen,FC Winterthur,4,2,3,1,H
+Suisse,2023,2023-11-11,Yverdon Sport,Lausanne,2,2,2,0,D
+Suisse,2023,2023-11-11,BSC Young Boys,FC Luzern,6,1,3,3,H
+Suisse,2023,2023-11-12,Grasshoppers,Stade Lausanne-Ouchy,5,2,4,1,H
+Suisse,2023,2023-11-12,FC Lugano,FC Zurich,0,3,0,0,A
+Suisse,2023,2023-11-12,Servette FC,FC Basel 1893,4,1,1,3,H
+Suisse,2023,2023-11-25,FC Luzern,FC Winterthur,3,1,1,2,H
+Suisse,2023,2023-11-25,FC Zurich,BSC Young Boys,3,1,2,1,H
+Suisse,2023,2023-11-25,Yverdon Sport,FC Lugano,0,5,0,0,A
+Suisse,2023,2023-11-26,Lausanne,Stade Lausanne-Ouchy,1,0,0,1,H
+Suisse,2023,2023-11-26,FC Basel 1893,FC ST. Gallen,2,0,1,1,H
+Suisse,2023,2023-11-26,Servette FC,Grasshoppers,2,0,1,1,H
+Suisse,2023,2023-12-02,Grasshoppers,Lausanne,5,0,0,5,H
+Suisse,2023,2023-12-02,Stade Lausanne-Ouchy,FC Basel 1893,1,1,0,1,D
+Suisse,2023,2023-12-03,BSC Young Boys,Servette FC,1,1,0,1,D
+Suisse,2023,2023-12-03,FC Lugano,FC Luzern,1,0,0,1,H
+Suisse,2023,2023-12-06,FC ST. Gallen,Yverdon Sport,4,0,3,1,H
+Suisse,2023,2023-12-06,BSC Young Boys,Stade Lausanne-Ouchy,1,0,0,1,H
+Suisse,2023,2023-12-06,FC Lugano,FC Basel 1893,1,3,0,1,A
+Suisse,2023,2023-12-09,FC Basel 1893,Grasshoppers,0,1,0,0,A
+Suisse,2023,2023-12-09,BSC Young Boys,FC ST. Gallen,3,0,2,1,H
+Suisse,2023,2023-12-09,Lausanne,Servette FC,1,1,0,1,D
+Suisse,2023,2023-12-10,FC Lugano,FC Winterthur,2,1,1,1,H
+Suisse,2023,2023-12-10,FC Zurich,FC Luzern,1,1,0,1,D
+Suisse,2023,2023-12-10,Yverdon Sport,Stade Lausanne-Ouchy,2,1,0,2,H
+Suisse,2023,2023-12-13,FC Winterthur,FC Zurich,2,1,1,1,H
+Suisse,2023,2023-12-16,FC ST. Gallen,FC Zurich,1,0,1,0,H
+Suisse,2023,2023-12-16,Stade Lausanne-Ouchy,BSC Young Boys,1,3,0,1,A
+Suisse,2023,2023-12-16,Grasshoppers,Yverdon Sport,1,1,1,0,D
+Suisse,2023,2023-12-17,FC Winterthur,Lausanne,1,0,0,1,H
+Suisse,2023,2023-12-17,FC Luzern,FC Basel 1893,0,1,0,0,A
+Suisse,2023,2023-12-17,Servette FC,FC Lugano,2,2,2,0,D
+Suisse,2023,2024-01-20,BSC Young Boys,Grasshoppers,1,0,0,1,H
+Suisse,2023,2024-01-20,Lausanne,FC ST. Gallen,0,1,0,0,A
+Suisse,2023,2024-01-21,FC Lugano,Stade Lausanne-Ouchy,2,3,0,2,A
+Suisse,2023,2024-01-21,FC Zurich,FC Basel 1893,0,0,0,0,D
+Suisse,2023,2024-01-23,FC Winterthur,Servette FC,3,3,0,3,D
+Suisse,2023,2024-01-23,Yverdon Sport,FC Luzern,2,1,1,1,H
+Suisse,2023,2024-01-27,Servette FC,Yverdon Sport,1,0,0,1,H
+Suisse,2023,2024-01-27,Stade Lausanne-Ouchy,FC Winterthur,1,3,0,1,A
+Suisse,2023,2024-01-27,FC Basel 1893,BSC Young Boys,1,0,1,0,H
+Suisse,2023,2024-01-28,FC ST. Gallen,FC Lugano,1,4,0,1,A
+Suisse,2023,2024-01-28,FC Luzern,Lausanne,2,1,0,2,H
+Suisse,2023,2024-01-28,Grasshoppers,FC Zurich,2,1,0,2,H
+Suisse,2023,2024-01-30,BSC Young Boys,Yverdon Sport,5,1,2,3,H
+Suisse,2023,2024-01-30,FC Winterthur,FC Basel 1893,1,3,0,1,A
+Suisse,2023,2024-01-31,FC Lugano,Grasshoppers,0,0,0,0,D
+Suisse,2023,2024-01-31,FC Zurich,Lausanne,2,2,0,2,D
+Suisse,2023,2024-01-31,FC ST. Gallen,Servette FC,0,2,0,0,A
+Suisse,2023,2024-02-01,Stade Lausanne-Ouchy,FC Luzern,0,3,0,0,A
+Suisse,2023,2024-02-03,Grasshoppers,FC Winterthur,0,1,0,0,A
+Suisse,2023,2024-02-03,Lausanne,BSC Young Boys,0,1,0,0,A
+Suisse,2023,2024-02-03,FC Basel 1893,FC Lugano,0,1,0,0,A
+Suisse,2023,2024-02-04,Yverdon Sport,FC Zurich,3,0,1,2,H
+Suisse,2023,2024-02-04,FC Luzern,FC ST. Gallen,1,0,0,1,H
+Suisse,2023,2024-02-04,Servette FC,Stade Lausanne-Ouchy,3,1,2,1,H
+Suisse,2023,2024-02-10,FC Zurich,Grasshoppers,1,0,1,0,H
+Suisse,2023,2024-02-10,Stade Lausanne-Ouchy,Lausanne,1,1,1,0,D
+Suisse,2023,2024-02-10,FC Lugano,BSC Young Boys,3,3,1,2,D
+Suisse,2023,2024-02-11,FC Winterthur,FC Luzern,2,1,0,2,H
+Suisse,2023,2024-02-11,FC Basel 1893,FC ST. Gallen,1,0,0,1,H
+Suisse,2023,2024-02-11,Yverdon Sport,Servette FC,2,1,1,1,H
+Suisse,2023,2024-02-17,FC ST. Gallen,FC Winterthur,2,2,1,1,D
+Suisse,2023,2024-02-17,Lausanne,Yverdon Sport,3,1,3,0,H
+Suisse,2023,2024-02-17,Grasshoppers,FC Basel 1893,2,1,2,0,H
+Suisse,2023,2024-02-18,BSC Young Boys,Stade Lausanne-Ouchy,1,0,0,1,H
+Suisse,2023,2024-02-18,FC Luzern,FC Zurich,0,1,0,0,A
+Suisse,2023,2024-02-18,Servette FC,FC Lugano,2,1,0,2,H
+Suisse,2023,2024-02-24,FC ST. Gallen,Stade Lausanne-Ouchy,1,0,0,1,H
+Suisse,2023,2024-02-24,Yverdon Sport,FC Basel 1893,0,2,0,0,A
+Suisse,2023,2024-02-24,Grasshoppers,FC Luzern,0,1,0,0,A
+Suisse,2023,2024-02-25,FC Lugano,FC Zurich,2,0,1,1,H
+Suisse,2023,2024-02-25,BSC Young Boys,Servette FC,0,1,0,0,A
+Suisse,2023,2024-02-25,Lausanne,FC Winterthur,1,1,1,0,D
+Suisse,2023,2024-03-02,Servette FC,FC ST. Gallen,2,0,1,1,H
+Suisse,2023,2024-03-02,Stade Lausanne-Ouchy,Grasshoppers,1,1,1,0,D
+Suisse,2023,2024-03-02,FC Basel 1893,Lausanne,1,2,0,1,A
+Suisse,2023,2024-03-03,FC Luzern,FC Lugano,0,1,0,0,A
+Suisse,2023,2024-03-03,FC Zurich,BSC Young Boys,1,0,1,0,H
+Suisse,2023,2024-03-03,FC Winterthur,Yverdon Sport,2,1,1,1,H
+Suisse,2023,2024-03-09,FC Winterthur,Grasshoppers,2,0,0,2,H
+Suisse,2023,2024-03-09,Yverdon Sport,FC Zurich,3,2,2,1,H
+Suisse,2023,2024-03-09,FC ST. Gallen,FC Lugano,2,3,2,0,A
+Suisse,2023,2024-03-10,Servette FC,Lausanne,3,1,1,2,H
+Suisse,2023,2024-03-10,BSC Young Boys,FC Basel 1893,5,1,3,2,H
+Suisse,2023,2024-03-10,Stade Lausanne-Ouchy,FC Luzern,2,1,0,2,H
+Suisse,2023,2024-03-16,FC Basel 1893,FC Winterthur,1,1,0,1,D
+Suisse,2023,2024-03-16,Grasshoppers,FC ST. Gallen,1,1,0,1,D
+Suisse,2023,2024-03-16,FC Lugano,Yverdon Sport,2,0,1,1,H
+Suisse,2023,2024-03-17,FC Zurich,Stade Lausanne-Ouchy,2,2,2,0,D
+Suisse,2023,2024-03-17,FC Luzern,Servette FC,2,2,1,1,D
+Suisse,2023,2024-03-17,Lausanne,BSC Young Boys,2,0,2,0,H
+Suisse,2023,2024-03-30,FC Winterthur,Servette FC,1,0,0,1,H
+Suisse,2023,2024-03-30,Stade Lausanne-Ouchy,FC Lugano,1,3,0,1,A
+Suisse,2023,2024-03-30,FC Basel 1893,FC Zurich,2,2,2,0,D
+Suisse,2023,2024-04-01,Yverdon Sport,BSC Young Boys,0,0,0,0,D
+Suisse,2023,2024-04-01,FC ST. Gallen,FC Luzern,1,1,1,0,D
+Suisse,2023,2024-04-01,Grasshoppers,Lausanne,0,1,0,0,A
+Suisse,2023,2024-04-02,FC Lugano,FC Basel 1893,2,0,1,1,H
+Suisse,2023,2024-04-03,FC Zurich,FC Winterthur,0,0,0,0,D
+Suisse,2023,2024-04-03,Servette FC,Stade Lausanne-Ouchy,1,2,0,1,A
+Suisse,2023,2024-04-04,BSC Young Boys,Grasshoppers,3,0,3,0,H
+Suisse,2023,2024-04-04,FC Luzern,Yverdon Sport,1,0,1,0,H
+Suisse,2023,2024-04-04,Lausanne,FC ST. Gallen,3,3,1,2,D
+Suisse,2023,2024-04-06,FC Winterthur,FC Lugano,2,2,0,2,D
+Suisse,2023,2024-04-06,Stade Lausanne-Ouchy,FC Basel 1893,0,2,0,0,A
+Suisse,2023,2024-04-06,Servette FC,FC Zurich,0,1,0,0,A
+Suisse,2023,2024-04-07,FC Luzern,Lausanne,0,0,0,0,D
+Suisse,2023,2024-04-07,FC ST. Gallen,BSC Young Boys,2,2,1,1,D
+Suisse,2023,2024-04-07,Yverdon Sport,Grasshoppers,3,2,1,2,H
+Suisse,2023,2024-04-13,Grasshoppers,FC Lugano,0,1,0,0,A
+Suisse,2023,2024-04-13,Lausanne,FC Zurich,1,0,1,0,H
+Suisse,2023,2024-04-13,FC ST. Gallen,Yverdon Sport,5,1,1,4,H
+Suisse,2023,2024-04-14,FC Basel 1893,Servette FC,2,1,2,0,H
+Suisse,2023,2024-04-14,BSC Young Boys,FC Luzern,4,2,1,3,H
+Suisse,2023,2024-04-14,Stade Lausanne-Ouchy,FC Winterthur,0,1,0,0,A
+Suisse,2023,2024-04-20,Servette FC,Grasshoppers,1,0,1,0,H
+Suisse,2023,2024-04-20,Yverdon Sport,Stade Lausanne-Ouchy,3,0,1,2,H
+Suisse,2023,2024-04-20,FC Lugano,Lausanne,2,0,2,0,H
+Suisse,2023,2024-04-21,FC Luzern,FC Basel 1893,1,1,0,1,D
+Suisse,2023,2024-04-21,FC Zurich,FC ST. Gallen,0,1,0,0,A
+Suisse,2023,2024-04-21,FC Winterthur,BSC Young Boys,1,2,0,1,A
+Suisse,2023,2024-05-04,Grasshoppers,Stade Lausanne-Ouchy,3,2,1,2,H
+Suisse,2023,2024-05-04,Servette FC,FC Winterthur,2,1,2,0,H
+Suisse,2023,2024-05-04,FC Lugano,FC ST. Gallen,0,1,0,0,A
+Suisse,2023,2024-05-05,FC Basel 1893,FC Luzern,1,1,0,1,D
+Suisse,2023,2024-05-05,FC Zurich,BSC Young Boys,0,2,0,0,A
+Suisse,2023,2024-05-05,Yverdon Sport,Lausanne,3,1,3,0,H
+Suisse,2023,2024-05-10,FC Luzern,Grasshoppers,1,1,0,1,D
+Suisse,2023,2024-05-10,Lausanne,FC Basel 1893,0,0,0,0,D
+Suisse,2023,2024-05-11,BSC Young Boys,FC Lugano,0,1,0,0,A
+Suisse,2023,2024-05-11,Stade Lausanne-Ouchy,Yverdon Sport,3,1,0,3,H
+Suisse,2023,2024-05-12,FC Winterthur,FC Zurich,1,3,1,0,A
+Suisse,2023,2024-05-12,FC ST. Gallen,Servette FC,1,1,1,0,D
+Suisse,2023,2024-05-14,FC Basel 1893,Stade Lausanne-Ouchy,2,0,0,2,H
+Suisse,2023,2024-05-14,Grasshoppers,Yverdon Sport,2,0,1,1,H
+Suisse,2023,2024-05-15,FC Zurich,Servette FC,2,1,0,2,H
+Suisse,2023,2024-05-15,Lausanne,FC Luzern,0,2,0,0,A
+Suisse,2023,2024-05-16,BSC Young Boys,FC ST. Gallen,3,1,0,3,H
+Suisse,2023,2024-05-16,FC Lugano,FC Winterthur,4,2,1,3,H
+Suisse,2023,2024-05-18,Grasshoppers,FC Basel 1893,0,1,0,0,A
+Suisse,2023,2024-05-18,Stade Lausanne-Ouchy,Lausanne,0,4,0,0,A
+Suisse,2023,2024-05-18,Yverdon Sport,FC Luzern,3,1,1,2,H
+Suisse,2023,2024-05-20,FC Zurich,FC Lugano,2,1,1,1,H
+Suisse,2023,2024-05-20,FC Winterthur,FC ST. Gallen,1,3,0,1,A
+Suisse,2023,2024-05-20,Servette FC,BSC Young Boys,0,1,0,0,A
+Suisse,2023,2024-05-21,FC Basel 1893,Yverdon Sport,0,0,0,0,D
+Suisse,2023,2024-05-21,FC Luzern,Stade Lausanne-Ouchy,1,2,0,1,A
+Suisse,2023,2024-05-21,Lausanne,Grasshoppers,0,0,0,0,D
+Suisse,2023,2024-05-25,BSC Young Boys,FC Winterthur,3,0,0,3,H
+Suisse,2023,2024-05-25,FC Lugano,Servette FC,0,2,0,0,A
+Suisse,2023,2024-05-25,FC ST. Gallen,FC Zurich,1,2,1,0,A
+Suisse,2023,2024-05-26,Grasshoppers,FC Thun,1,1,0,1,D
+Suisse,2023,2024-05-31,FC Thun,Grasshoppers,1,2,1,0,A

@@ -1,0 +1,316 @@
+,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,2024-07-26,Club Brugge KV,KV Mechelen,1,1,0,1,D
+1,2024-07-27,Dender,Union St. Gilloise,0,0,0,0,D
+2,2024-07-27,Beerschot Wilrijk,OH Leuven,0,0,0,0,D
+3,2024-07-27,Anderlecht,St. Truiden,1,0,0,1,H
+4,2024-07-28,Genk,Standard Liege,0,0,0,0,D
+5,2024-07-28,Kortrijk,Gent,0,1,0,0,A
+6,2024-07-28,Charleroi,Antwerp,0,1,0,0,A
+7,2024-07-28,KVC Westerlo,Cercle Brugge,3,0,1,2,H
+8,2024-08-02,Union St. Gilloise,Beerschot Wilrijk,3,1,2,1,H
+9,2024-08-03,KV Mechelen,KVC Westerlo,2,4,0,2,A
+10,2024-08-03,OH Leuven,Genk,3,1,2,1,H
+11,2024-08-03,St. Truiden,Charleroi,1,4,0,1,A
+12,2024-08-04,Antwerp,Anderlecht,1,2,1,0,A
+13,2024-08-04,Cercle Brugge,Kortrijk,1,2,1,0,A
+14,2024-08-04,Standard Liege,Club Brugge KV,1,0,0,1,H
+15,2024-08-04,Gent,Dender,1,2,0,1,A
+16,2024-08-09,Standard Liege,KV Mechelen,0,0,0,0,D
+17,2024-08-10,Dender,Kortrijk,4,1,2,2,H
+18,2024-08-10,KVC Westerlo,Union St. Gilloise,4,3,3,1,H
+19,2024-08-10,Anderlecht,OH Leuven,1,1,1,0,D
+20,2024-08-11,Genk,Club Brugge KV,3,2,0,3,H
+21,2024-08-11,Antwerp,St. Truiden,6,1,2,4,H
+22,2024-08-11,Charleroi,Gent,1,0,0,1,H
+23,2024-08-11,Cercle Brugge,Beerschot Wilrijk,4,1,3,1,H
+24,2024-08-16,Union St. Gilloise,Charleroi,1,0,0,1,H
+25,2024-08-17,Beerschot Wilrijk,Genk,3,4,1,2,A
+26,2024-08-17,St. Truiden,Dender,3,3,2,1,D
+27,2024-08-17,KV Mechelen,Anderlecht,1,3,1,0,A
+28,2024-08-18,Club Brugge KV,Antwerp,1,0,0,1,H
+29,2024-08-18,OH Leuven,Cercle Brugge,1,1,1,0,D
+30,2024-08-18,Kortrijk,Standard Liege,1,0,0,1,H
+31,2024-08-18,Gent,KVC Westerlo,4,1,3,1,H
+32,2024-08-24,KVC Westerlo,OH Leuven,1,1,1,0,D
+33,2024-08-24,Antwerp,KV Mechelen,0,1,0,0,A
+34,2024-08-25,Dender,Club Brugge KV,1,2,1,0,A
+35,2024-08-25,St. Truiden,Union St. Gilloise,0,0,0,0,D
+36,2024-08-25,Standard Liege,Beerschot Wilrijk,1,0,0,1,H
+37,2024-08-25,Charleroi,Kortrijk,1,0,1,0,H
+38,2024-08-30,Genk,KVC Westerlo,1,0,0,1,H
+39,2024-08-31,KV Mechelen,Charleroi,5,2,3,2,H
+40,2024-08-31,Beerschot Wilrijk,Dender,1,2,0,1,A
+41,2024-08-31,OH Leuven,Standard Liege,2,0,1,1,H
+42,2024-09-01,Club Brugge KV,Cercle Brugge,3,0,2,1,H
+43,2024-09-01,Gent,Antwerp,1,1,1,0,D
+44,2024-09-01,Union St. Gilloise,Anderlecht,0,0,0,0,D
+45,2024-09-01,Kortrijk,St. Truiden,1,1,0,1,D
+46,2024-09-13,Dender,Standard Liege,0,2,0,0,A
+47,2024-09-14,Cercle Brugge,Genk,2,3,2,0,A
+48,2024-09-14,Kortrijk,Club Brugge KV,0,3,0,0,A
+49,2024-09-14,Anderlecht,KVC Westerlo,2,2,1,1,D
+50,2024-09-15,Antwerp,Union St. Gilloise,2,0,0,2,H
+51,2024-09-15,St. Truiden,OH Leuven,2,1,1,1,H
+52,2024-09-15,Charleroi,Beerschot Wilrijk,3,0,1,2,H
+53,2024-09-15,Gent,KV Mechelen,2,0,2,0,H
+54,2024-09-17,Anderlecht,Genk,0,2,0,0,A
+55,2024-09-20,Standard Liege,Union St. Gilloise,0,0,0,0,D
+56,2024-09-21,Beerschot Wilrijk,St. Truiden,0,3,0,0,A
+57,2024-09-21,KVC Westerlo,Antwerp,1,2,1,0,A
+58,2024-09-21,Anderlecht,Charleroi,0,0,0,0,D
+59,2024-09-22,Club Brugge KV,Gent,2,4,0,2,A
+60,2024-09-22,KV Mechelen,Cercle Brugge,2,0,1,1,H
+61,2024-09-22,Genk,Dender,4,0,1,3,H
+62,2024-09-22,OH Leuven,Kortrijk,1,1,0,1,D
+63,2024-09-26,Cercle Brugge,Gent,2,1,0,2,H
+64,2024-09-27,Charleroi,Club Brugge KV,1,1,0,1,D
+65,2024-09-28,Genk,KV Mechelen,2,1,0,2,H
+66,2024-09-28,Standard Liege,KVC Westerlo,1,2,0,1,A
+67,2024-09-28,Dender,Anderlecht,1,1,0,1,D
+68,2024-09-29,Antwerp,Beerschot Wilrijk,4,0,1,3,H
+69,2024-09-29,Union St. Gilloise,Kortrijk,3,0,1,2,H
+70,2024-09-29,Gent,OH Leuven,3,0,2,1,H
+71,2024-09-29,Cercle Brugge,St. Truiden,1,1,1,0,D
+72,2024-10-04,KVC Westerlo,Beerschot Wilrijk,2,2,0,2,D
+73,2024-10-05,KV Mechelen,OH Leuven,5,0,2,3,H
+74,2024-10-05,Kortrijk,Genk,2,1,2,0,H
+75,2024-10-05,Dender,Charleroi,1,0,1,0,H
+76,2024-10-06,Anderlecht,Standard Liege,3,0,2,1,H
+77,2024-10-06,Antwerp,Cercle Brugge,3,0,2,1,H
+78,2024-10-06,Club Brugge KV,Union St. Gilloise,1,1,0,1,D
+79,2024-10-06,St. Truiden,Gent,1,1,0,1,D
+80,2024-10-18,Beerschot Wilrijk,Anderlecht,2,1,1,1,H
+81,2024-10-19,KVC Westerlo,Club Brugge KV,1,2,1,0,A
+82,2024-10-19,Cercle Brugge,Dender,0,0,0,0,D
+83,2024-10-19,Union St. Gilloise,Gent,0,0,0,0,D
+84,2024-10-20,Genk,St. Truiden,3,2,3,0,H
+85,2024-10-20,OH Leuven,Antwerp,1,1,0,1,D
+86,2024-10-20,Standard Liege,Charleroi,2,1,2,0,H
+87,2024-10-20,KV Mechelen,Kortrijk,3,0,1,2,H
+88,2024-10-25,Kortrijk,Beerschot Wilrijk,1,0,0,1,H
+89,2024-10-26,Charleroi,OH Leuven,0,2,0,0,A
+90,2024-10-26,Dender,KV Mechelen,2,5,0,2,A
+91,2024-10-26,St. Truiden,KVC Westerlo,2,0,1,1,H
+92,2024-10-27,Club Brugge KV,Anderlecht,2,1,1,1,H
+93,2024-10-27,Antwerp,Standard Liege,3,0,1,2,H
+94,2024-10-27,Gent,Genk,0,2,0,0,A
+95,2024-10-27,Union St. Gilloise,Cercle Brugge,1,3,1,0,A
+96,2024-11-01,KVC Westerlo,Dender,2,0,1,1,H
+97,2024-11-02,Standard Liege,St. Truiden,2,1,2,0,H
+98,2024-11-02,OH Leuven,Club Brugge KV,0,1,0,0,A
+99,2024-11-02,KV Mechelen,Union St. Gilloise,1,1,0,1,D
+100,2024-11-03,Genk,Antwerp,2,0,1,1,H
+101,2024-11-03,Cercle Brugge,Charleroi,2,0,0,2,H
+102,2024-11-03,Anderlecht,Kortrijk,4,0,1,3,H
+103,2024-11-03,Beerschot Wilrijk,Gent,0,0,0,0,D
+104,2024-11-08,St. Truiden,KV Mechelen,2,1,1,1,H
+105,2024-11-09,Kortrijk,Antwerp,1,2,0,1,A
+106,2024-11-09,Dender,OH Leuven,1,1,1,0,D
+107,2024-11-09,Charleroi,KVC Westerlo,1,0,0,1,H
+108,2024-11-10,Cercle Brugge,Anderlecht,0,5,0,0,A
+109,2024-11-10,Gent,Standard Liege,5,0,2,3,H
+110,2024-11-10,Union St. Gilloise,Genk,4,0,2,2,H
+111,2024-11-10,Beerschot Wilrijk,Club Brugge KV,2,2,0,2,D
+112,2024-11-22,Antwerp,Dender,1,1,0,1,D
+113,2024-11-23,Club Brugge KV,St. Truiden,7,0,3,4,H
+114,2024-11-23,Standard Liege,Cercle Brugge,1,0,0,1,H
+115,2024-11-23,Genk,Charleroi,3,0,0,3,H
+116,2024-11-24,KV Mechelen,Beerschot Wilrijk,3,0,1,2,H
+117,2024-11-24,OH Leuven,Union St. Gilloise,1,1,1,0,D
+118,2024-11-24,Anderlecht,Gent,6,0,3,3,H
+119,2024-11-24,KVC Westerlo,Kortrijk,4,0,0,4,H
+120,2024-11-29,Kortrijk,KV Mechelen,3,1,2,1,H
+121,2024-11-30,Club Brugge KV,Dender,4,1,2,2,H
+122,2024-11-30,Charleroi,Standard Liege,1,1,0,1,D
+123,2024-12-01,St. Truiden,Genk,2,2,0,2,D
+124,2024-12-01,OH Leuven,Anderlecht,0,0,0,0,D
+125,2024-12-01,Beerschot Wilrijk,Cercle Brugge,3,2,0,3,H
+126,2024-12-01,Union St. Gilloise,Antwerp,2,1,1,1,H
+127,2024-12-01,KVC Westerlo,Gent,2,2,1,1,D
+128,2024-12-07,Genk,Kortrijk,3,2,1,2,H
+129,2024-12-07,KV Mechelen,Club Brugge KV,1,2,0,1,A
+130,2024-12-07,Standard Liege,OH Leuven,1,1,1,0,D
+131,2024-12-07,Gent,St. Truiden,2,0,1,1,H
+132,2024-12-08,Antwerp,Charleroi,1,3,0,1,A
+133,2024-12-08,Cercle Brugge,Union St. Gilloise,0,0,0,0,D
+134,2024-12-08,Anderlecht,Beerschot Wilrijk,2,1,1,1,H
+135,2024-12-08,Dender,KVC Westerlo,1,0,1,0,H
+136,2024-12-13,KV Mechelen,Antwerp,1,1,0,1,D
+137,2024-12-14,Beerschot Wilrijk,Standard Liege,0,0,0,0,D
+138,2024-12-14,OH Leuven,Charleroi,1,0,0,1,H
+139,2024-12-14,Kortrijk,Dender,0,3,0,0,A
+140,2024-12-15,Club Brugge KV,Genk,2,0,0,2,H
+141,2024-12-15,Union St. Gilloise,KVC Westerlo,3,1,2,1,H
+142,2024-12-15,St. Truiden,Anderlecht,0,2,0,0,A
+143,2024-12-15,Gent,Cercle Brugge,1,1,1,0,D
+144,2024-12-20,KVC Westerlo,KV Mechelen,1,1,0,1,D
+145,2024-12-21,Charleroi,St. Truiden,2,1,1,1,H
+146,2024-12-21,Dender,Antwerp,1,3,0,1,A
+147,2024-12-21,Beerschot Wilrijk,Kortrijk,2,2,0,2,D
+148,2024-12-22,Genk,Anderlecht,2,0,1,1,H
+149,2024-12-22,Standard Liege,Gent,0,1,0,0,A
+150,2024-12-22,Union St. Gilloise,Club Brugge KV,2,2,1,1,D
+151,2024-12-22,Cercle Brugge,OH Leuven,1,0,0,1,H
+152,2024-12-26,Antwerp,Genk,2,2,2,0,D
+153,2024-12-26,Club Brugge KV,KVC Westerlo,4,3,2,2,H
+154,2024-12-26,Kortrijk,Charleroi,0,1,0,0,A
+155,2024-12-26,KV Mechelen,Standard Liege,0,0,0,0,D
+156,2024-12-26,Gent,Union St. Gilloise,1,3,0,1,A
+157,2024-12-27,OH Leuven,Beerschot Wilrijk,2,0,0,2,H
+158,2024-12-27,Anderlecht,Dender,2,3,2,0,A
+159,2024-12-27,St. Truiden,Cercle Brugge,1,1,0,1,D
+160,2025-01-10,Standard Liege,Kortrijk,1,0,0,1,H
+161,2025-01-11,KVC Westerlo,St. Truiden,1,2,1,0,A
+162,2025-01-11,Genk,OH Leuven,2,0,0,2,H
+163,2025-01-11,Charleroi,Union St. Gilloise,1,2,1,0,A
+164,2025-01-12,Beerschot Wilrijk,Antwerp,1,1,1,0,D
+165,2025-01-12,Dender,Gent,0,0,0,0,D
+166,2025-01-12,Anderlecht,Club Brugge KV,0,3,0,0,A
+167,2025-01-12,Cercle Brugge,KV Mechelen,1,0,1,0,H
+168,2025-01-17,Gent,Charleroi,1,1,0,1,D
+169,2025-01-18,Dender,Cercle Brugge,0,1,0,0,A
+170,2025-01-18,KV Mechelen,Genk,1,2,1,0,A
+171,2025-01-18,Club Brugge KV,Beerschot Wilrijk,4,2,2,2,H
+172,2025-01-19,Kortrijk,Anderlecht,0,2,0,0,A
+173,2025-01-19,Union St. Gilloise,OH Leuven,1,0,1,0,H
+174,2025-01-19,St. Truiden,Standard Liege,1,2,1,0,A
+175,2025-01-19,Antwerp,KVC Westerlo,3,2,1,2,H
+176,2025-01-24,St. Truiden,Antwerp,1,1,1,0,D
+177,2025-01-25,KVC Westerlo,Genk,1,2,0,1,A
+178,2025-01-25,Charleroi,Cercle Brugge,1,1,1,0,D
+179,2025-01-25,Club Brugge KV,Kortrijk,1,1,1,0,D
+180,2025-01-26,Standard Liege,Dender,1,0,1,0,H
+181,2025-01-26,Beerschot Wilrijk,Union St. Gilloise,0,4,0,0,A
+182,2025-01-26,Anderlecht,KV Mechelen,4,1,2,2,H
+183,2025-01-26,OH Leuven,Gent,0,0,0,0,D
+184,2025-01-31,OH Leuven,KV Mechelen,1,0,1,0,H
+185,2025-02-01,Charleroi,Dender,5,0,3,2,H
+186,2025-02-01,Cercle Brugge,Standard Liege,1,1,0,1,D
+187,2025-02-01,Genk,Beerschot Wilrijk,1,0,1,0,H
+188,2025-02-02,Antwerp,Club Brugge KV,2,1,0,2,H
+189,2025-02-02,Union St. Gilloise,St. Truiden,2,1,0,2,H
+190,2025-02-02,Gent,Anderlecht,1,0,1,0,H
+191,2025-02-02,Kortrijk,KVC Westerlo,1,2,1,0,A
+192,2025-02-07,KV Mechelen,Gent,3,3,1,2,D
+193,2025-02-08,Club Brugge KV,OH Leuven,1,0,1,0,H
+194,2025-02-08,Dender,St. Truiden,2,1,1,1,H
+195,2025-02-08,Genk,Cercle Brugge,2,1,2,0,H
+196,2025-02-09,Anderlecht,Antwerp,2,0,0,2,H
+197,2025-02-09,Kortrijk,Union St. Gilloise,1,2,0,1,A
+198,2025-02-09,KVC Westerlo,Standard Liege,4,2,2,2,H
+199,2025-02-09,Beerschot Wilrijk,Charleroi,1,1,1,0,D
+200,2025-02-14,Standard Liege,Genk,1,2,0,1,A
+201,2025-02-15,OH Leuven,Dender,3,2,1,2,H
+202,2025-02-15,Antwerp,Kortrijk,2,1,2,0,H
+203,2025-02-15,St. Truiden,Club Brugge KV,2,2,2,0,D
+204,2025-02-16,Gent,Beerschot Wilrijk,3,2,1,2,H
+205,2025-02-16,Union St. Gilloise,KV Mechelen,0,1,0,0,A
+206,2025-02-16,Charleroi,Anderlecht,0,1,0,0,A
+207,2025-02-16,Cercle Brugge,KVC Westerlo,1,1,0,1,D
+208,2025-02-21,KV Mechelen,St. Truiden,1,1,1,0,D
+209,2025-02-22,Dender,Beerschot Wilrijk,0,0,0,0,D
+210,2025-02-22,KVC Westerlo,Charleroi,1,3,1,0,A
+211,2025-02-22,Antwerp,OH Leuven,2,2,0,2,D
+212,2025-02-23,Club Brugge KV,Standard Liege,1,2,0,1,A
+213,2025-02-23,Genk,Gent,0,0,0,0,D
+214,2025-02-23,Anderlecht,Union St. Gilloise,0,2,0,0,A
+215,2025-02-23,Kortrijk,Cercle Brugge,1,1,1,0,D
+216,2025-02-28,Charleroi,Genk,1,1,0,1,D
+217,2025-03-01,Gent,Club Brugge KV,1,1,0,1,D
+218,2025-03-01,Cercle Brugge,Antwerp,0,0,0,0,D
+219,2025-03-01,St. Truiden,Kortrijk,4,2,2,2,H
+220,2025-03-01,Union St. Gilloise,Dender,4,1,2,2,H
+221,2025-03-02,Beerschot Wilrijk,KV Mechelen,1,0,1,0,H
+222,2025-03-02,Standard Liege,Anderlecht,0,2,0,0,A
+223,2025-03-02,OH Leuven,KVC Westerlo,0,0,0,0,D
+224,2025-03-07,St. Truiden,Beerschot Wilrijk,2,0,1,1,H
+225,2025-03-08,Kortrijk,OH Leuven,2,0,1,1,H
+226,2025-03-08,Charleroi,KV Mechelen,0,1,0,0,A
+227,2025-03-08,Dender,Genk,0,1,0,0,A
+228,2025-03-09,Cercle Brugge,Club Brugge KV,1,3,0,1,A
+229,2025-03-09,KVC Westerlo,Anderlecht,2,0,2,0,H
+230,2025-03-09,Antwerp,Gent,0,1,0,0,A
+231,2025-03-09,Union St. Gilloise,Standard Liege,3,0,1,2,H
+232,2025-03-15,Genk,Union St. Gilloise,2,1,0,2,H
+233,2025-03-16,Standard Liege,Antwerp,0,0,0,0,D
+234,2025-03-16,OH Leuven,St. Truiden,3,2,1,2,H
+235,2025-03-16,Beerschot Wilrijk,KVC Westerlo,1,2,0,1,A
+236,2025-03-16,KV Mechelen,Dender,2,1,0,2,H
+237,2025-03-16,Anderlecht,Cercle Brugge,3,0,1,2,H
+238,2025-03-16,Club Brugge KV,Charleroi,4,2,1,3,H
+239,2025-03-16,Gent,Kortrijk,1,2,0,1,A
+240,2025-03-28,OH Leuven,Charleroi,0,0,0,0,D
+241,2025-03-29,Beerschot Wilrijk,St. Truiden,0,1,0,0,A
+242,2025-03-29,Standard Liege,KV Mechelen,2,2,2,0,D
+243,2025-03-29,Union St. Gilloise,Antwerp,5,1,3,2,H
+244,2025-03-30,Club Brugge KV,Anderlecht,2,0,1,1,H
+245,2025-03-30,Kortrijk,Cercle Brugge,2,2,1,1,D
+246,2025-03-30,Genk,Gent,4,0,1,3,H
+247,2025-03-30,Dender,KVC Westerlo,1,0,1,0,H
+248,2025-04-04,KV Mechelen,Dender,5,2,4,1,H
+249,2025-04-05,Cercle Brugge,Beerschot Wilrijk,2,1,1,1,H
+250,2025-04-05,KVC Westerlo,OH Leuven,2,2,0,2,D
+251,2025-04-05,Gent,Union St. Gilloise,0,3,0,0,A
+252,2025-04-06,Antwerp,Club Brugge KV,2,3,0,2,A
+253,2025-04-06,St. Truiden,Kortrijk,0,3,0,0,A
+254,2025-04-06,Anderlecht,Genk,1,2,0,1,A
+255,2025-04-06,Charleroi,Standard Liege,1,0,1,0,H
+256,2025-04-11,KVC Westerlo,Charleroi,2,2,1,1,D
+257,2025-04-12,Kortrijk,Beerschot Wilrijk,3,2,2,1,H
+258,2025-04-12,St. Truiden,Cercle Brugge,3,1,2,1,H
+259,2025-04-12,Union St. Gilloise,Anderlecht,2,0,1,1,H
+260,2025-04-13,Antwerp,Gent,0,1,0,0,A
+261,2025-04-13,KV Mechelen,OH Leuven,1,1,1,0,D
+262,2025-04-13,Club Brugge KV,Genk,1,0,0,1,H
+263,2025-04-13,Dender,Standard Liege,1,1,1,0,D
+264,2025-04-19,OH Leuven,Dender,4,4,3,1,D
+265,2025-04-19,Charleroi,KV Mechelen,3,0,2,1,H
+266,2025-04-19,Standard Liege,KVC Westerlo,1,1,0,1,D
+267,2025-04-20,Anderlecht,Antwerp,0,0,0,0,D
+268,2025-04-20,Genk,Union St. Gilloise,1,2,0,1,A
+269,2025-04-20,Gent,Club Brugge KV,0,5,0,0,A
+270,2025-04-22,KV Mechelen,KVC Westerlo,2,3,1,1,A
+271,2025-04-22,Standard Liege,OH Leuven,0,1,0,0,A
+272,2025-04-22,Dender,Charleroi,2,1,0,2,H
+273,2025-04-23,Anderlecht,Gent,5,0,3,2,H
+274,2025-04-23,Antwerp,Genk,1,1,0,1,D
+275,2025-04-24,Club Brugge KV,Union St. Gilloise,0,1,0,0,A
+276,2025-04-25,Beerschot Wilrijk,Kortrijk,2,0,2,0,H
+277,2025-04-26,OH Leuven,Standard Liege,1,1,1,0,D
+278,2025-04-26,KVC Westerlo,KV Mechelen,2,2,0,2,D
+279,2025-04-26,Charleroi,Dender,4,1,1,3,H
+280,2025-04-26,Cercle Brugge,St. Truiden,3,1,2,1,H
+281,2025-04-27,Gent,Anderlecht,0,1,0,0,A
+282,2025-04-27,Genk,Antwerp,0,1,0,0,A
+283,2025-04-27,Union St. Gilloise,Club Brugge KV,0,0,0,0,D
+284,2025-05-01,Antwerp,Anderlecht,1,3,0,1,A
+285,2025-05-01,Club Brugge KV,Gent,4,1,1,3,H
+286,2025-05-02,KVC Westerlo,Dender,4,2,1,3,H
+287,2025-05-03,Cercle Brugge,Kortrijk,0,2,0,0,A
+288,2025-05-03,OH Leuven,KV Mechelen,1,2,0,1,A
+289,2025-05-03,Union St. Gilloise,Genk,1,0,0,1,H
+290,2025-05-04,Standard Liege,Charleroi,0,1,0,0,A
+291,2025-05-04,St. Truiden,Beerschot Wilrijk,2,1,1,1,H
+292,2025-05-09,Charleroi,KVC Westerlo,4,3,1,3,H
+293,2025-05-10,Beerschot Wilrijk,Cercle Brugge,4,2,0,4,H
+294,2025-05-10,Kortrijk,St. Truiden,2,2,2,0,D
+295,2025-05-10,KV Mechelen,Standard Liege,0,0,0,0,D
+296,2025-05-10,Anderlecht,Union St. Gilloise,0,1,0,0,A
+297,2025-05-11,Gent,Antwerp,0,3,0,0,A
+298,2025-05-11,Genk,Club Brugge KV,0,2,0,0,A
+299,2025-05-11,Dender,OH Leuven,5,0,4,1,H
+300,2025-05-16,OH Leuven,KVC Westerlo,0,2,0,0,A
+301,2025-05-17,Standard Liege,Dender,0,0,0,0,D
+302,2025-05-17,Antwerp,Union St. Gilloise,0,4,0,0,A
+303,2025-05-18,Anderlecht,Club Brugge KV,1,3,1,0,A
+304,2025-05-18,KV Mechelen,Charleroi,1,1,0,1,D
+305,2025-05-18,Gent,Genk,1,4,1,0,A
+306,2025-05-18,Patro Eisden,Cercle Brugge,1,5,0,1,A
+307,2025-05-23,Cercle Brugge,Patro Eisden,3,1,2,1,H
+308,2025-05-24,KVC Westerlo,Standard Liege,0,0,0,0,D
+309,2025-05-24,Charleroi,OH Leuven,2,1,1,1,H
+310,2025-05-24,Dender,KV Mechelen,2,2,2,0,D
+311,2025-05-25,Club Brugge KV,Antwerp,1,1,1,0,D
+312,2025-05-25,Genk,Anderlecht,2,1,1,1,H
+313,2025-05-25,Union St. Gilloise,Gent,3,1,1,2,H
+314,2025-05-29,Antwerp,Charleroi,1,2,0,1,A

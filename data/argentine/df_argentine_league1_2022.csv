@@ -1,0 +1,579 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,2022,2022-02-10,Patronato,Argentinos JRS,0,1,0,0,A
+1,2022,2022-02-10,Sarmiento Junin,Atletico Tucuman,1,0,0,1,H
+2,2022,2022-02-11,Newells Old Boys,Defensa Y Justicia,1,0,0,1,H
+3,2022,2022-02-11,Central Cordoba de Santiago,Barracas Central,3,1,1,2,H
+4,2022,2022-02-11,Arsenal Sarandi,Rosario Central,1,1,1,0,D
+5,2022,2022-02-11,Velez Sarsfield,Aldosivi,2,0,0,2,H
+6,2022,2022-02-11,Godoy Cruz,Tigre,1,1,0,1,D
+7,2022,2022-02-12,Banfield,San Lorenzo,0,0,0,0,D
+8,2022,2022-02-12,Huracan,Lanus,1,0,1,0,H
+9,2022,2022-02-12,Union Santa Fe,River Plate,1,0,0,1,H
+10,2022,2022-02-13,Estudiantes L.P.,Independiente,2,1,0,2,H
+11,2022,2022-02-13,Racing Club,Gimnasia L.P.,0,0,0,0,D
+12,2022,2022-02-13,Platense,Talleres Cordoba,1,0,0,1,H
+13,2022,2022-02-14,Boca Juniors,Colon Santa Fe,1,1,1,0,D
+14,2022,2022-02-15,Argentinos JRS,Newells Old Boys,3,0,1,2,H
+15,2022,2022-02-15,Rosario Central,Velez Sarsfield,1,0,0,1,H
+16,2022,2022-02-15,Independiente,Arsenal Sarandi,1,0,0,1,H
+17,2022,2022-02-16,Huracan,Estudiantes L.P.,2,3,1,1,A
+18,2022,2022-02-16,Lanus,Barracas Central,2,0,2,0,H
+19,2022,2022-02-16,Tigre,Central Cordoba de Santiago,1,1,0,1,D
+20,2022,2022-02-16,Aldosivi,Boca Juniors,1,2,0,1,A
+21,2022,2022-02-17,River Plate,Patronato,4,1,2,2,H
+22,2022,2022-02-17,Gimnasia L.P.,San Lorenzo,1,0,0,1,H
+23,2022,2022-02-17,Colon Santa Fe,Godoy Cruz,3,1,1,2,H
+24,2022,2022-02-17,Defensa Y Justicia,Racing Club,2,2,1,1,D
+25,2022,2022-02-17,Sarmiento Junin,Banfield,2,2,0,2,D
+26,2022,2022-02-18,Atletico Tucuman,Platense,2,2,1,1,D
+27,2022,2022-02-18,Talleres Cordoba,Union Santa Fe,0,0,0,0,D
+28,2022,2022-02-19,Arsenal Sarandi,Huracan,2,1,1,1,H
+29,2022,2022-02-19,Estudiantes L.P.,Lanus,2,1,1,1,H
+30,2022,2022-02-20,Velez Sarsfield,Independiente,0,0,0,0,D
+31,2022,2022-02-20,Platense,Sarmiento Junin,2,0,0,2,H
+32,2022,2022-02-20,Boca Juniors,Rosario Central,2,1,0,2,H
+33,2022,2022-02-21,Newells Old Boys,River Plate,0,2,0,0,A
+34,2022,2022-02-21,Barracas Central,Tigre,0,2,0,0,A
+35,2022,2022-02-21,Godoy Cruz,Aldosivi,0,2,0,0,A
+36,2022,2022-02-21,Banfield,Gimnasia L.P.,4,0,1,3,H
+37,2022,2022-02-22,San Lorenzo,Defensa Y Justicia,3,4,0,3,A
+38,2022,2022-02-22,Union Santa Fe,Atletico Tucuman,1,0,0,1,H
+39,2022,2022-02-22,Patronato,Talleres Cordoba,0,0,0,0,D
+40,2022,2022-02-23,Racing Club,Argentinos JRS,3,0,1,2,H
+41,2022,2022-02-23,Central Cordoba de Santiago,Colon Santa Fe,0,2,0,0,A
+42,2022,2022-02-25,Huracan,Velez Sarsfield,2,0,2,0,H
+43,2022,2022-02-25,Defensa Y Justicia,Gimnasia L.P.,3,2,2,1,H
+44,2022,2022-02-26,Platense,Banfield,0,1,0,0,A
+45,2022,2022-02-26,Rosario Central,Godoy Cruz,1,2,0,1,A
+46,2022,2022-02-26,Colon Santa Fe,Barracas Central,2,1,1,1,H
+47,2022,2022-02-26,Aldosivi,Central Cordoba de Santiago,0,0,0,0,D
+48,2022,2022-02-27,Independiente,Boca Juniors,2,2,1,1,D
+49,2022,2022-02-27,Estudiantes L.P.,Arsenal Sarandi,3,2,0,3,H
+50,2022,2022-02-27,Sarmiento Junin,Union Santa Fe,2,1,2,0,H
+51,2022,2022-02-27,River Plate,Racing Club,2,2,2,0,D
+52,2022,2022-02-28,Argentinos JRS,San Lorenzo,1,1,1,0,D
+53,2022,2022-02-28,Talleres Cordoba,Newells Old Boys,1,2,0,1,A
+54,2022,2022-03-01,Lanus,Tigre,0,0,0,0,D
+55,2022,2022-03-02,Atletico Tucuman,Patronato,1,0,0,1,H
+56,2022,2022-03-04,Central Cordoba de Santiago,Rosario Central,0,1,0,0,A
+57,2022,2022-03-04,Union Santa Fe,Platense,1,0,0,1,H
+58,2022,2022-03-05,Gimnasia L.P.,Argentinos JRS,2,2,1,1,D
+59,2022,2022-03-05,Barracas Central,Aldosivi,2,1,0,2,H
+60,2022,2022-03-05,San Lorenzo,River Plate,0,1,0,0,A
+61,2022,2022-03-05,Patronato,Sarmiento Junin,0,1,0,0,A
+62,2022,2022-03-06,Racing Club,Talleres Cordoba,1,0,1,0,H
+63,2022,2022-03-06,Banfield,Defensa Y Justicia,2,3,1,1,A
+64,2022,2022-03-06,Newells Old Boys,Atletico Tucuman,4,0,2,2,H
+65,2022,2022-03-06,Boca Juniors,Huracan,0,1,0,0,A
+66,2022,2022-03-07,Velez Sarsfield,Estudiantes L.P.,1,1,1,0,D
+67,2022,2022-03-07,Godoy Cruz,Independiente,3,3,1,2,D
+68,2022,2022-03-07,Arsenal Sarandi,Lanus,2,2,1,1,D
+69,2022,2022-03-08,Tigre,Colon Santa Fe,1,0,1,0,H
+70,2022,2022-03-11,Arsenal Sarandi,Velez Sarsfield,0,0,0,0,D
+71,2022,2022-03-12,Platense,Patronato,1,2,0,1,A
+72,2022,2022-03-12,Huracan,Godoy Cruz,1,3,1,0,A
+73,2022,2022-03-12,Aldosivi,Tigre,1,0,0,1,H
+74,2022,2022-03-12,Rosario Central,Barracas Central,1,3,1,0,A
+75,2022,2022-03-12,Sarmiento Junin,Newells Old Boys,2,2,0,2,D
+76,2022,2022-03-13,Talleres Cordoba,San Lorenzo,0,1,0,0,A
+77,2022,2022-03-13,Union Santa Fe,Banfield,2,1,1,1,H
+78,2022,2022-03-13,Lanus,Colon Santa Fe,1,1,1,0,D
+79,2022,2022-03-13,River Plate,Gimnasia L.P.,4,0,2,2,H
+80,2022,2022-03-14,Estudiantes L.P.,Boca Juniors,0,1,0,0,A
+81,2022,2022-03-14,Atletico Tucuman,Racing Club,0,4,0,0,A
+82,2022,2022-03-15,Independiente,Central Cordoba de Santiago,1,1,0,1,D
+83,2022,2022-03-15,Argentinos JRS,Defensa Y Justicia,0,1,0,0,A
+84,2022,2022-03-18,Aldosivi,Patronato,3,1,2,1,H
+85,2022,2022-03-18,Tigre,Platense,4,0,3,1,H
+86,2022,2022-03-19,Barracas Central,Sarmiento Junin,2,1,0,2,H
+87,2022,2022-03-19,Lanus,Banfield,0,1,0,0,A
+88,2022,2022-03-19,San Lorenzo,Huracan,0,0,0,0,D
+89,2022,2022-03-19,Colon Santa Fe,Union Santa Fe,0,0,0,0,D
+90,2022,2022-03-19,Independiente,Racing Club,1,2,0,1,A
+91,2022,2022-03-20,Rosario Central,Newells Old Boys,0,1,0,0,A
+92,2022,2022-03-20,Gimnasia L.P.,Estudiantes L.P.,1,1,0,1,D
+93,2022,2022-03-20,River Plate,Boca Juniors,0,1,0,0,A
+94,2022,2022-03-21,Defensa Y Justicia,Arsenal Sarandi,1,1,1,0,D
+95,2022,2022-03-22,Argentinos JRS,Velez Sarsfield,1,0,0,1,H
+96,2022,2022-03-22,Atletico Tucuman,Central Cordoba de Santiago,0,1,0,0,A
+97,2022,2022-03-23,Talleres Cordoba,Godoy Cruz,2,1,1,1,H
+98,2022,2022-04-01,Colon Santa Fe,Aldosivi,1,3,1,0,A
+99,2022,2022-04-01,Gimnasia L.P.,Talleres Cordoba,2,1,0,2,H
+100,2022,2022-04-01,Patronato,Union Santa Fe,2,1,1,1,H
+101,2022,2022-04-01,Central Cordoba de Santiago,Huracan,2,2,2,0,D
+102,2022,2022-04-02,Banfield,Argentinos JRS,0,2,0,0,A
+103,2022,2022-04-02,Barracas Central,Independiente,0,1,0,0,A
+104,2022,2022-04-02,Racing Club,Sarmiento Junin,4,1,0,4,H
+105,2022,2022-04-02,Velez Sarsfield,Lanus,3,1,1,2,H
+106,2022,2022-04-02,Godoy Cruz,Estudiantes L.P.,3,3,1,2,D
+107,2022,2022-04-02,Defensa Y Justicia,River Plate,1,2,0,1,A
+108,2022,2022-04-03,Boca Juniors,Arsenal Sarandi,2,2,1,1,D
+109,2022,2022-04-03,San Lorenzo,Atletico Tucuman,1,1,0,1,D
+110,2022,2022-04-03,Newells Old Boys,Platense,3,1,1,2,H
+111,2022,2022-04-04,Tigre,Rosario Central,2,0,0,2,H
+112,2022,2022-04-08,Atletico Tucuman,Gimnasia L.P.,1,2,1,0,A
+113,2022,2022-04-08,Arsenal Sarandi,Godoy Cruz,3,3,0,3,D
+114,2022,2022-04-09,Rosario Central,Colon Santa Fe,2,2,1,1,D
+115,2022,2022-04-09,Sarmiento Junin,San Lorenzo,2,1,1,1,H
+116,2022,2022-04-09,Union Santa Fe,Newells Old Boys,1,0,0,1,H
+117,2022,2022-04-09,Talleres Cordoba,Defensa Y Justicia,1,5,0,1,A
+118,2022,2022-04-09,Independiente,Tigre,1,1,1,0,D
+119,2022,2022-04-10,Velez Sarsfield,Boca Juniors,0,0,0,0,D
+120,2022,2022-04-10,Patronato,Banfield,0,1,0,0,A
+121,2022,2022-04-10,Estudiantes L.P.,Central Cordoba de Santiago,5,0,2,3,H
+122,2022,2022-04-10,Platense,Racing Club,0,1,0,0,A
+123,2022,2022-04-10,River Plate,Argentinos JRS,4,2,2,2,H
+124,2022,2022-04-11,Huracan,Barracas Central,1,2,0,1,A
+125,2022,2022-04-12,Lanus,Aldosivi,1,2,1,0,A
+126,2022,2022-04-15,Gimnasia L.P.,Sarmiento Junin,1,3,0,1,A
+127,2022,2022-04-15,Tigre,Huracan,2,1,1,1,H
+128,2022,2022-04-15,Aldosivi,Rosario Central,1,0,1,0,H
+129,2022,2022-04-15,Central Cordoba de Santiago,Arsenal Sarandi,3,3,1,2,D
+130,2022,2022-04-16,Newells Old Boys,Patronato,1,0,0,1,H
+131,2022,2022-04-16,San Lorenzo,Platense,2,2,2,0,D
+132,2022,2022-04-16,Colon Santa Fe,Independiente,2,2,1,1,D
+133,2022,2022-04-16,Barracas Central,Estudiantes L.P.,1,6,1,0,A
+134,2022,2022-04-17,Racing Club,Union Santa Fe,1,0,1,0,H
+135,2022,2022-04-17,Godoy Cruz,Velez Sarsfield,0,0,0,0,D
+136,2022,2022-04-17,Defensa Y Justicia,Atletico Tucuman,1,1,0,1,D
+137,2022,2022-04-17,Argentinos JRS,Talleres Cordoba,2,1,1,1,H
+138,2022,2022-04-17,Boca Juniors,Lanus,1,1,1,0,D
+139,2022,2022-04-18,Banfield,River Plate,1,2,1,0,A
+140,2022,2022-04-19,Arsenal Sarandi,Barracas Central,0,1,0,0,A
+141,2022,2022-04-19,Union Santa Fe,San Lorenzo,1,2,0,1,A
+142,2022,2022-04-19,Huracan,Colon Santa Fe,1,1,1,0,D
+143,2022,2022-04-19,Estudiantes L.P.,Tigre,2,1,0,2,H
+144,2022,2022-04-20,Independiente,Aldosivi,1,1,1,0,D
+145,2022,2022-04-20,Platense,Gimnasia L.P.,0,3,0,0,A
+146,2022,2022-04-20,Newells Old Boys,Banfield,1,0,0,1,H
+147,2022,2022-04-20,Velez Sarsfield,Central Cordoba de Santiago,1,2,1,0,A
+148,2022,2022-04-20,Patronato,Racing Club,2,3,1,1,A
+149,2022,2022-04-20,Lanus,Rosario Central,3,1,1,2,H
+150,2022,2022-04-20,Talleres Cordoba,River Plate,1,0,0,1,H
+151,2022,2022-04-21,Boca Juniors,Godoy Cruz,1,1,1,0,D
+152,2022,2022-04-21,Sarmiento Junin,Defensa Y Justicia,2,1,2,0,H
+153,2022,2022-04-21,Atletico Tucuman,Argentinos JRS,2,4,1,1,A
+154,2022,2022-04-22,Colon Santa Fe,Estudiantes L.P.,2,2,2,0,D
+155,2022,2022-04-23,Gimnasia L.P.,Union Santa Fe,1,0,0,1,H
+156,2022,2022-04-23,San Lorenzo,Patronato,1,2,0,1,A
+157,2022,2022-04-23,Rosario Central,Independiente,3,0,1,2,H
+158,2022,2022-04-23,Central Cordoba de Santiago,Boca Juniors,1,2,1,0,A
+159,2022,2022-04-24,Banfield,Talleres Cordoba,3,1,1,2,H
+160,2022,2022-04-24,Barracas Central,Velez Sarsfield,1,1,1,0,D
+161,2022,2022-04-24,Racing Club,Newells Old Boys,0,0,0,0,D
+162,2022,2022-04-24,River Plate,Atletico Tucuman,1,1,1,0,D
+163,2022,2022-04-25,Godoy Cruz,Lanus,1,1,1,0,D
+164,2022,2022-04-25,Defensa Y Justicia,Platense,1,1,0,1,D
+165,2022,2022-04-25,Tigre,Arsenal Sarandi,0,0,0,0,D
+166,2022,2022-04-26,Argentinos JRS,Sarmiento Junin,0,0,0,0,D
+167,2022,2022-04-26,Aldosivi,Huracan,0,2,0,0,A
+168,2022,2022-04-27,Newells Old Boys,San Lorenzo,1,2,0,1,A
+169,2022,2022-04-29,Estudiantes L.P.,Aldosivi,2,1,1,1,H
+170,2022,2022-04-30,Patronato,Gimnasia L.P.,0,6,0,0,A
+171,2022,2022-04-30,Atletico Tucuman,Talleres Cordoba,3,0,2,1,H
+172,2022,2022-04-30,Racing Club,Banfield,1,1,0,1,D
+173,2022,2022-04-30,Velez Sarsfield,Tigre,3,2,3,0,H
+174,2022,2022-04-30,Boca Juniors,Barracas Central,2,0,1,1,H
+175,2022,2022-04-30,Arsenal Sarandi,Colon Santa Fe,2,0,0,2,H
+176,2022,2022-05-01,Lanus,Independiente,1,0,0,1,H
+177,2022,2022-05-01,Sarmiento Junin,River Plate,0,7,0,0,A
+178,2022,2022-05-02,Godoy Cruz,Central Cordoba de Santiago,1,0,1,0,H
+179,2022,2022-05-02,Union Santa Fe,Defensa Y Justicia,1,2,0,1,A
+180,2022,2022-05-03,Huracan,Rosario Central,2,1,0,2,H
+181,2022,2022-05-03,Platense,Argentinos JRS,1,1,0,1,D
+182,2022,2022-05-06,San Lorenzo,Racing Club,1,1,0,1,D
+183,2022,2022-05-07,Barracas Central,Godoy Cruz,3,1,2,1,H
+184,2022,2022-05-07,Tigre,Boca Juniors,0,2,0,0,A
+185,2022,2022-05-07,Independiente,Huracan,3,0,1,2,H
+186,2022,2022-05-07,Aldosivi,Arsenal Sarandi,1,2,1,0,A
+187,2022,2022-05-07,Rosario Central,Estudiantes L.P.,3,1,2,1,H
+188,2022,2022-05-08,Gimnasia L.P.,Newells Old Boys,3,1,1,2,H
+189,2022,2022-05-08,Defensa Y Justicia,Patronato,1,0,0,1,H
+190,2022,2022-05-08,Talleres Cordoba,Sarmiento Junin,1,0,0,1,H
+191,2022,2022-05-08,Argentinos JRS,Union Santa Fe,2,1,1,1,H
+192,2022,2022-05-09,River Plate,Platense,2,1,1,1,H
+193,2022,2022-05-09,Colon Santa Fe,Velez Sarsfield,1,2,0,1,A
+194,2022,2022-05-09,Central Cordoba de Santiago,Lanus,3,3,3,0,D
+195,2022,2022-05-10,Banfield,Atletico Tucuman,1,1,1,0,D
+196,2022,2022-05-10,Racing Club,Aldosivi,5,0,2,3,H
+197,2022,2022-05-11,Boca Juniors,Defensa Y Justicia,2,0,1,1,H
+198,2022,2022-05-12,River Plate,Tigre,1,2,0,1,A
+199,2022,2022-05-22,Boca Juniors,Tigre,3,0,1,2,H
+200,2022,2022-06-03,Barracas Central,Central Cordoba de Santiago,1,1,1,0,D
+201,2022,2022-06-04,Atletico Tucuman,Colon Santa Fe,1,1,0,1,D
+202,2022,2022-06-04,San Lorenzo,Independiente,1,1,0,1,D
+203,2022,2022-06-04,Banfield,Newells Old Boys,1,2,0,1,A
+204,2022,2022-06-04,Patronato,Velez Sarsfield,1,1,1,0,D
+205,2022,2022-06-04,Platense,Godoy Cruz,2,1,1,1,H
+206,2022,2022-06-05,Racing Club,Huracan,2,0,0,2,H
+207,2022,2022-06-05,Union Santa Fe,Tigre,1,2,0,1,A
+208,2022,2022-06-05,Talleres Cordoba,Sarmiento Junin,2,0,1,1,H
+209,2022,2022-06-05,Estudiantes L.P.,Gimnasia L.P.,1,1,1,0,D
+210,2022,2022-06-05,Boca Juniors,Arsenal Sarandi,2,1,2,0,H
+211,2022,2022-06-06,Defensa Y Justicia,River Plate,0,0,0,0,D
+212,2022,2022-06-06,Rosario Central,Lanus,0,0,0,0,D
+213,2022,2022-06-07,Argentinos JRS,Aldosivi,2,1,1,1,H
+214,2022,2022-06-09,Newells Old Boys,San Lorenzo,0,0,0,0,D
+215,2022,2022-06-10,Gimnasia L.P.,Patronato,2,0,1,1,H
+216,2022,2022-06-10,Lanus,Defensa Y Justicia,1,1,1,0,D
+217,2022,2022-06-10,Aldosivi,Estudiantes L.P.,0,1,0,0,A
+218,2022,2022-06-11,Huracan,Rosario Central,2,0,1,1,H
+219,2022,2022-06-11,Independiente,Talleres Cordoba,1,0,1,0,H
+220,2022,2022-06-11,Tigre,Barracas Central,1,1,0,1,D
+221,2022,2022-06-11,Arsenal Sarandi,Banfield,0,0,0,0,D
+222,2022,2022-06-11,Sarmiento Junin,Argentinos JRS,1,0,1,0,H
+223,2022,2022-06-11,River Plate,Atletico Tucuman,0,0,0,0,D
+224,2022,2022-06-12,Colon Santa Fe,Union Santa Fe,2,2,0,2,D
+225,2022,2022-06-12,Godoy Cruz,Racing Club,2,0,0,2,H
+226,2022,2022-06-12,Velez Sarsfield,Platense,0,1,0,0,A
+227,2022,2022-06-12,Central Cordoba de Santiago,Boca Juniors,1,0,0,1,H
+228,2022,2022-06-14,San Lorenzo,Arsenal Sarandi,3,3,0,3,D
+229,2022,2022-06-14,Patronato,Aldosivi,1,0,1,0,H
+230,2022,2022-06-14,Talleres Cordoba,Newells Old Boys,0,1,0,0,A
+231,2022,2022-06-15,Defensa Y Justicia,Huracan,1,1,1,0,D
+232,2022,2022-06-15,Estudiantes L.P.,Sarmiento Junin,2,1,1,1,H
+233,2022,2022-06-15,Barracas Central,Union Santa Fe,1,2,0,1,A
+234,2022,2022-06-15,Banfield,Central Cordoba de Santiago,2,1,1,1,H
+235,2022,2022-06-15,Atletico Tucuman,Lanus,2,1,0,2,H
+236,2022,2022-06-15,Colon Santa Fe,River Plate,1,0,0,1,H
+237,2022,2022-06-16,Boca Juniors,Tigre,5,3,1,4,H
+238,2022,2022-06-16,Rosario Central,Godoy Cruz,1,0,0,1,H
+239,2022,2022-06-16,Argentinos JRS,Independiente,2,1,1,1,H
+240,2022,2022-06-17,Racing Club,Velez Sarsfield,2,0,1,1,H
+241,2022,2022-06-17,Platense,Gimnasia L.P.,1,1,0,1,D
+242,2022,2022-06-18,Arsenal Sarandi,Talleres Cordoba,1,1,1,0,D
+243,2022,2022-06-18,Sarmiento Junin,Patronato,3,1,1,2,H
+244,2022,2022-06-19,Tigre,Banfield,0,1,0,0,A
+245,2022,2022-06-19,Huracan,Atletico Tucuman,0,0,0,0,D
+246,2022,2022-06-19,Lanus,Colon Santa Fe,1,0,0,1,H
+247,2022,2022-06-19,Union Santa Fe,River Plate,1,5,0,1,A
+248,2022,2022-06-20,Barracas Central,Boca Juniors,1,3,1,0,A
+249,2022,2022-06-20,Godoy Cruz,Defensa Y Justicia,2,1,2,0,H
+250,2022,2022-06-20,Gimnasia L.P.,Racing Club,3,1,2,1,H
+251,2022,2022-06-20,Velez Sarsfield,Rosario Central,2,0,1,1,H
+252,2022,2022-06-21,Independiente,Estudiantes L.P.,2,1,0,2,H
+253,2022,2022-06-21,Newells Old Boys,Argentinos JRS,1,0,1,0,H
+254,2022,2022-06-21,Aldosivi,Platense,0,0,0,0,D
+255,2022,2022-06-22,Central Cordoba de Santiago,San Lorenzo,0,2,0,0,A
+256,2022,2022-06-24,Rosario Central,Gimnasia L.P.,0,1,0,0,A
+257,2022,2022-06-24,Banfield,Barracas Central,1,1,0,1,D
+258,2022,2022-06-25,Boca Juniors,Union Santa Fe,1,2,1,0,A
+259,2022,2022-06-25,Defensa Y Justicia,Velez Sarsfield,1,1,0,1,D
+260,2022,2022-06-25,Talleres Cordoba,Central Cordoba de Santiago,0,2,0,0,A
+261,2022,2022-06-25,Colon Santa Fe,Huracan,0,1,0,0,A
+262,2022,2022-06-25,Estudiantes L.P.,Newells Old Boys,0,2,0,0,A
+263,2022,2022-06-25,River Plate,Lanus,2,1,2,0,H
+264,2022,2022-06-26,San Lorenzo,Tigre,1,1,0,1,D
+265,2022,2022-06-26,Platense,Sarmiento Junin,0,0,0,0,D
+266,2022,2022-06-26,Racing Club,Aldosivi,5,0,2,3,H
+267,2022,2022-06-26,Argentinos JRS,Arsenal Sarandi,1,1,1,0,D
+268,2022,2022-06-27,Patronato,Independiente,3,1,2,1,H
+269,2022,2022-06-27,Atletico Tucuman,Godoy Cruz,1,1,1,0,D
+270,2022,2022-07-01,Central Cordoba de Santiago,Argentinos JRS,1,2,0,1,A
+271,2022,2022-07-02,Boca Juniors,Banfield,0,3,0,0,A
+272,2022,2022-07-02,Tigre,Talleres Cordoba,1,1,1,0,D
+273,2022,2022-07-02,Velez Sarsfield,Atletico Tucuman,0,1,0,0,A
+274,2022,2022-07-02,Godoy Cruz,Colon Santa Fe,1,0,0,1,H
+275,2022,2022-07-02,Gimnasia L.P.,Defensa Y Justicia,1,0,0,1,H
+276,2022,2022-07-03,Union Santa Fe,Lanus,3,0,1,2,H
+277,2022,2022-07-03,Barracas Central,San Lorenzo,2,1,2,0,H
+278,2022,2022-07-03,Sarmiento Junin,Racing Club,1,1,0,1,D
+279,2022,2022-07-04,Huracan,River Plate,3,2,1,2,H
+280,2022,2022-07-04,Arsenal Sarandi,Estudiantes L.P.,2,1,1,1,H
+281,2022,2022-07-04,Newells Old Boys,Patronato,2,2,2,0,D
+282,2022,2022-07-04,Aldosivi,Rosario Central,2,1,1,1,H
+283,2022,2022-07-05,Independiente,Platense,1,3,1,0,A
+284,2022,2022-07-08,Rosario Central,Sarmiento Junin,1,0,0,1,H
+285,2022,2022-07-09,Patronato,Arsenal Sarandi,0,1,0,0,A
+286,2022,2022-07-09,San Lorenzo,Boca Juniors,2,1,1,1,H
+287,2022,2022-07-09,Banfield,Union Santa Fe,2,3,1,1,A
+288,2022,2022-07-09,Talleres Cordoba,Barracas Central,0,2,0,0,A
+289,2022,2022-07-09,Platense,Newells Old Boys,1,1,0,1,D
+290,2022,2022-07-10,Estudiantes L.P.,Central Cordoba de Santiago,2,2,2,0,D
+291,2022,2022-07-10,Racing Club,Independiente,1,0,1,0,H
+292,2022,2022-07-10,Lanus,Huracan,2,3,2,0,A
+293,2022,2022-07-10,Atletico Tucuman,Gimnasia L.P.,2,0,1,1,H
+294,2022,2022-07-10,River Plate,Godoy Cruz,0,2,0,0,A
+295,2022,2022-07-11,Defensa Y Justicia,Aldosivi,3,2,0,3,H
+296,2022,2022-07-11,Colon Santa Fe,Velez Sarsfield,2,1,1,1,H
+297,2022,2022-07-12,Argentinos JRS,Tigre,2,1,2,0,H
+298,2022,2022-07-15,Central Cordoba de Santiago,Patronato,1,3,0,1,A
+299,2022,2022-07-15,Sarmiento Junin,Defensa Y Justicia,2,0,1,1,H
+300,2022,2022-07-16,Arsenal Sarandi,Platense,1,1,0,1,D
+301,2022,2022-07-16,Aldosivi,Atletico Tucuman,0,1,0,0,A
+302,2022,2022-07-16,Barracas Central,Argentinos JRS,1,3,1,0,A
+303,2022,2022-07-16,Gimnasia L.P.,Colon Santa Fe,0,0,0,0,D
+304,2022,2022-07-16,Independiente,Rosario Central,0,0,0,0,D
+305,2022,2022-07-16,Newells Old Boys,Racing Club,0,0,0,0,D
+306,2022,2022-07-16,Boca Juniors,Talleres Cordoba,1,0,0,1,H
+307,2022,2022-07-17,Godoy Cruz,Lanus,2,1,1,1,H
+308,2022,2022-07-17,Union Santa Fe,Huracan,0,0,0,0,D
+309,2022,2022-07-17,Banfield,San Lorenzo,1,1,1,0,D
+310,2022,2022-07-17,Tigre,Estudiantes L.P.,2,1,1,1,H
+311,2022,2022-07-17,Velez Sarsfield,River Plate,2,2,1,1,D
+312,2022,2022-07-19,Colon Santa Fe,Aldosivi,1,1,1,0,D
+313,2022,2022-07-19,Platense,Central Cordoba de Santiago,2,0,1,1,H
+314,2022,2022-07-19,Racing Club,Arsenal Sarandi,1,1,1,0,D
+315,2022,2022-07-19,Atletico Tucuman,Sarmiento Junin,1,0,0,1,H
+316,2022,2022-07-20,Argentinos JRS,Boca Juniors,2,0,2,0,H
+317,2022,2022-07-20,San Lorenzo,Union Santa Fe,2,2,2,0,D
+318,2022,2022-07-20,Patronato,Tigre,1,0,0,1,H
+319,2022,2022-07-20,Defensa Y Justicia,Independiente,2,1,1,1,H
+320,2022,2022-07-20,Estudiantes L.P.,Barracas Central,3,1,1,2,H
+321,2022,2022-07-21,Huracan,Godoy Cruz,0,0,0,0,D
+322,2022,2022-07-21,Lanus,Velez Sarsfield,2,2,0,2,D
+323,2022,2022-07-21,Rosario Central,Newells Old Boys,1,0,1,0,H
+324,2022,2022-07-21,Talleres Cordoba,Banfield,1,0,1,0,H
+325,2022,2022-07-22,River Plate,Gimnasia L.P.,1,0,1,0,H
+326,2022,2022-07-23,Sarmiento Junin,Colon Santa Fe,1,3,0,1,A
+327,2022,2022-07-23,Central Cordoba de Santiago,Racing Club,1,3,0,1,A
+328,2022,2022-07-24,Independiente,Atletico Tucuman,0,1,0,0,A
+329,2022,2022-07-24,Tigre,Platense,3,0,2,1,H
+330,2022,2022-07-24,Aldosivi,River Plate,0,3,0,0,A
+331,2022,2022-07-24,Gimnasia L.P.,Lanus,1,0,1,0,H
+332,2022,2022-07-24,Boca Juniors,Estudiantes L.P.,3,1,1,2,H
+333,2022,2022-07-25,San Lorenzo,Talleres Cordoba,1,1,0,1,D
+334,2022,2022-07-25,Banfield,Argentinos JRS,1,1,1,0,D
+335,2022,2022-07-25,Newells Old Boys,Defensa Y Justicia,1,2,0,1,A
+336,2022,2022-07-26,Velez Sarsfield,Huracan,1,1,1,0,D
+337,2022,2022-07-26,Union Santa Fe,Godoy Cruz,2,1,1,1,H
+338,2022,2022-07-26,Arsenal Sarandi,Rosario Central,0,3,0,0,A
+339,2022,2022-07-26,Barracas Central,Patronato,2,1,0,2,H
+340,2022,2022-07-29,Godoy Cruz,Velez Sarsfield,1,1,1,0,D
+341,2022,2022-07-30,Argentinos JRS,San Lorenzo,0,1,0,0,A
+342,2022,2022-07-30,Estudiantes L.P.,Banfield,0,0,0,0,D
+343,2022,2022-07-30,Huracan,Gimnasia L.P.,0,1,0,0,A
+344,2022,2022-07-30,Atletico Tucuman,Newells Old Boys,2,0,0,2,H
+345,2022,2022-07-31,Lanus,Aldosivi,0,1,0,0,A
+346,2022,2022-07-31,Platense,Barracas Central,0,0,0,0,D
+347,2022,2022-07-31,Racing Club,Tigre,3,3,3,0,D
+348,2022,2022-07-31,Patronato,Boca Juniors,3,0,2,1,H
+349,2022,2022-07-31,River Plate,Sarmiento Junin,1,2,0,1,A
+350,2022,2022-08-01,Rosario Central,Central Cordoba de Santiago,0,3,0,0,A
+351,2022,2022-08-01,Defensa Y Justicia,Arsenal Sarandi,0,0,0,0,D
+352,2022,2022-08-02,Colon Santa Fe,Independiente,0,3,0,0,A
+353,2022,2022-08-05,Gimnasia L.P.,Godoy Cruz,2,0,0,2,H
+354,2022,2022-08-06,Banfield,Patronato,0,0,0,0,D
+355,2022,2022-08-06,Sarmiento Junin,Lanus,2,1,2,0,H
+356,2022,2022-08-06,Arsenal Sarandi,Atletico Tucuman,3,1,1,2,H
+357,2022,2022-08-06,Barracas Central,Racing Club,0,0,0,0,D
+358,2022,2022-08-06,Union Santa Fe,Velez Sarsfield,2,1,0,2,H
+359,2022,2022-08-06,Talleres Cordoba,Argentinos JRS,2,0,1,1,H
+360,2022,2022-08-07,Boca Juniors,Platense,2,1,2,0,H
+361,2022,2022-08-07,Aldosivi,Huracan,0,1,0,0,A
+362,2022,2022-08-07,San Lorenzo,Estudiantes L.P.,0,0,0,0,D
+363,2022,2022-08-07,Independiente,River Plate,0,1,0,0,A
+364,2022,2022-08-07,Newells Old Boys,Colon Santa Fe,0,0,0,0,D
+365,2022,2022-08-08,Central Cordoba de Santiago,Defensa Y Justicia,1,0,0,1,H
+366,2022,2022-08-08,Tigre,Rosario Central,3,1,2,1,H
+367,2022,2022-08-11,Godoy Cruz,Aldosivi,2,0,1,1,H
+368,2022,2022-08-12,Colon Santa Fe,Arsenal Sarandi,1,1,1,0,D
+369,2022,2022-08-12,Atletico Tucuman,Central Cordoba de Santiago,1,0,0,1,H
+370,2022,2022-08-12,Huracan,Sarmiento Junin,4,1,2,2,H
+371,2022,2022-08-12,Platense,Banfield,3,1,0,3,H
+372,2022,2022-08-13,Patronato,San Lorenzo,3,2,1,2,H
+373,2022,2022-08-13,Rosario Central,Barracas Central,3,1,1,2,H
+374,2022,2022-08-13,Defensa Y Justicia,Tigre,0,0,0,0,D
+375,2022,2022-08-13,Lanus,Independiente,1,1,1,0,D
+376,2022,2022-08-13,River Plate,Newells Old Boys,4,1,2,2,H
+377,2022,2022-08-14,Velez Sarsfield,Gimnasia L.P.,1,1,0,1,D
+378,2022,2022-08-14,Estudiantes L.P.,Talleres Cordoba,1,0,0,1,H
+379,2022,2022-08-14,Argentinos JRS,Union Santa Fe,2,0,1,1,H
+380,2022,2022-08-14,Racing Club,Boca Juniors,0,0,0,0,D
+381,2022,2022-08-16,Sarmiento Junin,Godoy Cruz,1,2,1,0,A
+382,2022,2022-08-16,Central Cordoba de Santiago,Colon Santa Fe,3,0,1,2,H
+383,2022,2022-08-16,San Lorenzo,Platense,2,0,1,1,H
+384,2022,2022-08-17,Independiente,Huracan,1,1,0,1,D
+385,2022,2022-08-17,Tigre,Atletico Tucuman,0,0,0,0,D
+386,2022,2022-08-17,Newells Old Boys,Lanus,2,0,2,0,H
+387,2022,2022-08-17,Arsenal Sarandi,River Plate,0,0,0,0,D
+388,2022,2022-08-18,Boca Juniors,Rosario Central,0,0,0,0,D
+389,2022,2022-08-18,Barracas Central,Defensa Y Justicia,3,1,3,0,H
+390,2022,2022-08-18,Aldosivi,Velez Sarsfield,3,2,0,3,H
+391,2022,2022-08-18,Union Santa Fe,Gimnasia L.P.,0,2,0,0,A
+392,2022,2022-08-18,Talleres Cordoba,Patronato,3,3,1,2,D
+393,2022,2022-08-19,Banfield,Racing Club,0,2,0,0,A
+394,2022,2022-08-19,Argentinos JRS,Estudiantes L.P.,1,0,1,0,H
+395,2022,2022-08-20,Colon Santa Fe,Tigre,2,1,1,1,H
+396,2022,2022-08-20,Huracan,Newells Old Boys,1,0,0,1,H
+397,2022,2022-08-21,Lanus,Arsenal Sarandi,1,0,0,1,H
+398,2022,2022-08-21,Godoy Cruz,Independiente,1,1,0,1,D
+399,2022,2022-08-21,River Plate,Central Cordoba de Santiago,3,0,2,1,H
+400,2022,2022-08-21,Defensa Y Justicia,Boca Juniors,0,1,0,0,A
+401,2022,2022-08-22,Rosario Central,Banfield,0,1,0,0,A
+402,2022,2022-08-22,Estudiantes L.P.,Union Santa Fe,1,0,0,1,H
+403,2022,2022-08-22,Racing Club,San Lorenzo,1,2,0,1,A
+404,2022,2022-08-23,Velez Sarsfield,Sarmiento Junin,1,1,0,1,D
+405,2022,2022-08-23,Platense,Talleres Cordoba,0,0,0,0,D
+406,2022,2022-08-23,Patronato,Argentinos JRS,0,0,0,0,D
+407,2022,2022-08-24,Gimnasia L.P.,Aldosivi,0,0,0,0,D
+408,2022,2022-08-24,Atletico Tucuman,Barracas Central,4,0,1,3,H
+409,2022,2022-08-26,Central Cordoba de Santiago,Lanus,2,2,1,1,D
+410,2022,2022-08-27,Arsenal Sarandi,Huracan,1,1,0,1,D
+411,2022,2022-08-27,San Lorenzo,Rosario Central,1,1,0,1,D
+412,2022,2022-08-27,Banfield,Defensa Y Justicia,1,2,0,1,A
+413,2022,2022-08-27,Newells Old Boys,Godoy Cruz,1,2,1,0,A
+414,2022,2022-08-27,Talleres Cordoba,Racing Club,1,1,0,1,D
+415,2022,2022-08-27,Argentinos JRS,Platense,0,2,0,0,A
+416,2022,2022-08-27,Tigre,River Plate,1,1,0,1,D
+417,2022,2022-08-28,Sarmiento Junin,Gimnasia L.P.,0,0,0,0,D
+418,2022,2022-08-28,Barracas Central,Colon Santa Fe,1,0,1,0,H
+419,2022,2022-08-28,Independiente,Velez Sarsfield,1,1,1,0,D
+420,2022,2022-08-28,Boca Juniors,Atletico Tucuman,2,1,0,2,H
+421,2022,2022-08-28,Union Santa Fe,Aldosivi,0,0,0,0,D
+422,2022,2022-08-28,Estudiantes L.P.,Patronato,1,0,1,0,H
+423,2022,2022-09-01,Huracan,Central Cordoba de Santiago,2,0,0,2,H
+424,2022,2022-09-03,Lanus,Tigre,1,2,0,1,A
+425,2022,2022-09-03,Rosario Central,Talleres Cordoba,1,0,1,0,H
+426,2022,2022-09-03,Velez Sarsfield,Newells Old Boys,0,1,0,0,A
+427,2022,2022-09-03,Aldosivi,Sarmiento Junin,1,2,0,1,A
+428,2022,2022-09-03,Racing Club,Argentinos JRS,1,0,0,1,H
+429,2022,2022-09-03,Gimnasia L.P.,Independiente,3,1,1,2,H
+430,2022,2022-09-04,Patronato,Union Santa Fe,0,0,0,0,D
+431,2022,2022-09-04,Platense,Estudiantes L.P.,0,0,0,0,D
+432,2022,2022-09-04,Colon Santa Fe,Boca Juniors,1,2,1,0,A
+433,2022,2022-09-04,River Plate,Barracas Central,2,0,1,1,H
+434,2022,2022-09-05,Godoy Cruz,Arsenal Sarandi,1,0,1,0,H
+435,2022,2022-09-05,Defensa Y Justicia,San Lorenzo,0,0,0,0,D
+436,2022,2022-09-06,Atletico Tucuman,Banfield,0,0,0,0,D
+437,2022,2022-09-08,Independiente,Aldosivi,3,0,2,1,H
+438,2022,2022-09-08,Union Santa Fe,Sarmiento Junin,1,0,0,1,H
+439,2022,2022-09-08,Argentinos JRS,Rosario Central,2,1,1,1,H
+440,2022,2022-09-09,Barracas Central,Lanus,2,0,1,1,H
+441,2022,2022-09-09,Patronato,Platense,1,0,0,1,H
+442,2022,2022-09-09,Estudiantes L.P.,Racing Club,1,0,1,0,H
+443,2022,2022-09-09,Tigre,Huracan,1,1,1,0,D
+444,2022,2022-09-10,Central Cordoba de Santiago,Godoy Cruz,3,0,1,2,H
+445,2022,2022-09-10,San Lorenzo,Atletico Tucuman,1,1,1,0,D
+446,2022,2022-09-10,Banfield,Colon Santa Fe,2,1,0,2,H
+447,2022,2022-09-11,Newells Old Boys,Gimnasia L.P.,2,0,2,0,H
+448,2022,2022-09-11,Arsenal Sarandi,Velez Sarsfield,2,2,1,1,D
+449,2022,2022-09-11,Boca Juniors,River Plate,1,0,0,1,H
+450,2022,2022-09-11,Talleres Cordoba,Defensa Y Justicia,1,0,0,1,H
+451,2022,2022-09-12,Sarmiento Junin,Independiente,1,2,0,1,A
+452,2022,2022-09-13,Godoy Cruz,Tigre,1,1,0,1,D
+453,2022,2022-09-13,Huracan,Barracas Central,1,1,0,1,D
+454,2022,2022-09-14,Racing Club,Patronato,1,0,0,1,H
+455,2022,2022-09-14,Platense,Union Santa Fe,1,0,1,0,H
+456,2022,2022-09-14,Aldosivi,Newells Old Boys,1,2,0,1,A
+457,2022,2022-09-14,Colon Santa Fe,San Lorenzo,0,0,0,0,D
+458,2022,2022-09-14,River Plate,Banfield,1,2,0,1,A
+459,2022,2022-09-15,Lanus,Boca Juniors,0,1,0,0,A
+460,2022,2022-09-15,Rosario Central,Estudiantes L.P.,1,1,0,1,D
+461,2022,2022-09-15,Defensa Y Justicia,Argentinos JRS,2,1,1,1,H
+462,2022,2022-09-16,Gimnasia L.P.,Arsenal Sarandi,2,0,0,2,H
+463,2022,2022-09-16,Atletico Tucuman,Talleres Cordoba,1,1,0,1,D
+464,2022,2022-09-17,Barracas Central,Godoy Cruz,3,1,1,2,H
+465,2022,2022-09-17,Newells Old Boys,Sarmiento Junin,0,1,0,0,A
+466,2022,2022-09-18,Tigre,Velez Sarsfield,2,0,2,0,H
+467,2022,2022-09-18,San Lorenzo,River Plate,0,1,0,0,A
+468,2022,2022-09-18,Banfield,Lanus,1,2,0,1,A
+469,2022,2022-09-18,Talleres Cordoba,Colon Santa Fe,2,0,2,0,H
+470,2022,2022-09-18,Platense,Racing Club,0,1,0,0,A
+471,2022,2022-09-19,Arsenal Sarandi,Aldosivi,3,0,2,1,H
+472,2022,2022-09-19,Union Santa Fe,Independiente,0,1,0,0,A
+473,2022,2022-09-19,Boca Juniors,Huracan,0,0,0,0,D
+474,2022,2022-09-20,Estudiantes L.P.,Defensa Y Justicia,1,2,0,1,A
+475,2022,2022-09-20,Argentinos JRS,Atletico Tucuman,1,2,0,1,A
+476,2022,2022-09-20,Patronato,Rosario Central,0,0,0,0,D
+477,2022,2022-09-20,Central Cordoba de Santiago,Gimnasia L.P.,1,0,0,1,H
+478,2022,2022-09-23,Godoy Cruz,Boca Juniors,0,1,0,0,A
+479,2022,2022-09-23,Huracan,Banfield,3,1,2,1,H
+480,2022,2022-09-24,Defensa Y Justicia,Patronato,2,1,1,1,H
+481,2022,2022-09-24,Sarmiento Junin,Arsenal Sarandi,2,0,1,1,H
+482,2022,2022-09-24,Lanus,San Lorenzo,2,0,1,1,H
+483,2022,2022-09-24,River Plate,Talleres Cordoba,0,1,0,0,A
+484,2022,2022-09-24,Independiente,Newells Old Boys,1,0,0,1,H
+485,2022,2022-09-25,Gimnasia L.P.,Tigre,0,1,0,0,A
+486,2022,2022-09-25,Rosario Central,Platense,1,1,1,0,D
+487,2022,2022-09-25,Racing Club,Union Santa Fe,2,1,0,2,H
+488,2022,2022-09-25,Velez Sarsfield,Barracas Central,1,0,1,0,H
+489,2022,2022-09-25,Atletico Tucuman,Estudiantes L.P.,3,1,1,2,H
+490,2022,2022-09-26,Colon Santa Fe,Argentinos JRS,0,4,0,0,A
+491,2022,2022-09-26,Aldosivi,Central Cordoba de Santiago,0,3,0,0,A
+492,2022,2022-09-29,Barracas Central,Gimnasia L.P.,1,1,1,0,D
+493,2022,2022-09-30,Estudiantes L.P.,Colon Santa Fe,2,4,1,1,A
+494,2022,2022-09-30,Tigre,Aldosivi,3,0,2,1,H
+495,2022,2022-10-01,Racing Club,Rosario Central,4,3,1,3,H
+496,2022,2022-10-01,Union Santa Fe,Newells Old Boys,0,1,0,0,A
+497,2022,2022-10-01,Platense,Defensa Y Justicia,0,0,0,0,D
+498,2022,2022-10-01,Central Cordoba de Santiago,Sarmiento Junin,0,0,0,0,D
+499,2022,2022-10-01,San Lorenzo,Huracan,1,0,1,0,H
+500,2022,2022-10-01,Banfield,Godoy Cruz,1,1,0,1,D
+501,2022,2022-10-01,Arsenal Sarandi,Independiente,0,1,0,0,A
+502,2022,2022-10-02,Patronato,Atletico Tucuman,2,1,1,1,H
+503,2022,2022-10-02,Boca Juniors,Velez Sarsfield,1,0,0,1,H
+504,2022,2022-10-02,Talleres Cordoba,Lanus,0,1,0,0,A
+505,2022,2022-10-02,Argentinos JRS,River Plate,0,3,0,0,A
+506,2022,2022-10-03,Rosario Central,Union Santa Fe,1,1,0,1,D
+507,2022,2022-10-04,Aldosivi,Barracas Central,2,0,0,2,H
+508,2022,2022-10-04,Godoy Cruz,San Lorenzo,0,0,0,0,D
+509,2022,2022-10-04,Newells Old Boys,Arsenal Sarandi,0,0,0,0,D
+510,2022,2022-10-04,Sarmiento Junin,Tigre,2,2,1,1,D
+511,2022,2022-10-05,Velez Sarsfield,Banfield,1,0,0,1,H
+512,2022,2022-10-05,Colon Santa Fe,Patronato,1,0,1,0,H
+513,2022,2022-10-05,Defensa Y Justicia,Racing Club,3,3,2,1,D
+514,2022,2022-10-05,Atletico Tucuman,Platense,2,1,2,0,H
+515,2022,2022-10-06,River Plate,Estudiantes L.P.,5,0,2,3,H
+516,2022,2022-10-06,Independiente,Central Cordoba de Santiago,1,2,0,1,A
+517,2022,2022-10-06,Huracan,Talleres Cordoba,1,0,0,1,H
+518,2022,2022-10-06,Lanus,Argentinos JRS,0,4,0,0,A
+519,2022,2022-10-08,Barracas Central,Sarmiento Junin,1,1,0,1,D
+520,2022,2022-10-08,San Lorenzo,Velez Sarsfield,1,0,0,1,H
+521,2022,2022-10-08,Union Santa Fe,Arsenal Sarandi,1,0,0,1,H
+522,2022,2022-10-08,Platense,Colon Santa Fe,1,2,0,1,A
+523,2022,2022-10-09,Tigre,Independiente,2,1,2,0,H
+524,2022,2022-10-09,Banfield,Gimnasia L.P.,0,2,0,0,A
+525,2022,2022-10-09,Talleres Cordoba,Godoy Cruz,3,1,2,1,H
+526,2022,2022-10-09,Boca Juniors,Aldosivi,2,1,2,0,H
+527,2022,2022-10-09,Patronato,River Plate,0,1,0,0,A
+528,2022,2022-10-10,Rosario Central,Defensa Y Justicia,0,0,0,0,D
+529,2022,2022-10-10,Argentinos JRS,Huracan,1,1,0,1,D
+530,2022,2022-10-10,Racing Club,Atletico Tucuman,2,0,2,0,H
+531,2022,2022-10-10,Estudiantes L.P.,Lanus,3,1,2,1,H
+532,2022,2022-10-11,Central Cordoba de Santiago,Newells Old Boys,0,3,0,0,A
+533,2022,2022-10-12,Aldosivi,Banfield,0,1,0,0,A
+534,2022,2022-10-12,Gimnasia L.P.,San Lorenzo,0,1,0,0,A
+535,2022,2022-10-12,Sarmiento Junin,Boca Juniors,0,1,0,0,A
+536,2022,2022-10-12,Independiente,Barracas Central,2,2,1,1,D
+537,2022,2022-10-13,River Plate,Platense,2,1,0,2,H
+538,2022,2022-10-13,Velez Sarsfield,Talleres Cordoba,2,1,0,2,H
+539,2022,2022-10-13,Godoy Cruz,Argentinos JRS,0,0,0,0,D
+540,2022,2022-10-13,Lanus,Patronato,0,1,0,0,A
+541,2022,2022-10-14,Atletico Tucuman,Rosario Central,1,1,0,1,D
+542,2022,2022-10-14,Newells Old Boys,Tigre,0,2,0,0,A
+543,2022,2022-10-14,Colon Santa Fe,Racing Club,0,2,0,0,A
+544,2022,2022-10-14,Defensa Y Justicia,Union Santa Fe,1,0,1,0,H
+545,2022,2022-10-14,Huracan,Estudiantes L.P.,3,1,1,2,H
+546,2022,2022-10-15,Arsenal Sarandi,Central Cordoba de Santiago,2,0,1,1,H
+547,2022,2022-10-16,Aldosivi,Talleres Cordoba,1,3,0,1,A
+548,2022,2022-10-16,Newells Old Boys,Boca Juniors,2,0,0,2,H
+549,2022,2022-10-16,Godoy Cruz,Patronato,0,1,0,0,A
+550,2022,2022-10-16,Independiente,Banfield,1,0,0,1,H
+551,2022,2022-10-16,River Plate,Rosario Central,1,2,0,1,A
+552,2022,2022-10-17,Arsenal Sarandi,Barracas Central,1,2,0,1,A
+553,2022,2022-10-17,Gimnasia L.P.,Argentinos JRS,0,0,0,0,D
+554,2022,2022-10-17,Velez Sarsfield,Estudiantes L.P.,4,0,1,3,H
+555,2022,2022-10-18,Atletico Tucuman,Union Santa Fe,1,1,0,1,D
+556,2022,2022-10-18,Sarmiento Junin,San Lorenzo,2,4,1,1,A
+557,2022,2022-10-18,Colon Santa Fe,Defensa Y Justicia,1,2,1,0,A
+558,2022,2022-10-18,Lanus,Racing Club,0,1,0,0,A
+559,2022,2022-10-19,Huracan,Platense,2,0,1,1,H
+560,2022,2022-10-19,Central Cordoba de Santiago,Tigre,1,2,0,1,A
+561,2022,2022-10-20,Talleres Cordoba,Union Santa Fe,2,2,2,0,D
+562,2022,2022-10-20,Gimnasia L.P.,Boca Juniors,1,2,0,1,A
+563,2022,2022-10-22,Union Santa Fe,Central Cordoba de Santiago,1,4,1,0,A
+564,2022,2022-10-22,Defensa Y Justicia,Atletico Tucuman,3,1,1,2,H
+565,2022,2022-10-22,Estudiantes L.P.,Godoy Cruz,2,0,1,1,H
+566,2022,2022-10-22,San Lorenzo,Aldosivi,3,0,2,1,H
+567,2022,2022-10-22,Argentinos JRS,Velez Sarsfield,2,0,1,1,H
+568,2022,2022-10-23,Banfield,Sarmiento Junin,0,0,0,0,D
+569,2022,2022-10-23,Talleres Cordoba,Gimnasia L.P.,2,1,1,1,H
+570,2022,2022-10-23,Racing Club,River Plate,1,2,0,1,A
+571,2022,2022-10-23,Patronato,Huracan,3,2,1,2,H
+572,2022,2022-10-23,Boca Juniors,Independiente,2,2,1,1,D
+573,2022,2022-10-24,Barracas Central,Newells Old Boys,1,1,1,0,D
+574,2022,2022-10-24,Rosario Central,Colon Santa Fe,1,1,0,1,D
+575,2022,2022-10-24,Tigre,Arsenal Sarandi,1,4,0,1,A
+576,2022,2022-10-25,Velez Sarsfield,Central Cordoba de Santiago,3,1,1,2,H
+577,2022,2022-10-25,Platense,Lanus,1,1,0,1,D

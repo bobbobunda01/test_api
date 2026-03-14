@@ -1,0 +1,186 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+ecosse_div_1,2022,2022-07-30,Hamilton Academical,Morton,1,1,1,0,D
+ecosse_div_1,2022,2022-07-30,Dundee,Partick,2,3,0,2,A
+ecosse_div_1,2022,2022-07-30,Inverness CT,Queen's Park,1,1,1,0,D
+ecosse_div_1,2022,2022-07-30,Ayr Utd,Arbroath,0,0,0,0,D
+ecosse_div_1,2022,2022-07-30,Cove Rangers,Raith Rovers,2,0,1,1,H
+ecosse_div_1,2022,2022-08-05,Queen's Park,Ayr Utd,2,3,2,0,A
+ecosse_div_1,2022,2022-08-06,Partick,Hamilton Academical,1,1,0,1,D
+ecosse_div_1,2022,2022-08-06,Morton,Cove Rangers,1,0,0,1,H
+ecosse_div_1,2022,2022-08-06,Raith Rovers,Dundee,0,1,0,0,A
+ecosse_div_1,2022,2022-08-06,Arbroath,Inverness CT,0,0,0,0,D
+ecosse_div_1,2022,2022-08-12,Dundee,Arbroath,4,2,1,3,H
+ecosse_div_1,2022,2022-08-13,Inverness CT,Cove Rangers,4,1,2,2,H
+ecosse_div_1,2022,2022-08-13,Raith Rovers,Morton,2,1,0,2,H
+ecosse_div_1,2022,2022-08-13,Ayr Utd,Hamilton Academical,2,2,1,1,D
+ecosse_div_1,2022,2022-08-13,Queen's Park,Partick,3,2,1,2,H
+ecosse_div_1,2022,2022-08-19,Partick,Inverness CT,4,1,2,2,H
+ecosse_div_1,2022,2022-08-20,Hamilton Academical,Raith Rovers,0,2,0,0,A
+ecosse_div_1,2022,2022-08-20,Morton,Dundee,0,0,0,0,D
+ecosse_div_1,2022,2022-08-20,Arbroath,Queen's Park,1,2,0,1,A
+ecosse_div_1,2022,2022-08-20,Cove Rangers,Ayr Utd,1,2,0,1,A
+ecosse_div_1,2022,2022-08-26,Ayr Utd,Dundee,3,1,1,2,H
+ecosse_div_1,2022,2022-08-27,Hamilton Academical,Arbroath,1,0,0,1,H
+ecosse_div_1,2022,2022-08-27,Partick,Raith Rovers,2,1,2,0,H
+ecosse_div_1,2022,2022-08-27,Inverness CT,Morton,0,1,0,0,A
+ecosse_div_1,2022,2022-08-27,Queen's Park,Cove Rangers,2,1,1,1,H
+ecosse_div_1,2022,2022-09-03,Dundee,Queen's Park,3,0,2,1,H
+ecosse_div_1,2022,2022-09-03,Morton,Ayr Utd,1,2,0,1,A
+ecosse_div_1,2022,2022-09-03,Raith Rovers,Inverness CT,0,2,0,0,A
+ecosse_div_1,2022,2022-09-03,Arbroath,Partick,0,2,0,0,A
+ecosse_div_1,2022,2022-09-03,Cove Rangers,Hamilton Academical,2,2,0,2,D
+ecosse_div_1,2022,2022-09-17,Hamilton Academical,Queen's Park,0,2,0,0,A
+ecosse_div_1,2022,2022-09-17,Dundee,Inverness CT,2,3,1,1,A
+ecosse_div_1,2022,2022-09-17,Partick,Cove Rangers,2,2,1,1,D
+ecosse_div_1,2022,2022-09-17,Morton,Arbroath,1,2,0,1,A
+ecosse_div_1,2022,2022-09-17,Raith Rovers,Ayr Utd,3,2,2,1,H
+ecosse_div_1,2022,2022-10-01,Hamilton Academical,Dundee,0,2,0,0,A
+ecosse_div_1,2022,2022-10-01,Partick,Morton,5,1,2,3,H
+ecosse_div_1,2022,2022-10-01,Ayr Utd,Inverness CT,0,1,0,0,A
+ecosse_div_1,2022,2022-10-01,Cove Rangers,Arbroath,2,0,2,0,H
+ecosse_div_1,2022,2022-10-01,Queen's Park,Raith Rovers,1,0,0,1,H
+ecosse_div_1,2022,2022-10-04,Cove Rangers,Dundee,3,1,1,2,H
+ecosse_div_1,2022,2022-10-04,Queen's Park,Morton,1,2,0,1,A
+ecosse_div_1,2022,2022-10-07,Inverness CT,Partick,1,0,0,1,H
+ecosse_div_1,2022,2022-10-08,Morton,Hamilton Academical,5,0,3,2,H
+ecosse_div_1,2022,2022-10-08,Raith Rovers,Cove Rangers,3,0,2,1,H
+ecosse_div_1,2022,2022-10-08,Ayr Utd,Queen's Park,5,0,2,3,H
+ecosse_div_1,2022,2022-10-08,Arbroath,Dundee,1,1,1,0,D
+ecosse_div_1,2022,2022-10-14,Queen's Park,Arbroath,1,1,1,0,D
+ecosse_div_1,2022,2022-10-15,Hamilton Academical,Partick,1,2,0,1,A
+ecosse_div_1,2022,2022-10-15,Dundee,Ayr Utd,2,1,1,1,H
+ecosse_div_1,2022,2022-10-15,Morton,Raith Rovers,1,0,0,1,H
+ecosse_div_1,2022,2022-10-15,Cove Rangers,Inverness CT,0,1,0,0,A
+ecosse_div_1,2022,2022-10-18,Inverness CT,Hamilton Academical,0,1,0,0,A
+ecosse_div_1,2022,2022-10-19,Arbroath,Raith Rovers,0,1,0,0,A
+ecosse_div_1,2022,2022-10-22,Dundee,Morton,0,0,0,0,D
+ecosse_div_1,2022,2022-10-22,Partick,Queen's Park,0,4,0,0,A
+ecosse_div_1,2022,2022-10-22,Inverness CT,Raith Rovers,1,1,1,0,D
+ecosse_div_1,2022,2022-10-22,Ayr Utd,Cove Rangers,2,2,2,0,D
+ecosse_div_1,2022,2022-10-22,Arbroath,Hamilton Academical,1,0,1,0,H
+ecosse_div_1,2022,2022-10-25,Ayr Utd,Partick,4,2,2,2,H
+ecosse_div_1,2022,2022-10-28,Morton,Inverness CT,4,0,3,1,H
+ecosse_div_1,2022,2022-10-28,Queen's Park,Dundee,2,2,1,1,D
+ecosse_div_1,2022,2022-10-29,Hamilton Academical,Cove Rangers,4,4,1,3,D
+ecosse_div_1,2022,2022-10-29,Raith Rovers,Partick,3,0,3,0,H
+ecosse_div_1,2022,2022-10-29,Arbroath,Ayr Utd,0,2,0,0,A
+ecosse_div_1,2022,2022-11-04,Cove Rangers,Queen's Park,2,0,1,1,H
+ecosse_div_1,2022,2022-11-05,Partick,Dundee,2,3,2,0,A
+ecosse_div_1,2022,2022-11-05,Inverness CT,Arbroath,1,1,0,1,D
+ecosse_div_1,2022,2022-11-05,Raith Rovers,Hamilton Academical,3,1,1,2,H
+ecosse_div_1,2022,2022-11-05,Ayr Utd,Morton,1,1,1,0,D
+ecosse_div_1,2022,2022-11-11,Hamilton Academical,Ayr Utd,2,3,0,2,A
+ecosse_div_1,2022,2022-11-12,Dundee,Raith Rovers,2,0,0,2,H
+ecosse_div_1,2022,2022-11-12,Morton,Partick,2,1,1,1,H
+ecosse_div_1,2022,2022-11-12,Arbroath,Cove Rangers,1,1,1,0,D
+ecosse_div_1,2022,2022-11-12,Queen's Park,Inverness CT,2,1,0,2,H
+ecosse_div_1,2022,2022-11-19,Dundee,Hamilton Academical,1,0,0,1,H
+ecosse_div_1,2022,2022-11-19,Partick,Arbroath,3,0,1,2,H
+ecosse_div_1,2022,2022-11-19,Inverness CT,Ayr Utd,2,2,1,1,D
+ecosse_div_1,2022,2022-11-19,Raith Rovers,Queen's Park,2,5,1,1,A
+ecosse_div_1,2022,2022-11-19,Cove Rangers,Morton,1,2,0,1,A
+ecosse_div_1,2022,2022-12-03,Inverness CT,Dundee,0,1,0,0,A
+ecosse_div_1,2022,2022-12-03,Ayr Utd,Raith Rovers,2,0,1,1,H
+ecosse_div_1,2022,2022-12-03,Arbroath,Morton,1,1,0,1,D
+ecosse_div_1,2022,2022-12-03,Cove Rangers,Partick,1,1,1,0,D
+ecosse_div_1,2022,2022-12-03,Queen's Park,Hamilton Academical,4,0,4,0,H
+ecosse_div_1,2022,2022-12-17,Partick,Ayr Utd,3,2,2,1,H
+ecosse_div_1,2022,2022-12-17,Raith Rovers,Arbroath,1,1,1,0,D
+ecosse_div_1,2022,2022-12-23,Partick,Inverness CT,5,1,2,3,H
+ecosse_div_1,2022,2022-12-23,Raith Rovers,Morton,2,2,2,0,D
+ecosse_div_1,2022,2022-12-23,Ayr Utd,Dundee,0,2,0,0,A
+ecosse_div_1,2022,2022-12-23,Arbroath,Queen's Park,1,4,0,1,A
+ecosse_div_1,2022,2022-12-23,Cove Rangers,Hamilton Academical,2,0,0,2,H
+ecosse_div_1,2022,2023-01-02,Hamilton Academical,Raith Rovers,0,1,0,0,A
+ecosse_div_1,2022,2023-01-02,Dundee,Arbroath,2,4,1,1,A
+ecosse_div_1,2022,2023-01-02,Inverness CT,Cove Rangers,6,1,3,3,H
+ecosse_div_1,2022,2023-01-02,Queen's Park,Partick,2,0,1,1,H
+ecosse_div_1,2022,2023-01-06,Raith Rovers,Dundee,1,1,1,0,D
+ecosse_div_1,2022,2023-01-07,Partick,Morton,2,1,0,2,H
+ecosse_div_1,2022,2023-01-07,Ayr Utd,Hamilton Academical,1,0,1,0,H
+ecosse_div_1,2022,2023-01-07,Arbroath,Inverness CT,1,4,1,0,A
+ecosse_div_1,2022,2023-01-07,Cove Rangers,Queen's Park,0,6,0,0,A
+ecosse_div_1,2022,2023-01-14,Hamilton Academical,Morton,1,0,1,0,H
+ecosse_div_1,2022,2023-01-14,Inverness CT,Queen's Park,0,0,0,0,D
+ecosse_div_1,2022,2023-01-14,Ayr Utd,Arbroath,2,2,1,1,D
+ecosse_div_1,2022,2023-01-14,Cove Rangers,Raith Rovers,2,2,1,1,D
+ecosse_div_1,2022,2023-01-27,Cove Rangers,Ayr Utd,0,5,0,0,A
+ecosse_div_1,2022,2023-01-28,Dundee,Queen's Park,3,0,0,3,H
+ecosse_div_1,2022,2023-01-28,Partick,Hamilton Academical,0,1,0,0,A
+ecosse_div_1,2022,2023-01-28,Morton,Arbroath,1,2,1,0,A
+ecosse_div_1,2022,2023-01-28,Raith Rovers,Inverness CT,2,2,1,1,D
+ecosse_div_1,2022,2023-02-03,Queen's Park,Ayr Utd,2,0,0,2,H
+ecosse_div_1,2022,2023-02-04,Hamilton Academical,Dundee,1,1,1,0,D
+ecosse_div_1,2022,2023-02-04,Partick,Cove Rangers,0,1,0,0,A
+ecosse_div_1,2022,2023-02-04,Inverness CT,Morton,2,2,0,2,D
+ecosse_div_1,2022,2023-02-04,Arbroath,Raith Rovers,1,2,1,0,A
+ecosse_div_1,2022,2023-02-11,Morton,Queen's Park,3,2,2,1,H
+ecosse_div_1,2022,2023-02-12,Dundee,Cove Rangers,3,0,0,3,H
+ecosse_div_1,2022,2023-02-17,Morton,Dundee,1,0,1,0,H
+ecosse_div_1,2022,2023-02-17,Queen's Park,Raith Rovers,1,1,0,1,D
+ecosse_div_1,2022,2023-02-18,Inverness CT,Hamilton Academical,0,3,0,0,A
+ecosse_div_1,2022,2023-02-18,Ayr Utd,Partick,0,1,0,0,A
+ecosse_div_1,2022,2023-02-18,Cove Rangers,Arbroath,1,1,0,1,D
+ecosse_div_1,2022,2023-02-21,Hamilton Academical,Inverness CT,2,1,1,1,H
+ecosse_div_1,2022,2023-02-24,Raith Rovers,Ayr Utd,0,0,0,0,D
+ecosse_div_1,2022,2023-02-25,Hamilton Academical,Queen's Park,1,4,0,1,A
+ecosse_div_1,2022,2023-02-25,Dundee,Inverness CT,1,1,1,0,D
+ecosse_div_1,2022,2023-02-25,Morton,Cove Rangers,2,1,0,2,H
+ecosse_div_1,2022,2023-02-25,Arbroath,Partick,0,0,0,0,D
+ecosse_div_1,2022,2023-02-28,Dundee,Partick,1,3,0,1,A
+ecosse_div_1,2022,2023-03-03,Hamilton Academical,Arbroath,0,0,0,0,D
+ecosse_div_1,2022,2023-03-04,Partick,Raith Rovers,3,0,1,2,H
+ecosse_div_1,2022,2023-03-04,Ayr Utd,Inverness CT,1,2,1,0,A
+ecosse_div_1,2022,2023-03-04,Cove Rangers,Dundee,0,2,0,0,A
+ecosse_div_1,2022,2023-03-04,Queen's Park,Morton,2,2,2,0,D
+ecosse_div_1,2022,2023-03-07,Morton,Ayr Utd,1,3,1,0,A
+ecosse_div_1,2022,2023-03-10,Queen's Park,Cove Rangers,1,0,0,1,H
+ecosse_div_1,2022,2023-03-11,Morton,Partick,0,0,0,0,D
+ecosse_div_1,2022,2023-03-17,Arbroath,Morton,1,1,0,1,D
+ecosse_div_1,2022,2023-03-18,Hamilton Academical,Ayr Utd,0,2,0,0,A
+ecosse_div_1,2022,2023-03-18,Partick,Dundee,0,0,0,0,D
+ecosse_div_1,2022,2023-03-18,Raith Rovers,Cove Rangers,6,1,2,4,H
+ecosse_div_1,2022,2023-03-18,Queen's Park,Inverness CT,2,1,0,2,H
+ecosse_div_1,2022,2023-03-21,Dundee,Ayr Utd,3,1,1,2,H
+ecosse_div_1,2022,2023-03-24,Inverness CT,Partick,1,0,0,1,H
+ecosse_div_1,2022,2023-03-24,Ayr Utd,Cove Rangers,3,0,2,1,H
+ecosse_div_1,2022,2023-03-24,Queen's Park,Arbroath,0,1,0,0,A
+ecosse_div_1,2022,2023-03-31,Arbroath,Ayr Utd,2,0,1,1,H
+ecosse_div_1,2022,2023-04-01,Dundee,Hamilton Academical,7,0,4,3,H
+ecosse_div_1,2022,2023-04-01,Morton,Inverness CT,1,2,0,1,A
+ecosse_div_1,2022,2023-04-01,Raith Rovers,Queen's Park,2,0,1,1,H
+ecosse_div_1,2022,2023-04-01,Cove Rangers,Partick,0,5,0,0,A
+ecosse_div_1,2022,2023-04-04,Raith Rovers,Hamilton Academical,1,2,0,1,A
+ecosse_div_1,2022,2023-04-07,Partick,Queen's Park,4,0,0,4,H
+ecosse_div_1,2022,2023-04-08,Hamilton Academical,Cove Rangers,1,1,0,1,D
+ecosse_div_1,2022,2023-04-08,Inverness CT,Raith Rovers,2,0,2,0,H
+ecosse_div_1,2022,2023-04-08,Ayr Utd,Morton,1,1,0,1,D
+ecosse_div_1,2022,2023-04-08,Arbroath,Dundee,0,0,0,0,D
+ecosse_div_1,2022,2023-04-11,Dundee,Raith Rovers,3,1,1,2,H
+ecosse_div_1,2022,2023-04-11,Inverness CT,Arbroath,2,0,0,2,H
+ecosse_div_1,2022,2023-04-11,Morton,Hamilton Academical,2,0,0,2,H
+ecosse_div_1,2022,2023-04-14,Queen's Park,Hamilton Academical,1,0,0,1,H
+ecosse_div_1,2022,2023-04-15,Dundee,Morton,3,3,1,2,D
+ecosse_div_1,2022,2023-04-15,Partick,Ayr Utd,1,1,1,0,D
+ecosse_div_1,2022,2023-04-15,Raith Rovers,Arbroath,1,1,1,0,D
+ecosse_div_1,2022,2023-04-15,Cove Rangers,Inverness CT,1,2,0,1,A
+ecosse_div_1,2022,2023-04-18,Hamilton Academical,Inverness CT,1,2,0,1,A
+ecosse_div_1,2022,2023-04-21,Ayr Utd,Queen's Park,0,0,0,0,D
+ecosse_div_1,2022,2023-04-22,Hamilton Academical,Partick,2,2,1,1,D
+ecosse_div_1,2022,2023-04-22,Inverness CT,Dundee,1,1,0,1,D
+ecosse_div_1,2022,2023-04-22,Morton,Raith Rovers,1,0,1,0,H
+ecosse_div_1,2022,2023-04-22,Arbroath,Cove Rangers,0,1,0,0,A
+ecosse_div_1,2022,2023-04-28,Dundee,Cove Rangers,0,0,0,0,D
+ecosse_div_1,2022,2023-04-29,Partick,Arbroath,2,0,1,1,H
+ecosse_div_1,2022,2023-04-29,Morton,Queen's Park,2,1,1,1,H
+ecosse_div_1,2022,2023-04-29,Ayr Utd,Raith Rovers,1,0,0,1,H
+ecosse_div_1,2022,2023-05-05,Inverness CT,Ayr Utd,1,2,0,1,A
+ecosse_div_1,2022,2023-05-05,Raith Rovers,Partick,2,2,1,1,D
+ecosse_div_1,2022,2023-05-05,Arbroath,Hamilton Academical,0,0,0,0,D
+ecosse_div_1,2022,2023-05-05,Cove Rangers,Morton,1,2,1,0,A
+ecosse_div_1,2022,2023-05-05,Queen's Park,Dundee,3,5,3,0,A
+ecosse_div_1,2022,2023-05-09,Alloa Athletic,Hamilton Academical,1,0,1,0,H
+ecosse_div_1,2022,2023-05-09,Airdrie United,Falkirk,6,2,5,1,H
+ecosse_div_1,2022,2023-05-13,Hamilton Academical,Alloa Athletic,5,2,4,1,H
+ecosse_div_1,2022,2023-05-13,Falkirk,Airdrie United,0,1,0,0,A
+ecosse_div_1,2022,2023-05-17,Airdrie United,Hamilton Academical,1,0,0,1,H

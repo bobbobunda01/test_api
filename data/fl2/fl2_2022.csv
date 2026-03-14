@@ -1,0 +1,380 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,france_league_2,2022,2022-07-30,Dijon,Saint Etienne,2,1,2,0,H
+1,france_league_2,2022,2022-07-30,Bordeaux,Valenciennes,0,0,0,0,D
+2,france_league_2,2022,2022-07-30,Guingamp,PAU,4,0,3,1,H
+3,france_league_2,2022,2022-07-30,Nimes,Caen,0,1,0,0,A
+4,france_league_2,2022,2022-07-30,Le Havre,Grenoble,0,0,0,0,D
+5,france_league_2,2022,2022-07-30,Metz,Amiens,3,0,2,1,H
+6,france_league_2,2022,2022-07-30,Quevilly,Rodez,0,0,0,0,D
+7,france_league_2,2022,2022-07-30,Bastia,Laval,0,2,0,0,A
+8,france_league_2,2022,2022-07-30,Annecy,Niort,1,2,0,1,A
+9,france_league_2,2022,2022-08-01,Sochaux,Paris FC,0,0,0,0,D
+10,france_league_2,2022,2022-08-06,Saint Etienne,Nimes,1,1,1,0,D
+11,france_league_2,2022,2022-08-06,Amiens,Annecy,1,0,0,1,H
+12,france_league_2,2022,2022-08-06,Grenoble,Sochaux,1,0,1,0,H
+13,france_league_2,2022,2022-08-06,Valenciennes,Le Havre,1,0,1,0,H
+14,france_league_2,2022,2022-08-06,Niort,Bastia,1,4,0,1,A
+15,france_league_2,2022,2022-08-06,Paris FC,Quevilly,2,1,2,0,H
+16,france_league_2,2022,2022-08-06,Laval,Guingamp,1,2,1,0,A
+17,france_league_2,2022,2022-08-06,PAU,Dijon,0,0,0,0,D
+18,france_league_2,2022,2022-08-06,Rodez,Bordeaux,0,3,0,0,A
+19,france_league_2,2022,2022-08-08,Caen,Metz,1,0,1,0,H
+20,france_league_2,2022,2022-08-13,Guingamp,Paris FC,0,0,0,0,D
+21,france_league_2,2022,2022-08-13,Bordeaux,Niort,1,0,0,1,H
+22,france_league_2,2022,2022-08-13,Dijon,Caen,2,2,0,2,D
+23,france_league_2,2022,2022-08-13,Nimes,Rodez,1,0,0,1,H
+24,france_league_2,2022,2022-08-13,Le Havre,PAU,1,1,1,0,D
+25,france_league_2,2022,2022-08-13,Metz,Valenciennes,2,0,1,1,H
+26,france_league_2,2022,2022-08-13,Sochaux,Amiens,0,1,0,0,A
+27,france_league_2,2022,2022-08-13,Bastia,Grenoble,3,0,2,1,H
+28,france_league_2,2022,2022-08-13,Annecy,Laval,0,1,0,0,A
+29,france_league_2,2022,2022-08-15,Quevilly,Saint Etienne,2,2,2,0,D
+30,france_league_2,2022,2022-08-20,Saint Etienne,Le Havre,0,6,0,0,A
+31,france_league_2,2022,2022-08-20,Amiens,Bastia,3,1,2,1,H
+32,france_league_2,2022,2022-08-20,Caen,Guingamp,4,1,2,2,H
+33,france_league_2,2022,2022-08-20,Dijon,Nimes,2,1,1,1,H
+34,france_league_2,2022,2022-08-20,Valenciennes,Quevilly,0,0,0,0,D
+35,france_league_2,2022,2022-08-20,Niort,Paris FC,2,1,0,2,H
+36,france_league_2,2022,2022-08-20,Laval,Metz,3,3,1,2,D
+37,france_league_2,2022,2022-08-20,PAU,Sochaux,0,3,0,0,A
+38,france_league_2,2022,2022-08-20,Rodez,Annecy,2,2,1,1,D
+39,france_league_2,2022,2022-08-22,Grenoble,Bordeaux,0,0,0,0,D
+40,france_league_2,2022,2022-08-27,Bordeaux,Guingamp,0,1,0,0,A
+41,france_league_2,2022,2022-08-27,Metz,Dijon,1,2,0,1,A
+42,france_league_2,2022,2022-08-27,Nimes,Laval,1,0,0,1,H
+43,france_league_2,2022,2022-08-27,Valenciennes,Saint Etienne,2,2,1,1,D
+44,france_league_2,2022,2022-08-27,Le Havre,Amiens,1,1,0,1,D
+45,france_league_2,2022,2022-08-27,Paris FC,Caen,1,1,0,1,D
+46,france_league_2,2022,2022-08-27,Sochaux,Niort,3,0,1,2,H
+47,france_league_2,2022,2022-08-27,Quevilly,PAU,2,1,0,2,H
+48,france_league_2,2022,2022-08-27,Bastia,Rodez,0,2,0,0,A
+49,france_league_2,2022,2022-08-27,Annecy,Grenoble,0,0,0,0,D
+50,france_league_2,2022,2022-08-30,Bordeaux,Quevilly,4,0,3,1,H
+51,france_league_2,2022,2022-08-30,Amiens,Paris FC,1,1,0,1,D
+52,france_league_2,2022,2022-08-30,Caen,PAU,1,1,1,0,D
+53,france_league_2,2022,2022-08-30,Dijon,Annecy,0,2,0,0,A
+54,france_league_2,2022,2022-08-30,Guingamp,Sochaux,1,2,1,0,A
+55,france_league_2,2022,2022-08-30,Grenoble,Nimes,3,2,1,2,H
+56,france_league_2,2022,2022-08-30,Niort,Valenciennes,0,1,0,0,A
+57,france_league_2,2022,2022-08-30,Laval,Le Havre,1,3,1,0,A
+58,france_league_2,2022,2022-08-30,Saint Etienne,Bastia,5,0,4,1,H
+59,france_league_2,2022,2022-08-30,Rodez,Metz,1,4,0,1,A
+60,france_league_2,2022,2022-09-02,Amiens,Grenoble,1,0,0,1,H
+61,france_league_2,2022,2022-09-02,Valenciennes,Nimes,3,2,1,2,H
+62,france_league_2,2022,2022-09-02,Le Havre,Caen,2,1,1,1,H
+63,france_league_2,2022,2022-09-02,Metz,Annecy,0,0,0,0,D
+64,france_league_2,2022,2022-09-02,Sochaux,Laval,4,1,1,3,H
+65,france_league_2,2022,2022-09-02,Quevilly,Niort,3,3,3,0,D
+66,france_league_2,2022,2022-09-02,Bastia,Dijon,1,0,0,1,H
+67,france_league_2,2022,2022-09-03,Paris FC,Bordeaux,1,3,0,1,A
+68,france_league_2,2022,2022-09-05,PAU,Saint Etienne,2,2,0,2,D
+69,france_league_2,2022,2022-09-10,Saint Etienne,Bordeaux,2,0,1,1,H
+70,france_league_2,2022,2022-09-10,Caen,Amiens,3,1,0,3,H
+71,france_league_2,2022,2022-09-10,Dijon,Sochaux,0,2,0,0,A
+72,france_league_2,2022,2022-09-10,Nimes,Bastia,0,0,0,0,D
+73,france_league_2,2022,2022-09-10,Grenoble,Paris FC,1,2,0,1,A
+74,france_league_2,2022,2022-09-10,Niort,Le Havre,0,1,0,0,A
+75,france_league_2,2022,2022-09-10,Laval,PAU,0,1,0,0,A
+76,france_league_2,2022,2022-09-10,Rodez,Valenciennes,1,1,0,1,D
+77,france_league_2,2022,2022-09-10,Annecy,Quevilly,1,0,0,1,H
+78,france_league_2,2022,2022-09-12,Metz,Guingamp,3,6,3,0,A
+79,france_league_2,2022,2022-09-17,Bordeaux,Dijon,2,1,1,1,H
+80,france_league_2,2022,2022-09-17,Guingamp,Saint Etienne,2,1,1,1,H
+81,france_league_2,2022,2022-09-17,Amiens,Niort,3,0,0,3,H
+82,france_league_2,2022,2022-09-17,Grenoble,Caen,1,0,0,1,H
+83,france_league_2,2022,2022-09-17,Le Havre,Annecy,2,0,0,2,H
+84,france_league_2,2022,2022-09-17,Paris FC,Rodez,1,2,1,0,A
+85,france_league_2,2022,2022-09-17,Sochaux,Nimes,3,1,2,1,H
+86,france_league_2,2022,2022-09-17,Quevilly,Laval,1,3,1,0,A
+87,france_league_2,2022,2022-09-17,PAU,Valenciennes,1,0,0,1,H
+88,france_league_2,2022,2022-09-17,Bastia,Metz,1,0,1,0,H
+89,france_league_2,2022,2022-10-01,Saint Etienne,Grenoble,2,2,0,2,D
+90,france_league_2,2022,2022-10-01,Caen,Quevilly,0,1,0,0,A
+91,france_league_2,2022,2022-10-01,Dijon,Le Havre,0,0,0,0,D
+92,france_league_2,2022,2022-10-01,Nimes,Paris FC,0,1,0,0,A
+93,france_league_2,2022,2022-10-01,Valenciennes,Sochaux,2,1,1,1,H
+94,france_league_2,2022,2022-10-01,Metz,PAU,1,0,1,0,H
+95,france_league_2,2022,2022-10-01,Niort,Guingamp,0,0,0,0,D
+96,france_league_2,2022,2022-10-01,Rodez,Amiens,0,1,0,0,A
+97,france_league_2,2022,2022-10-01,Annecy,Bastia,0,2,0,0,A
+98,france_league_2,2022,2022-10-03,Laval,Bordeaux,1,2,0,1,A
+99,france_league_2,2022,2022-10-04,Guingamp,Rodez,0,0,0,0,D
+100,france_league_2,2022,2022-10-08,Bordeaux,Metz,2,0,1,1,H
+101,france_league_2,2022,2022-10-08,Amiens,Dijon,2,1,0,2,H
+102,france_league_2,2022,2022-10-08,Caen,Niort,1,0,1,0,H
+103,france_league_2,2022,2022-10-08,Guingamp,Annecy,0,4,0,0,A
+104,france_league_2,2022,2022-10-08,Grenoble,Laval,3,2,3,0,H
+105,france_league_2,2022,2022-10-08,Le Havre,Bastia,3,0,2,1,H
+106,france_league_2,2022,2022-10-08,Paris FC,Valenciennes,0,1,0,0,A
+107,france_league_2,2022,2022-10-08,Quevilly,Nimes,3,1,2,1,H
+108,france_league_2,2022,2022-10-08,PAU,Rodez,2,2,1,1,D
+109,france_league_2,2022,2022-10-10,Sochaux,Saint Etienne,2,1,1,1,H
+110,france_league_2,2022,2022-10-15,Saint Etienne,Paris FC,0,2,0,0,A
+111,france_league_2,2022,2022-10-15,Dijon,Quevilly,0,0,0,0,D
+112,france_league_2,2022,2022-10-15,Nimes,Amiens,2,0,2,0,H
+113,france_league_2,2022,2022-10-15,Valenciennes,Guingamp,1,0,1,0,H
+114,france_league_2,2022,2022-10-15,Metz,Sochaux,0,0,0,0,D
+115,france_league_2,2022,2022-10-15,Niort,Grenoble,0,3,0,0,A
+116,france_league_2,2022,2022-10-15,Laval,Caen,4,0,2,2,H
+117,france_league_2,2022,2022-10-15,Rodez,Le Havre,1,1,0,1,D
+118,france_league_2,2022,2022-10-15,Annecy,PAU,0,2,0,0,A
+119,france_league_2,2022,2022-10-17,Bastia,Bordeaux,1,1,0,1,D
+120,france_league_2,2022,2022-10-22,Amiens,Saint Etienne,0,1,0,0,A
+121,france_league_2,2022,2022-10-22,Bordeaux,Annecy,1,0,1,0,H
+122,france_league_2,2022,2022-10-22,Caen,Rodez,2,0,0,2,H
+123,france_league_2,2022,2022-10-22,Guingamp,Bastia,1,1,0,1,D
+124,france_league_2,2022,2022-10-22,Grenoble,Valenciennes,1,0,0,1,H
+125,france_league_2,2022,2022-10-22,Niort,Dijon,2,1,0,2,H
+126,france_league_2,2022,2022-10-22,Paris FC,Laval,0,0,0,0,D
+127,france_league_2,2022,2022-10-22,Sochaux,Quevilly,2,2,0,2,D
+128,france_league_2,2022,2022-10-22,PAU,Nimes,1,0,1,0,H
+129,france_league_2,2022,2022-10-24,Le Havre,Metz,2,0,1,1,H
+130,france_league_2,2022,2022-11-05,Nimes,Bordeaux,1,0,1,0,H
+131,france_league_2,2022,2022-11-05,Dijon,Guingamp,1,1,0,1,D
+132,france_league_2,2022,2022-11-05,Valenciennes,Caen,1,1,1,0,D
+133,france_league_2,2022,2022-11-05,Quevilly,Le Havre,0,1,0,0,A
+134,france_league_2,2022,2022-11-05,Laval,Niort,2,1,1,1,H
+135,france_league_2,2022,2022-11-05,PAU,Amiens,2,1,1,1,H
+136,france_league_2,2022,2022-11-05,Rodez,Grenoble,0,1,0,0,A
+137,france_league_2,2022,2022-11-05,Bastia,Paris FC,0,1,0,0,A
+138,france_league_2,2022,2022-11-05,Annecy,Sochaux,2,1,0,2,H
+139,france_league_2,2022,2022-11-07,Metz,Saint Etienne,3,2,2,1,H
+140,france_league_2,2022,2022-11-12,Saint Etienne,Rodez,0,2,0,0,A
+141,france_league_2,2022,2022-11-12,Bordeaux,PAU,1,1,0,1,D
+142,france_league_2,2022,2022-11-12,Amiens,Quevilly,0,2,0,0,A
+143,france_league_2,2022,2022-11-12,Caen,Annecy,0,0,0,0,D
+144,france_league_2,2022,2022-11-12,Guingamp,Le Havre,0,1,0,0,A
+145,france_league_2,2022,2022-11-12,Grenoble,Dijon,0,0,0,0,D
+146,france_league_2,2022,2022-11-12,Niort,Nimes,1,1,0,1,D
+147,france_league_2,2022,2022-11-12,Paris FC,Metz,1,4,1,0,A
+148,france_league_2,2022,2022-11-12,Sochaux,Bastia,1,0,1,0,H
+149,france_league_2,2022,2022-11-12,Laval,Valenciennes,1,0,1,0,H
+150,france_league_2,2022,2022-12-26,Annecy,Saint Etienne,2,1,1,1,H
+151,france_league_2,2022,2022-12-26,Le Havre,Bordeaux,1,0,1,0,H
+152,france_league_2,2022,2022-12-26,Dijon,Laval,5,0,3,2,H
+153,france_league_2,2022,2022-12-26,Nimes,Guingamp,1,2,1,0,A
+154,france_league_2,2022,2022-12-26,Valenciennes,Amiens,1,1,1,0,D
+155,france_league_2,2022,2022-12-26,Metz,Niort,0,0,0,0,D
+156,france_league_2,2022,2022-12-26,Sochaux,Rodez,1,0,0,1,H
+157,france_league_2,2022,2022-12-26,Quevilly,Grenoble,2,0,0,2,H
+158,france_league_2,2022,2022-12-26,PAU,Paris FC,0,1,0,0,A
+159,france_league_2,2022,2022-12-26,Bastia,Caen,1,0,0,1,H
+160,france_league_2,2022,2022-12-30,Bordeaux,Sochaux,2,1,2,0,H
+161,france_league_2,2022,2022-12-30,Saint Etienne,Caen,1,1,0,1,D
+162,france_league_2,2022,2022-12-30,Guingamp,Quevilly,0,2,0,0,A
+163,france_league_2,2022,2022-12-30,Grenoble,Metz,0,1,0,0,A
+164,france_league_2,2022,2022-12-30,Niort,PAU,2,1,1,1,H
+165,france_league_2,2022,2022-12-30,Paris FC,Le Havre,0,0,0,0,D
+166,france_league_2,2022,2022-12-30,Laval,Amiens,0,3,0,0,A
+167,france_league_2,2022,2022-12-30,Rodez,Dijon,2,1,2,0,H
+168,france_league_2,2022,2022-12-30,Bastia,Valenciennes,1,0,0,1,H
+169,france_league_2,2022,2022-12-30,Annecy,Nimes,0,0,0,0,D
+170,france_league_2,2022,2023-01-10,Amiens,Guingamp,1,1,0,1,D
+171,france_league_2,2022,2023-01-10,Caen,Bordeaux,2,2,0,2,D
+172,france_league_2,2022,2023-01-10,Nimes,Metz,1,4,0,1,A
+173,france_league_2,2022,2023-01-10,Valenciennes,Annecy,2,2,1,1,D
+174,france_league_2,2022,2023-01-10,Le Havre,Sochaux,1,0,0,1,H
+175,france_league_2,2022,2023-01-10,Paris FC,Dijon,2,1,1,1,H
+176,france_league_2,2022,2023-01-10,Quevilly,Bastia,1,1,1,0,D
+177,france_league_2,2022,2023-01-10,Saint Etienne,Laval,1,0,0,1,H
+178,france_league_2,2022,2023-01-10,PAU,Grenoble,0,0,0,0,D
+179,france_league_2,2022,2023-01-10,Rodez,Niort,1,1,0,1,D
+180,france_league_2,2022,2023-01-13,Bordeaux,Amiens,1,1,1,0,D
+181,france_league_2,2022,2023-01-13,Dijon,Valenciennes,2,1,1,1,H
+182,france_league_2,2022,2023-01-13,Guingamp,Grenoble,2,4,1,1,A
+183,france_league_2,2022,2023-01-13,Le Havre,Nimes,3,1,0,3,H
+184,france_league_2,2022,2023-01-13,Metz,Quevilly,2,0,0,2,H
+185,france_league_2,2022,2023-01-13,Laval,Rodez,3,1,1,2,H
+186,france_league_2,2022,2023-01-13,Bastia,PAU,1,0,0,1,H
+187,france_league_2,2022,2023-01-13,Annecy,Paris FC,2,0,1,1,H
+188,france_league_2,2022,2023-01-16,Niort,Saint Etienne,0,1,0,0,A
+189,france_league_2,2022,2023-01-20,Sochaux,Caen,1,2,1,0,A
+190,france_league_2,2022,2023-01-28,Saint Etienne,Sochaux,2,3,0,2,A
+191,france_league_2,2022,2023-01-28,Amiens,Le Havre,1,1,1,0,D
+192,france_league_2,2022,2023-01-28,Caen,Laval,0,0,0,0,D
+193,france_league_2,2022,2023-01-28,Dijon,Bordeaux,0,3,0,0,A
+194,france_league_2,2022,2023-01-28,Nimes,Niort,3,2,3,0,H
+195,france_league_2,2022,2023-01-28,Grenoble,Bastia,0,1,0,0,A
+196,france_league_2,2022,2023-01-28,Valenciennes,Metz,1,1,0,1,D
+197,france_league_2,2022,2023-01-28,Quevilly,Paris FC,3,1,1,2,H
+198,france_league_2,2022,2023-01-28,PAU,Annecy,2,2,0,2,D
+199,france_league_2,2022,2023-01-28,Rodez,Guingamp,0,1,0,0,A
+200,france_league_2,2022,2023-01-31,Bordeaux,Le Havre,1,2,0,1,A
+201,france_league_2,2022,2023-01-31,Guingamp,Nimes,1,2,1,0,A
+202,france_league_2,2022,2023-01-31,Grenoble,Quevilly,1,0,0,1,H
+203,france_league_2,2022,2023-01-31,Metz,Rodez,1,1,0,1,D
+204,france_league_2,2022,2023-01-31,Niort,Amiens,1,3,0,1,A
+205,france_league_2,2022,2023-01-31,Paris FC,PAU,0,1,0,0,A
+206,france_league_2,2022,2023-01-31,Sochaux,Valenciennes,4,0,2,2,H
+207,france_league_2,2022,2023-01-31,Laval,Dijon,1,0,0,1,H
+208,france_league_2,2022,2023-01-31,Bastia,Saint Etienne,2,0,0,2,H
+209,france_league_2,2022,2023-01-31,Annecy,Caen,2,0,0,2,H
+210,france_league_2,2022,2023-02-03,Caen,Bastia,3,1,0,3,H
+211,france_league_2,2022,2023-02-03,Dijon,Niort,0,1,0,0,A
+212,france_league_2,2022,2023-02-03,Nimes,Grenoble,0,2,0,0,A
+213,france_league_2,2022,2023-02-03,Valenciennes,Laval,3,1,2,1,H
+214,france_league_2,2022,2023-02-03,Le Havre,Paris FC,0,0,0,0,D
+215,france_league_2,2022,2023-02-03,Quevilly,Guingamp,2,0,1,1,H
+216,france_league_2,2022,2023-02-03,PAU,Bordeaux,0,2,0,0,A
+217,france_league_2,2022,2023-02-03,Rodez,Sochaux,1,2,1,0,A
+218,france_league_2,2022,2023-02-04,Saint Etienne,Annecy,3,2,1,2,H
+219,france_league_2,2022,2023-02-06,Amiens,Metz,0,2,0,0,A
+220,france_league_2,2022,2023-02-11,Saint Etienne,Dijon,2,0,2,0,H
+221,france_league_2,2022,2023-02-11,Guingamp,Valenciennes,3,1,1,2,H
+222,france_league_2,2022,2023-02-11,Grenoble,PAU,1,1,0,1,D
+223,france_league_2,2022,2023-02-11,Niort,Bordeaux,3,1,2,1,H
+224,france_league_2,2022,2023-02-11,Sochaux,Le Havre,1,1,0,1,D
+225,france_league_2,2022,2023-02-11,Laval,Annecy,1,1,1,0,D
+226,france_league_2,2022,2023-02-11,Rodez,Nimes,1,1,1,0,D
+227,france_league_2,2022,2023-02-11,Bastia,Quevilly,0,1,0,0,A
+228,france_league_2,2022,2023-02-13,Metz,Caen,0,0,0,0,D
+229,france_league_2,2022,2023-02-18,Bordeaux,Paris FC,2,1,2,0,H
+230,france_league_2,2022,2023-02-18,Caen,Grenoble,2,1,0,2,H
+231,france_league_2,2022,2023-02-18,Dijon,Metz,0,0,0,0,D
+232,france_league_2,2022,2023-02-18,Valenciennes,Rodez,0,0,0,0,D
+233,france_league_2,2022,2023-02-18,Le Havre,Niort,1,0,0,1,H
+234,france_league_2,2022,2023-02-18,Quevilly,Sochaux,0,0,0,0,D
+235,france_league_2,2022,2023-02-18,PAU,Laval,0,1,0,0,A
+236,france_league_2,2022,2023-02-18,Bastia,Guingamp,1,1,1,0,D
+237,france_league_2,2022,2023-02-18,Annecy,Amiens,2,0,1,1,H
+238,france_league_2,2022,2023-02-20,Nimes,Saint Etienne,1,2,0,1,A
+239,france_league_2,2022,2023-02-25,Grenoble,Le Havre,0,0,0,0,D
+240,france_league_2,2022,2023-02-25,Guingamp,Caen,1,2,0,1,A
+241,france_league_2,2022,2023-02-25,Valenciennes,Dijon,2,2,0,2,D
+242,france_league_2,2022,2023-02-25,Metz,Nimes,2,0,1,1,H
+243,france_league_2,2022,2023-02-25,Paris FC,Niort,3,0,0,3,H
+244,france_league_2,2022,2023-02-25,Sochaux,Annecy,5,1,3,2,H
+245,france_league_2,2022,2023-02-25,Laval,Quevilly,0,1,0,0,A
+246,france_league_2,2022,2023-02-25,Saint Etienne,PAU,2,0,1,1,H
+247,france_league_2,2022,2023-02-25,Rodez,Bastia,0,2,0,0,A
+248,france_league_2,2022,2023-02-27,Amiens,Bordeaux,1,2,1,0,A
+249,france_league_2,2022,2023-03-04,Bordeaux,Saint Etienne,1,1,0,1,D
+250,france_league_2,2022,2023-03-04,Amiens,PAU,1,0,1,0,H
+251,france_league_2,2022,2023-03-04,Dijon,Grenoble,1,0,1,0,H
+252,france_league_2,2022,2023-03-04,Le Havre,Laval,2,1,1,1,H
+253,france_league_2,2022,2023-03-04,Niort,Rodez,2,3,1,1,A
+254,france_league_2,2022,2023-03-04,Paris FC,Guingamp,1,2,0,1,A
+255,france_league_2,2022,2023-03-04,Quevilly,Valenciennes,1,1,0,1,D
+256,france_league_2,2022,2023-03-04,Bastia,Nimes,4,2,2,2,H
+257,france_league_2,2022,2023-03-04,Annecy,Metz,0,3,0,0,A
+258,france_league_2,2022,2023-03-06,Caen,Sochaux,0,0,0,0,D
+259,france_league_2,2022,2023-03-11,Sochaux,Bordeaux,1,1,1,0,D
+260,france_league_2,2022,2023-03-11,Guingamp,Dijon,2,0,1,1,H
+261,france_league_2,2022,2023-03-11,Nimes,Quevilly,2,0,0,2,H
+262,france_league_2,2022,2023-03-11,Grenoble,Annecy,2,1,1,1,H
+263,france_league_2,2022,2023-03-11,Valenciennes,Bastia,2,2,1,1,D
+264,france_league_2,2022,2023-03-11,Laval,Paris FC,1,2,1,0,A
+265,france_league_2,2022,2023-03-11,Saint Etienne,Amiens,1,1,0,1,D
+266,france_league_2,2022,2023-03-11,PAU,Niort,1,0,1,0,H
+267,france_league_2,2022,2023-03-11,Rodez,Caen,3,2,2,1,H
+268,france_league_2,2022,2023-03-13,Metz,Le Havre,1,1,1,0,D
+269,france_league_2,2022,2023-03-14,Paris FC,Amiens,3,0,1,2,H
+270,france_league_2,2022,2023-03-18,Le Havre,Saint Etienne,2,2,0,2,D
+271,france_league_2,2022,2023-03-18,Bordeaux,Nimes,1,0,0,1,H
+272,france_league_2,2022,2023-03-18,Amiens,Rodez,1,3,1,0,A
+273,france_league_2,2022,2023-03-18,Caen,Valenciennes,2,1,1,1,H
+274,france_league_2,2022,2023-03-18,Dijon,PAU,0,1,0,0,A
+275,france_league_2,2022,2023-03-18,Niort,Laval,3,2,1,2,H
+276,france_league_2,2022,2023-03-18,Paris FC,Bastia,0,1,0,0,A
+277,france_league_2,2022,2023-03-18,Sochaux,Grenoble,1,0,0,1,H
+278,france_league_2,2022,2023-03-18,Quevilly,Metz,1,2,0,1,A
+279,france_league_2,2022,2023-03-18,Annecy,Guingamp,1,1,1,0,D
+280,france_league_2,2022,2023-04-01,Saint Etienne,Niort,2,0,0,2,H
+281,france_league_2,2022,2023-04-01,Caen,Dijon,2,1,0,2,H
+282,france_league_2,2022,2023-04-01,Nimes,Annecy,4,0,2,2,H
+283,france_league_2,2022,2023-04-01,Grenoble,Amiens,2,1,1,1,H
+284,france_league_2,2022,2023-04-01,Valenciennes,Paris FC,4,5,2,2,A
+285,france_league_2,2022,2023-04-01,Metz,Laval,1,0,0,1,H
+286,france_league_2,2022,2023-04-01,PAU,Le Havre,0,1,0,0,A
+287,france_league_2,2022,2023-04-01,Rodez,Quevilly,1,0,0,1,H
+288,france_league_2,2022,2023-04-01,Bastia,Sochaux,3,2,1,2,H
+289,france_league_2,2022,2023-04-03,Guingamp,Bordeaux,0,1,0,0,A
+290,france_league_2,2022,2023-04-08,Bordeaux,Bastia,2,0,1,1,H
+291,france_league_2,2022,2023-04-08,Amiens,Nimes,1,0,0,1,H
+292,france_league_2,2022,2023-04-08,Dijon,Rodez,1,0,0,1,H
+293,france_league_2,2022,2023-04-08,Le Havre,Guingamp,0,0,0,0,D
+294,france_league_2,2022,2023-04-08,Niort,Sochaux,0,3,0,0,A
+295,france_league_2,2022,2023-04-08,Paris FC,Saint Etienne,2,4,2,0,A
+296,france_league_2,2022,2023-04-08,Quevilly,Caen,2,1,2,0,H
+297,france_league_2,2022,2023-04-08,Laval,Grenoble,0,1,0,0,A
+298,france_league_2,2022,2023-04-08,PAU,Metz,1,1,0,1,D
+299,france_league_2,2022,2023-04-10,Annecy,Valenciennes,2,1,1,1,H
+300,france_league_2,2022,2023-04-15,Metz,Bordeaux,3,0,0,3,H
+301,france_league_2,2022,2023-04-15,Caen,Paris FC,3,1,2,1,H
+302,france_league_2,2022,2023-04-15,Guingamp,Amiens,3,1,1,2,H
+303,france_league_2,2022,2023-04-15,Nimes,Le Havre,0,1,0,0,A
+304,france_league_2,2022,2023-04-15,Valenciennes,Niort,0,0,0,0,D
+305,france_league_2,2022,2023-04-15,Sochaux,PAU,2,3,0,2,A
+306,france_league_2,2022,2023-04-15,Quevilly,Dijon,2,2,1,1,D
+307,france_league_2,2022,2023-04-15,Rodez,Laval,1,0,1,0,H
+308,france_league_2,2022,2023-04-15,Bastia,Annecy,3,0,3,0,H
+309,france_league_2,2022,2023-04-17,Grenoble,Saint Etienne,0,2,0,0,A
+310,france_league_2,2022,2023-04-22,Saint Etienne,Metz,1,3,1,0,A
+311,france_league_2,2022,2023-04-22,Amiens,Valenciennes,0,2,0,0,A
+312,france_league_2,2022,2023-04-22,Dijon,Bastia,1,1,0,1,D
+313,france_league_2,2022,2023-04-22,Le Havre,Quevilly,0,0,0,0,D
+314,france_league_2,2022,2023-04-22,Niort,Caen,1,2,0,1,A
+315,france_league_2,2022,2023-04-22,Paris FC,Nimes,3,0,1,2,H
+316,france_league_2,2022,2023-04-22,Laval,Sochaux,2,1,2,0,H
+317,france_league_2,2022,2023-04-22,PAU,Guingamp,2,1,1,1,H
+318,france_league_2,2022,2023-04-22,Annecy,Rodez,0,3,0,0,A
+319,france_league_2,2022,2023-04-24,Bordeaux,Grenoble,3,0,1,2,H
+320,france_league_2,2022,2023-04-29,Caen,Le Havre,1,2,0,1,A
+321,france_league_2,2022,2023-04-29,Guingamp,Laval,3,1,1,2,H
+322,france_league_2,2022,2023-04-29,Nimes,PAU,3,2,2,1,H
+323,france_league_2,2022,2023-04-29,Grenoble,Niort,2,0,1,1,H
+324,france_league_2,2022,2023-04-29,Valenciennes,Bordeaux,0,2,0,0,A
+325,france_league_2,2022,2023-04-29,Metz,Paris FC,1,1,1,0,D
+326,france_league_2,2022,2023-04-29,Quevilly,Annecy,2,2,0,2,D
+327,france_league_2,2022,2023-04-29,Rodez,Saint Etienne,1,1,0,1,D
+328,france_league_2,2022,2023-04-29,Bastia,Amiens,1,1,1,0,D
+329,france_league_2,2022,2023-05-01,Sochaux,Dijon,0,2,0,0,A
+330,france_league_2,2022,2023-05-06,Bordeaux,Caen,1,0,1,0,H
+331,france_league_2,2022,2023-05-06,Amiens,Sochaux,1,0,0,1,H
+332,france_league_2,2022,2023-05-06,Nimes,Valenciennes,3,3,1,2,D
+333,france_league_2,2022,2023-05-06,Niort,Metz,1,3,1,0,A
+334,france_league_2,2022,2023-05-06,Paris FC,Grenoble,1,0,1,0,H
+335,france_league_2,2022,2023-05-06,Laval,Bastia,2,1,2,0,H
+336,france_league_2,2022,2023-05-06,Saint Etienne,Guingamp,3,2,1,2,H
+337,france_league_2,2022,2023-05-06,PAU,Quevilly,3,4,1,2,A
+338,france_league_2,2022,2023-05-06,Annecy,Dijon,1,1,0,1,D
+339,france_league_2,2022,2023-05-08,Le Havre,Rodez,1,0,0,1,H
+340,france_league_2,2022,2023-05-13,Quevilly,Bordeaux,0,0,0,0,D
+341,france_league_2,2022,2023-05-13,Caen,Nimes,4,2,0,4,H
+342,france_league_2,2022,2023-05-13,Dijon,Amiens,3,0,2,1,H
+343,france_league_2,2022,2023-05-13,Valenciennes,PAU,1,1,0,1,D
+344,france_league_2,2022,2023-05-13,Metz,Grenoble,1,0,0,1,H
+345,france_league_2,2022,2023-05-13,Sochaux,Guingamp,0,1,0,0,A
+346,france_league_2,2022,2023-05-13,Laval,Saint Etienne,2,1,1,1,H
+347,france_league_2,2022,2023-05-13,Rodez,Paris FC,0,0,0,0,D
+348,france_league_2,2022,2023-05-13,Bastia,Niort,2,1,0,2,H
+349,france_league_2,2022,2023-05-15,Annecy,Le Havre,1,0,0,1,H
+350,france_league_2,2022,2023-05-19,Grenoble,Rodez,1,1,1,0,D
+351,france_league_2,2022,2023-05-20,Bordeaux,Laval,3,0,2,1,H
+352,france_league_2,2022,2023-05-20,Amiens,Caen,1,3,1,0,A
+353,france_league_2,2022,2023-05-20,Guingamp,Metz,1,1,0,1,D
+354,france_league_2,2022,2023-05-20,Nimes,Dijon,1,2,1,0,A
+355,france_league_2,2022,2023-05-20,Niort,Annecy,2,2,0,2,D
+356,france_league_2,2022,2023-05-20,Paris FC,Sochaux,2,1,0,2,H
+357,france_league_2,2022,2023-05-20,Saint Etienne,Quevilly,4,2,1,3,H
+358,france_league_2,2022,2023-05-20,PAU,Bastia,2,6,1,1,A
+359,france_league_2,2022,2023-05-22,Le Havre,Valenciennes,0,2,0,0,A
+360,france_league_2,2022,2023-05-26,Caen,Saint Etienne,2,2,0,2,D
+361,france_league_2,2022,2023-05-26,Dijon,Paris FC,1,1,0,1,D
+362,france_league_2,2022,2023-05-26,Guingamp,Niort,2,0,1,1,H
+363,france_league_2,2022,2023-05-26,Valenciennes,Grenoble,1,0,0,1,H
+364,france_league_2,2022,2023-05-26,Sochaux,Metz,0,1,0,0,A
+365,france_league_2,2022,2023-05-26,Quevilly,Amiens,1,3,1,0,A
+366,france_league_2,2022,2023-05-26,Laval,Nimes,2,0,2,0,H
+367,france_league_2,2022,2023-05-26,Rodez,PAU,2,3,1,1,A
+368,france_league_2,2022,2023-05-26,Bastia,Le Havre,1,1,0,1,D
+369,france_league_2,2022,2023-05-26,Annecy,Bordeaux,1,0,1,0,H
+370,france_league_2,2022,2023-06-02,Amiens,Laval,1,2,0,1,A
+371,france_league_2,2022,2023-06-02,Nimes,Sochaux,3,1,1,2,H
+372,france_league_2,2022,2023-06-02,Grenoble,Guingamp,0,2,0,0,A
+373,france_league_2,2022,2023-06-02,Le Havre,Dijon,1,0,1,0,H
+374,france_league_2,2022,2023-06-02,Metz,Bastia,3,2,1,2,H
+375,france_league_2,2022,2023-06-02,Niort,Quevilly,3,3,2,1,D
+376,france_league_2,2022,2023-06-02,Paris FC,Annecy,1,0,0,1,H
+377,france_league_2,2022,2023-06-02,Saint Etienne,Valenciennes,2,0,0,2,H
+378,france_league_2,2022,2023-06-02,PAU,Caen,1,0,1,0,H

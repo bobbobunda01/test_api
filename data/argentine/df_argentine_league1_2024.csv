@@ -1,0 +1,379 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+956,2024,2024-05-10,Sarmiento Junin,Instituto Cordoba,1,2,0,1,A
+957,2024,2024-05-11,Newells Old Boys,Platense,2,0,0,2,H
+958,2024,2024-05-11,Argentinos JRS,Rosario Central,3,2,2,1,H
+959,2024,2024-05-11,Huracan,Defensa Y Justicia,3,1,1,2,H
+960,2024,2024-05-11,Godoy Cruz,Barracas Central,0,1,0,0,A
+961,2024,2024-05-11,Independiente,Talleres Cordoba,1,3,1,0,A
+962,2024,2024-05-11,River Plate,Central Cordoba de Santiago,3,0,2,1,H
+963,2024,2024-05-12,Tigre,Estudiantes L.P.,0,1,0,0,A
+964,2024,2024-05-12,Deportivo Riestra,San Lorenzo,1,0,1,0,H
+965,2024,2024-05-12,Belgrano Cordoba,Racing Club,4,4,1,3,D
+966,2024,2024-05-12,Lanus,Independ. Rivadavia,0,2,0,0,A
+967,2024,2024-05-12,Atletico Tucuman,Boca Juniors,1,0,1,0,H
+968,2024,2024-05-13,Gimnasia L.P.,Velez Sarsfield,3,1,1,2,H
+969,2024,2024-05-14,Union Santa Fe,Banfield,1,0,0,1,H
+970,2024,2024-05-18,Independ. Rivadavia,Godoy Cruz,0,0,0,0,D
+971,2024,2024-05-18,River Plate,Belgrano Cordoba,3,0,1,2,H
+972,2024,2024-05-18,Defensa Y Justicia,Gimnasia L.P.,1,1,0,1,D
+973,2024,2024-05-18,Instituto Cordoba,Union Santa Fe,1,1,1,0,D
+974,2024,2024-05-19,Barracas Central,Sarmiento Junin,1,1,1,0,D
+975,2024,2024-05-19,Platense,Independiente,0,0,0,0,D
+976,2024,2024-05-19,Banfield,Huracan,1,1,0,1,D
+977,2024,2024-05-19,Talleres Cordoba,Atletico Tucuman,2,0,1,1,H
+978,2024,2024-05-19,Central Cordoba de Santiago,Boca Juniors,2,4,2,0,A
+979,2024,2024-05-20,Estudiantes L.P.,Deportivo Riestra,2,0,1,1,H
+980,2024,2024-05-20,San Lorenzo,Lanus,1,1,0,1,D
+981,2024,2024-05-21,Racing Club,Argentinos JRS,3,0,1,2,H
+982,2024,2024-05-21,Rosario Central,Tigre,1,1,0,1,D
+983,2024,2024-05-21,Velez Sarsfield,Newells Old Boys,1,0,1,0,H
+984,2024,2024-05-24,Deportivo Riestra,Rosario Central,0,2,0,0,A
+985,2024,2024-05-24,Tigre,Racing Club,0,4,0,0,A
+986,2024,2024-05-25,Belgrano Cordoba,Central Cordoba de Santiago,2,1,0,2,H
+987,2024,2024-05-25,Lanus,Estudiantes L.P.,2,1,0,2,H
+988,2024,2024-05-25,Argentinos JRS,River Plate,1,0,1,0,H
+989,2024,2024-05-25,Newells Old Boys,Defensa Y Justicia,1,0,0,1,H
+990,2024,2024-05-25,Boca Juniors,Talleres Cordoba,0,0,0,0,D
+991,2024,2024-05-26,Huracan,Instituto Cordoba,1,0,0,1,H
+992,2024,2024-05-26,Sarmiento Junin,Independ. Rivadavia,0,1,0,0,A
+993,2024,2024-05-26,Gimnasia L.P.,Banfield,3,0,0,3,H
+994,2024,2024-05-26,Independiente,Velez Sarsfield,1,1,0,1,D
+995,2024,2024-05-27,Union Santa Fe,Barracas Central,2,0,1,1,H
+996,2024,2024-05-28,Atletico Tucuman,Platense,1,1,0,1,D
+997,2024,2024-06-01,Racing Club,Deportivo Riestra,1,0,0,1,H
+998,2024,2024-06-01,Velez Sarsfield,Atletico Tucuman,1,1,0,1,D
+999,2024,2024-06-01,Belgrano Cordoba,Argentinos JRS,1,0,0,1,H
+1000,2024,2024-06-02,Platense,Boca Juniors,1,0,0,1,H
+1001,2024,2024-06-02,Rosario Central,Lanus,1,1,0,1,D
+1002,2024,2024-06-02,Central Cordoba de Santiago,Talleres Cordoba,2,4,1,1,A
+1003,2024,2024-06-02,River Plate,Tigre,3,1,1,2,H
+1004,2024,2024-06-02,Instituto Cordoba,Gimnasia L.P.,2,1,1,1,H
+1005,2024,2024-06-03,San Lorenzo,Sarmiento Junin,0,1,0,0,A
+1006,2024,2024-06-04,Defensa Y Justicia,Independiente,0,0,0,0,D
+1007,2024,2024-06-04,Estudiantes L.P.,Godoy Cruz,1,1,0,1,D
+1008,2024,2024-06-04,Barracas Central,Huracan,0,2,0,0,A
+1009,2024,2024-06-04,Banfield,Newells Old Boys,2,0,0,2,H
+1010,2024,2024-06-04,Independ. Rivadavia,Union Santa Fe,0,1,0,0,A
+1011,2024,2024-06-12,Godoy Cruz,Rosario Central,1,1,1,0,D
+1012,2024,2024-06-12,Argentinos JRS,Central Cordoba de Santiago,2,1,1,1,H
+1013,2024,2024-06-13,Gimnasia L.P.,Barracas Central,2,1,1,1,H
+1014,2024,2024-06-13,Independiente,Banfield,2,1,1,1,H
+1015,2024,2024-06-13,Deportivo Riestra,River Plate,2,0,0,2,H
+1016,2024,2024-06-13,Tigre,Belgrano Cordoba,1,1,1,0,D
+1017,2024,2024-06-13,Sarmiento Junin,Estudiantes L.P.,2,0,0,2,H
+1018,2024,2024-06-14,Lanus,Racing Club,2,0,1,1,H
+1019,2024,2024-06-14,Newells Old Boys,Instituto Cordoba,0,2,0,0,A
+1020,2024,2024-06-14,Boca Juniors,Velez Sarsfield,1,0,0,1,H
+1021,2024,2024-06-14,Talleres Cordoba,Platense,2,1,1,1,H
+1022,2024,2024-06-15,Union Santa Fe,San Lorenzo,2,1,0,2,H
+1023,2024,2024-06-15,Huracan,Independ. Rivadavia,1,0,1,0,H
+1024,2024,2024-06-15,Atletico Tucuman,Defensa Y Justicia,1,1,1,0,D
+1025,2024,2024-07-18,Argentinos JRS,Tigre,0,2,0,0,A
+1026,2024,2024-07-18,Independ. Rivadavia,Gimnasia L.P.,1,0,1,0,H
+1027,2024,2024-07-19,Instituto Cordoba,Independiente,3,1,3,0,H
+1028,2024,2024-07-19,Barracas Central,Newells Old Boys,0,1,0,0,A
+1029,2024,2024-07-19,Belgrano Cordoba,Deportivo Riestra,2,1,0,2,H
+1030,2024,2024-07-20,Rosario Central,Sarmiento Junin,4,2,3,1,H
+1031,2024,2024-07-20,San Lorenzo,Huracan,1,1,1,0,D
+1032,2024,2024-07-20,Racing Club,Godoy Cruz,3,0,2,1,H
+1033,2024,2024-07-20,Banfield,Atletico Tucuman,1,1,1,0,D
+1034,2024,2024-07-21,River Plate,Lanus,2,2,0,2,D
+1035,2024,2024-07-21,Estudiantes L.P.,Union Santa Fe,0,0,0,0,D
+1036,2024,2024-07-21,Central Cordoba de Santiago,Platense,0,2,0,0,A
+1037,2024,2024-07-21,Velez Sarsfield,Talleres Cordoba,3,0,1,2,H
+1038,2024,2024-07-21,Defensa Y Justicia,Boca Juniors,2,2,2,0,D
+1039,2024,2024-07-23,Deportivo Riestra,Argentinos JRS,2,0,0,2,H
+1040,2024,2024-07-23,Gimnasia L.P.,San Lorenzo,0,1,0,0,A
+1041,2024,2024-07-23,Newells Old Boys,Independ. Rivadavia,0,0,0,0,D
+1042,2024,2024-07-24,Independiente,Barracas Central,0,0,0,0,D
+1043,2024,2024-07-24,Talleres Cordoba,Defensa Y Justicia,1,1,0,1,D
+1044,2024,2024-07-24,Sarmiento Junin,Racing Club,1,0,1,0,H
+1045,2024,2024-07-24,Godoy Cruz,River Plate,2,1,2,0,H
+1046,2024,2024-07-24,Huracan,Estudiantes L.P.,0,0,0,0,D
+1047,2024,2024-07-25,Lanus,Belgrano Cordoba,3,2,1,2,H
+1048,2024,2024-07-25,Platense,Velez Sarsfield,0,2,0,0,A
+1049,2024,2024-07-26,Tigre,Central Cordoba de Santiago,1,1,1,0,D
+1050,2024,2024-07-26,Atletico Tucuman,Instituto Cordoba,1,0,0,1,H
+1051,2024,2024-07-27,Independ. Rivadavia,Independiente,1,0,1,0,H
+1052,2024,2024-07-27,San Lorenzo,Newells Old Boys,1,1,0,1,D
+1053,2024,2024-07-27,Rosario Central,Huracan,0,1,0,0,A
+1054,2024,2024-07-28,Banfield,Talleres Cordoba,1,1,1,0,D
+1055,2024,2024-07-28,Estudiantes L.P.,Gimnasia L.P.,4,1,0,4,H
+1056,2024,2024-07-28,Racing Club,Union Santa Fe,2,1,1,1,H
+1057,2024,2024-07-28,River Plate,Sarmiento Junin,1,0,0,1,H
+1058,2024,2024-07-28,Instituto Cordoba,Boca Juniors,0,0,0,0,D
+1059,2024,2024-07-29,Barracas Central,Atletico Tucuman,0,2,0,0,A
+1060,2024,2024-07-29,Defensa Y Justicia,Platense,1,3,0,1,A
+1061,2024,2024-07-29,Tigre,Deportivo Riestra,2,1,1,1,H
+1062,2024,2024-07-29,Central Cordoba de Santiago,Velez Sarsfield,0,2,0,0,A
+1063,2024,2024-07-30,Belgrano Cordoba,Godoy Cruz,1,0,1,0,H
+1064,2024,2024-07-30,Argentinos JRS,Lanus,2,0,0,2,H
+1065,2024,2024-07-31,Union Santa Fe,Rosario Central,1,0,0,1,H
+1066,2024,2024-07-31,Boca Juniors,Banfield,3,0,1,2,H
+1067,2024,2024-08-02,Newells Old Boys,Estudiantes L.P.,1,4,1,0,A
+1068,2024,2024-08-03,Velez Sarsfield,Defensa Y Justicia,3,0,1,2,H
+1069,2024,2024-08-03,Godoy Cruz,Argentinos JRS,1,0,1,0,H
+1070,2024,2024-08-03,Talleres Cordoba,Instituto Cordoba,1,1,0,1,D
+1071,2024,2024-08-03,Independiente,San Lorenzo,0,0,0,0,D
+1072,2024,2024-08-03,Huracan,Racing Club,0,0,0,0,D
+1073,2024,2024-08-04,Union Santa Fe,River Plate,0,0,0,0,D
+1074,2024,2024-08-04,Sarmiento Junin,Belgrano Cordoba,0,0,0,0,D
+1075,2024,2024-08-04,Boca Juniors,Barracas Central,1,1,1,0,D
+1076,2024,2024-08-04,Lanus,Tigre,3,2,0,3,H
+1077,2024,2024-08-04,Atletico Tucuman,Independ. Rivadavia,2,1,0,2,H
+1078,2024,2024-08-05,Deportivo Riestra,Central Cordoba de Santiago,1,0,1,0,H
+1079,2024,2024-08-05,Gimnasia L.P.,Rosario Central,0,1,0,0,A
+1080,2024,2024-08-05,Platense,Banfield,0,1,0,0,A
+1081,2024,2024-08-08,Argentinos JRS,Sarmiento Junin,0,0,0,0,D
+1082,2024,2024-08-09,Deportivo Riestra,Lanus,3,1,0,3,H
+1083,2024,2024-08-09,Barracas Central,Talleres Cordoba,1,1,0,1,D
+1084,2024,2024-08-09,Belgrano Cordoba,Union Santa Fe,1,1,0,1,D
+1085,2024,2024-08-10,Racing Club,Gimnasia L.P.,0,1,0,0,A
+1086,2024,2024-08-10,San Lorenzo,Atletico Tucuman,0,1,0,0,A
+1087,2024,2024-08-10,Rosario Central,Newells Old Boys,1,0,0,1,H
+1088,2024,2024-08-10,Independ. Rivadavia,Boca Juniors,1,1,0,1,D
+1089,2024,2024-08-10,River Plate,Huracan,1,1,1,0,D
+1090,2024,2024-08-11,Instituto Cordoba,Platense,2,0,0,2,H
+1091,2024,2024-08-11,Central Cordoba de Santiago,Defensa Y Justicia,2,0,1,1,H
+1092,2024,2024-08-11,Banfield,Velez Sarsfield,2,2,0,2,D
+1093,2024,2024-08-11,Estudiantes L.P.,Independiente,0,2,0,0,A
+1094,2024,2024-08-12,Tigre,Godoy Cruz,0,2,0,0,A
+1095,2024,2024-08-16,Platense,Barracas Central,0,0,0,0,D
+1096,2024,2024-08-17,Newells Old Boys,Racing Club,0,1,0,0,A
+1097,2024,2024-08-17,Lanus,Central Cordoba de Santiago,1,1,1,0,D
+1098,2024,2024-08-17,Independiente,Rosario Central,1,0,1,0,H
+1099,2024,2024-08-17,Gimnasia L.P.,River Plate,1,1,0,1,D
+1100,2024,2024-08-17,Velez Sarsfield,Instituto Cordoba,1,0,1,0,H
+1101,2024,2024-08-17,Talleres Cordoba,Independ. Rivadavia,2,1,0,2,H
+1102,2024,2024-08-18,Boca Juniors,San Lorenzo,3,2,0,3,H
+1103,2024,2024-08-18,Atletico Tucuman,Estudiantes L.P.,2,0,0,2,H
+1104,2024,2024-08-18,Sarmiento Junin,Tigre,0,0,0,0,D
+1105,2024,2024-08-18,Huracan,Belgrano Cordoba,1,0,1,0,H
+1106,2024,2024-08-19,Godoy Cruz,Deportivo Riestra,4,1,3,1,H
+1107,2024,2024-08-19,Union Santa Fe,Argentinos JRS,3,0,2,1,H
+1108,2024,2024-08-20,Defensa Y Justicia,Banfield,1,0,0,1,H
+1109,2024,2024-08-23,Independ. Rivadavia,Platense,0,2,0,0,A
+1110,2024,2024-08-24,Deportivo Riestra,Sarmiento Junin,2,1,1,1,H
+1111,2024,2024-08-24,Argentinos JRS,Huracan,0,0,0,0,D
+1112,2024,2024-08-24,Instituto Cordoba,Defensa Y Justicia,4,1,3,1,H
+1113,2024,2024-08-24,Tigre,Union Santa Fe,5,1,2,3,H
+1114,2024,2024-08-25,Lanus,Godoy Cruz,1,1,1,0,D
+1115,2024,2024-08-25,San Lorenzo,Talleres Cordoba,2,0,1,1,H
+1116,2024,2024-08-25,Racing Club,Independiente,0,0,0,0,D
+1117,2024,2024-08-25,River Plate,Newells Old Boys,0,0,0,0,D
+1118,2024,2024-08-26,Central Cordoba de Santiago,Banfield,0,0,0,0,D
+1119,2024,2024-08-26,Barracas Central,Velez Sarsfield,0,5,0,0,A
+1120,2024,2024-08-26,Rosario Central,Atletico Tucuman,1,0,0,1,H
+1121,2024,2024-08-26,Belgrano Cordoba,Gimnasia L.P.,0,1,0,0,A
+1122,2024,2024-08-27,Estudiantes L.P.,Boca Juniors,1,1,0,1,D
+1123,2024,2024-08-30,Sarmiento Junin,Lanus,0,0,0,0,D
+1124,2024,2024-08-31,Union Santa Fe,Deportivo Riestra,0,0,0,0,D
+1125,2024,2024-08-31,Defensa Y Justicia,Barracas Central,1,0,1,0,H
+1126,2024,2024-08-31,Newells Old Boys,Belgrano Cordoba,0,0,0,0,D
+1127,2024,2024-08-31,Velez Sarsfield,Independ. Rivadavia,4,0,2,2,H
+1128,2024,2024-08-31,Talleres Cordoba,Estudiantes L.P.,1,0,1,0,H
+1129,2024,2024-09-01,Boca Juniors,Rosario Central,2,1,2,0,H
+1130,2024,2024-09-01,Huracan,Tigre,0,2,0,0,A
+1131,2024,2024-09-01,Platense,San Lorenzo,1,2,1,0,A
+1132,2024,2024-09-01,Independiente,River Plate,0,0,0,0,D
+1133,2024,2024-09-01,Atletico Tucuman,Racing Club,1,0,1,0,H
+1134,2024,2024-09-02,Banfield,Instituto Cordoba,1,2,0,1,A
+1135,2024,2024-09-02,Gimnasia L.P.,Argentinos JRS,1,0,0,1,H
+1136,2024,2024-09-02,Godoy Cruz,Central Cordoba de Santiago,1,1,1,0,D
+1137,2024,2024-09-13,Deportivo Riestra,Huracan,1,0,0,1,H
+1138,2024,2024-09-13,Lanus,Union Santa Fe,1,1,1,0,D
+1139,2024,2024-09-13,Central Cordoba de Santiago,Instituto Cordoba,2,1,0,2,H
+1140,2024,2024-09-14,River Plate,Atletico Tucuman,4,1,2,2,H
+1141,2024,2024-09-14,San Lorenzo,Velez Sarsfield,0,1,0,0,A
+1142,2024,2024-09-14,Racing Club,Boca Juniors,2,1,1,1,H
+1143,2024,2024-09-14,Belgrano Cordoba,Independiente,1,1,0,1,D
+1144,2024,2024-09-14,Tigre,Gimnasia L.P.,1,1,0,1,D
+1145,2024,2024-09-15,Godoy Cruz,Sarmiento Junin,1,1,1,0,D
+1146,2024,2024-09-15,Estudiantes L.P.,Platense,1,1,1,0,D
+1147,2024,2024-09-15,Rosario Central,Talleres Cordoba,2,2,1,1,D
+1148,2024,2024-09-15,Argentinos JRS,Newells Old Boys,3,0,2,1,H
+1149,2024,2024-09-16,Barracas Central,Banfield,0,1,0,0,A
+1150,2024,2024-09-17,Independ. Rivadavia,Defensa Y Justicia,1,0,1,0,H
+1151,2024,2024-09-20,Gimnasia L.P.,Deportivo Riestra,0,0,0,0,D
+1152,2024,2024-09-20,Union Santa Fe,Godoy Cruz,3,1,1,2,H
+1153,2024,2024-09-21,Boca Juniors,River Plate,0,1,0,0,A
+1154,2024,2024-09-21,Newells Old Boys,Tigre,1,0,0,1,H
+1155,2024,2024-09-21,Instituto Cordoba,Barracas Central,0,1,0,0,A
+1156,2024,2024-09-22,Defensa Y Justicia,San Lorenzo,0,0,0,0,D
+1157,2024,2024-09-22,Huracan,Lanus,3,0,1,2,H
+1158,2024,2024-09-22,Independiente,Argentinos JRS,0,0,0,0,D
+1159,2024,2024-09-22,Talleres Cordoba,Racing Club,2,0,1,1,H
+1160,2024,2024-09-22,Atletico Tucuman,Belgrano Cordoba,2,4,1,1,A
+1161,2024,2024-09-22,Platense,Rosario Central,1,0,1,0,H
+1162,2024,2024-09-23,Sarmiento Junin,Central Cordoba de Santiago,1,3,0,1,A
+1163,2024,2024-09-24,Velez Sarsfield,Estudiantes L.P.,2,0,1,1,H
+1164,2024,2024-09-24,Banfield,Independ. Rivadavia,2,0,1,1,H
+1165,2024,2024-09-27,Deportivo Riestra,Newells Old Boys,3,3,2,1,D
+1166,2024,2024-09-28,Independ. Rivadavia,Instituto Cordoba,1,1,1,0,D
+1167,2024,2024-09-28,San Lorenzo,Banfield,2,1,1,1,H
+1168,2024,2024-09-28,Godoy Cruz,Huracan,1,1,0,1,D
+1169,2024,2024-09-28,Estudiantes L.P.,Defensa Y Justicia,1,0,1,0,H
+1170,2024,2024-09-28,Belgrano Cordoba,Boca Juniors,2,0,0,2,H
+1171,2024,2024-09-29,Central Cordoba de Santiago,Barracas Central,2,1,2,0,H
+1172,2024,2024-09-29,River Plate,Talleres Cordoba,0,1,0,0,A
+1173,2024,2024-09-29,Sarmiento Junin,Union Santa Fe,1,0,0,1,H
+1174,2024,2024-09-30,Argentinos JRS,Atletico Tucuman,0,0,0,0,D
+1175,2024,2024-10-01,Racing Club,Platense,1,1,1,0,D
+1176,2024,2024-10-01,Lanus,Gimnasia L.P.,0,0,0,0,D
+1177,2024,2024-10-01,Tigre,Independiente,1,1,0,1,D
+1178,2024,2024-10-01,Rosario Central,Velez Sarsfield,3,0,1,2,H
+1179,2024,2024-10-04,Union Santa Fe,Central Cordoba de Santiago,0,2,0,0,A
+1180,2024,2024-10-05,Huracan,Sarmiento Junin,3,1,1,2,H
+1181,2024,2024-10-05,Velez Sarsfield,Racing Club,1,0,0,1,H
+1182,2024,2024-10-05,Gimnasia L.P.,Godoy Cruz,0,1,0,0,A
+1183,2024,2024-10-05,Newells Old Boys,Lanus,2,1,0,2,H
+1184,2024,2024-10-05,Instituto Cordoba,San Lorenzo,2,0,1,1,H
+1185,2024,2024-10-06,Independiente,Deportivo Riestra,3,1,2,1,H
+1186,2024,2024-10-06,Talleres Cordoba,Belgrano Cordoba,0,0,0,0,D
+1187,2024,2024-10-06,Platense,River Plate,0,0,0,0,D
+1188,2024,2024-10-07,Boca Juniors,Argentinos JRS,1,0,1,0,H
+1189,2024,2024-10-07,Barracas Central,Independ. Rivadavia,1,1,1,0,D
+1190,2024,2024-10-07,Banfield,Estudiantes L.P.,1,2,0,1,A
+1191,2024,2024-10-07,Defensa Y Justicia,Rosario Central,2,1,2,0,H
+1192,2024,2024-10-08,Atletico Tucuman,Tigre,1,2,1,0,A
+1193,2024,2024-10-12,Godoy Cruz,San Lorenzo,1,1,1,0,D
+1194,2024,2024-10-18,Deportivo Riestra,Atletico Tucuman,2,0,0,2,H
+1195,2024,2024-10-18,Sarmiento Junin,Gimnasia L.P.,1,1,1,0,D
+1196,2024,2024-10-18,Central Cordoba de Santiago,Independ. Rivadavia,2,0,2,0,H
+1197,2024,2024-10-18,Lanus,Independiente,0,2,0,0,A
+1198,2024,2024-10-19,River Plate,Velez Sarsfield,1,1,0,1,D
+1199,2024,2024-10-19,Racing Club,Defensa Y Justicia,4,3,3,1,H
+1200,2024,2024-10-19,Belgrano Cordoba,Platense,0,1,0,0,A
+1201,2024,2024-10-19,Tigre,Boca Juniors,3,0,1,2,H
+1202,2024,2024-10-20,Union Santa Fe,Huracan,0,1,0,0,A
+1203,2024,2024-10-20,Argentinos JRS,Talleres Cordoba,3,0,0,3,H
+1204,2024,2024-10-20,Rosario Central,Banfield,1,1,1,0,D
+1205,2024,2024-10-20,Estudiantes L.P.,Instituto Cordoba,3,2,2,1,H
+1206,2024,2024-10-20,Godoy Cruz,Newells Old Boys,2,0,1,1,H
+1207,2024,2024-10-20,San Lorenzo,Barracas Central,1,0,0,1,H
+1208,2024,2024-10-25,Barracas Central,Estudiantes L.P.,1,1,0,1,D
+1209,2024,2024-10-26,Defensa Y Justicia,River Plate,0,0,0,0,D
+1210,2024,2024-10-26,Newells Old Boys,Sarmiento Junin,1,1,1,0,D
+1211,2024,2024-10-26,Instituto Cordoba,Rosario Central,0,0,0,0,D
+1212,2024,2024-10-26,Independiente,Godoy Cruz,1,1,0,1,D
+1213,2024,2024-10-27,Velez Sarsfield,Belgrano Cordoba,1,1,0,1,D
+1214,2024,2024-10-27,Independ. Rivadavia,San Lorenzo,1,0,1,0,H
+1215,2024,2024-10-27,Platense,Argentinos JRS,2,1,2,0,H
+1216,2024,2024-10-27,Banfield,Racing Club,2,1,0,2,H
+1217,2024,2024-10-27,Boca Juniors,Deportivo Riestra,1,1,0,1,D
+1218,2024,2024-10-28,Atletico Tucuman,Lanus,1,0,1,0,H
+1219,2024,2024-10-28,Talleres Cordoba,Tigre,1,1,0,1,D
+1220,2024,2024-10-28,Gimnasia L.P.,Union Santa Fe,2,3,1,1,A
+1221,2024,2024-10-29,Huracan,Central Cordoba de Santiago,0,0,0,0,D
+1222,2024,2024-10-31,Estudiantes L.P.,Independ. Rivadavia,1,1,1,0,D
+1223,2024,2024-10-31,Sarmiento Junin,Independiente,0,0,0,0,D
+1224,2024,2024-11-01,Rosario Central,Barracas Central,0,1,0,0,A
+1225,2024,2024-11-01,Godoy Cruz,Atletico Tucuman,1,1,1,0,D
+1226,2024,2024-11-01,Central Cordoba de Santiago,San Lorenzo,0,1,0,0,A
+1227,2024,2024-11-01,Huracan,Gimnasia L.P.,0,0,0,0,D
+1228,2024,2024-11-02,Union Santa Fe,Newells Old Boys,2,0,1,1,H
+1229,2024,2024-11-02,Argentinos JRS,Velez Sarsfield,1,1,0,1,D
+1230,2024,2024-11-02,Deportivo Riestra,Talleres Cordoba,0,0,0,0,D
+1231,2024,2024-11-02,River Plate,Banfield,3,1,1,2,H
+1232,2024,2024-11-02,Belgrano Cordoba,Defensa Y Justicia,1,2,0,1,A
+1233,2024,2024-11-03,Tigre,Platense,0,0,0,0,D
+1234,2024,2024-11-03,Racing Club,Instituto Cordoba,2,0,2,0,H
+1235,2024,2024-11-03,Lanus,Boca Juniors,1,0,0,1,H
+1236,2024,2024-11-04,Atletico Tucuman,Sarmiento Junin,1,0,1,0,H
+1237,2024,2024-11-05,Independ. Rivadavia,Rosario Central,1,1,1,0,D
+1238,2024,2024-11-05,Gimnasia L.P.,Central Cordoba de Santiago,0,0,0,0,D
+1239,2024,2024-11-05,San Lorenzo,Estudiantes L.P.,1,1,1,0,D
+1240,2024,2024-11-06,Independiente,Union Santa Fe,3,0,1,2,H
+1241,2024,2024-11-06,Newells Old Boys,Huracan,2,4,1,1,A
+1242,2024,2024-11-06,Barracas Central,Racing Club,0,2,0,0,A
+1243,2024,2024-11-06,Banfield,Belgrano Cordoba,1,1,0,1,D
+1244,2024,2024-11-06,Boca Juniors,Godoy Cruz,4,1,2,2,H
+1245,2024,2024-11-07,Instituto Cordoba,River Plate,2,3,1,1,A
+1246,2024,2024-11-07,Talleres Cordoba,Lanus,1,2,1,0,A
+1247,2024,2024-11-07,Defensa Y Justicia,Argentinos JRS,2,1,1,1,H
+1248,2024,2024-11-08,Platense,Deportivo Riestra,0,0,0,0,D
+1249,2024,2024-11-08,Velez Sarsfield,Tigre,1,0,0,1,H
+1250,2024,2024-11-09,Union Santa Fe,Atletico Tucuman,1,0,0,1,H
+1251,2024,2024-11-09,Gimnasia L.P.,Newells Old Boys,1,0,1,0,H
+1252,2024,2024-11-09,Rosario Central,San Lorenzo,0,1,0,0,A
+1253,2024,2024-11-10,Huracan,Independiente,1,0,0,1,H
+1254,2024,2024-11-10,Central Cordoba de Santiago,Estudiantes L.P.,1,1,1,0,D
+1255,2024,2024-11-10,River Plate,Barracas Central,3,0,0,3,H
+1256,2024,2024-11-10,Godoy Cruz,Talleres Cordoba,0,1,0,0,A
+1257,2024,2024-11-10,Racing Club,Independ. Rivadavia,2,1,1,1,H
+1258,2024,2024-11-11,Sarmiento Junin,Boca Juniors,0,2,0,0,A
+1259,2024,2024-11-11,Deportivo Riestra,Velez Sarsfield,1,1,0,1,D
+1260,2024,2024-11-11,Lanus,Platense,0,0,0,0,D
+1261,2024,2024-11-11,Tigre,Defensa Y Justicia,0,4,0,0,A
+1262,2024,2024-11-12,Belgrano Cordoba,Instituto Cordoba,3,1,2,1,H
+1263,2024,2024-11-12,Argentinos JRS,Banfield,1,0,1,0,H
+1264,2024,2024-11-17,San Lorenzo,Racing Club,1,2,1,0,A
+1265,2024,2024-11-18,Banfield,Tigre,0,1,0,0,A
+1266,2024,2024-11-18,Defensa Y Justicia,Deportivo Riestra,1,1,0,1,D
+1267,2024,2024-11-18,Platense,Godoy Cruz,1,0,0,1,H
+1268,2024,2024-11-19,Atletico Tucuman,Huracan,4,2,2,2,H
+1269,2024,2024-11-19,Instituto Cordoba,Argentinos JRS,1,0,0,1,H
+1270,2024,2024-11-20,Newells Old Boys,Central Cordoba de Santiago,2,3,1,1,A
+1271,2024,2024-11-20,Velez Sarsfield,Lanus,0,0,0,0,D
+1272,2024,2024-11-20,Estudiantes L.P.,Rosario Central,1,1,1,0,D
+1273,2024,2024-11-21,Boca Juniors,Union Santa Fe,1,0,1,0,H
+1274,2024,2024-11-21,Barracas Central,Belgrano Cordoba,1,1,1,0,D
+1275,2024,2024-11-21,Independiente,Gimnasia L.P.,1,0,1,0,H
+1276,2024,2024-11-21,Talleres Cordoba,Sarmiento Junin,2,0,0,2,H
+1277,2024,2024-11-22,Independ. Rivadavia,River Plate,2,1,1,1,H
+1278,2024,2024-11-23,Tigre,Instituto Cordoba,0,0,0,0,D
+1279,2024,2024-11-24,Huracan,Boca Juniors,0,0,0,0,D
+1280,2024,2024-11-24,Gimnasia L.P.,Atletico Tucuman,1,0,1,0,H
+1281,2024,2024-11-24,Deportivo Riestra,Banfield,1,1,1,0,D
+1282,2024,2024-11-24,Godoy Cruz,Velez Sarsfield,0,0,0,0,D
+1283,2024,2024-11-25,Lanus,Defensa Y Justicia,0,0,0,0,D
+1284,2024,2024-11-25,Central Cordoba de Santiago,Rosario Central,0,1,0,0,A
+1285,2024,2024-11-26,Belgrano Cordoba,Independ. Rivadavia,0,2,0,0,A
+1286,2024,2024-11-26,Argentinos JRS,Barracas Central,0,1,0,0,A
+1287,2024,2024-11-26,Newells Old Boys,Independiente,2,1,1,1,H
+1288,2024,2024-11-27,Union Santa Fe,Talleres Cordoba,2,3,1,1,A
+1289,2024,2024-11-27,Sarmiento Junin,Platense,1,0,1,0,H
+1290,2024,2024-11-29,San Lorenzo,Belgrano Cordoba,0,2,0,0,A
+1291,2024,2024-11-30,Estudiantes L.P.,River Plate,1,2,0,1,A
+1292,2024,2024-11-30,Rosario Central,Racing Club,0,2,0,0,A
+1293,2024,2024-11-30,Banfield,Lanus,0,1,0,0,A
+1294,2024,2024-12-01,Defensa Y Justicia,Godoy Cruz,2,1,2,0,H
+1295,2024,2024-12-01,Instituto Cordoba,Deportivo Riestra,2,1,0,2,H
+1296,2024,2024-12-01,Independiente,Central Cordoba de Santiago,2,0,2,0,H
+1297,2024,2024-12-01,Velez Sarsfield,Sarmiento Junin,1,0,1,0,H
+1298,2024,2024-12-02,Boca Juniors,Gimnasia L.P.,1,0,1,0,H
+1299,2024,2024-12-02,Barracas Central,Tigre,0,0,0,0,D
+1300,2024,2024-12-02,Platense,Union Santa Fe,1,0,0,1,H
+1301,2024,2024-12-02,Talleres Cordoba,Huracan,1,0,0,1,H
+1302,2024,2024-12-03,Independ. Rivadavia,Argentinos JRS,2,1,2,0,H
+1303,2024,2024-12-03,Atletico Tucuman,Newells Old Boys,0,0,0,0,D
+1304,2024,2024-12-04,Racing Club,Estudiantes L.P.,4,5,2,2,A
+1305,2024,2024-12-05,River Plate,San Lorenzo,1,1,0,1,D
+1306,2024,2024-12-06,Deportivo Riestra,Barracas Central,0,0,0,0,D
+1307,2024,2024-12-06,Sarmiento Junin,Defensa Y Justicia,1,1,1,0,D
+1308,2024,2024-12-07,Lanus,Instituto Cordoba,2,0,0,2,H
+1309,2024,2024-12-07,Union Santa Fe,Velez Sarsfield,1,0,0,1,H
+1310,2024,2024-12-08,Central Cordoba de Santiago,Racing Club,3,1,2,1,H
+1311,2024,2024-12-08,Gimnasia L.P.,Talleres Cordoba,0,1,0,0,A
+1312,2024,2024-12-08,Godoy Cruz,Banfield,4,0,1,3,H
+1313,2024,2024-12-08,River Plate,Rosario Central,4,0,1,3,H
+1314,2024,2024-12-09,Newells Old Boys,Boca Juniors,0,1,0,0,A
+1315,2024,2024-12-09,Tigre,Independ. Rivadavia,0,2,0,0,A
+1316,2024,2024-12-09,Belgrano Cordoba,Estudiantes L.P.,2,2,1,1,D
+1317,2024,2024-12-09,Argentinos JRS,San Lorenzo,1,0,1,0,H
+1318,2024,2024-12-10,Huracan,Platense,1,0,0,1,H
+1319,2024,2024-12-10,Independiente,Atletico Tucuman,2,1,1,1,H
+1320,2024,2024-12-13,Estudiantes L.P.,Argentinos JRS,2,2,1,1,D
+1321,2024,2024-12-13,Barracas Central,Lanus,3,3,1,2,D
+1322,2024,2024-12-14,Banfield,Sarmiento Junin,1,1,0,1,D
+1323,2024,2024-12-14,San Lorenzo,Tigre,0,1,0,0,A
+1324,2024,2024-12-14,Rosario Central,Belgrano Cordoba,2,1,1,1,H
+1325,2024,2024-12-14,Instituto Cordoba,Godoy Cruz,1,3,1,0,A
+1326,2024,2024-12-14,Boca Juniors,Independiente,0,0,0,0,D
+1327,2024,2024-12-15,Racing Club,River Plate,1,0,1,0,H
+1328,2024,2024-12-15,Defensa Y Justicia,Union Santa Fe,0,0,0,0,D
+1329,2024,2024-12-15,Platense,Gimnasia L.P.,1,0,1,0,H
+1330,2024,2024-12-15,Velez Sarsfield,Huracan,2,0,2,0,H
+1331,2024,2024-12-15,Talleres Cordoba,Newells Old Boys,1,3,0,1,A
+1332,2024,2024-12-17,Atletico Tucuman,Central Cordoba de Santiago,2,0,1,1,H
+1333,2024,2024-12-17,Independ. Rivadavia,Deportivo Riestra,0,0,0,0,D

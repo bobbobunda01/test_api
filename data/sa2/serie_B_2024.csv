@@ -1,0 +1,390 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+2925,serie_B,2024,2024-08-16,Brescia,Palermo,1,0,0,1,H
+2926,serie_B,2024,2024-08-17,Bari,Juve Stabia,1,3,0,1,A
+2927,serie_B,2024,2024-08-17,Salernitana,Cittadella,2,1,0,2,H
+2928,serie_B,2024,2024-08-17,Pisa,Spezia,2,2,1,1,D
+2929,serie_B,2024,2024-08-17,Sudtirol,Modena,2,1,1,1,H
+2930,serie_B,2024,2024-08-18,Cesena,Carrarese,2,1,2,0,H
+2931,serie_B,2024,2024-08-18,Frosinone,Sampdoria,2,2,1,1,D
+2932,serie_B,2024,2024-08-18,Reggiana,Mantova,2,2,0,2,D
+2933,serie_B,2024,2024-08-18,Catanzaro,Sassuolo,1,1,0,1,D
+2934,serie_B,2024,2024-08-18,Cosenza,Cremonese,1,0,1,0,H
+2935,serie_B,2024,2024-08-23,Modena,Bari,2,1,1,1,H
+2936,serie_B,2024,2024-08-24,Sudtirol,Salernitana,3,2,2,1,H
+2937,serie_B,2024,2024-08-24,Sassuolo,Cesena,2,1,1,1,H
+2938,serie_B,2024,2024-08-24,Sampdoria,Reggiana,0,1,0,0,A
+2939,serie_B,2024,2024-08-24,Spezia,Frosinone,2,1,0,2,H
+2940,serie_B,2024,2024-08-24,Brescia,Cittadella,0,1,0,0,A
+2941,serie_B,2024,2024-08-24,Cremonese,Carrarese,1,0,0,1,H
+2942,serie_B,2024,2024-08-24,Pisa,Palermo,2,0,1,1,H
+2943,serie_B,2024,2024-08-25,Catanzaro,Juve Stabia,0,0,0,0,D
+2944,serie_B,2024,2024-08-25,Mantova,Cosenza,3,2,2,1,H
+2945,serie_B,2024,2024-08-27,Bari,Sassuolo,1,1,0,1,D
+2946,serie_B,2024,2024-08-27,Cittadella,Pisa,1,1,1,0,D
+2947,serie_B,2024,2024-08-27,Frosinone,Modena,1,1,0,1,D
+2948,serie_B,2024,2024-08-27,Salernitana,Sampdoria,3,2,1,2,H
+2949,serie_B,2024,2024-08-27,Cremonese,Palermo,0,1,0,0,A
+2950,serie_B,2024,2024-08-27,Reggiana,Brescia,2,0,1,1,H
+2951,serie_B,2024,2024-08-27,Carrarese,Sudtirol,2,0,1,1,H
+2952,serie_B,2024,2024-08-28,Cesena,Catanzaro,2,0,1,1,H
+2953,serie_B,2024,2024-08-28,Juve Stabia,Mantova,1,0,1,0,H
+2954,serie_B,2024,2024-08-28,Cosenza,Spezia,0,0,0,0,D
+2955,serie_B,2024,2024-08-31,Sampdoria,Bari,0,0,0,0,D
+2956,serie_B,2024,2024-08-31,Sassuolo,Cremonese,1,4,1,0,A
+2957,serie_B,2024,2024-08-31,Pisa,Reggiana,2,1,1,1,H
+2958,serie_B,2024,2024-08-31,Modena,Cittadella,0,1,0,0,A
+2959,serie_B,2024,2024-08-31,Sudtirol,Brescia,1,2,0,1,A
+2960,serie_B,2024,2024-09-01,Frosinone,Juve Stabia,0,0,0,0,D
+2961,serie_B,2024,2024-09-01,Spezia,Cesena,2,1,0,2,H
+2962,serie_B,2024,2024-09-01,Palermo,Cosenza,1,1,0,1,D
+2963,serie_B,2024,2024-09-01,Catanzaro,Carrarese,3,1,2,1,H
+2964,serie_B,2024,2024-09-01,Mantova,Salernitana,1,0,0,1,H
+2965,serie_B,2024,2024-09-13,Cesena,Modena,2,2,2,0,D
+2966,serie_B,2024,2024-09-14,Bari,Mantova,2,0,1,1,H
+2967,serie_B,2024,2024-09-14,Cittadella,Catanzaro,0,0,0,0,D
+2968,serie_B,2024,2024-09-14,Brescia,Frosinone,4,0,3,1,H
+2969,serie_B,2024,2024-09-14,Cremonese,Spezia,1,1,1,0,D
+2970,serie_B,2024,2024-09-14,Juve Stabia,Palermo,1,3,0,1,A
+2971,serie_B,2024,2024-09-15,Salernitana,Pisa,2,3,1,1,A
+2972,serie_B,2024,2024-09-15,Reggiana,Sudtirol,1,3,1,0,A
+2973,serie_B,2024,2024-09-15,Carrarese,Sassuolo,0,2,0,0,A
+2974,serie_B,2024,2024-09-15,Cosenza,Sampdoria,2,1,1,1,H
+2975,serie_B,2024,2024-09-20,Catanzaro,Cremonese,1,2,1,0,A
+2976,serie_B,2024,2024-09-21,Sampdoria,Sudtirol,1,0,1,0,H
+2977,serie_B,2024,2024-09-21,Palermo,Cesena,0,0,0,0,D
+2978,serie_B,2024,2024-09-21,Pisa,Brescia,2,1,1,1,H
+2979,serie_B,2024,2024-09-21,Reggiana,Salernitana,0,0,0,0,D
+2980,serie_B,2024,2024-09-21,Cosenza,Sassuolo,0,1,0,0,A
+2981,serie_B,2024,2024-09-21,Modena,Juve Stabia,3,0,2,1,H
+2982,serie_B,2024,2024-09-22,Frosinone,Bari,0,3,0,0,A
+2983,serie_B,2024,2024-09-22,Spezia,Carrarese,4,2,1,3,H
+2984,serie_B,2024,2024-09-22,Mantova,Cittadella,1,0,0,1,H
+2985,serie_B,2024,2024-09-27,Cittadella,Frosinone,1,2,0,1,A
+2986,serie_B,2024,2024-09-28,Sassuolo,Spezia,0,0,0,0,D
+2987,serie_B,2024,2024-09-28,Bari,Cosenza,1,1,1,0,D
+2988,serie_B,2024,2024-09-28,Carrarese,Reggiana,0,0,0,0,D
+2989,serie_B,2024,2024-09-29,Cesena,Mantova,4,2,3,1,H
+2990,serie_B,2024,2024-09-29,Salernitana,Catanzaro,0,0,0,0,D
+2991,serie_B,2024,2024-09-29,Juve Stabia,Pisa,2,0,1,1,H
+2992,serie_B,2024,2024-09-29,Modena,Sampdoria,1,3,0,1,A
+2993,serie_B,2024,2024-09-30,Sudtirol,Palermo,1,3,0,1,A
+2994,serie_B,2024,2024-09-30,Brescia,Cremonese,3,2,3,0,H
+2995,serie_B,2024,2024-10-04,Sampdoria,Juve Stabia,1,2,1,0,A
+2996,serie_B,2024,2024-10-05,Sassuolo,Cittadella,6,1,1,5,H
+2997,serie_B,2024,2024-10-05,Frosinone,Carrarese,0,1,0,0,A
+2998,serie_B,2024,2024-10-05,Spezia,Reggiana,1,0,1,0,H
+2999,serie_B,2024,2024-10-05,Pisa,Cesena,3,1,2,1,H
+3000,serie_B,2024,2024-10-06,Cremonese,Bari,1,1,0,1,D
+3001,serie_B,2024,2024-10-06,Palermo,Salernitana,0,1,0,0,A
+3002,serie_B,2024,2024-10-06,Catanzaro,Modena,2,2,1,1,D
+3003,serie_B,2024,2024-10-06,Mantova,Brescia,1,1,0,1,D
+3004,serie_B,2024,2024-10-06,Cosenza,Sudtirol,0,2,0,0,A
+3005,serie_B,2024,2024-10-18,Bari,Catanzaro,1,1,1,0,D
+3006,serie_B,2024,2024-10-19,Cittadella,Cosenza,0,0,0,0,D
+3007,serie_B,2024,2024-10-19,Salernitana,Spezia,0,2,0,0,A
+3008,serie_B,2024,2024-10-19,Modena,Palermo,2,2,0,2,D
+3009,serie_B,2024,2024-10-19,Sudtirol,Pisa,1,2,1,0,A
+3010,serie_B,2024,2024-10-19,Brescia,Sassuolo,2,5,1,1,A
+3011,serie_B,2024,2024-10-20,Juve Stabia,Cremonese,1,2,1,0,A
+3012,serie_B,2024,2024-10-20,Reggiana,Frosinone,2,0,1,1,H
+3013,serie_B,2024,2024-10-20,Carrarese,Mantova,1,1,0,1,D
+3014,serie_B,2024,2024-10-20,Cesena,Sampdoria,3,5,2,1,A
+3015,serie_B,2024,2024-10-25,Spezia,Bari,0,0,0,0,D
+3016,serie_B,2024,2024-10-26,Cesena,Brescia,2,0,1,1,H
+3017,serie_B,2024,2024-10-26,Cremonese,Salernitana,2,1,2,0,H
+3018,serie_B,2024,2024-10-26,Palermo,Reggiana,2,0,2,0,H
+3019,serie_B,2024,2024-10-26,Cosenza,Juve Stabia,1,1,1,0,D
+3020,serie_B,2024,2024-10-26,Sassuolo,Modena,2,0,1,1,H
+3021,serie_B,2024,2024-10-26,Carrarese,Cittadella,3,0,3,0,H
+3022,serie_B,2024,2024-10-27,Sampdoria,Mantova,1,0,0,1,H
+3023,serie_B,2024,2024-10-27,Frosinone,Pisa,0,0,0,0,D
+3024,serie_B,2024,2024-10-27,Catanzaro,Sudtirol,3,0,3,0,H
+3025,serie_B,2024,2024-10-29,Bari,Carrarese,0,0,0,0,D
+3026,serie_B,2024,2024-10-29,Salernitana,Cesena,1,1,1,0,D
+3027,serie_B,2024,2024-10-29,Brescia,Spezia,1,1,0,1,D
+3028,serie_B,2024,2024-10-29,Juve Stabia,Sassuolo,2,2,1,1,D
+3029,serie_B,2024,2024-10-29,Reggiana,Cosenza,0,1,0,0,A
+3030,serie_B,2024,2024-10-29,Modena,Cremonese,2,2,2,0,D
+3031,serie_B,2024,2024-10-30,Sudtirol,Frosinone,1,1,0,1,D
+3032,serie_B,2024,2024-10-30,Cittadella,Sampdoria,0,0,0,0,D
+3033,serie_B,2024,2024-10-30,Pisa,Catanzaro,0,0,0,0,D
+3034,serie_B,2024,2024-10-30,Mantova,Palermo,0,0,0,0,D
+3035,serie_B,2024,2024-11-02,Bari,Reggiana,2,2,0,2,D
+3036,serie_B,2024,2024-11-02,Spezia,Modena,1,0,1,0,H
+3037,serie_B,2024,2024-11-02,Carrarese,Juve Stabia,0,0,0,0,D
+3038,serie_B,2024,2024-11-03,Cesena,Sudtirol,1,0,0,1,H
+3039,serie_B,2024,2024-11-03,Cremonese,Pisa,1,3,1,0,A
+3040,serie_B,2024,2024-11-03,Palermo,Cittadella,0,1,0,0,A
+3041,serie_B,2024,2024-11-03,Catanzaro,Frosinone,0,0,0,0,D
+3042,serie_B,2024,2024-11-03,Cosenza,Salernitana,1,1,1,0,D
+3043,serie_B,2024,2024-11-03,Sassuolo,Mantova,1,0,0,1,H
+3044,serie_B,2024,2024-11-03,Sampdoria,Brescia,0,1,0,0,A
+3045,serie_B,2024,2024-11-08,Frosinone,Palermo,1,1,1,0,D
+3046,serie_B,2024,2024-11-09,Brescia,Cosenza,2,3,0,2,A
+3047,serie_B,2024,2024-11-09,Pisa,Sampdoria,3,0,1,2,H
+3048,serie_B,2024,2024-11-09,Modena,Carrarese,2,0,1,1,H
+3049,serie_B,2024,2024-11-09,Sudtirol,Sassuolo,0,1,0,0,A
+3050,serie_B,2024,2024-11-09,Mantova,Cremonese,1,0,0,1,H
+3051,serie_B,2024,2024-11-10,Cittadella,Cesena,0,2,0,0,A
+3052,serie_B,2024,2024-11-10,Juve Stabia,Spezia,0,3,0,0,A
+3053,serie_B,2024,2024-11-10,Reggiana,Catanzaro,2,2,2,0,D
+3054,serie_B,2024,2024-11-10,Salernitana,Bari,0,2,0,0,A
+3055,serie_B,2024,2024-11-22,Cosenza,Modena,1,1,0,1,D
+3056,serie_B,2024,2024-11-23,Sassuolo,Salernitana,4,0,0,4,H
+3057,serie_B,2024,2024-11-23,Juve Stabia,Brescia,0,0,0,0,D
+3058,serie_B,2024,2024-11-23,Carrarese,Pisa,1,0,0,1,H
+3059,serie_B,2024,2024-11-23,Catanzaro,Mantova,2,2,1,1,D
+3060,serie_B,2024,2024-11-23,Cesena,Reggiana,1,1,0,1,D
+3061,serie_B,2024,2024-11-24,Bari,Cittadella,3,2,3,0,H
+3062,serie_B,2024,2024-11-24,Spezia,Sudtirol,3,0,2,1,H
+3063,serie_B,2024,2024-11-24,Cremonese,Frosinone,1,0,0,1,H
+3064,serie_B,2024,2024-11-24,Palermo,Sampdoria,1,1,1,0,D
+3065,serie_B,2024,2024-11-29,Reggiana,Sassuolo,0,2,0,0,A
+3066,serie_B,2024,2024-11-30,Sampdoria,Catanzaro,3,3,1,2,D
+3067,serie_B,2024,2024-11-30,Cittadella,Juve Stabia,2,2,2,0,D
+3068,serie_B,2024,2024-11-30,Brescia,Bari,1,1,1,0,D
+3069,serie_B,2024,2024-11-30,Sudtirol,Cremonese,0,4,0,0,A
+3070,serie_B,2024,2024-11-30,Mantova,Modena,0,0,0,0,D
+3071,serie_B,2024,2024-12-01,Frosinone,Cesena,3,2,2,1,H
+3072,serie_B,2024,2024-12-01,Palermo,Spezia,2,0,1,1,H
+3073,serie_B,2024,2024-12-01,Pisa,Cosenza,2,2,2,0,D
+3074,serie_B,2024,2024-12-01,Salernitana,Carrarese,4,1,2,2,H
+3075,serie_B,2024,2024-12-06,Juve Stabia,Sudtirol,2,1,1,1,H
+3076,serie_B,2024,2024-12-07,Bari,Cesena,1,0,1,0,H
+3077,serie_B,2024,2024-12-07,Modena,Salernitana,1,1,0,1,D
+3078,serie_B,2024,2024-12-07,Carrarese,Palermo,1,0,0,1,H
+3079,serie_B,2024,2024-12-07,Mantova,Pisa,2,3,1,1,A
+3080,serie_B,2024,2024-12-07,Cosenza,Frosinone,0,1,0,0,A
+3081,serie_B,2024,2024-12-08,Spezia,Cittadella,5,0,3,2,H
+3082,serie_B,2024,2024-12-08,Cremonese,Reggiana,0,2,0,0,A
+3083,serie_B,2024,2024-12-08,Catanzaro,Brescia,2,1,1,1,H
+3084,serie_B,2024,2024-12-08,Sassuolo,Sampdoria,5,1,2,3,H
+3085,serie_B,2024,2024-12-13,Pisa,Bari,2,0,0,2,H
+3086,serie_B,2024,2024-12-14,Cesena,Cosenza,2,1,1,1,H
+3087,serie_B,2024,2024-12-14,Frosinone,Sassuolo,1,2,1,0,A
+3088,serie_B,2024,2024-12-14,Reggiana,Modena,0,1,0,0,A
+3089,serie_B,2024,2024-12-14,Sudtirol,Mantova,2,2,1,1,D
+3090,serie_B,2024,2024-12-14,Sampdoria,Spezia,0,0,0,0,D
+3091,serie_B,2024,2024-12-15,Cittadella,Cremonese,0,0,0,0,D
+3092,serie_B,2024,2024-12-15,Brescia,Carrarese,0,0,0,0,D
+3093,serie_B,2024,2024-12-15,Palermo,Catanzaro,1,2,1,0,A
+3094,serie_B,2024,2024-12-15,Salernitana,Juve Stabia,1,2,1,0,A
+3095,serie_B,2024,2024-12-20,Salernitana,Brescia,0,0,0,0,D
+3096,serie_B,2024,2024-12-21,Sassuolo,Palermo,2,1,1,1,H
+3097,serie_B,2024,2024-12-21,Bari,Sudtirol,0,1,0,0,A
+3098,serie_B,2024,2024-12-21,Carrarese,Cosenza,1,0,0,1,H
+3099,serie_B,2024,2024-12-21,Mantova,Frosinone,3,1,3,0,H
+3100,serie_B,2024,2024-12-21,Cittadella,Reggiana,3,1,0,3,H
+3101,serie_B,2024,2024-12-21,Modena,Pisa,1,0,0,1,H
+3102,serie_B,2024,2024-12-21,Catanzaro,Spezia,0,1,0,0,A
+3103,serie_B,2024,2024-12-22,Juve Stabia,Cesena,1,0,1,0,H
+3104,serie_B,2024,2024-12-22,Cremonese,Sampdoria,1,1,0,1,D
+3105,serie_B,2024,2024-12-26,Pisa,Sassuolo,3,1,2,1,H
+3106,serie_B,2024,2024-12-26,Cesena,Cremonese,0,1,0,0,A
+3107,serie_B,2024,2024-12-26,Frosinone,Salernitana,2,0,0,2,H
+3108,serie_B,2024,2024-12-26,Spezia,Mantova,1,1,0,1,D
+3109,serie_B,2024,2024-12-26,Brescia,Modena,3,3,1,2,D
+3110,serie_B,2024,2024-12-26,Reggiana,Juve Stabia,2,1,2,0,H
+3111,serie_B,2024,2024-12-26,Sudtirol,Cittadella,1,2,1,0,A
+3112,serie_B,2024,2024-12-26,Cosenza,Catanzaro,1,1,0,1,D
+3113,serie_B,2024,2024-12-26,Palermo,Bari,1,0,1,0,H
+3114,serie_B,2024,2024-12-26,Sampdoria,Carrarese,1,1,0,1,D
+3115,serie_B,2024,2024-12-29,Cremonese,Brescia,1,1,0,1,D
+3116,serie_B,2024,2024-12-29,Sassuolo,Cosenza,2,1,0,2,H
+3117,serie_B,2024,2024-12-29,Bari,Spezia,2,0,1,1,H
+3118,serie_B,2024,2024-12-29,Modena,Sudtirol,0,0,0,0,D
+3119,serie_B,2024,2024-12-29,Carrarese,Cesena,2,0,0,2,H
+3120,serie_B,2024,2024-12-29,Mantova,Reggiana,0,2,0,0,A
+3121,serie_B,2024,2024-12-29,Cittadella,Palermo,2,1,1,1,H
+3122,serie_B,2024,2024-12-29,Juve Stabia,Frosinone,1,1,1,0,D
+3123,serie_B,2024,2024-12-29,Catanzaro,Salernitana,1,0,0,1,H
+3124,serie_B,2024,2024-12-29,Sampdoria,Pisa,0,1,0,0,A
+3125,serie_B,2024,2025-01-12,Salernitana,Sassuolo,1,2,0,1,A
+3126,serie_B,2024,2025-01-12,Frosinone,Cremonese,0,3,0,0,A
+3127,serie_B,2024,2025-01-12,Spezia,Juve Stabia,1,1,1,0,D
+3128,serie_B,2024,2025-01-12,Palermo,Modena,2,0,1,1,H
+3129,serie_B,2024,2025-01-12,Reggiana,Bari,0,0,0,0,D
+3130,serie_B,2024,2025-01-12,Sudtirol,Catanzaro,1,1,1,0,D
+3131,serie_B,2024,2025-01-12,Cosenza,Mantova,2,2,2,0,D
+3132,serie_B,2024,2025-01-12,Cesena,Cittadella,0,0,0,0,D
+3133,serie_B,2024,2025-01-12,Brescia,Sampdoria,1,1,0,1,D
+3134,serie_B,2024,2025-01-13,Pisa,Carrarese,2,1,1,1,H
+3135,serie_B,2024,2025-01-17,Sampdoria,Cesena,1,2,1,0,A
+3136,serie_B,2024,2025-01-18,Cittadella,Mantova,1,2,0,1,A
+3137,serie_B,2024,2025-01-18,Salernitana,Reggiana,2,1,0,2,H
+3138,serie_B,2024,2025-01-18,Cremonese,Cosenza,3,1,1,2,H
+3139,serie_B,2024,2025-01-18,Modena,Frosinone,1,1,1,0,D
+3140,serie_B,2024,2025-01-18,Bari,Brescia,2,2,2,0,D
+3141,serie_B,2024,2025-01-19,Sassuolo,Sudtirol,5,3,1,4,H
+3142,serie_B,2024,2025-01-19,Palermo,Juve Stabia,1,0,0,1,H
+3143,serie_B,2024,2025-01-19,Catanzaro,Pisa,0,0,0,0,D
+3144,serie_B,2024,2025-01-19,Carrarese,Spezia,0,4,0,0,A
+3145,serie_B,2024,2025-01-24,Spezia,Sassuolo,2,1,1,1,H
+3146,serie_B,2024,2025-01-25,Cesena,Bari,1,1,0,1,D
+3147,serie_B,2024,2025-01-25,Frosinone,Sudtirol,0,3,0,0,A
+3148,serie_B,2024,2025-01-25,Juve Stabia,Carrarese,2,1,2,0,H
+3149,serie_B,2024,2025-01-25,Cosenza,Cittadella,0,1,0,0,A
+3150,serie_B,2024,2025-01-25,Mantova,Sampdoria,2,2,0,2,D
+3151,serie_B,2024,2025-01-26,Brescia,Catanzaro,2,3,1,1,A
+3152,serie_B,2024,2025-01-26,Pisa,Salernitana,1,0,0,1,H
+3153,serie_B,2024,2025-01-26,Reggiana,Palermo,2,1,1,1,H
+3154,serie_B,2024,2025-01-26,Cremonese,Modena,2,2,1,1,D
+3155,serie_B,2024,2025-01-31,Palermo,Pisa,1,2,0,1,A
+3156,serie_B,2024,2025-02-01,Sassuolo,Juve Stabia,2,0,1,1,H
+3157,serie_B,2024,2025-02-01,Sampdoria,Cosenza,1,0,1,0,H
+3158,serie_B,2024,2025-02-01,Cittadella,Spezia,0,2,0,0,A
+3159,serie_B,2024,2025-02-01,Catanzaro,Cesena,4,2,3,1,H
+3160,serie_B,2024,2025-02-01,Modena,Mantova,3,1,2,1,H
+3161,serie_B,2024,2025-02-02,Salernitana,Cremonese,1,0,0,1,H
+3162,serie_B,2024,2025-02-02,Sudtirol,Reggiana,2,0,1,1,H
+3163,serie_B,2024,2025-02-02,Carrarese,Brescia,1,2,0,1,A
+3164,serie_B,2024,2025-02-02,Bari,Frosinone,2,1,1,1,H
+3165,serie_B,2024,2025-02-07,Brescia,Salernitana,0,0,0,0,D
+3166,serie_B,2024,2025-02-08,Frosinone,Catanzaro,1,1,1,0,D
+3167,serie_B,2024,2025-02-08,Pisa,Cittadella,0,1,0,0,A
+3168,serie_B,2024,2025-02-08,Mantova,Sassuolo,0,3,0,0,A
+3169,serie_B,2024,2025-02-08,Cosenza,Carrarese,1,0,0,1,H
+3170,serie_B,2024,2025-02-08,Sampdoria,Modena,1,0,1,0,H
+3171,serie_B,2024,2025-02-09,Spezia,Palermo,2,2,0,2,D
+3172,serie_B,2024,2025-02-09,Cremonese,Sudtirol,3,1,1,2,H
+3173,serie_B,2024,2025-02-09,Reggiana,Cesena,0,1,0,0,A
+3174,serie_B,2024,2025-02-09,Juve Stabia,Bari,3,1,1,2,H
+3175,serie_B,2024,2025-02-14,Catanzaro,Cittadella,1,0,0,1,H
+3176,serie_B,2024,2025-02-15,Sassuolo,Brescia,2,0,1,1,H
+3177,serie_B,2024,2025-02-15,Modena,Spezia,1,1,1,0,D
+3178,serie_B,2024,2025-02-15,Sudtirol,Sampdoria,2,1,1,1,H
+3179,serie_B,2024,2025-02-15,Carrarese,Salernitana,3,2,2,1,H
+3180,serie_B,2024,2025-02-15,Bari,Cremonese,1,1,0,1,D
+3181,serie_B,2024,2025-02-16,Frosinone,Reggiana,1,1,0,1,D
+3182,serie_B,2024,2025-02-16,Palermo,Mantova,2,2,1,1,D
+3183,serie_B,2024,2025-02-16,Juve Stabia,Cosenza,3,0,1,2,H
+3184,serie_B,2024,2025-02-16,Cesena,Pisa,1,1,0,1,D
+3185,serie_B,2024,2025-02-21,Sampdoria,Sassuolo,0,0,0,0,D
+3186,serie_B,2024,2025-02-22,Cittadella,Modena,0,2,0,0,A
+3187,serie_B,2024,2025-02-22,Pisa,Juve Stabia,3,1,0,3,H
+3188,serie_B,2024,2025-02-22,Reggiana,Carrarese,2,2,1,1,D
+3189,serie_B,2024,2025-02-22,Mantova,Bari,0,1,0,0,A
+3190,serie_B,2024,2025-02-22,Cremonese,Cesena,1,2,1,0,A
+3191,serie_B,2024,2025-02-23,Spezia,Catanzaro,0,1,0,0,A
+3192,serie_B,2024,2025-02-23,Brescia,Sudtirol,0,0,0,0,D
+3193,serie_B,2024,2025-02-23,Cosenza,Palermo,0,3,0,0,A
+3194,serie_B,2024,2025-02-23,Salernitana,Frosinone,1,1,0,1,D
+3195,serie_B,2024,2025-02-28,Sudtirol,Spezia,1,1,1,0,D
+3196,serie_B,2024,2025-03-01,Cesena,Salernitana,2,0,0,2,H
+3197,serie_B,2024,2025-03-01,Frosinone,Mantova,2,1,2,0,H
+3198,serie_B,2024,2025-03-01,Juve Stabia,Cittadella,0,1,0,0,A
+3199,serie_B,2024,2025-03-01,Carrarese,Cremonese,2,2,2,0,D
+3200,serie_B,2024,2025-03-01,Sassuolo,Pisa,1,0,1,0,H
+3201,serie_B,2024,2025-03-02,Palermo,Brescia,1,0,0,1,H
+3202,serie_B,2024,2025-03-02,Modena,Cosenza,1,1,0,1,D
+3203,serie_B,2024,2025-03-02,Catanzaro,Reggiana,1,1,0,1,D
+3204,serie_B,2024,2025-03-02,Bari,Sampdoria,1,1,0,1,D
+3205,serie_B,2024,2025-03-07,Cosenza,Reggiana,1,0,1,0,H
+3206,serie_B,2024,2025-03-08,Salernitana,Modena,1,0,0,1,H
+3207,serie_B,2024,2025-03-08,Cremonese,Catanzaro,4,0,1,3,H
+3208,serie_B,2024,2025-03-08,Carrarese,Frosinone,0,1,0,0,A
+3209,serie_B,2024,2025-03-08,Mantova,Juve Stabia,1,1,0,1,D
+3210,serie_B,2024,2025-03-08,Sampdoria,Palermo,1,1,1,0,D
+3211,serie_B,2024,2025-03-08,Brescia,Cesena,1,1,1,0,D
+3212,serie_B,2024,2025-03-09,Sassuolo,Bari,1,1,0,1,D
+3213,serie_B,2024,2025-03-09,Spezia,Pisa,3,2,1,2,H
+3214,serie_B,2024,2025-03-09,Cittadella,Sudtirol,1,5,0,1,A
+3215,serie_B,2024,2025-03-14,Palermo,Cremonese,2,3,0,2,A
+3216,serie_B,2024,2025-03-15,Cesena,Spezia,0,0,0,0,D
+3217,serie_B,2024,2025-03-15,Cittadella,Sassuolo,1,2,0,1,A
+3218,serie_B,2024,2025-03-15,Frosinone,Brescia,2,1,1,1,H
+3219,serie_B,2024,2025-03-15,Juve Stabia,Modena,2,1,1,1,H
+3220,serie_B,2024,2025-03-15,Bari,Salernitana,0,0,0,0,D
+3221,serie_B,2024,2025-03-16,Pisa,Mantova,3,1,1,2,H
+3222,serie_B,2024,2025-03-16,Reggiana,Sampdoria,2,2,1,1,D
+3223,serie_B,2024,2025-03-16,Sudtirol,Carrarese,2,2,0,2,D
+3224,serie_B,2024,2025-03-16,Catanzaro,Cosenza,4,0,1,3,H
+3225,serie_B,2024,2025-03-28,Spezia,Brescia,0,1,0,0,A
+3226,serie_B,2024,2025-03-29,Sampdoria,Frosinone,0,3,0,0,A
+3227,serie_B,2024,2025-03-29,Modena,Catanzaro,2,1,1,1,H
+3228,serie_B,2024,2025-03-29,Mantova,Sudtirol,2,0,2,0,H
+3229,serie_B,2024,2025-03-29,Cosenza,Pisa,0,3,0,0,A
+3230,serie_B,2024,2025-03-29,Cremonese,Cittadella,2,2,0,2,D
+3231,serie_B,2024,2025-03-29,Sassuolo,Reggiana,5,1,4,1,H
+3232,serie_B,2024,2025-03-30,Cesena,Juve Stabia,1,2,0,1,A
+3233,serie_B,2024,2025-03-30,Carrarese,Bari,2,1,1,1,H
+3234,serie_B,2024,2025-03-30,Salernitana,Palermo,1,2,0,1,A
+3235,serie_B,2024,2025-04-04,Reggiana,Cremonese,1,2,1,0,A
+3236,serie_B,2024,2025-04-05,Cittadella,Carrarese,0,0,0,0,D
+3237,serie_B,2024,2025-04-05,Frosinone,Cosenza,2,2,1,1,D
+3238,serie_B,2024,2025-04-05,Brescia,Mantova,1,2,1,0,A
+3239,serie_B,2024,2025-04-05,Sudtirol,Cesena,1,1,1,0,D
+3240,serie_B,2024,2025-04-05,Pisa,Modena,1,2,0,1,A
+3241,serie_B,2024,2025-04-05,Juve Stabia,Salernitana,1,0,0,1,H
+3242,serie_B,2024,2025-04-06,Palermo,Sassuolo,5,3,3,2,H
+3243,serie_B,2024,2025-04-06,Catanzaro,Bari,3,3,1,2,D
+3244,serie_B,2024,2025-04-06,Spezia,Sampdoria,2,0,0,2,H
+3245,serie_B,2024,2025-04-11,Bari,Palermo,2,1,1,1,H
+3246,serie_B,2024,2025-04-12,Salernitana,Sudtirol,2,1,0,2,H
+3247,serie_B,2024,2025-04-12,Reggiana,Pisa,0,2,0,0,A
+3248,serie_B,2024,2025-04-12,Carrarese,Catanzaro,2,2,1,1,D
+3249,serie_B,2024,2025-04-12,Cosenza,Brescia,1,1,0,1,D
+3250,serie_B,2024,2025-04-12,Sampdoria,Cittadella,1,0,0,1,H
+3251,serie_B,2024,2025-04-12,Modena,Sassuolo,1,3,0,1,A
+3252,serie_B,2024,2025-04-13,Cesena,Frosinone,1,1,1,0,D
+3253,serie_B,2024,2025-04-13,Cremonese,Juve Stabia,1,1,0,1,D
+3254,serie_B,2024,2025-04-13,Mantova,Spezia,2,2,0,2,D
+3255,serie_B,2024,2025-04-25,Frosinone,Spezia,2,2,2,0,D
+3256,serie_B,2024,2025-04-25,Bari,Modena,1,2,1,0,A
+3257,serie_B,2024,2025-04-25,Salernitana,Cosenza,3,1,0,3,H
+3258,serie_B,2024,2025-04-25,Brescia,Pisa,1,2,0,1,A
+3259,serie_B,2024,2025-04-25,Reggiana,Cittadella,2,1,0,2,H
+3260,serie_B,2024,2025-04-25,Carrarese,Sampdoria,1,0,1,0,H
+3261,serie_B,2024,2025-04-25,Cremonese,Mantova,4,2,1,3,H
+3262,serie_B,2024,2025-04-25,Cesena,Sassuolo,0,2,0,0,A
+3263,serie_B,2024,2025-04-27,Sudtirol,Juve Stabia,2,0,1,1,H
+3264,serie_B,2024,2025-04-27,Catanzaro,Palermo,1,3,0,1,A
+3265,serie_B,2024,2025-05-01,Juve Stabia,Catanzaro,2,0,2,0,H
+3266,serie_B,2024,2025-05-01,Sampdoria,Cremonese,0,0,0,0,D
+3267,serie_B,2024,2025-05-01,Spezia,Salernitana,2,0,1,1,H
+3268,serie_B,2024,2025-05-01,Palermo,Sudtirol,1,2,1,0,A
+3269,serie_B,2024,2025-05-01,Pisa,Frosinone,1,0,0,1,H
+3270,serie_B,2024,2025-05-01,Modena,Reggiana,2,3,2,0,A
+3271,serie_B,2024,2025-05-01,Mantova,Cesena,3,0,1,2,H
+3272,serie_B,2024,2025-05-01,Cosenza,Bari,1,0,1,0,H
+3273,serie_B,2024,2025-05-01,Cittadella,Brescia,0,1,0,0,A
+3274,serie_B,2024,2025-05-01,Sassuolo,Carrarese,2,0,1,1,H
+3275,serie_B,2024,2025-05-04,Bari,Pisa,1,0,1,0,H
+3276,serie_B,2024,2025-05-04,Cesena,Palermo,2,1,1,1,H
+3277,serie_B,2024,2025-05-04,Frosinone,Cittadella,1,1,1,0,D
+3278,serie_B,2024,2025-05-04,Salernitana,Mantova,2,0,1,1,H
+3279,serie_B,2024,2025-05-04,Brescia,Juve Stabia,0,0,0,0,D
+3280,serie_B,2024,2025-05-04,Reggiana,Spezia,2,1,1,1,H
+3281,serie_B,2024,2025-05-04,Sudtirol,Cosenza,2,1,1,1,H
+3282,serie_B,2024,2025-05-04,Carrarese,Modena,2,1,1,1,H
+3283,serie_B,2024,2025-05-04,Catanzaro,Sampdoria,2,2,1,1,D
+3284,serie_B,2024,2025-05-04,Cremonese,Sassuolo,1,1,1,0,D
+3285,serie_B,2024,2025-05-09,Sassuolo,Catanzaro,0,2,0,0,A
+3286,serie_B,2024,2025-05-09,Sampdoria,Salernitana,1,0,1,0,H
+3287,serie_B,2024,2025-05-09,Cittadella,Bari,3,1,0,3,H
+3288,serie_B,2024,2025-05-09,Spezia,Cremonese,2,3,0,2,A
+3289,serie_B,2024,2025-05-09,Palermo,Frosinone,2,0,1,1,H
+3290,serie_B,2024,2025-05-09,Pisa,Sudtirol,3,3,1,2,D
+3291,serie_B,2024,2025-05-09,Juve Stabia,Reggiana,1,2,0,1,A
+3292,serie_B,2024,2025-05-09,Modena,Brescia,2,2,1,1,D
+3293,serie_B,2024,2025-05-09,Mantova,Carrarese,2,1,1,1,H
+3294,serie_B,2024,2025-05-09,Cosenza,Cesena,0,1,0,0,A
+3295,serie_B,2024,2025-05-13,Sassuolo,Frosinone,0,1,0,0,A
+3296,serie_B,2024,2025-05-13,Cittadella,Salernitana,0,2,0,0,A
+3297,serie_B,2024,2025-05-13,Spezia,Cosenza,3,1,3,0,H
+3298,serie_B,2024,2025-05-13,Brescia,Reggiana,2,1,1,1,H
+3299,serie_B,2024,2025-05-13,Palermo,Carrarese,1,1,0,1,D
+3300,serie_B,2024,2025-05-13,Pisa,Cremonese,2,1,1,1,H
+3301,serie_B,2024,2025-05-13,Juve Stabia,Sampdoria,0,0,0,0,D
+3302,serie_B,2024,2025-05-13,Modena,Cesena,0,1,0,0,A
+3303,serie_B,2024,2025-05-13,Sudtirol,Bari,0,0,0,0,D
+3304,serie_B,2024,2025-05-13,Mantova,Catanzaro,0,0,0,0,D
+3305,serie_B,2024,2025-05-17,Catanzaro,Cesena,1,0,0,1,H
+3306,serie_B,2024,2025-05-17,Juve Stabia,Palermo,1,0,0,1,H
+3307,serie_B,2024,2025-05-21,Juve Stabia,Cremonese,2,1,1,1,H
+3308,serie_B,2024,2025-05-21,Catanzaro,Spezia,0,2,0,0,A
+3309,serie_B,2024,2025-05-25,Cremonese,Juve Stabia,3,0,1,2,H
+3310,serie_B,2024,2025-05-25,Spezia,Catanzaro,2,1,1,1,H
+3311,serie_B,2024,2025-05-29,Cremonese,Spezia,0,0,0,0,D
+3312,serie_B,2024,2025-06-01,Spezia,Cremonese,2,3,0,2,A
+3313,serie_B,2024,2025-06-15,Sampdoria,Salernitana,2,0,1,1,H

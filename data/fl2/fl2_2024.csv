@@ -1,0 +1,311 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+760,france_league_2,2024,2024-08-16,Amiens,RED Star FC 93,3,0,1,2,H
+761,france_league_2,2024,2024-08-16,Guingamp,Estac Troyes,4,0,2,2,H
+762,france_league_2,2024,2024-08-16,Ajaccio,Rodez,1,0,0,1,H
+763,france_league_2,2024,2024-08-16,Clermont Foot,PAU,2,2,1,1,D
+764,france_league_2,2024,2024-08-16,Grenoble,Laval,2,1,0,2,H
+765,france_league_2,2024,2024-08-16,Dunkerque,Annecy,0,2,0,0,A
+766,france_league_2,2024,2024-08-17,Caen,Paris FC,0,2,0,0,A
+767,france_league_2,2024,2024-08-19,Metz,Bastia,1,1,0,1,D
+768,france_league_2,2024,2024-08-19,Martigues,Lorient,0,1,0,0,A
+769,france_league_2,2024,2024-08-23,Estac Troyes,Clermont Foot,0,1,0,0,A
+770,france_league_2,2024,2024-08-23,Paris FC,Dunkerque,3,2,0,3,H
+771,france_league_2,2024,2024-08-23,Laval,Guingamp,0,1,0,0,A
+772,france_league_2,2024,2024-08-23,PAU,Caen,1,0,1,0,H
+773,france_league_2,2024,2024-08-23,Rodez,Metz,1,3,0,1,A
+774,france_league_2,2024,2024-08-23,Bastia,Amiens,1,0,0,1,H
+775,france_league_2,2024,2024-08-23,Annecy,Martigues,2,4,1,1,A
+776,france_league_2,2024,2024-08-24,Lorient,Grenoble,2,0,0,2,H
+777,france_league_2,2024,2024-08-26,RED Star FC 93,Ajaccio,1,0,1,0,H
+778,france_league_2,2024,2024-08-30,Caen,Annecy,1,1,0,1,D
+779,france_league_2,2024,2024-08-30,Guingamp,RED Star FC 93,3,4,2,1,A
+780,france_league_2,2024,2024-08-30,Ajaccio,Estac Troyes,2,1,0,2,H
+781,france_league_2,2024,2024-08-30,Clermont Foot,Paris FC,0,1,0,0,A
+782,france_league_2,2024,2024-08-30,Grenoble,PAU,1,1,0,1,D
+783,france_league_2,2024,2024-08-30,Dunkerque,Rodez,1,0,1,0,H
+784,france_league_2,2024,2024-08-30,Martigues,Bastia,0,1,0,0,A
+785,france_league_2,2024,2024-08-31,Amiens,Lorient,1,0,1,0,H
+786,france_league_2,2024,2024-08-31,Metz,Laval,1,1,0,1,D
+787,france_league_2,2024,2024-09-13,Lorient,RED Star FC 93,2,1,1,1,H
+788,france_league_2,2024,2024-09-13,Clermont Foot,Dunkerque,0,1,0,0,A
+789,france_league_2,2024,2024-09-13,Laval,Ajaccio,1,1,1,0,D
+790,france_league_2,2024,2024-09-13,PAU,Martigues,3,0,1,2,H
+791,france_league_2,2024,2024-09-13,Rodez,Guingamp,1,2,0,1,A
+792,france_league_2,2024,2024-09-13,Bastia,Estac Troyes,0,0,0,0,D
+793,france_league_2,2024,2024-09-13,Annecy,Amiens,3,0,1,2,H
+794,france_league_2,2024,2024-09-14,Paris FC,Metz,1,2,1,0,A
+795,france_league_2,2024,2024-09-16,Grenoble,Caen,3,1,2,1,H
+796,france_league_2,2024,2024-09-20,Amiens,Clermont Foot,1,0,1,0,H
+797,france_league_2,2024,2024-09-20,Caen,Ajaccio,1,0,0,1,H
+798,france_league_2,2024,2024-09-20,Guingamp,Annecy,2,2,1,1,D
+799,france_league_2,2024,2024-09-20,RED Star FC 93,Laval,0,3,0,0,A
+800,france_league_2,2024,2024-09-20,Estac Troyes,Rodez,0,3,0,0,A
+801,france_league_2,2024,2024-09-20,Dunkerque,PAU,3,2,2,1,H
+802,france_league_2,2024,2024-09-20,Bastia,Paris FC,2,1,2,0,H
+803,france_league_2,2024,2024-09-20,Martigues,Grenoble,0,4,0,0,A
+804,france_league_2,2024,2024-09-21,Metz,Lorient,1,1,1,0,D
+805,france_league_2,2024,2024-09-24,Caen,Amiens,2,1,1,1,H
+806,france_league_2,2024,2024-09-24,Ajaccio,Grenoble,2,0,0,2,H
+807,france_league_2,2024,2024-09-24,Clermont Foot,RED Star FC 93,1,1,1,0,D
+808,france_league_2,2024,2024-09-24,Metz,Martigues,6,0,3,3,H
+809,france_league_2,2024,2024-09-24,Paris FC,Guingamp,2,0,1,1,H
+810,france_league_2,2024,2024-09-24,PAU,Lorient,1,0,1,0,H
+811,france_league_2,2024,2024-09-24,Rodez,Laval,1,3,1,0,A
+812,france_league_2,2024,2024-09-24,Dunkerque,Bastia,2,1,0,2,H
+813,france_league_2,2024,2024-09-24,Annecy,Estac Troyes,1,0,1,0,H
+814,france_league_2,2024,2024-09-27,Amiens,Rodez,2,1,0,2,H
+815,france_league_2,2024,2024-09-27,Lorient,Ajaccio,3,0,0,3,H
+816,france_league_2,2024,2024-09-27,Grenoble,Clermont Foot,3,0,1,2,H
+817,france_league_2,2024,2024-09-27,Laval,PAU,3,1,2,1,H
+818,france_league_2,2024,2024-09-27,Bastia,Annecy,2,2,1,1,D
+819,france_league_2,2024,2024-09-27,Martigues,Dunkerque,1,1,1,0,D
+820,france_league_2,2024,2024-09-28,RED Star FC 93,Paris FC,1,3,1,0,A
+821,france_league_2,2024,2024-09-28,Estac Troyes,Metz,2,1,1,1,H
+822,france_league_2,2024,2024-09-30,Guingamp,Caen,3,1,1,2,H
+823,france_league_2,2024,2024-10-04,Paris FC,Laval,1,0,0,1,H
+824,france_league_2,2024,2024-10-04,Rodez,Grenoble,2,1,0,2,H
+825,france_league_2,2024,2024-10-04,Dunkerque,Estac Troyes,2,1,0,2,H
+826,france_league_2,2024,2024-10-04,Annecy,RED Star FC 93,1,0,0,1,H
+827,france_league_2,2024,2024-10-05,Caen,Lorient,1,2,1,0,A
+828,france_league_2,2024,2024-10-05,Ajaccio,Martigues,1,1,1,0,D
+829,france_league_2,2024,2024-10-05,Clermont Foot,Guingamp,4,1,2,2,H
+830,france_league_2,2024,2024-10-05,Metz,Amiens,3,2,3,0,H
+831,france_league_2,2024,2024-10-18,Guingamp,PAU,0,1,0,0,A
+832,france_league_2,2024,2024-10-18,Grenoble,Metz,2,0,1,1,H
+833,france_league_2,2024,2024-10-18,RED Star FC 93,Caen,2,2,0,2,D
+834,france_league_2,2024,2024-10-18,Laval,Dunkerque,3,2,3,0,H
+835,france_league_2,2024,2024-10-18,Bastia,Clermont Foot,0,0,0,0,D
+836,france_league_2,2024,2024-10-18,Martigues,Rodez,0,2,0,0,A
+837,france_league_2,2024,2024-10-19,Amiens,Ajaccio,3,1,2,1,H
+838,france_league_2,2024,2024-10-19,Lorient,Annecy,4,2,0,4,H
+839,france_league_2,2024,2024-10-21,Estac Troyes,Paris FC,0,3,0,0,A
+840,france_league_2,2024,2024-10-22,PAU,Bastia,1,1,1,0,D
+841,france_league_2,2024,2024-10-25,Clermont Foot,Martigues,0,1,0,0,A
+842,france_league_2,2024,2024-10-25,Metz,Guingamp,1,0,0,1,H
+843,france_league_2,2024,2024-10-25,PAU,Amiens,0,2,0,0,A
+844,france_league_2,2024,2024-10-25,Rodez,Lorient,3,3,0,3,D
+845,france_league_2,2024,2024-10-25,Dunkerque,RED Star FC 93,2,0,1,1,H
+846,france_league_2,2024,2024-10-25,Annecy,Laval,2,0,1,1,H
+847,france_league_2,2024,2024-10-26,Caen,Estac Troyes,0,1,0,0,A
+848,france_league_2,2024,2024-10-26,Paris FC,Grenoble,2,1,2,0,H
+849,france_league_2,2024,2024-10-29,Amiens,Paris FC,0,0,0,0,D
+850,france_league_2,2024,2024-10-29,Guingamp,Ajaccio,1,0,0,1,H
+851,france_league_2,2024,2024-10-29,Lorient,Dunkerque,4,2,1,3,H
+852,france_league_2,2024,2024-10-29,Grenoble,Annecy,0,0,0,0,D
+853,france_league_2,2024,2024-10-29,RED Star FC 93,Metz,1,0,0,1,H
+854,france_league_2,2024,2024-10-29,Estac Troyes,PAU,3,0,0,3,H
+855,france_league_2,2024,2024-10-29,Laval,Clermont Foot,1,2,1,0,A
+856,france_league_2,2024,2024-10-29,Bastia,Rodez,2,2,1,1,D
+857,france_league_2,2024,2024-10-29,Martigues,Caen,0,3,0,0,A
+858,france_league_2,2024,2024-11-01,Clermont Foot,Lorient,2,1,1,1,H
+859,france_league_2,2024,2024-11-01,Estac Troyes,Laval,0,0,0,0,D
+860,france_league_2,2024,2024-11-01,Paris FC,Rodez,3,3,1,2,D
+861,france_league_2,2024,2024-11-01,Dunkerque,Amiens,3,1,2,1,H
+862,france_league_2,2024,2024-11-01,Annecy,PAU,2,0,1,1,H
+863,france_league_2,2024,2024-11-01,Martigues,RED Star FC 93,0,1,0,0,A
+864,france_league_2,2024,2024-11-02,Caen,Bastia,2,0,1,1,H
+865,france_league_2,2024,2024-11-02,Guingamp,Grenoble,3,0,1,2,H
+866,france_league_2,2024,2024-11-04,Ajaccio,Metz,0,1,0,0,A
+867,france_league_2,2024,2024-11-08,Amiens,Martigues,1,1,0,1,D
+868,france_league_2,2024,2024-11-08,Ajaccio,Clermont Foot,2,0,0,2,H
+869,france_league_2,2024,2024-11-08,Grenoble,Dunkerque,0,1,0,0,A
+870,france_league_2,2024,2024-11-08,RED Star FC 93,Estac Troyes,0,3,0,0,A
+871,france_league_2,2024,2024-11-08,Laval,Bastia,2,2,1,1,D
+872,france_league_2,2024,2024-11-08,Rodez,Annecy,5,1,2,3,H
+873,france_league_2,2024,2024-11-09,Lorient,Guingamp,3,1,2,1,H
+874,france_league_2,2024,2024-11-09,PAU,Paris FC,0,0,0,0,D
+875,france_league_2,2024,2024-11-09,Metz,Caen,1,0,1,0,H
+876,france_league_2,2024,2024-11-22,Caen,Rodez,3,3,1,2,D
+877,france_league_2,2024,2024-11-22,Guingamp,Amiens,3,0,2,1,H
+878,france_league_2,2024,2024-11-22,Clermont Foot,Metz,1,1,1,0,D
+879,france_league_2,2024,2024-11-22,Estac Troyes,Grenoble,0,0,0,0,D
+880,france_league_2,2024,2024-11-22,PAU,RED Star FC 93,4,1,1,3,H
+881,france_league_2,2024,2024-11-22,Martigues,Laval,0,3,0,0,A
+882,france_league_2,2024,2024-11-23,Paris FC,Annecy,0,0,0,0,D
+883,france_league_2,2024,2024-11-23,Bastia,Lorient,0,0,0,0,D
+884,france_league_2,2024,2024-11-25,Dunkerque,Ajaccio,1,0,1,0,H
+885,france_league_2,2024,2024-12-03,Ajaccio,Bastia,0,0,0,0,D
+886,france_league_2,2024,2024-12-06,Lorient,Estac Troyes,2,0,1,1,H
+887,france_league_2,2024,2024-12-06,RED Star FC 93,Bastia,0,0,0,0,D
+888,france_league_2,2024,2024-12-06,Laval,Caen,1,0,1,0,H
+889,france_league_2,2024,2024-12-06,Rodez,PAU,1,0,0,1,H
+890,france_league_2,2024,2024-12-06,Annecy,Clermont Foot,2,0,1,1,H
+891,france_league_2,2024,2024-12-06,Martigues,Guingamp,0,1,0,0,A
+892,france_league_2,2024,2024-12-07,Grenoble,Amiens,0,2,0,0,A
+893,france_league_2,2024,2024-12-07,Ajaccio,Paris FC,0,2,0,0,A
+894,france_league_2,2024,2024-12-09,Metz,Dunkerque,2,0,0,2,H
+895,france_league_2,2024,2024-12-13,Amiens,Laval,1,3,0,1,A
+896,france_league_2,2024,2024-12-13,Clermont Foot,Rodez,1,1,0,1,D
+897,france_league_2,2024,2024-12-13,Estac Troyes,Martigues,4,0,1,3,H
+898,france_league_2,2024,2024-12-13,PAU,Ajaccio,1,0,1,0,H
+899,france_league_2,2024,2024-12-13,Bastia,Guingamp,3,1,0,3,H
+900,france_league_2,2024,2024-12-14,Lorient,Paris FC,2,0,1,1,H
+901,france_league_2,2024,2024-12-14,RED Star FC 93,Grenoble,3,1,3,0,H
+902,france_league_2,2024,2024-12-14,Annecy,Metz,0,0,0,0,D
+903,france_league_2,2024,2024-12-16,Dunkerque,Caen,3,1,0,3,H
+904,france_league_2,2024,2025-01-03,Amiens,Estac Troyes,0,3,0,0,A
+905,france_league_2,2024,2025-01-03,Caen,Clermont Foot,0,1,0,0,A
+906,france_league_2,2024,2025-01-03,Ajaccio,Annecy,1,2,1,0,A
+907,france_league_2,2024,2025-01-03,Grenoble,Bastia,3,2,1,2,H
+908,france_league_2,2024,2025-01-03,Paris FC,Martigues,1,2,1,0,A
+909,france_league_2,2024,2025-01-03,Rodez,RED Star FC 93,0,2,0,0,A
+910,france_league_2,2024,2025-01-04,Guingamp,Dunkerque,1,1,0,1,D
+911,france_league_2,2024,2025-01-04,Metz,PAU,0,0,0,0,D
+912,france_league_2,2024,2025-01-04,Laval,Lorient,2,0,0,2,H
+913,france_league_2,2024,2025-01-10,Laval,RED Star FC 93,1,1,1,0,D
+914,france_league_2,2024,2025-01-10,PAU,Dunkerque,1,1,0,1,D
+915,france_league_2,2024,2025-01-10,Rodez,Estac Troyes,2,1,1,1,H
+916,france_league_2,2024,2025-01-10,Annecy,Guingamp,1,4,0,1,A
+917,france_league_2,2024,2025-01-10,Martigues,Clermont Foot,0,1,0,0,A
+918,france_league_2,2024,2025-01-11,Caen,Grenoble,0,1,0,0,A
+919,france_league_2,2024,2025-01-11,Paris FC,Amiens,1,0,0,1,H
+920,france_league_2,2024,2025-01-11,Bastia,Ajaccio,4,0,3,1,H
+921,france_league_2,2024,2025-01-11,Lorient,Metz,0,0,0,0,D
+922,france_league_2,2024,2025-01-17,Amiens,Bastia,1,0,0,1,H
+923,france_league_2,2024,2025-01-17,Guingamp,Rodez,3,0,1,2,H
+924,france_league_2,2024,2025-01-17,Ajaccio,Caen,2,1,0,2,H
+925,france_league_2,2024,2025-01-17,Grenoble,Martigues,1,0,0,1,H
+926,france_league_2,2024,2025-01-17,RED Star FC 93,PAU,1,3,1,0,A
+927,france_league_2,2024,2025-01-18,Clermont Foot,Laval,1,1,0,1,D
+928,france_league_2,2024,2025-01-18,Metz,Paris FC,3,1,1,2,H
+929,france_league_2,2024,2025-01-18,Dunkerque,Lorient,0,1,0,0,A
+930,france_league_2,2024,2025-01-20,Estac Troyes,Annecy,0,1,0,0,A
+931,france_league_2,2024,2025-01-24,Caen,Guingamp,0,1,0,0,A
+932,france_league_2,2024,2025-01-24,Metz,Grenoble,3,0,1,2,H
+933,france_league_2,2024,2025-01-24,Laval,Estac Troyes,1,0,0,1,H
+934,france_league_2,2024,2025-01-24,Rodez,Ajaccio,1,2,0,1,A
+935,france_league_2,2024,2025-01-24,Bastia,PAU,1,1,0,1,D
+936,france_league_2,2024,2025-01-24,Martigues,Amiens,3,0,3,0,H
+937,france_league_2,2024,2025-01-25,Paris FC,RED Star FC 93,4,1,1,3,H
+938,france_league_2,2024,2025-01-25,Lorient,Clermont Foot,3,2,2,1,H
+939,france_league_2,2024,2025-01-27,Annecy,Dunkerque,0,2,0,0,A
+940,france_league_2,2024,2025-01-31,Amiens,Annecy,1,0,1,0,H
+941,france_league_2,2024,2025-01-31,Clermont Foot,Ajaccio,0,1,0,0,A
+942,france_league_2,2024,2025-01-31,Grenoble,Rodez,2,1,1,1,H
+943,france_league_2,2024,2025-01-31,PAU,Laval,1,1,0,1,D
+944,france_league_2,2024,2025-01-31,Dunkerque,Martigues,0,1,0,0,A
+945,france_league_2,2024,2025-01-31,Bastia,Metz,1,1,1,0,D
+946,france_league_2,2024,2025-02-01,RED Star FC 93,Lorient,1,2,0,1,A
+947,france_league_2,2024,2025-02-01,Estac Troyes,Caen,3,0,0,3,H
+948,france_league_2,2024,2025-02-01,Guingamp,Paris FC,0,1,0,0,A
+949,france_league_2,2024,2025-02-07,Grenoble,RED Star FC 93,0,0,0,0,D
+950,france_league_2,2024,2025-02-07,Paris FC,PAU,3,1,1,2,H
+951,france_league_2,2024,2025-02-07,Laval,Annecy,0,1,0,0,A
+952,france_league_2,2024,2025-02-07,Rodez,Bastia,0,2,0,0,A
+953,france_league_2,2024,2025-02-07,Martigues,Estac Troyes,1,2,0,1,A
+954,france_league_2,2024,2025-02-08,Lorient,Amiens,3,1,1,2,H
+955,france_league_2,2024,2025-02-08,Ajaccio,Guingamp,0,3,0,0,A
+956,france_league_2,2024,2025-02-08,Metz,Clermont Foot,3,1,2,1,H
+957,france_league_2,2024,2025-02-10,Caen,Dunkerque,0,2,0,0,A
+958,france_league_2,2024,2025-02-14,Amiens,Grenoble,1,4,1,0,A
+959,france_league_2,2024,2025-02-14,Ajaccio,Laval,3,0,2,1,H
+960,france_league_2,2024,2025-02-14,Clermont Foot,Bastia,1,1,0,1,D
+961,france_league_2,2024,2025-02-14,RED Star FC 93,Martigues,1,0,0,1,H
+962,france_league_2,2024,2025-02-14,Estac Troyes,Lorient,0,1,0,0,A
+963,france_league_2,2024,2025-02-14,PAU,Rodez,0,5,0,0,A
+964,france_league_2,2024,2025-02-15,Dunkerque,Paris FC,1,0,0,1,H
+965,france_league_2,2024,2025-02-15,Guingamp,Metz,0,3,0,0,A
+966,france_league_2,2024,2025-02-17,Annecy,Caen,1,0,1,0,H
+967,france_league_2,2024,2025-02-21,Grenoble,Guingamp,1,1,1,0,D
+968,france_league_2,2024,2025-02-21,Paris FC,Estac Troyes,1,0,0,1,H
+969,france_league_2,2024,2025-02-21,Rodez,Amiens,1,1,1,0,D
+970,france_league_2,2024,2025-02-21,Dunkerque,Clermont Foot,3,0,2,1,H
+971,france_league_2,2024,2025-02-21,Bastia,RED Star FC 93,1,0,0,1,H
+972,france_league_2,2024,2025-02-21,Martigues,Annecy,2,0,1,1,H
+973,france_league_2,2024,2025-02-22,Caen,PAU,2,2,1,1,D
+974,france_league_2,2024,2025-02-22,Lorient,Laval,0,1,0,0,A
+975,france_league_2,2024,2025-02-22,Metz,Ajaccio,0,1,0,0,A
+976,france_league_2,2024,2025-02-28,Clermont Foot,Caen,0,1,0,0,A
+977,france_league_2,2024,2025-02-28,Estac Troyes,Bastia,2,0,1,1,H
+978,france_league_2,2024,2025-02-28,Laval,Martigues,0,1,0,0,A
+979,france_league_2,2024,2025-02-28,PAU,Grenoble,1,0,0,1,H
+980,france_league_2,2024,2025-02-28,Annecy,Paris FC,2,3,1,1,A
+981,france_league_2,2024,2025-03-01,Amiens,Metz,1,2,1,0,A
+982,france_league_2,2024,2025-03-01,RED Star FC 93,Guingamp,3,1,1,2,H
+983,france_league_2,2024,2025-03-01,Lorient,Rodez,3,1,1,2,H
+984,france_league_2,2024,2025-03-03,Ajaccio,Dunkerque,1,2,0,1,A
+985,france_league_2,2024,2025-03-07,Caen,Laval,0,1,0,0,A
+986,france_league_2,2024,2025-03-07,Guingamp,Clermont Foot,3,1,0,3,H
+987,france_league_2,2024,2025-03-07,Grenoble,Ajaccio,2,2,1,1,D
+988,france_league_2,2024,2025-03-07,RED Star FC 93,Amiens,2,0,1,1,H
+989,france_league_2,2024,2025-03-07,PAU,Estac Troyes,0,2,0,0,A
+990,france_league_2,2024,2025-03-07,Bastia,Martigues,1,0,1,0,H
+991,france_league_2,2024,2025-03-08,Paris FC,Lorient,3,2,3,0,H
+992,france_league_2,2024,2025-03-08,Metz,Annecy,5,1,2,3,H
+993,france_league_2,2024,2025-03-10,Rodez,Dunkerque,5,1,0,5,H
+994,france_league_2,2024,2025-03-14,Amiens,Caen,2,1,0,2,H
+995,france_league_2,2024,2025-03-14,Ajaccio,RED Star FC 93,2,1,0,2,H
+996,france_league_2,2024,2025-03-14,Clermont Foot,Grenoble,0,0,0,0,D
+997,france_league_2,2024,2025-03-14,Estac Troyes,Guingamp,0,1,0,0,A
+998,france_league_2,2024,2025-03-14,Annecy,Rodez,1,1,0,1,D
+999,france_league_2,2024,2025-03-14,Martigues,PAU,2,2,1,1,D
+1000,france_league_2,2024,2025-03-15,Laval,Paris FC,3,0,1,2,H
+1001,france_league_2,2024,2025-03-15,Dunkerque,Metz,2,3,0,2,A
+1002,france_league_2,2024,2025-03-15,Lorient,Bastia,4,0,2,2,H
+1003,france_league_2,2024,2025-03-28,Clermont Foot,Amiens,1,1,1,0,D
+1004,france_league_2,2024,2025-03-28,RED Star FC 93,Rodez,1,1,1,0,D
+1005,france_league_2,2024,2025-03-28,Metz,Estac Troyes,2,1,1,1,H
+1006,france_league_2,2024,2025-03-28,PAU,Annecy,1,0,0,1,H
+1007,france_league_2,2024,2025-03-28,Bastia,Dunkerque,2,0,1,1,H
+1008,france_league_2,2024,2025-03-28,Martigues,Ajaccio,2,0,2,0,H
+1009,france_league_2,2024,2025-03-29,Grenoble,Lorient,1,2,1,0,A
+1010,france_league_2,2024,2025-03-29,Guingamp,Laval,2,0,2,0,H
+1011,france_league_2,2024,2025-03-31,Paris FC,Caen,4,2,3,1,H
+1012,france_league_2,2024,2025-04-04,Ajaccio,Amiens,2,1,1,1,H
+1013,france_league_2,2024,2025-04-04,Paris FC,Clermont Foot,2,0,1,1,H
+1014,france_league_2,2024,2025-04-04,Laval,Grenoble,1,2,1,0,A
+1015,france_league_2,2024,2025-04-04,Rodez,Martigues,1,0,0,1,H
+1016,france_league_2,2024,2025-04-04,Annecy,Bastia,1,1,1,0,D
+1017,france_league_2,2024,2025-04-05,Caen,Metz,2,2,0,2,D
+1018,france_league_2,2024,2025-04-05,Lorient,PAU,5,0,1,4,H
+1019,france_league_2,2024,2025-04-05,Estac Troyes,RED Star FC 93,2,2,2,0,D
+1020,france_league_2,2024,2025-04-07,Dunkerque,Guingamp,3,1,0,3,H
+1021,france_league_2,2024,2025-04-11,Amiens,Dunkerque,1,0,0,1,H
+1022,france_league_2,2024,2025-04-11,RED Star FC 93,Annecy,0,1,0,0,A
+1023,france_league_2,2024,2025-04-11,Estac Troyes,Ajaccio,0,0,0,0,D
+1024,france_league_2,2024,2025-04-11,PAU,Clermont Foot,2,2,1,1,D
+1025,france_league_2,2024,2025-04-11,Rodez,Caen,2,2,0,2,D
+1026,france_league_2,2024,2025-04-11,Martigues,Metz,1,4,1,0,A
+1027,france_league_2,2024,2025-04-12,Guingamp,Lorient,1,2,0,1,A
+1028,france_league_2,2024,2025-04-12,Grenoble,Paris FC,1,2,0,1,A
+1029,france_league_2,2024,2025-04-14,Bastia,Laval,5,2,2,3,H
+1030,france_league_2,2024,2025-04-18,Amiens,Guingamp,3,2,2,1,H
+1031,france_league_2,2024,2025-04-18,Caen,Martigues,0,3,0,0,A
+1032,france_league_2,2024,2025-04-18,Ajaccio,PAU,1,1,0,1,D
+1033,france_league_2,2024,2025-04-18,Clermont Foot,Estac Troyes,0,2,0,0,A
+1034,france_league_2,2024,2025-04-18,Laval,Rodez,2,1,1,1,H
+1035,france_league_2,2024,2025-04-18,Dunkerque,Grenoble,2,0,0,2,H
+1036,france_league_2,2024,2025-04-19,Paris FC,Bastia,1,0,1,0,H
+1037,france_league_2,2024,2025-04-19,Metz,RED Star FC 93,2,2,1,1,D
+1038,france_league_2,2024,2025-04-21,Annecy,Lorient,0,0,0,0,D
+1039,france_league_2,2024,2025-04-25,Guingamp,Martigues,2,1,1,1,H
+1040,france_league_2,2024,2025-04-25,RED Star FC 93,Clermont Foot,1,1,1,0,D
+1041,france_league_2,2024,2025-04-25,Estac Troyes,Dunkerque,1,0,1,0,H
+1042,france_league_2,2024,2025-04-25,Laval,Amiens,1,0,0,1,H
+1043,france_league_2,2024,2025-04-25,Bastia,Grenoble,2,3,1,1,A
+1044,france_league_2,2024,2025-04-25,Annecy,Ajaccio,2,0,0,2,H
+1045,france_league_2,2024,2025-04-26,Rodez,Paris FC,1,1,0,1,D
+1046,france_league_2,2024,2025-04-26,Lorient,Caen,4,0,2,2,H
+1047,france_league_2,2024,2025-04-26,PAU,Metz,2,1,0,2,H
+1048,france_league_2,2024,2025-05-02,Amiens,PAU,4,2,3,1,H
+1049,france_league_2,2024,2025-05-02,Caen,RED Star FC 93,1,1,0,1,D
+1050,france_league_2,2024,2025-05-02,Guingamp,Bastia,2,2,1,1,D
+1051,france_league_2,2024,2025-05-02,Ajaccio,Lorient,2,1,1,1,H
+1052,france_league_2,2024,2025-05-02,Clermont Foot,Annecy,3,2,2,1,H
+1053,france_league_2,2024,2025-05-02,Grenoble,Estac Troyes,3,1,2,1,H
+1054,france_league_2,2024,2025-05-02,Metz,Rodez,3,3,0,3,D
+1055,france_league_2,2024,2025-05-02,Dunkerque,Laval,0,0,0,0,D
+1056,france_league_2,2024,2025-05-02,Martigues,Paris FC,1,1,0,1,D
+1057,france_league_2,2024,2025-05-10,Lorient,Martigues,5,1,1,4,H
+1058,france_league_2,2024,2025-05-10,RED Star FC 93,Dunkerque,1,1,1,0,D
+1059,france_league_2,2024,2025-05-10,Estac Troyes,Amiens,1,0,0,1,H
+1060,france_league_2,2024,2025-05-10,Paris FC,Ajaccio,2,0,0,2,H
+1061,france_league_2,2024,2025-05-10,Laval,Metz,2,3,0,2,A
+1062,france_league_2,2024,2025-05-10,PAU,Guingamp,1,3,1,0,A
+1063,france_league_2,2024,2025-05-10,Rodez,Clermont Foot,1,1,1,0,D
+1064,france_league_2,2024,2025-05-10,Bastia,Caen,2,1,1,1,H
+1065,france_league_2,2024,2025-05-10,Annecy,Grenoble,3,1,1,2,H
+1066,france_league_2,2024,2025-05-14,Dunkerque,Guingamp,1,0,0,1,H
+1067,france_league_2,2024,2025-05-17,Metz,Dunkerque,1,0,0,1,H
+1068,france_league_2,2024,2025-05-20,Boulogne,Clermont Foot,1,3,1,0,A
+1069,france_league_2,2024,2025-05-25,Clermont Foot,Boulogne,1,2,0,1,A

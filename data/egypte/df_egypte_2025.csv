@@ -1,0 +1,80 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+835,2025,2025-08-08,Wadi Degla,Pyramids FC,0,0,0,0,D
+836,2025,2025-08-08,AL Masry,Al Ittihad,3,1,1,2,H
+837,2025,2025-08-08,Ceramica Cleopatra,Zamalek SC,0,2,0,0,A
+838,2025,2025-08-09,Smouha SC,El Geish,1,1,1,0,D
+839,2025,2025-08-09,El Mokawloon,Masr,0,2,0,0,A
+840,2025,2025-08-09,Ismaily SC,Petrojet,0,0,0,0,D
+841,2025,2025-08-09,Future FC,Al Ahly,2,2,0,2,D
+842,2025,2025-08-10,Kahraba Ismailia,El Gouna FC,0,1,0,0,A
+843,2025,2025-08-10,National Bank of Egypt,Ghazl El Mehalla,0,0,0,0,D
+844,2025,2025-08-10,Pharco,Enppi,0,0,0,0,D
+845,2025,2025-08-14,Al Ittihad,Future FC,1,2,0,1,A
+846,2025,2025-08-14,Masr,Ceramica Cleopatra,0,0,0,0,D
+847,2025,2025-08-14,Pyramids FC,Ismaily SC,1,0,0,1,H
+848,2025,2025-08-14,El Geish,AL Masry,0,3,0,0,A
+849,2025,2025-08-15,Petrojet,Kahraba Ismailia,2,2,2,0,D
+850,2025,2025-08-15,Haras El Hodood,National Bank of Egypt,1,0,1,0,H
+851,2025,2025-08-15,Al Ahly,Pharco,4,1,2,2,H
+852,2025,2025-08-16,Enppi,Wadi Degla,1,0,0,1,H
+853,2025,2025-08-16,Zamalek SC,El Mokawloon,0,0,0,0,D
+854,2025,2025-08-16,Ghazl El Mehalla,Smouha SC,0,0,0,0,D
+855,2025,2025-08-19,National Bank of Egypt,Kahraba Ismailia,1,1,0,1,D
+856,2025,2025-08-19,Pharco,El Geish,0,1,0,0,A
+857,2025,2025-08-19,Ismaily SC,Al Ittihad,0,1,0,0,A
+858,2025,2025-08-19,AL Masry,Pyramids FC,2,2,0,2,D
+859,2025,2025-08-20,Ceramica Cleopatra,Enppi,2,0,0,2,H
+860,2025,2025-08-20,Wadi Degla,Petrojet,0,1,0,0,A
+861,2025,2025-08-20,El Gouna FC,Ghazl El Mehalla,0,0,0,0,D
+862,2025,2025-08-21,El Mokawloon,Haras El Hodood,0,0,0,0,D
+863,2025,2025-08-21,Smouha SC,Masr,1,1,1,0,D
+864,2025,2025-08-21,Future FC,Zamalek SC,1,2,0,1,A
+865,2025,2025-08-24,Al Ittihad,National Bank of Egypt,0,0,0,0,D
+866,2025,2025-08-24,Enppi,El Gouna FC,0,0,0,0,D
+867,2025,2025-08-24,El Geish,Ismaily SC,0,1,0,0,A
+868,2025,2025-08-25,Masr,Wadi Degla,1,2,1,0,A
+869,2025,2025-08-25,Ghazl El Mehalla,Al Ahly,0,0,0,0,D
+870,2025,2025-08-25,Pyramids FC,Future FC,1,2,0,1,A
+871,2025,2025-08-25,Petrojet,El Mokawloon,1,0,0,1,H
+872,2025,2025-08-26,Kahraba Ismailia,Smouha SC,1,2,0,1,A
+873,2025,2025-08-26,Zamalek SC,Pharco,1,0,0,1,H
+874,2025,2025-08-26,Haras El Hodood,AL Masry,1,1,0,1,D
+875,2025,2025-08-29,El Mokawloon,Ceramica Cleopatra,0,1,0,0,A
+876,2025,2025-08-29,Al Ittihad,Enppi,0,3,0,0,A
+877,2025,2025-08-29,National Bank of Egypt,El Geish,0,0,0,0,D
+878,2025,2025-08-30,El Gouna FC,Masr,1,1,0,1,D
+879,2025,2025-08-30,Ismaily SC,Ghazl El Mehalla,0,3,0,0,A
+880,2025,2025-08-30,Al Ahly,Pyramids FC,0,2,0,0,A
+881,2025,2025-08-31,AL Masry,Kahraba Ismailia,4,0,0,4,H
+882,2025,2025-08-31,Future FC,Haras El Hodood,1,0,1,0,H
+883,2025,2025-08-31,Smouha SC,Petrojet,0,0,0,0,D
+884,2025,2025-08-31,Wadi Degla,Zamalek SC,2,1,0,2,H
+885,2025,2025-09-12,Petrojet,National Bank of Egypt,0,3,0,0,A
+886,2025,2025-09-12,Masr,Ismaily SC,1,0,0,1,H
+887,2025,2025-09-12,Pharco,Al Ittihad,0,0,0,0,D
+888,2025,2025-09-13,Haras El Hodood,El Gouna FC,2,1,1,1,H
+889,2025,2025-09-13,Ghazl El Mehalla,El Mokawloon,1,1,0,1,D
+890,2025,2025-09-13,Zamalek SC,AL Masry,3,0,1,2,H
+891,2025,2025-09-13,Ceramica Cleopatra,Smouha SC,1,0,0,1,H
+892,2025,2025-09-14,El Geish,Future FC,1,0,1,0,H
+893,2025,2025-09-14,Enppi,Al Ahly,1,1,0,1,D
+894,2025,2025-09-14,Kahraba Ismailia,Wadi Degla,1,4,1,0,A
+895,2025,2025-09-17,El Mokawloon,Pharco,1,1,1,0,D
+896,2025,2025-09-17,AL Masry,Ghazl El Mehalla,2,1,1,1,H
+897,2025,2025-09-17,El Gouna FC,Petrojet,1,1,0,1,D
+898,2025,2025-09-18,Ismaily SC,Zamalek SC,0,2,0,0,A
+899,2025,2025-09-18,Future FC,Enppi,2,2,0,2,D
+900,2025,2025-09-18,Pyramids FC,Masr,1,0,0,1,H
+901,2025,2025-09-18,Al Ittihad,Kahraba Ismailia,0,1,0,0,A
+902,2025,2025-09-19,Wadi Degla,El Geish,1,0,0,1,H
+903,2025,2025-09-19,Smouha SC,Haras El Hodood,1,0,1,0,H
+904,2025,2025-09-19,Al Ahly,Ceramica Cleopatra,1,0,1,0,H
+905,2025,2025-09-22,Pharco,AL Masry,0,0,0,0,D
+906,2025,2025-09-22,Petrojet,Ghazl El Mehalla,0,0,0,0,D
+907,2025,2025-09-22,Masr,Al Ittihad,1,0,1,0,H
+908,2025,2025-09-23,Haras El Hodood,Al Ahly,2,3,1,1,A
+909,2025,2025-09-23,El Geish,El Mokawloon,0,0,0,0,D
+910,2025,2025-09-23,Zamalek SC,El Gouna FC,1,1,1,0,D
+911,2025,2025-09-24,Enppi,Ismaily SC,1,0,0,1,H
+912,2025,2025-09-24,Ceramica Cleopatra,Future FC,2,0,0,2,H
+913,2025,2025-09-24,National Bank of Egypt,Wadi Degla,1,1,0,1,D

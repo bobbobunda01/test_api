@@ -1,0 +1,16 @@
+joblib
+pydantic
+flask
+numpy 
+pandas
+gunicorn
+scikit-learn
+pathlib
+typing
+logging
+parse
+xgboost
+datetime
+lru_cache
+requests
+openai

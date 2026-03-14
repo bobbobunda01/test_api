@@ -1,0 +1,152 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+574,can_qualification,2025,2024-03-19,Djibouti,Liberia,0,2,0,0,A
+575,can_qualification,2025,2024-03-20,Somalia,Eswatini,0,3,0,0,A
+576,can_qualification,2025,2024-03-22,Chad,Mauritius,1,0,0,1,H
+577,can_qualification,2025,2024-03-22,Sao Tome and Principe,South Sudan,1,1,0,1,D
+578,can_qualification,2025,2024-03-26,Eswatini,Somalia,2,2,0,2,D
+579,can_qualification,2025,2024-03-26,Mauritius,Chad,1,2,1,0,A
+580,can_qualification,2025,2024-03-26,Liberia,Djibouti,0,0,0,0,D
+581,can_qualification,2025,2024-03-26,South Sudan,Sao Tome and Principe,0,0,0,0,D
+582,can_qualification,2025,2024-09-04,Sudan,Niger,1,0,0,1,H
+583,can_qualification,2025,2024-09-04,Comoros,Gambia,1,1,1,0,D
+584,can_qualification,2025,2024-09-04,Tanzania,Ethiopia,0,0,0,0,D
+585,can_qualification,2025,2024-09-04,Libya,Rwanda,1,1,1,0,D
+586,can_qualification,2025,2024-09-05,Malawi,Burundi,2,3,1,1,A
+587,can_qualification,2025,2024-09-05,Central African Republic,Lesotho,3,1,2,1,H
+588,can_qualification,2025,2024-09-05,Ghana,Angola,0,1,0,0,A
+589,can_qualification,2025,2024-09-05,Guinea-Bissau,Eswatini,1,0,1,0,H
+590,can_qualification,2025,2024-09-05,Congo,South Sudan,1,0,1,0,H
+591,can_qualification,2025,2024-09-05,Tunisia,Madagascar,1,0,0,1,H
+592,can_qualification,2025,2024-09-05,Algeria,Equatorial Guinea,2,0,0,2,H
+593,can_qualification,2025,2024-09-06,Kenya,Zimbabwe,0,0,0,0,D
+594,can_qualification,2025,2024-09-06,Sierra Leone,Chad,0,0,0,0,D
+595,can_qualification,2025,2024-09-06,Congo DR,Guinea,1,0,1,0,H
+596,can_qualification,2025,2024-09-06,South Africa,Uganda,2,2,1,1,D
+597,can_qualification,2025,2024-09-06,Togo,Liberia,1,1,0,1,D
+598,can_qualification,2025,2024-09-06,Morocco,Gabon,4,1,2,2,H
+599,can_qualification,2025,2024-09-06,Senegal,Burkina Faso,1,1,1,0,D
+600,can_qualification,2025,2024-09-06,Egypt,Cape Verde Islands,3,0,2,1,H
+601,can_qualification,2025,2024-09-06,Mali,Mozambique,1,1,0,1,D
+602,can_qualification,2025,2024-09-06,Ivory Coast,Zambia,2,0,0,2,H
+603,can_qualification,2025,2024-09-07,Nigeria,Benin,3,0,1,2,H
+604,can_qualification,2025,2024-09-07,Mauritania,Botswana,1,0,0,1,H
+605,can_qualification,2025,2024-09-07,Cameroon,Namibia,1,0,0,1,H
+606,can_qualification,2025,2024-09-08,Gambia,Tunisia,1,2,1,0,A
+607,can_qualification,2025,2024-09-09,Burundi,Senegal,0,1,0,0,A
+608,can_qualification,2025,2024-09-09,Niger,Ghana,1,1,0,1,D
+609,can_qualification,2025,2024-09-09,Equatorial Guinea,Togo,2,2,1,1,D
+610,can_qualification,2025,2024-09-09,Madagascar,Comoros,1,1,1,0,D
+611,can_qualification,2025,2024-09-09,Uganda,Congo,2,0,1,1,H
+612,can_qualification,2025,2024-09-09,Lesotho,Morocco,0,1,0,0,A
+613,can_qualification,2025,2024-09-09,Ethiopia,Congo DR,0,2,0,0,A
+614,can_qualification,2025,2024-09-09,Angola,Sudan,2,1,0,2,H
+615,can_qualification,2025,2024-09-10,South Sudan,South Africa,2,3,1,1,A
+616,can_qualification,2025,2024-09-10,Mozambique,Guinea-Bissau,2,1,1,1,H
+617,can_qualification,2025,2024-09-10,Rwanda,Nigeria,0,0,0,0,D
+618,can_qualification,2025,2024-09-10,Botswana,Egypt,0,4,0,0,A
+619,can_qualification,2025,2024-09-10,Eswatini,Mali,0,1,0,0,A
+620,can_qualification,2025,2024-09-10,Namibia,Kenya,1,2,0,1,A
+621,can_qualification,2025,2024-09-10,Gabon,Central African Republic,2,0,2,0,H
+622,can_qualification,2025,2024-09-10,Guinea,Tanzania,1,2,0,1,A
+623,can_qualification,2025,2024-09-10,Zimbabwe,Cameroon,0,0,0,0,D
+624,can_qualification,2025,2024-09-10,Liberia,Algeria,0,3,0,0,A
+625,can_qualification,2025,2024-09-10,Burkina Faso,Malawi,3,1,2,1,H
+626,can_qualification,2025,2024-09-10,Zambia,Sierra Leone,3,2,1,2,H
+627,can_qualification,2025,2024-09-10,Benin,Libya,2,1,0,2,H
+628,can_qualification,2025,2024-09-10,Chad,Ivory Coast,0,2,0,0,A
+629,can_qualification,2025,2024-09-10,Cape Verde Islands,Mauritania,2,0,1,1,H
+630,can_qualification,2025,2024-10-10,Namibia,Zimbabwe,0,1,0,0,A
+631,can_qualification,2025,2024-10-10,Ghana,Sudan,0,0,0,0,D
+632,can_qualification,2025,2024-10-10,Congo DR,Tanzania,1,0,0,1,H
+633,can_qualification,2025,2024-10-10,Cape Verde Islands,Botswana,0,1,0,0,A
+634,can_qualification,2025,2024-10-10,Burkina Faso,Burundi,4,1,3,1,H
+635,can_qualification,2025,2024-10-10,Algeria,Togo,5,1,1,4,H
+636,can_qualification,2025,2024-10-11,Zambia,Chad,0,0,0,0,D
+637,can_qualification,2025,2024-10-11,Mozambique,Eswatini,1,1,0,1,D
+638,can_qualification,2025,2024-10-11,Equatorial Guinea,Liberia,1,0,1,0,H
+639,can_qualification,2025,2024-10-11,Madagascar,Gambia,1,1,1,0,D
+640,can_qualification,2025,2024-10-11,Nigeria,Libya,1,0,0,1,H
+641,can_qualification,2025,2024-10-11,Egypt,Mauritania,2,0,0,2,H
+642,can_qualification,2025,2024-10-11,Benin,Rwanda,3,0,1,2,H
+643,can_qualification,2025,2024-10-11,Uganda,South Sudan,1,0,0,1,H
+644,can_qualification,2025,2024-10-11,Cameroon,Kenya,4,1,3,1,H
+645,can_qualification,2025,2024-10-11,South Africa,Congo,5,0,3,2,H
+646,can_qualification,2025,2024-10-11,Senegal,Malawi,4,0,1,3,H
+647,can_qualification,2025,2024-10-11,Tunisia,Comoros,0,1,0,0,A
+648,can_qualification,2025,2024-10-11,Mali,Guinea-Bissau,1,0,0,1,H
+649,can_qualification,2025,2024-10-11,Ivory Coast,Sierra Leone,4,1,1,3,H
+650,can_qualification,2025,2024-10-11,Gabon,Lesotho,0,0,0,0,D
+651,can_qualification,2025,2024-10-11,Angola,Niger,2,0,0,2,H
+652,can_qualification,2025,2024-10-12,Guinea,Ethiopia,4,1,3,1,H
+653,can_qualification,2025,2024-10-12,Morocco,Central African Republic,5,0,4,1,H
+654,can_qualification,2025,2024-10-13,Burundi,Burkina Faso,0,2,0,0,A
+655,can_qualification,2025,2024-10-14,Kenya,Cameroon,0,1,0,0,A
+656,can_qualification,2025,2024-10-14,Gambia,Madagascar,1,0,0,1,H
+657,can_qualification,2025,2024-10-14,Zimbabwe,Namibia,3,1,0,3,H
+658,can_qualification,2025,2024-10-14,Liberia,Equatorial Guinea,1,2,0,1,A
+659,can_qualification,2025,2024-10-14,Togo,Algeria,0,1,0,0,A
+660,can_qualification,2025,2024-10-14,Eswatini,Mozambique,0,3,0,0,A
+661,can_qualification,2025,2024-10-15,Tanzania,Congo DR,0,2,0,0,A
+662,can_qualification,2025,2024-10-15,Malawi,Senegal,0,1,0,0,A
+663,can_qualification,2025,2024-10-15,South Sudan,Uganda,1,2,1,0,A
+664,can_qualification,2025,2024-10-15,Sudan,Ghana,2,0,0,2,H
+665,can_qualification,2025,2024-10-15,Lesotho,Gabon,0,2,0,0,A
+666,can_qualification,2025,2024-10-15,Chad,Zambia,0,1,0,0,A
+667,can_qualification,2025,2024-10-15,Mauritania,Egypt,0,1,0,0,A
+668,can_qualification,2025,2024-10-15,Sierra Leone,Ivory Coast,1,0,0,1,H
+669,can_qualification,2025,2024-10-15,Niger,Angola,0,1,0,0,A
+670,can_qualification,2025,2024-10-15,Guinea-Bissau,Mali,0,0,0,0,D
+671,can_qualification,2025,2024-10-15,Rwanda,Benin,2,1,0,2,H
+672,can_qualification,2025,2024-10-15,Congo,South Africa,1,1,1,0,D
+673,can_qualification,2025,2024-10-15,Botswana,Cape Verde Islands,1,0,0,1,H
+674,can_qualification,2025,2024-10-15,Ethiopia,Guinea,0,3,0,0,A
+675,can_qualification,2025,2024-10-15,Comoros,Tunisia,1,1,0,1,D
+676,can_qualification,2025,2024-10-15,Central African Republic,Morocco,0,4,0,0,A
+677,can_qualification,2025,2024-11-13,Namibia,Cameroon,0,0,0,0,D
+678,can_qualification,2025,2024-11-13,Liberia,Togo,1,0,0,1,H
+679,can_qualification,2025,2024-11-13,Chad,Sierra Leone,1,1,1,0,D
+680,can_qualification,2025,2024-11-14,South Sudan,Congo,3,2,2,1,H
+681,can_qualification,2025,2024-11-14,Lesotho,Central African Republic,1,0,0,1,H
+682,can_qualification,2025,2024-11-14,Equatorial Guinea,Algeria,0,0,0,0,D
+683,can_qualification,2025,2024-11-14,Burundi,Malawi,0,0,0,0,D
+684,can_qualification,2025,2024-11-14,Madagascar,Tunisia,2,3,2,0,A
+685,can_qualification,2025,2024-11-14,Niger,Sudan,4,0,3,1,H
+686,can_qualification,2025,2024-11-14,Rwanda,Libya,0,1,0,0,A
+687,can_qualification,2025,2024-11-14,Burkina Faso,Senegal,0,1,0,0,A
+688,can_qualification,2025,2024-11-14,Benin,Nigeria,1,1,1,0,D
+689,can_qualification,2025,2024-11-15,Uganda,South Africa,0,2,0,0,A
+690,can_qualification,2025,2024-11-15,Botswana,Mauritania,1,1,1,0,D
+691,can_qualification,2025,2024-11-15,Zambia,Ivory Coast,1,0,1,0,H
+692,can_qualification,2025,2024-11-15,Mozambique,Mali,0,1,0,0,A
+693,can_qualification,2025,2024-11-15,Zimbabwe,Kenya,1,1,1,0,D
+694,can_qualification,2025,2024-11-15,Cape Verde Islands,Egypt,1,1,0,1,D
+695,can_qualification,2025,2024-11-15,Eswatini,Guinea-Bissau,1,1,0,1,D
+696,can_qualification,2025,2024-11-15,Gambia,Comoros,1,2,1,0,A
+697,can_qualification,2025,2024-11-15,Gabon,Morocco,1,5,1,0,A
+698,can_qualification,2025,2024-11-15,Angola,Ghana,1,1,0,1,D
+699,can_qualification,2025,2024-11-16,Ethiopia,Tanzania,0,2,0,0,A
+700,can_qualification,2025,2024-11-16,Guinea,Congo DR,1,0,0,1,H
+701,can_qualification,2025,2024-11-17,Algeria,Liberia,5,1,2,3,H
+702,can_qualification,2025,2024-11-17,Togo,Equatorial Guinea,3,0,1,2,H
+703,can_qualification,2025,2024-11-18,Malawi,Burkina Faso,3,0,1,2,H
+704,can_qualification,2025,2024-11-18,Nigeria,Rwanda,1,2,0,1,A
+705,can_qualification,2025,2024-11-18,Ghana,Niger,1,2,0,1,A
+706,can_qualification,2025,2024-11-18,Sudan,Angola,0,0,0,0,D
+707,can_qualification,2025,2024-11-18,Libya,Benin,0,0,0,0,D
+708,can_qualification,2025,2024-11-18,Tunisia,Gambia,0,1,0,0,A
+709,can_qualification,2025,2024-11-18,Morocco,Lesotho,7,0,5,2,H
+710,can_qualification,2025,2024-11-18,Comoros,Madagascar,1,0,0,1,H
+711,can_qualification,2025,2024-11-18,Central African Republic,Gabon,0,1,0,0,A
+712,can_qualification,2025,2024-11-19,Tanzania,Guinea,1,0,0,1,H
+713,can_qualification,2025,2024-11-19,Kenya,Namibia,0,0,0,0,D
+714,can_qualification,2025,2024-11-19,Cameroon,Zimbabwe,2,1,2,0,H
+715,can_qualification,2025,2024-11-19,Egypt,Botswana,1,1,1,0,D
+716,can_qualification,2025,2024-11-19,Mauritania,Cape Verde Islands,1,0,1,0,H
+717,can_qualification,2025,2024-11-19,Sierra Leone,Zambia,0,2,0,0,A
+718,can_qualification,2025,2024-11-19,Mali,Eswatini,6,0,4,2,H
+719,can_qualification,2025,2024-11-19,Ivory Coast,Chad,4,0,2,2,H
+720,can_qualification,2025,2024-11-19,Congo DR,Ethiopia,1,2,0,1,A
+721,can_qualification,2025,2024-11-19,Guinea-Bissau,Mozambique,1,2,1,0,A
+722,can_qualification,2025,2024-11-19,Congo,Uganda,0,1,0,0,A
+723,can_qualification,2025,2024-11-19,South Africa,South Sudan,3,0,2,1,H
+724,can_qualification,2025,2024-11-19,Senegal,Burundi,2,0,1,1,H

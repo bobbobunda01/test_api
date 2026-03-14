@@ -1,0 +1,307 @@
+,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,2024-08-16,Le Havre,Paris Saint Germain,1,4,0,1,A
+1,2024-08-17,Stade Brestois 29,Marseille,1,5,1,0,A
+2,2024-08-17,Reims,Lille,0,2,0,0,A
+3,2024-08-17,Monaco,Saint Etienne,1,0,1,0,H
+4,2024-08-18,Auxerre,Nice,2,1,1,1,H
+5,2024-08-18,Angers,Lens,0,1,0,0,A
+6,2024-08-18,Montpellier,Strasbourg,1,1,0,1,D
+7,2024-08-18,Toulouse,Nantes,0,0,0,0,D
+8,2024-08-18,Rennes,Lyon,3,0,2,1,H
+9,2024-08-23,Paris Saint Germain,Montpellier,6,0,2,4,H
+10,2024-08-24,Lyon,Monaco,0,2,0,0,A
+11,2024-08-24,Lille,Angers,2,0,1,1,H
+12,2024-08-24,Saint Etienne,Le Havre,0,2,0,0,A
+13,2024-08-25,Lens,Stade Brestois 29,2,0,2,0,H
+14,2024-08-25,Nantes,Auxerre,2,0,1,1,H
+15,2024-08-25,Nice,Toulouse,1,1,0,1,D
+16,2024-08-25,Strasbourg,Rennes,3,1,1,2,H
+17,2024-08-25,Marseille,Reims,2,2,1,1,D
+18,2024-08-30,Lyon,Strasbourg,4,3,1,3,H
+19,2024-08-31,Stade Brestois 29,Saint Etienne,4,0,2,2,H
+20,2024-08-31,Montpellier,Nantes,1,3,1,0,A
+21,2024-08-31,Toulouse,Marseille,1,3,0,1,A
+22,2024-09-01,Monaco,Lens,1,1,0,1,D
+23,2024-09-01,Angers,Nice,1,4,0,1,A
+24,2024-09-01,Reims,Rennes,2,1,1,1,H
+25,2024-09-01,Le Havre,Auxerre,3,1,1,2,H
+26,2024-09-01,Lille,Paris Saint Germain,1,3,0,1,A
+27,2024-09-13,Saint Etienne,Lille,1,0,1,0,H
+28,2024-09-14,Marseille,Nice,2,0,1,1,H
+29,2024-09-14,Auxerre,Monaco,0,3,0,0,A
+30,2024-09-14,Paris Saint Germain,Stade Brestois 29,3,1,1,2,H
+31,2024-09-15,Rennes,Montpellier,3,0,2,1,H
+32,2024-09-15,Nantes,Reims,1,2,1,0,A
+33,2024-09-15,Strasbourg,Angers,1,1,1,0,D
+34,2024-09-15,Toulouse,Le Havre,2,0,0,2,H
+35,2024-09-15,Lens,Lyon,0,0,0,0,D
+36,2024-09-20,Nice,Saint Etienne,8,0,6,2,H
+37,2024-09-21,Lille,Strasbourg,3,3,2,1,D
+38,2024-09-21,Rennes,Lens,1,1,1,0,D
+39,2024-09-21,Reims,Paris Saint Germain,1,1,1,0,D
+40,2024-09-22,Monaco,Le Havre,3,1,1,2,H
+41,2024-09-22,Angers,Nantes,1,1,1,0,D
+42,2024-09-22,Montpellier,Auxerre,3,2,0,3,H
+43,2024-09-22,Stade Brestois 29,Toulouse,2,0,1,1,H
+44,2024-09-22,Lyon,Marseille,2,3,0,2,A
+45,2024-09-27,Auxerre,Stade Brestois 29,3,0,2,1,H
+46,2024-09-27,Paris Saint Germain,Rennes,3,1,1,2,H
+47,2024-09-28,Lens,Nice,0,0,0,0,D
+48,2024-09-28,Le Havre,Lille,0,3,0,0,A
+49,2024-09-28,Monaco,Montpellier,2,1,1,1,H
+50,2024-09-29,Toulouse,Lyon,1,2,1,0,A
+51,2024-09-29,Angers,Reims,1,3,0,1,A
+52,2024-09-29,Nantes,Saint Etienne,2,2,1,1,D
+53,2024-09-29,Strasbourg,Marseille,1,0,1,0,H
+54,2024-10-04,Marseille,Angers,1,1,0,1,D
+55,2024-10-05,Saint Etienne,Auxerre,3,1,1,2,H
+56,2024-10-05,Lille,Toulouse,2,1,0,2,H
+57,2024-10-05,Rennes,Monaco,1,2,1,0,A
+58,2024-10-06,Lyon,Nantes,2,0,1,1,H
+59,2024-10-06,Reims,Montpellier,4,2,2,2,H
+60,2024-10-06,Strasbourg,Lens,2,2,1,1,D
+61,2024-10-06,Stade Brestois 29,Le Havre,2,0,1,1,H
+62,2024-10-06,Nice,Paris Saint Germain,1,1,1,0,D
+63,2024-10-18,Monaco,Lille,0,0,0,0,D
+64,2024-10-19,Stade Brestois 29,Rennes,1,1,0,1,D
+65,2024-10-19,Saint Etienne,Lens,0,2,0,0,A
+66,2024-10-19,Paris Saint Germain,Strasbourg,4,2,1,3,H
+67,2024-10-20,Le Havre,Lyon,0,4,0,0,A
+68,2024-10-20,Nantes,Nice,1,1,0,1,D
+69,2024-10-20,Toulouse,Angers,1,1,0,1,D
+70,2024-10-20,Auxerre,Reims,2,1,1,1,H
+71,2024-10-20,Montpellier,Marseille,0,5,0,0,A
+72,2024-10-25,Rennes,Le Havre,1,0,0,1,H
+73,2024-10-26,Angers,Saint Etienne,4,2,2,2,H
+74,2024-10-26,Reims,Stade Brestois 29,1,2,1,0,A
+75,2024-10-26,Lens,Lille,0,2,0,0,A
+76,2024-10-27,Lyon,Auxerre,2,2,1,1,D
+77,2024-10-27,Montpellier,Toulouse,0,3,0,0,A
+78,2024-10-27,Nice,Monaco,2,1,1,1,H
+79,2024-10-27,Strasbourg,Nantes,3,1,1,2,H
+80,2024-10-27,Marseille,Paris Saint Germain,0,3,0,0,A
+81,2024-11-01,Monaco,Angers,0,1,0,0,A
+82,2024-11-01,Lille,Lyon,1,1,1,0,D
+83,2024-11-02,Paris Saint Germain,Lens,1,0,1,0,H
+84,2024-11-02,Stade Brestois 29,Nice,0,1,0,0,A
+85,2024-11-02,Saint Etienne,Strasbourg,2,0,0,2,H
+86,2024-11-03,Toulouse,Reims,1,0,0,1,H
+87,2024-11-03,Auxerre,Rennes,4,0,2,2,H
+88,2024-11-03,Le Havre,Montpellier,1,0,0,1,H
+89,2024-11-03,Nantes,Marseille,1,2,1,0,A
+90,2024-11-08,Marseille,Auxerre,1,3,0,1,A
+91,2024-11-09,Strasbourg,Monaco,1,3,1,0,A
+92,2024-11-09,Lens,Nantes,3,2,1,2,H
+93,2024-11-09,Angers,Paris Saint Germain,2,4,0,2,A
+94,2024-11-10,Nice,Lille,2,2,0,2,D
+95,2024-11-10,Montpellier,Stade Brestois 29,3,1,2,1,H
+96,2024-11-10,Rennes,Toulouse,0,2,0,0,A
+97,2024-11-10,Le Havre,Reims,0,3,0,0,A
+98,2024-11-10,Lyon,Saint Etienne,1,0,1,0,H
+99,2024-11-22,Monaco,Stade Brestois 29,3,2,2,1,H
+100,2024-11-22,Paris Saint Germain,Toulouse,3,0,1,2,H
+101,2024-11-23,Lens,Marseille,1,3,0,1,A
+102,2024-11-23,Saint Etienne,Montpellier,1,0,0,1,H
+103,2024-11-23,Reims,Lyon,1,1,0,1,D
+104,2024-11-24,Lille,Rennes,1,0,1,0,H
+105,2024-11-24,Nantes,Le Havre,0,2,0,0,A
+106,2024-11-24,Auxerre,Angers,1,0,0,1,H
+107,2024-11-24,Nice,Strasbourg,2,1,0,2,H
+108,2024-11-29,Reims,Lens,0,2,0,0,A
+109,2024-11-30,Rennes,Saint Etienne,5,0,2,3,H
+110,2024-11-30,Stade Brestois 29,Strasbourg,3,1,2,1,H
+111,2024-11-30,Paris Saint Germain,Nantes,1,1,1,0,D
+112,2024-12-01,Montpellier,Lille,2,2,1,1,D
+113,2024-12-01,Lyon,Nice,4,1,3,1,H
+114,2024-12-01,Toulouse,Auxerre,2,0,2,0,H
+115,2024-12-01,Le Havre,Angers,0,1,0,0,A
+116,2024-12-01,Marseille,Monaco,2,1,0,2,H
+117,2024-12-06,Lille,Stade Brestois 29,3,1,2,1,H
+118,2024-12-06,Auxerre,Paris Saint Germain,0,0,0,0,D
+119,2024-12-07,Monaco,Toulouse,2,0,0,2,H
+120,2024-12-07,Nice,Le Havre,2,1,0,2,H
+121,2024-12-07,Angers,Lyon,0,3,0,0,A
+122,2024-12-08,Lens,Montpellier,2,0,1,1,H
+123,2024-12-08,Nantes,Rennes,1,0,0,1,H
+124,2024-12-08,Strasbourg,Reims,0,0,0,0,D
+125,2024-12-08,Saint Etienne,Marseille,0,2,0,0,A
+126,2024-12-13,Toulouse,Saint Etienne,2,1,0,2,H
+127,2024-12-14,Marseille,Lille,1,1,1,0,D
+128,2024-12-14,Auxerre,Lens,2,2,1,1,D
+129,2024-12-14,Reims,Monaco,0,0,0,0,D
+130,2024-12-15,Montpellier,Nice,2,2,1,1,D
+131,2024-12-15,Rennes,Angers,2,0,1,1,H
+132,2024-12-15,Stade Brestois 29,Nantes,4,1,2,2,H
+133,2024-12-15,Le Havre,Strasbourg,0,3,0,0,A
+134,2024-12-15,Paris Saint Germain,Lyon,3,1,2,1,H
+135,2024-12-18,Monaco,Paris Saint Germain,2,4,0,2,A
+136,2025-01-03,Nice,Rennes,3,2,3,0,H
+137,2025-01-04,Saint Etienne,Reims,3,1,0,3,H
+138,2025-01-04,Lille,Nantes,1,1,1,0,D
+139,2025-01-04,Lyon,Montpellier,1,0,0,1,H
+140,2025-01-05,Angers,Stade Brestois 29,2,0,1,1,H
+141,2025-01-05,Strasbourg,Auxerre,3,1,1,2,H
+142,2025-01-05,Lens,Toulouse,0,1,0,0,A
+143,2025-01-05,Marseille,Le Havre,5,1,3,2,H
+144,2025-01-10,Nantes,Monaco,2,2,1,1,D
+145,2025-01-10,Auxerre,Lille,0,0,0,0,D
+146,2025-01-11,Stade Brestois 29,Lyon,2,1,2,0,H
+147,2025-01-11,Reims,Nice,2,4,1,1,A
+148,2025-01-11,Rennes,Marseille,1,2,1,0,A
+149,2025-01-12,Le Havre,Lens,1,2,1,0,A
+150,2025-01-12,Montpellier,Angers,1,3,0,1,A
+151,2025-01-12,Toulouse,Strasbourg,1,2,1,0,A
+152,2025-01-12,Paris Saint Germain,Saint Etienne,2,1,2,0,H
+153,2025-01-17,Montpellier,Monaco,2,1,0,2,H
+154,2025-01-17,Lille,Nice,2,1,0,2,H
+155,2025-01-18,Lens,Paris Saint Germain,1,2,1,0,A
+156,2025-01-18,Rennes,Stade Brestois 29,1,2,0,1,A
+157,2025-01-18,Lyon,Toulouse,0,0,0,0,D
+158,2025-01-19,Saint Etienne,Nantes,1,1,0,1,D
+159,2025-01-19,Angers,Auxerre,2,0,1,1,H
+160,2025-01-19,Reims,Le Havre,1,1,1,0,D
+161,2025-01-19,Marseille,Strasbourg,1,1,0,1,D
+162,2025-01-24,Auxerre,Saint Etienne,1,1,1,0,D
+163,2025-01-25,Monaco,Rennes,3,2,1,2,H
+164,2025-01-25,Strasbourg,Lille,2,1,0,2,H
+165,2025-01-25,Paris Saint Germain,Reims,1,1,0,1,D
+166,2025-01-26,Le Havre,Stade Brestois 29,0,1,0,0,A
+167,2025-01-26,Nantes,Lyon,1,1,0,1,D
+168,2025-01-26,Toulouse,Montpellier,1,2,0,1,A
+169,2025-01-26,Lens,Angers,1,0,0,1,H
+170,2025-01-26,Nice,Marseille,2,0,1,1,H
+171,2025-01-31,Montpellier,Lens,0,2,0,0,A
+172,2025-02-01,Stade Brestois 29,Paris Saint Germain,2,5,0,2,A
+173,2025-02-01,Monaco,Auxerre,4,2,1,3,H
+174,2025-02-01,Lille,Saint Etienne,4,1,1,3,H
+175,2025-02-02,Toulouse,Nice,1,1,0,1,D
+176,2025-02-02,Angers,Le Havre,1,1,0,1,D
+177,2025-02-02,Reims,Nantes,1,2,1,0,A
+178,2025-02-02,Rennes,Strasbourg,1,0,0,1,H
+179,2025-02-02,Marseille,Lyon,3,2,0,3,H
+180,2025-02-07,Nantes,Stade Brestois 29,0,2,0,0,A
+181,2025-02-07,Paris Saint Germain,Monaco,4,1,1,3,H
+182,2025-02-08,Nice,Lens,2,0,1,1,H
+183,2025-02-08,Lille,Le Havre,1,2,0,1,A
+184,2025-02-08,Saint Etienne,Rennes,0,2,0,0,A
+185,2025-02-09,Lyon,Reims,4,0,1,3,H
+186,2025-02-09,Strasbourg,Montpellier,2,0,1,1,H
+187,2025-02-09,Auxerre,Toulouse,2,2,0,2,D
+188,2025-02-09,Angers,Marseille,0,2,0,0,A
+189,2025-02-14,Stade Brestois 29,Auxerre,2,2,0,2,D
+190,2025-02-15,Marseille,Saint Etienne,5,1,1,4,H
+191,2025-02-15,Monaco,Nantes,7,1,2,5,H
+192,2025-02-15,Toulouse,Paris Saint Germain,0,1,0,0,A
+193,2025-02-16,Montpellier,Lyon,1,4,1,0,A
+194,2025-02-16,Reims,Angers,0,1,0,0,A
+195,2025-02-16,Le Havre,Nice,1,3,1,0,A
+196,2025-02-16,Lens,Strasbourg,0,2,0,0,A
+197,2025-02-16,Rennes,Lille,0,2,0,0,A
+198,2025-02-21,Rennes,Reims,1,0,1,0,H
+199,2025-02-22,Lille,Monaco,2,1,2,0,H
+200,2025-02-22,Saint Etienne,Angers,3,3,1,2,D
+201,2025-02-22,Auxerre,Marseille,3,0,1,2,H
+202,2025-02-23,Nantes,Lens,3,1,1,2,H
+203,2025-02-23,Nice,Montpellier,2,0,1,1,H
+204,2025-02-23,Strasbourg,Stade Brestois 29,0,0,0,0,D
+205,2025-02-23,Le Havre,Toulouse,1,4,0,1,A
+206,2025-02-23,Lyon,Paris Saint Germain,2,3,0,2,A
+207,2025-02-28,Monaco,Reims,3,0,2,1,H
+208,2025-03-01,Saint Etienne,Nice,1,3,1,0,A
+209,2025-03-01,Lens,Le Havre,3,4,2,1,A
+210,2025-03-01,Paris Saint Germain,Lille,4,1,4,0,H
+211,2025-03-02,Lyon,Stade Brestois 29,2,1,1,1,H
+212,2025-03-02,Angers,Toulouse,0,4,0,0,A
+213,2025-03-02,Montpellier,Rennes,0,4,0,0,A
+214,2025-03-02,Auxerre,Strasbourg,0,1,0,0,A
+215,2025-03-02,Marseille,Nantes,2,0,0,2,H
+216,2025-03-07,Toulouse,Monaco,1,1,0,1,D
+217,2025-03-08,Rennes,Paris Saint Germain,1,4,0,1,A
+218,2025-03-08,Lille,Montpellier,1,0,0,1,H
+219,2025-03-08,Marseille,Lens,0,1,0,0,A
+220,2025-03-09,Stade Brestois 29,Angers,2,0,1,1,H
+221,2025-03-09,Nantes,Strasbourg,0,1,0,0,A
+222,2025-03-09,Reims,Auxerre,0,2,0,0,A
+223,2025-03-09,Le Havre,Saint Etienne,1,1,1,0,D
+224,2025-03-09,Nice,Lyon,0,2,0,0,A
+225,2025-03-14,Nice,Auxerre,1,1,1,0,D
+226,2025-03-15,Nantes,Lille,1,0,0,1,H
+227,2025-03-15,Angers,Monaco,0,2,0,0,A
+228,2025-03-15,Lens,Rennes,1,0,0,1,H
+229,2025-03-16,Lyon,Le Havre,4,2,1,3,H
+230,2025-03-16,Montpellier,Saint Etienne,0,2,0,0,A
+231,2025-03-16,Strasbourg,Toulouse,2,1,0,2,H
+232,2025-03-16,Stade Brestois 29,Reims,0,0,0,0,D
+233,2025-03-16,Paris Saint Germain,Marseille,3,1,2,1,H
+234,2025-03-28,Strasbourg,Lyon,4,2,0,4,H
+235,2025-03-29,Reims,Marseille,3,1,1,2,H
+236,2025-03-29,Saint Etienne,Paris Saint Germain,1,6,1,0,A
+237,2025-03-29,Monaco,Nice,2,1,0,2,H
+238,2025-03-30,Toulouse,Stade Brestois 29,2,4,0,2,A
+239,2025-03-30,Angers,Rennes,0,3,0,0,A
+240,2025-03-30,Auxerre,Montpellier,1,0,0,1,H
+241,2025-03-30,Le Havre,Nantes,3,2,2,1,H
+242,2025-03-30,Lille,Lens,1,0,1,0,H
+243,2025-04-04,Nice,Nantes,1,2,1,0,A
+244,2025-04-05,Paris Saint Germain,Angers,1,0,0,1,H
+245,2025-04-05,Stade Brestois 29,Monaco,2,1,1,1,H
+246,2025-04-05,Lyon,Lille,2,1,1,1,H
+247,2025-04-06,Lens,Saint Etienne,1,0,0,1,H
+248,2025-04-06,Montpellier,Le Havre,0,2,0,0,A
+249,2025-04-06,Reims,Strasbourg,0,1,0,0,A
+250,2025-04-06,Rennes,Auxerre,0,1,0,0,A
+251,2025-04-06,Marseille,Toulouse,3,2,1,2,H
+252,2025-04-11,Lens,Reims,0,2,0,0,A
+253,2025-04-12,Monaco,Marseille,3,0,1,2,H
+254,2025-04-12,Toulouse,Lille,1,2,1,0,A
+255,2025-04-12,Strasbourg,Nice,2,2,0,2,D
+256,2025-04-13,Saint Etienne,Stade Brestois 29,3,3,2,1,D
+257,2025-04-13,Angers,Montpellier,2,0,2,0,H
+258,2025-04-13,Le Havre,Rennes,1,5,1,0,A
+259,2025-04-13,Auxerre,Lyon,1,3,0,1,A
+260,2025-04-18,Rennes,Nantes,2,1,1,1,H
+261,2025-04-19,Paris Saint Germain,Le Havre,2,1,1,1,H
+262,2025-04-19,Monaco,Strasbourg,0,0,0,0,D
+263,2025-04-19,Marseille,Montpellier,5,1,1,4,H
+264,2025-04-20,Lille,Auxerre,3,1,2,1,H
+265,2025-04-20,Nice,Angers,2,1,1,1,H
+266,2025-04-20,Reims,Toulouse,1,0,1,0,H
+267,2025-04-20,Stade Brestois 29,Lens,1,3,1,0,A
+268,2025-04-20,Saint Etienne,Lyon,2,1,1,1,H
+269,2025-04-22,Nantes,Paris Saint Germain,1,1,0,1,D
+270,2025-04-25,Paris Saint Germain,Nice,1,3,1,0,A
+271,2025-04-26,Strasbourg,Saint Etienne,3,1,1,2,H
+272,2025-04-26,Le Havre,Monaco,1,1,1,0,D
+273,2025-04-26,Lyon,Rennes,4,1,3,1,H
+274,2025-04-27,Angers,Lille,0,2,0,0,A
+275,2025-04-27,Montpellier,Reims,0,0,0,0,D
+276,2025-04-27,Nantes,Toulouse,0,0,0,0,D
+277,2025-04-27,Lens,Auxerre,0,4,0,0,A
+278,2025-04-27,Marseille,Stade Brestois 29,4,1,3,1,H
+279,2025-05-02,Nice,Reims,1,0,1,0,H
+280,2025-05-03,Strasbourg,Paris Saint Germain,2,1,2,0,H
+281,2025-05-03,Toulouse,Rennes,2,1,1,1,H
+282,2025-05-03,Saint Etienne,Monaco,1,3,0,1,A
+283,2025-05-04,Nantes,Angers,0,1,0,0,A
+284,2025-05-04,Lyon,Lens,1,2,0,1,A
+285,2025-05-04,Stade Brestois 29,Montpellier,1,0,1,0,H
+286,2025-05-04,Auxerre,Le Havre,1,2,0,1,A
+287,2025-05-04,Lille,Marseille,1,1,0,1,D
+288,2025-05-10,Angers,Strasbourg,2,1,1,1,H
+289,2025-05-10,Montpellier,Paris Saint Germain,1,4,0,1,A
+290,2025-05-10,Monaco,Lyon,2,0,0,2,H
+291,2025-05-10,Reims,Saint Etienne,0,2,0,0,A
+292,2025-05-10,Rennes,Nice,2,0,1,1,H
+293,2025-05-10,Toulouse,Lens,1,1,0,1,D
+294,2025-05-10,Stade Brestois 29,Lille,2,0,1,1,H
+295,2025-05-10,Auxerre,Nantes,1,1,1,0,D
+296,2025-05-10,Le Havre,Marseille,1,3,0,1,A
+297,2025-05-17,Lille,Reims,2,1,1,1,H
+298,2025-05-17,Lyon,Angers,2,0,0,2,H
+299,2025-05-17,Marseille,Rennes,4,2,3,1,H
+300,2025-05-17,Nantes,Montpellier,3,0,2,1,H
+301,2025-05-17,Nice,Stade Brestois 29,6,0,3,3,H
+302,2025-05-17,Paris Saint Germain,Auxerre,3,1,0,3,H
+303,2025-05-17,Strasbourg,Le Havre,2,3,1,1,A
+304,2025-05-17,Lens,Monaco,4,0,1,3,H
+305,2025-05-17,Saint Etienne,Toulouse,2,3,1,1,A

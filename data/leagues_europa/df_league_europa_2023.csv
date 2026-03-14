@@ -1,0 +1,176 @@
+,season,league_name,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+7026,2023,UEFA Europa League,2023-08-08,FC Astana,Ludogorets,2.0,1.0,1.0,1.0,H
+7027,2023,UEFA Europa League,2023-08-10,Qarabag,HJK helsinki,2.0,1.0,0.0,0.0,H
+7028,2023,UEFA Europa League,2023-08-10,FK Zalgiris Vilnius,BK Hacken,1.0,3.0,0.0,1.0,A
+7029,2023,UEFA Europa League,2023-08-10,Slavia Praha,Dnipro-1,3.0,0.0,2.0,0.0,H
+7030,2023,UEFA Europa League,2023-08-10,Sheriff Tiraspol,Bate Borisov,5.0,1.0,2.0,0.0,H
+7031,2023,UEFA Europa League,2023-08-10,Olympiakos Piraeus,Genk,1.0,0.0,1.0,0.0,H
+7032,2023,UEFA Europa League,2023-08-10,Zrinjski,Breidablik,6.0,2.0,5.0,0.0,H
+7033,2023,UEFA Europa League,2023-08-17,HJK helsinki,Qarabag,1.0,2.0,1.0,1.0,A
+7034,2023,UEFA Europa League,2023-08-17,BK Hacken,FK Zalgiris Vilnius,5.0,0.0,1.0,0.0,H
+7035,2023,UEFA Europa League,2023-08-17,Breidablik,Zrinjski,1.0,0.0,0.0,0.0,H
+7036,2023,UEFA Europa League,2023-08-17,Bate Borisov,Sheriff Tiraspol,2.0,2.0,1.0,2.0,D
+7037,2023,UEFA Europa League,2023-08-17,Ludogorets,FC Astana,5.0,1.0,1.0,1.0,H
+7038,2023,UEFA Europa League,2023-08-17,Genk,Olympiakos Piraeus,1.0,1.0,1.0,0.0,D
+7039,2023,UEFA Europa League,2023-08-17,Dnipro-1,Slavia Praha,1.0,1.0,1.0,0.0,D
+7040,2023,UEFA Europa League,2023-08-24,BK Hacken,Aberdeen,2.0,2.0,1.0,0.0,D
+7041,2023,UEFA Europa League,2023-08-24,Slavia Praha,Zorya Luhansk,2.0,0.0,0.0,0.0,H
+7042,2023,UEFA Europa League,2023-08-24,Dinamo Zagreb,Sparta Praha,3.0,1.0,1.0,1.0,H
+7043,2023,UEFA Europa League,2023-08-24,Olimpija Ljubljana,Qarabag,0.0,2.0,0.0,2.0,A
+7044,2023,UEFA Europa League,2023-08-24,Ludogorets,Ajax,1.0,4.0,0.0,3.0,A
+7045,2023,UEFA Europa League,2023-08-24,Slovan Bratislava,Aris,2.0,1.0,1.0,0.0,H
+7046,2023,UEFA Europa League,2023-08-24,Union St. Gilloise,FC Lugano,2.0,0.0,1.0,0.0,H
+7047,2023,UEFA Europa League,2023-08-24,KI Klaksvik,Sheriff Tiraspol,1.0,1.0,0.0,0.0,D
+7048,2023,UEFA Europa League,2023-08-24,Olympiakos Piraeus,Cukaricki,3.0,1.0,3.0,0.0,H
+7049,2023,UEFA Europa League,2023-08-24,Lask Linz,Zrinjski,2.0,1.0,2.0,0.0,H
+7050,2023,UEFA Europa League,2023-08-31,Qarabag,Olimpija Ljubljana,1.0,1.0,1.0,1.0,D
+7051,2023,UEFA Europa League,2023-08-31,Sparta Praha,Dinamo Zagreb,4.0,1.0,2.0,0.0,H
+7052,2023,UEFA Europa League,2023-08-31,Sheriff Tiraspol,KI Klaksvik,2.0,1.0,1.0,1.0,H
+7053,2023,UEFA Europa League,2023-08-31,Zorya Luhansk,Slavia Praha,2.0,1.0,2.0,0.0,H
+7054,2023,UEFA Europa League,2023-08-31,Aris,Slovan Bratislava,6.0,2.0,3.0,1.0,H
+7055,2023,UEFA Europa League,2023-08-31,Ajax,Ludogorets,0.0,1.0,0.0,0.0,A
+7056,2023,UEFA Europa League,2023-08-31,Cukaricki,Olympiakos Piraeus,0.0,3.0,0.0,2.0,A
+7057,2023,UEFA Europa League,2023-08-31,FC Lugano,Union St. Gilloise,0.0,1.0,0.0,1.0,A
+7058,2023,UEFA Europa League,2023-08-31,Aberdeen,BK Hacken,1.0,3.0,0.0,2.0,A
+7059,2023,UEFA Europa League,2023-08-31,Zrinjski,Lask Linz,1.0,1.0,1.0,0.0,D
+7060,2023,UEFA Europa League,2023-09-21,Lask Linz,Liverpool,1.0,3.0,1.0,0.0,A
+7061,2023,UEFA Europa League,2023-09-21,Union St. Gilloise,Toulouse,1.0,1.0,0.0,1.0,D
+7062,2023,UEFA Europa League,2023-09-21,Panathinaikos,Villarreal,2.0,0.0,1.0,0.0,H
+7063,2023,UEFA Europa League,2023-09-21,Servette FC,Slavia Praha,0.0,2.0,0.0,1.0,A
+7064,2023,UEFA Europa League,2023-09-21,Qarabag,Molde,1.0,0.0,0.0,0.0,H
+7065,2023,UEFA Europa League,2023-09-21,Bayer Leverkusen,BK Hacken,4.0,0.0,2.0,0.0,H
+7066,2023,UEFA Europa League,2023-09-21,Rennes,Maccabi Haifa,3.0,0.0,2.0,0.0,H
+7067,2023,UEFA Europa League,2023-09-21,Sheriff Tiraspol,AS Roma,1.0,2.0,0.0,1.0,A
+7068,2023,UEFA Europa League,2023-09-21,Sparta Praha,Aris,3.0,2.0,2.0,1.0,H
+7069,2023,UEFA Europa League,2023-09-21,Olympiakos Piraeus,SC Freiburg,2.0,3.0,1.0,2.0,A
+7070,2023,UEFA Europa League,2023-09-21,Atalanta,Raków Częstochowa,2.0,0.0,0.0,0.0,H
+7071,2023,UEFA Europa League,2023-09-21,Sturm Graz,Sporting CP,1.0,2.0,0.0,0.0,A
+7072,2023,UEFA Europa League,2023-09-21,Ajax,Marseille,3.0,3.0,2.0,2.0,D
+7073,2023,UEFA Europa League,2023-09-21,Brighton,AEK Athens FC,2.0,3.0,1.0,2.0,A
+7074,2023,UEFA Europa League,2023-09-21,West Ham,TSC Backa Topola,3.0,1.0,0.0,0.0,H
+7075,2023,UEFA Europa League,2023-09-21,Rangers,Real Betis,1.0,0.0,0.0,0.0,H
+7076,2023,UEFA Europa League,2023-10-05,Marseille,Brighton,2.0,2.0,2.0,0.0,D
+7077,2023,UEFA Europa League,2023-10-05,SC Freiburg,West Ham,1.0,2.0,0.0,1.0,A
+7078,2023,UEFA Europa League,2023-10-05,Sporting CP,Atalanta,1.0,2.0,0.0,2.0,A
+7079,2023,UEFA Europa League,2023-10-05,Real Betis,Sparta Praha,2.0,1.0,1.0,1.0,H
+7080,2023,UEFA Europa League,2023-10-05,AEK Athens FC,Ajax,1.0,1.0,0.0,1.0,D
+7081,2023,UEFA Europa League,2023-10-05,TSC Backa Topola,Olympiakos Piraeus,2.0,2.0,0.0,1.0,D
+7082,2023,UEFA Europa League,2023-10-05,Aris,Rangers,2.0,1.0,1.0,0.0,H
+7083,2023,UEFA Europa League,2023-10-05,Raków Częstochowa,Sturm Graz,0.0,1.0,0.0,1.0,A
+7084,2023,UEFA Europa League,2023-10-05,Maccabi Haifa,Panathinaikos,0.0,0.0,0.0,0.0,D
+7085,2023,UEFA Europa League,2023-10-05,Slavia Praha,Sheriff Tiraspol,6.0,0.0,3.0,0.0,H
+7086,2023,UEFA Europa League,2023-10-05,Villarreal,Rennes,1.0,0.0,1.0,0.0,H
+7087,2023,UEFA Europa League,2023-10-05,AS Roma,Servette FC,4.0,0.0,1.0,0.0,H
+7088,2023,UEFA Europa League,2023-10-05,Molde,Bayer Leverkusen,1.0,2.0,0.0,2.0,A
+7089,2023,UEFA Europa League,2023-10-05,Toulouse,Lask Linz,1.0,0.0,1.0,0.0,H
+7090,2023,UEFA Europa League,2023-10-05,Liverpool,Union St. Gilloise,2.0,0.0,1.0,0.0,H
+7091,2023,UEFA Europa League,2023-10-05,BK Hacken,Qarabag,0.0,1.0,0.0,0.0,A
+7092,2023,UEFA Europa League,2023-10-26,Aris,Real Betis,0.0,1.0,0.0,0.0,A
+7093,2023,UEFA Europa League,2023-10-26,TSC Backa Topola,SC Freiburg,1.0,3.0,1.0,0.0,A
+7094,2023,UEFA Europa League,2023-10-26,Sturm Graz,Atalanta,2.0,2.0,1.0,2.0,D
+7095,2023,UEFA Europa League,2023-10-26,Raków Częstochowa,Sporting CP,1.0,1.0,0.0,1.0,D
+7096,2023,UEFA Europa League,2023-10-26,Olympiakos Piraeus,West Ham,2.0,1.0,2.0,0.0,H
+7097,2023,UEFA Europa League,2023-10-26,Molde,BK Hacken,5.0,1.0,3.0,1.0,H
+7098,2023,UEFA Europa League,2023-10-26,Marseille,AEK Athens FC,3.0,1.0,1.0,0.0,H
+7099,2023,UEFA Europa League,2023-10-26,Sparta Praha,Rangers,0.0,0.0,0.0,0.0,D
+7100,2023,UEFA Europa League,2023-10-26,Liverpool,Toulouse,5.0,1.0,3.0,1.0,H
+7101,2023,UEFA Europa League,2023-10-26,Brighton,Ajax,2.0,0.0,1.0,0.0,H
+7102,2023,UEFA Europa League,2023-10-26,Bayer Leverkusen,Qarabag,5.0,1.0,3.0,1.0,H
+7103,2023,UEFA Europa League,2023-10-26,AS Roma,Slavia Praha,2.0,0.0,2.0,0.0,H
+7104,2023,UEFA Europa League,2023-10-26,Sheriff Tiraspol,Servette FC,1.0,1.0,0.0,1.0,D
+7105,2023,UEFA Europa League,2023-10-26,Panathinaikos,Rennes,1.0,2.0,0.0,1.0,A
+7106,2023,UEFA Europa League,2023-10-26,Union St. Gilloise,Lask Linz,2.0,1.0,0.0,1.0,H
+7107,2023,UEFA Europa League,2023-11-09,Lask Linz,Union St. Gilloise,3.0,0.0,2.0,0.0,H
+7108,2023,UEFA Europa League,2023-11-09,Maccabi Haifa,Villarreal,1.0,2.0,1.0,0.0,A
+7109,2023,UEFA Europa League,2023-11-09,Slavia Praha,AS Roma,2.0,0.0,0.0,0.0,H
+7110,2023,UEFA Europa League,2023-11-09,Servette FC,Sheriff Tiraspol,2.0,1.0,0.0,1.0,H
+7111,2023,UEFA Europa League,2023-11-09,Ajax,Brighton,0.0,2.0,0.0,1.0,A
+7112,2023,UEFA Europa League,2023-11-09,Toulouse,Liverpool,3.0,2.0,1.0,0.0,H
+7113,2023,UEFA Europa League,2023-11-09,Qarabag,Bayer Leverkusen,0.0,1.0,0.0,0.0,A
+7114,2023,UEFA Europa League,2023-11-09,Rennes,Panathinaikos,3.0,1.0,1.0,1.0,H
+7115,2023,UEFA Europa League,2023-11-09,Real Betis,Aris,4.0,1.0,1.0,0.0,H
+7116,2023,UEFA Europa League,2023-11-09,Atalanta,Sturm Graz,1.0,0.0,0.0,0.0,H
+7117,2023,UEFA Europa League,2023-11-09,BK Hacken,Molde,1.0,3.0,0.0,2.0,A
+7118,2023,UEFA Europa League,2023-11-09,AEK Athens FC,Marseille,0.0,2.0,0.0,1.0,A
+7119,2023,UEFA Europa League,2023-11-09,Sporting CP,Raków Częstochowa,2.0,1.0,1.0,0.0,H
+7120,2023,UEFA Europa League,2023-11-09,SC Freiburg,TSC Backa Topola,5.0,0.0,1.0,0.0,H
+7121,2023,UEFA Europa League,2023-11-09,West Ham,Olympiakos Piraeus,1.0,0.0,0.0,0.0,H
+7122,2023,UEFA Europa League,2023-11-09,Rangers,Sparta Praha,2.0,1.0,2.0,0.0,H
+7123,2023,UEFA Europa League,2023-11-30,SC Freiburg,Olympiakos Piraeus,5.0,0.0,4.0,0.0,H
+7124,2023,UEFA Europa League,2023-11-30,Atalanta,Sporting CP,1.0,1.0,1.0,0.0,D
+7125,2023,UEFA Europa League,2023-11-30,AEK Athens FC,Brighton,0.0,1.0,0.0,0.0,A
+7126,2023,UEFA Europa League,2023-11-30,Sparta Praha,Real Betis,1.0,0.0,0.0,0.0,H
+7127,2023,UEFA Europa League,2023-11-30,Sturm Graz,Raków Częstochowa,0.0,1.0,0.0,0.0,A
+7128,2023,UEFA Europa League,2023-11-30,TSC Backa Topola,West Ham,0.0,1.0,0.0,0.0,A
+7129,2023,UEFA Europa League,2023-11-30,Maccabi Haifa,Rennes,0.0,3.0,0.0,1.0,A
+7130,2023,UEFA Europa League,2023-11-30,Villarreal,Panathinaikos,3.0,2.0,2.0,0.0,H
+7131,2023,UEFA Europa League,2023-11-30,Servette FC,AS Roma,1.0,1.0,0.0,1.0,D
+7132,2023,UEFA Europa League,2023-11-30,Sheriff Tiraspol,Slavia Praha,2.0,3.0,1.0,1.0,A
+7133,2023,UEFA Europa League,2023-11-30,BK Hacken,Bayer Leverkusen,0.0,2.0,0.0,1.0,A
+7134,2023,UEFA Europa League,2023-11-30,Liverpool,Lask Linz,4.0,0.0,2.0,0.0,H
+7135,2023,UEFA Europa League,2023-11-30,Rangers,Aris,1.0,1.0,0.0,1.0,D
+7136,2023,UEFA Europa League,2023-11-30,Toulouse,Union St. Gilloise,0.0,0.0,0.0,0.0,D
+7137,2023,UEFA Europa League,2023-11-30,Marseille,Ajax,4.0,3.0,2.0,2.0,H
+7138,2023,UEFA Europa League,2023-11-30,Molde,Qarabag,2.0,2.0,0.0,1.0,D
+7139,2023,UEFA Europa League,2023-12-06,Villarreal,Maccabi Haifa,0.0,0.0,0.0,0.0,D
+7140,2023,UEFA Europa League,2023-12-14,Rennes,Villarreal,2.0,3.0,1.0,1.0,A
+7141,2023,UEFA Europa League,2023-12-14,Bayer Leverkusen,Molde,5.0,1.0,3.0,0.0,H
+7142,2023,UEFA Europa League,2023-12-14,AS Roma,Sheriff Tiraspol,3.0,0.0,2.0,0.0,H
+7143,2023,UEFA Europa League,2023-12-14,Qarabag,BK Hacken,2.0,1.0,2.0,0.0,H
+7144,2023,UEFA Europa League,2023-12-14,Slavia Praha,Servette FC,4.0,0.0,4.0,0.0,H
+7145,2023,UEFA Europa League,2023-12-14,Panathinaikos,Maccabi Haifa,1.0,2.0,0.0,1.0,A
+7146,2023,UEFA Europa League,2023-12-14,Lask Linz,Toulouse,1.0,2.0,0.0,0.0,A
+7147,2023,UEFA Europa League,2023-12-14,Union St. Gilloise,Liverpool,2.0,1.0,2.0,1.0,H
+7148,2023,UEFA Europa League,2023-12-14,Olympiakos Piraeus,TSC Backa Topola,5.0,2.0,3.0,0.0,H
+7149,2023,UEFA Europa League,2023-12-14,Aris,Sparta Praha,1.0,3.0,0.0,3.0,A
+7150,2023,UEFA Europa League,2023-12-14,Real Betis,Rangers,2.0,3.0,2.0,2.0,A
+7151,2023,UEFA Europa League,2023-12-14,Raków Częstochowa,Atalanta,0.0,4.0,0.0,2.0,A
+7152,2023,UEFA Europa League,2023-12-14,Ajax,AEK Athens FC,3.0,1.0,2.0,1.0,H
+7153,2023,UEFA Europa League,2023-12-14,Brighton,Marseille,1.0,0.0,0.0,0.0,H
+7154,2023,UEFA Europa League,2023-12-14,West Ham,SC Freiburg,2.0,0.0,2.0,0.0,H
+7155,2023,UEFA Europa League,2023-12-14,Sporting CP,Sturm Graz,3.0,0.0,1.0,0.0,H
+7156,2023,UEFA Europa League,2024-02-15,Feyenoord,AS Roma,1.0,1.0,1.0,0.0,D
+7157,2023,UEFA Europa League,2024-02-15,Shakhtar Donetsk,Marseille,2.0,2.0,0.0,0.0,D
+7158,2023,UEFA Europa League,2024-02-15,BSC Young Boys,Sporting CP,1.0,3.0,1.0,2.0,A
+7159,2023,UEFA Europa League,2024-02-15,Galatasaray,Sparta Praha,3.0,2.0,1.0,0.0,H
+7160,2023,UEFA Europa League,2024-02-15,Lens,SC Freiburg,0.0,0.0,0.0,0.0,D
+7161,2023,UEFA Europa League,2024-02-15,Benfica,Toulouse,2.0,1.0,0.0,0.0,H
+7162,2023,UEFA Europa League,2024-02-15,SC Braga,Qarabag,2.0,4.0,1.0,1.0,A
+7163,2023,UEFA Europa League,2024-02-15,AC Milan,Rennes,3.0,0.0,1.0,0.0,H
+7164,2023,UEFA Europa League,2024-02-22,Qarabag,SC Braga,0.0,2.0,0.0,0.0,A
+7165,2023,UEFA Europa League,2024-02-22,SC Freiburg,Lens,2.0,2.0,0.0,2.0,D
+7166,2023,UEFA Europa League,2024-02-22,Rennes,AC Milan,3.0,2.0,1.0,1.0,H
+7167,2023,UEFA Europa League,2024-02-22,Toulouse,Benfica,0.0,0.0,0.0,0.0,D
+7168,2023,UEFA Europa League,2024-02-22,Marseille,Shakhtar Donetsk,3.0,1.0,1.0,1.0,H
+7169,2023,UEFA Europa League,2024-02-22,Sporting CP,BSC Young Boys,1.0,1.0,1.0,0.0,D
+7170,2023,UEFA Europa League,2024-02-22,AS Roma,Feyenoord,1.0,1.0,1.0,1.0,D
+7171,2023,UEFA Europa League,2024-02-22,Sparta Praha,Galatasaray,4.0,1.0,1.0,1.0,H
+7172,2023,UEFA Europa League,2024-03-06,Sporting CP,Atalanta,1.0,1.0,1.0,1.0,D
+7173,2023,UEFA Europa League,2024-03-07,AS Roma,Brighton,4.0,0.0,2.0,0.0,H
+7174,2023,UEFA Europa League,2024-03-07,Qarabag,Bayer Leverkusen,2.0,2.0,2.0,0.0,D
+7175,2023,UEFA Europa League,2024-03-07,Sparta Praha,Liverpool,1.0,5.0,0.0,3.0,A
+7176,2023,UEFA Europa League,2024-03-07,AC Milan,Slavia Praha,4.0,2.0,3.0,1.0,H
+7177,2023,UEFA Europa League,2024-03-07,Benfica,Rangers,2.0,2.0,1.0,2.0,D
+7178,2023,UEFA Europa League,2024-03-07,Marseille,Villarreal,4.0,0.0,3.0,0.0,H
+7179,2023,UEFA Europa League,2024-03-07,SC Freiburg,West Ham,1.0,0.0,0.0,0.0,H
+7180,2023,UEFA Europa League,2024-03-14,West Ham,SC Freiburg,5.0,0.0,2.0,0.0,H
+7181,2023,UEFA Europa League,2024-03-14,Rangers,Benfica,0.0,1.0,0.0,0.0,A
+7182,2023,UEFA Europa League,2024-03-14,Villarreal,Marseille,3.0,1.0,1.0,0.0,H
+7183,2023,UEFA Europa League,2024-03-14,Slavia Praha,AC Milan,1.0,3.0,0.0,3.0,A
+7184,2023,UEFA Europa League,2024-03-14,Liverpool,Sparta Praha,6.0,1.0,4.0,1.0,H
+7185,2023,UEFA Europa League,2024-03-14,Brighton,AS Roma,1.0,0.0,1.0,0.0,H
+7186,2023,UEFA Europa League,2024-03-14,Bayer Leverkusen,Qarabag,3.0,2.0,0.0,0.0,H
+7187,2023,UEFA Europa League,2024-03-14,Atalanta,Sporting CP,2.0,1.0,0.0,1.0,H
+7188,2023,UEFA Europa League,2024-04-11,Bayer Leverkusen,West Ham,2.0,0.0,0.0,0.0,H
+7189,2023,UEFA Europa League,2024-04-11,AC Milan,AS Roma,0.0,1.0,0.0,1.0,A
+7190,2023,UEFA Europa League,2024-04-11,Liverpool,Atalanta,0.0,3.0,0.0,1.0,A
+7191,2023,UEFA Europa League,2024-04-11,Benfica,Marseille,2.0,1.0,1.0,0.0,H
+7192,2023,UEFA Europa League,2024-04-18,West Ham,Bayer Leverkusen,1.0,1.0,1.0,0.0,D
+7193,2023,UEFA Europa League,2024-04-18,Marseille,Benfica,1.0,0.0,0.0,0.0,H
+7194,2023,UEFA Europa League,2024-04-18,AS Roma,AC Milan,2.0,1.0,2.0,0.0,H
+7195,2023,UEFA Europa League,2024-04-18,Atalanta,Liverpool,0.0,1.0,0.0,1.0,A
+7196,2023,UEFA Europa League,2024-05-02,Marseille,Atalanta,1.0,1.0,1.0,1.0,D
+7197,2023,UEFA Europa League,2024-05-02,AS Roma,Bayer Leverkusen,0.0,2.0,0.0,1.0,A
+7198,2023,UEFA Europa League,2024-05-09,Atalanta,Marseille,3.0,0.0,1.0,0.0,H
+7199,2023,UEFA Europa League,2024-05-09,Bayer Leverkusen,AS Roma,2.0,2.0,0.0,1.0,D
+7200,2023,UEFA Europa League,2024-05-22,Atalanta,Bayer Leverkusen,3.0,0.0,2.0,0.0,H

@@ -1,0 +1,187 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+ecosse_div_1,2023,2023-08-04,Arbroath,Dundee Utd,0,4,0,0,A
+ecosse_div_1,2023,2023-08-05,Partick,Raith Rovers,2,2,2,0,D
+ecosse_div_1,2023,2023-08-05,Inverness CT,Queen's Park,1,2,0,1,A
+ecosse_div_1,2023,2023-08-05,Morton,Ayr Utd,3,1,0,3,H
+ecosse_div_1,2023,2023-08-05,Dunfermline,Airdrie United,2,1,1,1,H
+ecosse_div_1,2023,2023-08-12,Raith Rovers,Morton,3,2,2,1,H
+ecosse_div_1,2023,2023-08-12,Dundee Utd,Dunfermline,1,1,0,1,D
+ecosse_div_1,2023,2023-08-12,Ayr Utd,Inverness CT,1,0,1,0,H
+ecosse_div_1,2023,2023-08-12,Airdrie United,Partick,2,1,0,2,H
+ecosse_div_1,2023,2023-08-12,Queen's Park,Arbroath,2,1,1,1,H
+ecosse_div_1,2023,2023-08-19,Arbroath,Queen's Park,0,1,0,0,A
+ecosse_div_1,2023,2023-08-26,Partick,Queen's Park,3,1,2,1,H
+ecosse_div_1,2023,2023-08-26,Morton,Arbroath,0,3,0,0,A
+ecosse_div_1,2023,2023-08-26,Ayr Utd,Dundee Utd,0,3,0,0,A
+ecosse_div_1,2023,2023-08-26,Dunfermline,Raith Rovers,0,1,0,0,A
+ecosse_div_1,2023,2023-08-26,Airdrie United,Inverness CT,2,1,2,0,H
+ecosse_div_1,2023,2023-09-02,Inverness CT,Dunfermline,1,1,1,0,D
+ecosse_div_1,2023,2023-09-02,Morton,Partick,1,4,1,0,A
+ecosse_div_1,2023,2023-09-02,Raith Rovers,Queen's Park,3,2,1,2,H
+ecosse_div_1,2023,2023-09-02,Dundee Utd,Airdrie United,2,0,1,1,H
+ecosse_div_1,2023,2023-09-02,Arbroath,Ayr Utd,2,1,1,1,H
+ecosse_div_1,2023,2023-09-15,Ayr Utd,Partick,0,4,0,0,A
+ecosse_div_1,2023,2023-09-16,Raith Rovers,Inverness CT,1,0,0,1,H
+ecosse_div_1,2023,2023-09-16,Dundee Utd,Morton,1,1,1,0,D
+ecosse_div_1,2023,2023-09-16,Arbroath,Airdrie United,4,0,2,2,H
+ecosse_div_1,2023,2023-09-16,Queen's Park,Dunfermline,0,2,0,0,A
+ecosse_div_1,2023,2023-09-22,Queen's Park,Ayr Utd,2,5,1,1,A
+ecosse_div_1,2023,2023-09-23,Partick,Arbroath,0,3,0,0,A
+ecosse_div_1,2023,2023-09-23,Inverness CT,Dundee Utd,0,1,0,0,A
+ecosse_div_1,2023,2023-09-23,Dunfermline,Morton,3,1,2,1,H
+ecosse_div_1,2023,2023-09-23,Airdrie United,Raith Rovers,1,0,0,1,H
+ecosse_div_1,2023,2023-09-30,Partick,Dunfermline,3,0,1,2,H
+ecosse_div_1,2023,2023-09-30,Morton,Airdrie United,0,1,0,0,A
+ecosse_div_1,2023,2023-09-30,Dundee Utd,Queen's Park,4,1,1,3,H
+ecosse_div_1,2023,2023-09-30,Ayr Utd,Raith Rovers,1,2,0,1,A
+ecosse_div_1,2023,2023-09-30,Arbroath,Inverness CT,2,3,0,2,A
+ecosse_div_1,2023,2023-10-07,Inverness CT,Partick,0,0,0,0,D
+ecosse_div_1,2023,2023-10-07,Raith Rovers,Dundee Utd,1,1,1,0,D
+ecosse_div_1,2023,2023-10-07,Airdrie United,Ayr Utd,1,2,0,1,A
+ecosse_div_1,2023,2023-10-07,Queen's Park,Morton,0,0,0,0,D
+ecosse_div_1,2023,2023-10-20,Airdrie United,Queen's Park,1,1,1,0,D
+ecosse_div_1,2023,2023-10-21,Partick,Dundee Utd,0,5,0,0,A
+ecosse_div_1,2023,2023-10-21,Dunfermline,Ayr Utd,0,1,0,0,A
+ecosse_div_1,2023,2023-10-27,Dundee Utd,Arbroath,6,0,3,3,H
+ecosse_div_1,2023,2023-10-27,Queen's Park,Partick,2,2,0,2,D
+ecosse_div_1,2023,2023-10-28,Inverness CT,Airdrie United,1,0,1,0,H
+ecosse_div_1,2023,2023-10-28,Raith Rovers,Dunfermline,1,0,0,1,H
+ecosse_div_1,2023,2023-10-28,Ayr Utd,Morton,0,1,0,0,A
+ecosse_div_1,2023,2023-10-31,Partick,Ayr Utd,2,2,1,1,D
+ecosse_div_1,2023,2023-10-31,Morton,Raith Rovers,1,2,0,1,A
+ecosse_div_1,2023,2023-10-31,Airdrie United,Dundee Utd,0,2,0,0,A
+ecosse_div_1,2023,2023-11-03,Morton,Dunfermline,1,2,0,1,A
+ecosse_div_1,2023,2023-11-04,Raith Rovers,Airdrie United,1,1,1,0,D
+ecosse_div_1,2023,2023-11-04,Dundee Utd,Inverness CT,1,1,0,1,D
+ecosse_div_1,2023,2023-11-04,Ayr Utd,Queen's Park,2,2,2,0,D
+ecosse_div_1,2023,2023-11-04,Arbroath,Partick,1,3,0,1,A
+ecosse_div_1,2023,2023-11-10,Dunfermline,Dundee Utd,1,2,0,1,A
+ecosse_div_1,2023,2023-11-11,Partick,Morton,2,1,1,1,H
+ecosse_div_1,2023,2023-11-11,Inverness CT,Ayr Utd,3,1,3,0,H
+ecosse_div_1,2023,2023-11-11,Airdrie United,Arbroath,2,0,1,1,H
+ecosse_div_1,2023,2023-11-11,Queen's Park,Raith Rovers,2,3,0,2,A
+ecosse_div_1,2023,2023-11-18,Dunfermline,Inverness CT,1,1,0,1,D
+ecosse_div_1,2023,2023-11-28,Dunfermline,Arbroath,3,0,0,3,H
+ecosse_div_1,2023,2023-12-02,Partick,Airdrie United,2,1,2,0,H
+ecosse_div_1,2023,2023-12-02,Inverness CT,Raith Rovers,1,2,0,1,A
+ecosse_div_1,2023,2023-12-08,Raith Rovers,Partick,4,3,1,3,H
+ecosse_div_1,2023,2023-12-09,Dundee Utd,Ayr Utd,1,0,0,1,H
+ecosse_div_1,2023,2023-12-09,Arbroath,Morton,1,2,0,1,A
+ecosse_div_1,2023,2023-12-09,Airdrie United,Dunfermline,1,2,0,1,A
+ecosse_div_1,2023,2023-12-09,Queen's Park,Inverness CT,1,4,1,0,A
+ecosse_div_1,2023,2023-12-12,Morton,Inverness CT,2,1,1,1,H
+ecosse_div_1,2023,2023-12-13,Arbroath,Raith Rovers,1,2,1,0,A
+ecosse_div_1,2023,2023-12-16,Inverness CT,Arbroath,1,2,1,0,A
+ecosse_div_1,2023,2023-12-16,Morton,Queen's Park,1,0,1,0,H
+ecosse_div_1,2023,2023-12-16,Dundee Utd,Raith Rovers,0,1,0,0,A
+ecosse_div_1,2023,2023-12-16,Ayr Utd,Airdrie United,1,0,1,0,H
+ecosse_div_1,2023,2023-12-16,Dunfermline,Partick,1,2,0,1,A
+ecosse_div_1,2023,2023-12-22,Raith Rovers,Ayr Utd,4,4,2,2,D
+ecosse_div_1,2023,2023-12-22,Queen's Park,Dundee Utd,0,0,0,0,D
+ecosse_div_1,2023,2023-12-23,Partick,Inverness CT,1,1,1,0,D
+ecosse_div_1,2023,2023-12-23,Arbroath,Dunfermline,1,1,1,0,D
+ecosse_div_1,2023,2023-12-23,Airdrie United,Morton,0,0,0,0,D
+ecosse_div_1,2023,2023-12-29,Dundee Utd,Partick,3,0,1,2,H
+ecosse_div_1,2023,2023-12-30,Inverness CT,Morton,0,0,0,0,D
+ecosse_div_1,2023,2023-12-30,Raith Rovers,Arbroath,2,2,1,1,D
+ecosse_div_1,2023,2023-12-30,Ayr Utd,Dunfermline,2,2,1,1,D
+ecosse_div_1,2023,2023-12-30,Queen's Park,Airdrie United,1,2,1,0,A
+ecosse_div_1,2023,2024-01-02,Partick,Queen's Park,3,2,1,2,H
+ecosse_div_1,2023,2024-01-02,Morton,Ayr Utd,3,0,1,2,H
+ecosse_div_1,2023,2024-01-02,Dunfermline,Raith Rovers,1,2,1,0,A
+ecosse_div_1,2023,2024-01-02,Arbroath,Dundee Utd,0,3,0,0,A
+ecosse_div_1,2023,2024-01-02,Airdrie United,Inverness CT,2,0,0,2,H
+ecosse_div_1,2023,2024-01-05,Queen's Park,Dunfermline,2,1,0,2,H
+ecosse_div_1,2023,2024-01-06,Partick,Arbroath,4,0,1,3,H
+ecosse_div_1,2023,2024-01-06,Dundee Utd,Morton,2,3,2,0,A
+ecosse_div_1,2023,2024-01-06,Ayr Utd,Inverness CT,1,3,0,1,A
+ecosse_div_1,2023,2024-01-06,Airdrie United,Raith Rovers,1,0,1,0,H
+ecosse_div_1,2023,2024-01-12,Inverness CT,Dundee Utd,0,1,0,0,A
+ecosse_div_1,2023,2024-01-13,Morton,Partick,1,1,1,0,D
+ecosse_div_1,2023,2024-01-13,Raith Rovers,Queen's Park,1,2,1,0,A
+ecosse_div_1,2023,2024-01-13,Arbroath,Ayr Utd,0,0,0,0,D
+ecosse_div_1,2023,2024-01-23,Ayr Utd,Arbroath,2,0,0,2,H
+ecosse_div_1,2023,2024-01-27,Morton,Arbroath,3,0,0,3,H
+ecosse_div_1,2023,2024-01-27,Raith Rovers,Inverness CT,2,3,1,1,A
+ecosse_div_1,2023,2024-01-27,Dundee Utd,Dunfermline,0,0,0,0,D
+ecosse_div_1,2023,2024-01-27,Airdrie United,Partick,1,1,1,0,D
+ecosse_div_1,2023,2024-01-27,Queen's Park,Ayr Utd,1,2,0,1,A
+ecosse_div_1,2023,2024-02-03,Inverness CT,Queen's Park,0,1,0,0,A
+ecosse_div_1,2023,2024-02-03,Ayr Utd,Dundee Utd,1,2,1,0,A
+ecosse_div_1,2023,2024-02-03,Dunfermline,Morton,0,5,0,0,A
+ecosse_div_1,2023,2024-02-10,Dunfermline,Queen's Park,0,3,0,0,A
+ecosse_div_1,2023,2024-02-16,Raith Rovers,Dundee Utd,2,1,1,1,H
+ecosse_div_1,2023,2024-02-17,Inverness CT,Partick,3,3,1,2,D
+ecosse_div_1,2023,2024-02-17,Dunfermline,Arbroath,1,1,1,0,D
+ecosse_div_1,2023,2024-02-17,Airdrie United,Ayr Utd,2,3,1,1,A
+ecosse_div_1,2023,2024-02-17,Queen's Park,Morton,0,0,0,0,D
+ecosse_div_1,2023,2024-02-23,Partick,Dunfermline,1,3,1,0,A
+ecosse_div_1,2023,2024-02-24,Morton,Airdrie United,2,1,2,0,H
+ecosse_div_1,2023,2024-02-24,Dundee Utd,Queen's Park,3,1,2,1,H
+ecosse_div_1,2023,2024-02-24,Ayr Utd,Raith Rovers,1,2,1,0,A
+ecosse_div_1,2023,2024-02-24,Arbroath,Inverness CT,1,1,0,1,D
+ecosse_div_1,2023,2024-02-27,Inverness CT,Dunfermline,0,0,0,0,D
+ecosse_div_1,2023,2024-02-27,Raith Rovers,Morton,0,0,0,0,D
+ecosse_div_1,2023,2024-02-27,Dundee Utd,Airdrie United,0,2,0,0,A
+ecosse_div_1,2023,2024-02-27,Ayr Utd,Partick,4,3,3,1,H
+ecosse_div_1,2023,2024-02-27,Queen's Park,Arbroath,6,0,3,3,H
+ecosse_div_1,2023,2024-03-01,Arbroath,Raith Rovers,3,2,0,3,H
+ecosse_div_1,2023,2024-03-02,Partick,Dundee Utd,1,1,1,0,D
+ecosse_div_1,2023,2024-03-02,Morton,Inverness CT,0,2,0,0,A
+ecosse_div_1,2023,2024-03-02,Dunfermline,Ayr Utd,2,0,2,0,H
+ecosse_div_1,2023,2024-03-02,Airdrie United,Queen's Park,1,1,0,1,D
+ecosse_div_1,2023,2024-03-05,Morton,Dundee Utd,0,1,0,0,A
+ecosse_div_1,2023,2024-03-05,Dunfermline,Airdrie United,0,2,0,0,A
+ecosse_div_1,2023,2024-03-09,Inverness CT,Airdrie United,0,0,0,0,D
+ecosse_div_1,2023,2024-03-09,Raith Rovers,Dunfermline,2,0,1,1,H
+ecosse_div_1,2023,2024-03-09,Dundee Utd,Arbroath,4,0,2,2,H
+ecosse_div_1,2023,2024-03-09,Queen's Park,Partick,2,2,1,1,D
+ecosse_div_1,2023,2024-03-12,Partick,Raith Rovers,0,1,0,0,A
+ecosse_div_1,2023,2024-03-15,Dunfermline,Dundee Utd,3,1,2,1,H
+ecosse_div_1,2023,2024-03-16,Partick,Morton,2,1,1,1,H
+ecosse_div_1,2023,2024-03-16,Inverness CT,Ayr Utd,1,2,1,0,A
+ecosse_div_1,2023,2024-03-16,Airdrie United,Arbroath,5,2,2,3,H
+ecosse_div_1,2023,2024-03-16,Queen's Park,Raith Rovers,0,0,0,0,D
+ecosse_div_1,2023,2024-03-23,Morton,Dunfermline,0,1,0,0,A
+ecosse_div_1,2023,2024-03-23,Dundee Utd,Inverness CT,1,1,0,1,D
+ecosse_div_1,2023,2024-03-23,Ayr Utd,Queen's Park,1,2,0,1,A
+ecosse_div_1,2023,2024-03-23,Arbroath,Partick,0,1,0,0,A
+ecosse_div_1,2023,2024-03-29,Ayr Utd,Airdrie United,2,1,0,2,H
+ecosse_div_1,2023,2024-03-30,Partick,Inverness CT,1,0,1,0,H
+ecosse_div_1,2023,2024-03-30,Morton,Queen's Park,2,0,0,2,H
+ecosse_div_1,2023,2024-03-30,Dundee Utd,Raith Rovers,2,0,1,1,H
+ecosse_div_1,2023,2024-03-30,Arbroath,Dunfermline,2,3,0,2,A
+ecosse_div_1,2023,2024-04-02,Arbroath,Airdrie United,1,2,0,1,A
+ecosse_div_1,2023,2024-04-06,Inverness CT,Arbroath,2,1,1,1,H
+ecosse_div_1,2023,2024-04-06,Raith Rovers,Ayr Utd,2,1,1,1,H
+ecosse_div_1,2023,2024-04-06,Dunfermline,Partick,1,1,0,1,D
+ecosse_div_1,2023,2024-04-06,Airdrie United,Morton,3,1,2,1,H
+ecosse_div_1,2023,2024-04-06,Queen's Park,Dundee Utd,0,5,0,0,A
+ecosse_div_1,2023,2024-04-09,Raith Rovers,Airdrie United,1,3,0,1,A
+ecosse_div_1,2023,2024-04-09,Ayr Utd,Morton,1,1,1,0,D
+ecosse_div_1,2023,2024-04-12,Morton,Dundee Utd,1,4,0,1,A
+ecosse_div_1,2023,2024-04-13,Raith Rovers,Partick,0,0,0,0,D
+ecosse_div_1,2023,2024-04-13,Ayr Utd,Arbroath,5,0,3,2,H
+ecosse_div_1,2023,2024-04-13,Airdrie United,Dunfermline,2,1,1,1,H
+ecosse_div_1,2023,2024-04-13,Queen's Park,Inverness CT,0,1,0,0,A
+ecosse_div_1,2023,2024-04-19,Inverness CT,Raith Rovers,0,1,0,0,A
+ecosse_div_1,2023,2024-04-20,Partick,Airdrie United,4,0,0,4,H
+ecosse_div_1,2023,2024-04-20,Dundee Utd,Ayr Utd,1,0,0,1,H
+ecosse_div_1,2023,2024-04-20,Dunfermline,Queen's Park,0,0,0,0,D
+ecosse_div_1,2023,2024-04-20,Arbroath,Morton,1,2,0,1,A
+ecosse_div_1,2023,2024-04-26,Airdrie United,Dundee Utd,0,0,0,0,D
+ecosse_div_1,2023,2024-04-27,Partick,Ayr Utd,0,0,0,0,D
+ecosse_div_1,2023,2024-04-27,Morton,Raith Rovers,0,0,0,0,D
+ecosse_div_1,2023,2024-04-27,Dunfermline,Inverness CT,1,1,1,0,D
+ecosse_div_1,2023,2024-04-27,Arbroath,Queen's Park,0,5,0,0,A
+ecosse_div_1,2023,2024-05-03,Inverness CT,Morton,3,1,1,2,H
+ecosse_div_1,2023,2024-05-03,Raith Rovers,Arbroath,5,0,2,3,H
+ecosse_div_1,2023,2024-05-03,Dundee Utd,Partick,4,1,1,3,H
+ecosse_div_1,2023,2024-05-03,Ayr Utd,Dunfermline,3,3,1,2,D
+ecosse_div_1,2023,2024-05-03,Queen's Park,Airdrie United,2,0,1,1,H
+ecosse_div_1,2023,2024-05-07,Alloa Athletic,Hamilton Academical,2,2,0,2,D
+ecosse_div_1,2023,2024-05-07,Montrose,Inverness CT,0,0,0,0,D
+ecosse_div_1,2023,2024-05-11,Hamilton Academical,Alloa Athletic,3,2,2,1,H
+ecosse_div_1,2023,2024-05-11,Inverness CT,Montrose,1,0,0,1,H
+ecosse_div_1,2023,2024-05-15,Hamilton Academical,Inverness CT,2,1,2,0,H
+ecosse_div_1,2023,2024-05-18,Inverness CT,Hamilton Academical,2,3,1,1,A

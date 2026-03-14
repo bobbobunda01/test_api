@@ -1,0 +1,1105 @@
+fixture_id,league,season,date,home_team,away_team,score_home,score_away,home_goals_1st_half,home_goals_2nd_half,away_goals_1st_half,away_goals_2nd_half
+864095,mexique,2022,2022-07-02T02:05:00+00:00,Mazatlán,Puebla,2,4,0,2,2,2
+864096,mexique,2022,2022-07-02T22:00:00+00:00,Guadalajara Chivas,FC Juarez,0,0,0,0,0,0
+864094,mexique,2022,2022-07-02T22:00:00+00:00,Necaxa,Toluca,1,3,1,0,2,1
+864097,mexique,2022,2022-07-03T00:05:00+00:00,Tigres UANL,Cruz Azul,2,3,0,2,1,2
+864098,mexique,2022,2022-07-03T02:05:00+00:00,Club America,Atlas,0,0,0,0,0,0
+864099,mexique,2022,2022-07-03T17:00:00+00:00,U.N.A.M. - Pumas,Club Tijuana,1,1,0,1,1,0
+864100,mexique,2022,2022-07-03T22:00:00+00:00,Atletico San Luis,Leon,1,2,0,1,1,1
+864101,mexique,2022,2022-07-04T00:05:00+00:00,Santos Laguna,Monterrey,4,3,2,2,2,1
+864102,mexique,2022,2022-07-05T02:00:00+00:00,Pachuca,Club Queretaro,2,0,1,1,0,0
+864103,mexique,2022,2022-07-09T00:00:00+00:00,Mazatlán,Tigres UANL,0,1,0,0,1,0
+864105,mexique,2022,2022-07-09T02:05:00+00:00,Club Tijuana,FC Juarez,0,2,0,0,0,2
+864104,mexique,2022,2022-07-09T02:05:00+00:00,Puebla,Santos Laguna,1,0,1,0,0,0
+864111,mexique,2022,2022-07-10T00:00:00+00:00,Leon,U.N.A.M. - Pumas,3,3,0,3,2,1
+864106,mexique,2022,2022-07-10T00:05:00+00:00,Guadalajara Chivas,Atletico San Luis,0,1,0,0,1,0
+864108,mexique,2022,2022-07-10T02:05:00+00:00,Monterrey,Club America,3,2,1,2,2,0
+864107,mexique,2022,2022-07-10T02:05:00+00:00,Cruz Azul,Pachuca,1,2,0,1,2,0
+864109,mexique,2022,2022-07-10T17:00:00+00:00,Toluca,Atlas,3,2,3,0,1,1
+864110,mexique,2022,2022-07-10T22:00:00+00:00,Club Queretaro,Necaxa,1,2,1,0,1,1
+864112,mexique,2022,2022-07-14T02:00:00+00:00,Club America,Toluca,1,0,0,1,0,0
+864113,mexique,2022,2022-07-16T00:00:00+00:00,Puebla,Leon,1,1,1,0,0,1
+864114,mexique,2022,2022-07-16T02:05:00+00:00,FC Juarez,Club Queretaro,1,1,1,0,1,0
+864115,mexique,2022,2022-07-16T22:00:00+00:00,Atlas,Cruz Azul,3,2,1,2,1,1
+864116,mexique,2022,2022-07-17T00:05:00+00:00,Santos Laguna,Guadalajara Chivas,1,1,0,1,0,1
+864117,mexique,2022,2022-07-17T17:00:00+00:00,U.N.A.M. - Pumas,Necaxa,1,0,1,0,0,0
+864118,mexique,2022,2022-07-17T22:00:00+00:00,Atletico San Luis,Monterrey,0,1,0,0,0,1
+864119,mexique,2022,2022-07-18T00:00:00+00:00,Tigres UANL,Club Tijuana,1,0,0,1,0,0
+864120,mexique,2022,2022-07-19T00:00:00+00:00,Pachuca,Mazatlán,1,1,0,1,0,1
+864121,mexique,2022,2022-07-21T02:05:00+00:00,Guadalajara Chivas,Leon,0,0,0,0,0,0
+864122,mexique,2022,2022-07-22T02:00:00+00:00,Club Queretaro,Monterrey,0,3,0,0,1,2
+864123,mexique,2022,2022-07-23T00:00:00+00:00,Mazatlán,Atletico San Luis,1,1,1,0,1,0
+864124,mexique,2022,2022-07-23T02:05:00+00:00,Necaxa,FC Juarez,1,0,1,0,0,0
+864125,mexique,2022,2022-07-23T22:00:00+00:00,Toluca,Santos Laguna,2,1,2,0,0,1
+864126,mexique,2022,2022-07-24T00:05:00+00:00,Cruz Azul,Puebla,2,2,2,0,2,0
+864128,mexique,2022,2022-07-24T01:00:00+00:00,Club Tijuana,Club America,2,0,1,1,0,0
+864127,mexique,2022,2022-07-24T02:05:00+00:00,Tigres UANL,Atlas,2,0,2,0,0,0
+864129,mexique,2022,2022-07-25T00:00:00+00:00,Pachuca,U.N.A.M. - Pumas,0,0,0,0,0,0
+864131,mexique,2022,2022-07-27T00:00:00+00:00,Monterrey,Puebla,1,0,1,0,0,0
+864130,mexique,2022,2022-07-27T00:00:00+00:00,Atlas,Club Tijuana,1,2,1,0,2,0
+864132,mexique,2022,2022-07-27T00:00:00+00:00,FC Juarez,Tigres UANL,0,1,0,0,1,0
+864134,mexique,2022,2022-07-27T02:05:00+00:00,Leon,Toluca,0,1,0,0,0,1
+864133,mexique,2022,2022-07-27T02:05:00+00:00,Atletico San Luis,Cruz Azul,0,0,0,0,0,0
+864136,mexique,2022,2022-07-28T00:00:00+00:00,Necaxa,Pachuca,2,0,1,1,0,0
+864135,mexique,2022,2022-07-28T00:00:00+00:00,Club Queretaro,Guadalajara Chivas,2,2,1,1,1,1
+864137,mexique,2022,2022-07-28T02:05:00+00:00,U.N.A.M. - Pumas,Mazatlán,1,1,0,1,0,1
+864139,mexique,2022,2022-07-30T02:05:00+00:00,FC Juarez,Toluca,1,1,0,1,0,1
+864140,mexique,2022,2022-07-30T22:00:00+00:00,Cruz Azul,Necaxa,1,0,1,0,0,0
+864141,mexique,2022,2022-07-31T00:05:00+00:00,Tigres UANL,Club Queretaro,2,1,1,1,1,0
+864142,mexique,2022,2022-07-31T02:05:00+00:00,Guadalajara Chivas,Pachuca,0,0,0,0,0,0
+864144,mexique,2022,2022-07-31T02:05:00+00:00,Club Tijuana,Mazatlán,2,0,0,2,0,0
+864143,mexique,2022,2022-07-31T02:05:00+00:00,Puebla,Atletico San Luis,0,0,0,0,0,0
+864145,mexique,2022,2022-07-31T17:00:00+00:00,U.N.A.M. - Pumas,Monterrey,1,1,1,0,1,0
+864146,mexique,2022,2022-08-01T00:05:00+00:00,Santos Laguna,Atlas,1,0,0,1,0,0
+864147,mexique,2022,2022-08-01T02:05:00+00:00,Leon,Club America,3,2,1,2,1,1
+864229,mexique,2022,2022-08-03T01:00:00+00:00,Toluca,Puebla,1,1,0,1,1,0
+864230,mexique,2022,2022-08-04T00:00:00+00:00,FC Juarez,Atletico San Luis,1,1,0,1,1,0
+864148,mexique,2022,2022-08-05T02:00:00+00:00,Atlas,Club Queretaro,3,1,0,3,1,0
+864150,mexique,2022,2022-08-06T02:05:00+00:00,Mazatlán,Guadalajara Chivas,2,1,0,2,0,1
+864151,mexique,2022,2022-08-07T00:05:00+00:00,Monterrey,Leon,5,1,3,2,0,1
+864153,mexique,2022,2022-08-07T02:05:00+00:00,Santos Laguna,Cruz Azul,4,0,1,3,0,0
+864154,mexique,2022,2022-08-07T17:00:00+00:00,Toluca,Club Tijuana,3,1,1,2,1,0
+864155,mexique,2022,2022-08-07T21:00:00+00:00,Atletico San Luis,Necaxa,1,2,1,0,2,0
+864156,mexique,2022,2022-08-07T23:05:00+00:00,Pachuca,Tigres UANL,2,0,1,1,0,0
+864152,mexique,2022,2022-08-08T01:05:00+00:00,Club America,FC Juarez,2,1,0,2,0,1
+864157,mexique,2022,2022-08-12T02:00:00+00:00,Club Queretaro,Atletico San Luis,1,1,0,1,0,1
+864158,mexique,2022,2022-08-13T02:00:00+00:00,Necaxa,Monterrey,1,2,1,0,0,2
+864159,mexique,2022,2022-08-13T02:05:00+00:00,Club Tijuana,Puebla,3,3,1,2,1,2
+864161,mexique,2022,2022-08-13T22:00:00+00:00,Leon,Mazatlán,0,3,0,0,3,0
+864162,mexique,2022,2022-08-14T00:05:00+00:00,U.N.A.M. - Pumas,Club America,0,3,0,0,1,2
+864163,mexique,2022,2022-08-14T02:05:00+00:00,Guadalajara Chivas,Atlas,1,1,0,1,0,1
+864164,mexique,2022,2022-08-14T22:00:00+00:00,Cruz Azul,Toluca,2,3,1,1,2,1
+864165,mexique,2022,2022-08-15T00:05:00+00:00,Tigres UANL,Santos Laguna,2,0,1,1,0,0
+864166,mexique,2022,2022-08-17T00:00:00+00:00,Atlas,FC Juarez,0,1,0,0,0,1
+864167,mexique,2022,2022-08-17T01:00:00+00:00,Mazatlán,Club Queretaro,1,1,0,1,0,1
+864168,mexique,2022,2022-08-17T02:05:00+00:00,Puebla,Necaxa,2,2,1,1,0,2
+864169,mexique,2022,2022-08-18T00:00:00+00:00,Toluca,Monterrey,1,1,1,0,0,1
+864171,mexique,2022,2022-08-18T02:05:00+00:00,Pachuca,Club America,0,3,0,0,1,2
+864170,mexique,2022,2022-08-18T02:05:00+00:00,Cruz Azul,Club Tijuana,1,2,1,0,1,1
+864172,mexique,2022,2022-08-19T00:05:00+00:00,Santos Laguna,Leon,2,1,1,1,1,0
+864173,mexique,2022,2022-08-19T02:05:00+00:00,Atletico San Luis,U.N.A.M. - Pumas,3,2,1,2,2,0
+864175,mexique,2022,2022-08-20T00:00:00+00:00,Necaxa,Guadalajara Chivas,0,4,0,0,2,2
+864177,mexique,2022,2022-08-20T22:00:00+00:00,Club Queretaro,Club Tijuana,2,0,1,1,0,0
+864179,mexique,2022,2022-08-21T00:05:00+00:00,Monterrey,Tigres UANL,0,0,0,0,0,0
+864178,mexique,2022,2022-08-21T00:05:00+00:00,Atlas,Puebla,1,1,1,0,1,0
+864180,mexique,2022,2022-08-21T02:05:00+00:00,Club America,Cruz Azul,7,0,3,4,0,0
+864176,mexique,2022,2022-08-21T02:05:00+00:00,FC Juarez,Mazatlán,1,1,0,1,1,0
+864181,mexique,2022,2022-08-21T17:00:00+00:00,U.N.A.M. - Pumas,Santos Laguna,1,5,0,1,3,2
+864182,mexique,2022,2022-08-21T22:00:00+00:00,Atletico San Luis,Toluca,1,0,1,0,0,0
+864183,mexique,2022,2022-08-22T00:05:00+00:00,Pachuca,Leon,1,0,0,1,0,0
+864231,mexique,2022,2022-08-24T00:05:00+00:00,Guadalajara Chivas,Monterrey,1,0,0,1,0,0
+864232,mexique,2022,2022-08-24T02:05:00+00:00,Club Queretaro,Club America,0,1,0,0,0,1
+864234,mexique,2022,2022-08-25T02:05:00+00:00,U.N.A.M. - Pumas,Tigres UANL,1,1,0,1,0,1
+864235,mexique,2022,2022-08-26T00:05:00+00:00,Pachuca,Atlas,3,1,0,3,0,1
+864236,mexique,2022,2022-08-26T02:05:00+00:00,Club Tijuana,Santos Laguna,0,2,0,0,0,2
+864184,mexique,2022,2022-08-27T00:00:00+00:00,Puebla,FC Juarez,2,2,1,1,1,1
+864185,mexique,2022,2022-08-27T02:05:00+00:00,Mazatlán,Club America,1,3,1,0,2,1
+864186,mexique,2022,2022-08-27T22:00:00+00:00,Cruz Azul,Club Queretaro,2,1,1,1,0,1
+864187,mexique,2022,2022-08-28T00:05:00+00:00,Tigres UANL,Necaxa,0,0,0,0,0,0
+864188,mexique,2022,2022-08-28T02:05:00+00:00,Guadalajara Chivas,U.N.A.M. - Pumas,3,1,3,0,1,0
+864189,mexique,2022,2022-08-28T17:00:00+00:00,Toluca,Pachuca,1,4,0,1,2,2
+864191,mexique,2022,2022-08-29T00:00:00+00:00,Leon,Atlas,4,2,1,3,1,1
+864190,mexique,2022,2022-08-29T00:05:00+00:00,Santos Laguna,Atletico San Luis,4,1,1,3,0,1
+864192,mexique,2022,2022-08-29T02:05:00+00:00,Club Tijuana,Monterrey,0,3,0,0,0,3
+864193,mexique,2022,2022-09-02T00:00:00+00:00,Atletico San Luis,Club Tijuana,0,0,0,0,0,0
+864194,mexique,2022,2022-09-02T02:05:00+00:00,Club Queretaro,Puebla,1,1,1,0,0,1
+864195,mexique,2022,2022-09-03T00:00:00+00:00,Necaxa,Leon,3,2,3,0,0,2
+864196,mexique,2022,2022-09-03T02:05:00+00:00,FC Juarez,Cruz Azul,2,2,0,2,2,0
+864197,mexique,2022,2022-09-03T22:05:00+00:00,Pachuca,Santos Laguna,2,0,0,2,0,0
+864198,mexique,2022,2022-09-04T00:05:00+00:00,Monterrey,Mazatlán,0,0,0,0,0,0
+864199,mexique,2022,2022-09-04T00:05:00+00:00,Atlas,U.N.A.M. - Pumas,0,0,0,0,0,0
+864200,mexique,2022,2022-09-04T02:05:00+00:00,Club America,Tigres UANL,2,1,2,0,1,0
+864201,mexique,2022,2022-09-04T22:00:00+00:00,Toluca,Guadalajara Chivas,0,0,0,0,0,0
+864202,mexique,2022,2022-09-07T00:00:00+00:00,Leon,FC Juarez,1,0,0,1,0,0
+864203,mexique,2022,2022-09-07T00:05:00+00:00,Santos Laguna,Necaxa,3,1,1,2,0,1
+864204,mexique,2022,2022-09-07T02:05:00+00:00,Monterrey,Cruz Azul,3,2,2,1,1,1
+864205,mexique,2022,2022-09-07T02:05:00+00:00,Club America,Atletico San Luis,3,0,1,2,0,0
+864207,mexique,2022,2022-09-08T00:00:00+00:00,Tigres UANL,Toluca,3,1,1,2,0,1
+864206,mexique,2022,2022-09-08T00:00:00+00:00,Puebla,Pachuca,2,2,1,1,0,2
+864210,mexique,2022,2022-09-08T02:00:00+00:00,Mazatlán,Atlas,1,0,1,0,0,0
+864209,mexique,2022,2022-09-08T02:05:00+00:00,Club Tijuana,Guadalajara Chivas,1,2,0,1,0,2
+864208,mexique,2022,2022-09-08T02:05:00+00:00,U.N.A.M. - Pumas,Club Queretaro,4,1,1,3,1,0
+864212,mexique,2022,2022-09-10T02:05:00+00:00,FC Juarez,Monterrey,0,1,0,0,0,1
+864213,mexique,2022,2022-09-10T22:00:00+00:00,Club Queretaro,Santos Laguna,3,3,2,1,1,2
+864211,mexique,2022,2022-09-11T00:00:00+00:00,Necaxa,Club America,1,2,1,0,0,2
+864214,mexique,2022,2022-09-11T00:05:00+00:00,Tigres UANL,Leon,0,1,0,0,1,0
+864216,mexique,2022,2022-09-11T02:05:00+00:00,Guadalajara Chivas,Puebla,1,0,0,1,0,0
+864215,mexique,2022,2022-09-11T02:05:00+00:00,Toluca,U.N.A.M. - Pumas,2,2,0,2,1,1
+864217,mexique,2022,2022-09-11T21:00:00+00:00,Cruz Azul,Mazatlán,2,0,2,0,0,0
+864218,mexique,2022,2022-09-11T23:05:00+00:00,Atlas,Atletico San Luis,1,3,1,0,0,3
+864219,mexique,2022,2022-09-12T01:05:00+00:00,Pachuca,Club Tijuana,6,1,2,4,0,1
+864174,mexique,2022,2022-09-14T02:05:00+00:00,Guadalajara Chivas,Tigres UANL,1,4,0,1,2,2
+864138,mexique,2022,2022-09-15T02:05:00+00:00,Club America,Santos Laguna,3,3,1,2,2,1
+864160,mexique,2022,2022-09-15T02:05:00+00:00,FC Juarez,Pachuca,2,1,2,0,1,0
+864233,mexique,2022,2022-09-16T00:00:00+00:00,Cruz Azul,Leon,2,1,0,2,0,1
+864220,mexique,2022,2022-09-17T00:00:00+00:00,Puebla,Tigres UANL,2,1,2,0,1,0
+864221,mexique,2022,2022-09-17T02:00:00+00:00,Mazatlán,Toluca,1,1,1,0,0,1
+864223,mexique,2022,2022-09-18T00:05:00+00:00,Monterrey,Atlas,2,0,0,2,0,0
+864224,mexique,2022,2022-09-18T01:00:00+00:00,Club America,Guadalajara Chivas,2,1,1,1,0,1
+864225,mexique,2022,2022-09-18T22:00:00+00:00,U.N.A.M. - Pumas,Cruz Azul,1,2,0,1,2,0
+864226,mexique,2022,2022-09-19T00:05:00+00:00,Santos Laguna,FC Juarez,2,0,1,1,0,0
+864227,mexique,2022,2022-09-19T00:05:00+00:00,Leon,Club Queretaro,3,1,2,1,1,0
+864222,mexique,2022,2022-09-19T02:00:00+00:00,Atletico San Luis,Pachuca,1,2,1,0,1,1
+864228,mexique,2022,2022-09-19T02:05:00+00:00,Club Tijuana,Necaxa,1,1,1,0,1,0
+864237,mexique,2022,2022-09-24T00:00:00+00:00,Necaxa,Mazatlán,2,2,1,1,2,0
+864149,mexique,2022,2022-09-24T02:05:00+00:00,Puebla,U.N.A.M. - Pumas,2,1,2,0,0,1
+864238,mexique,2022,2022-10-01T00:00:00+00:00,Puebla,Club America,1,2,0,1,1,1
+864239,mexique,2022,2022-10-01T02:00:00+00:00,FC Juarez,U.N.A.M. - Pumas,3,1,2,1,1,0
+864240,mexique,2022,2022-10-01T22:00:00+00:00,Atletico San Luis,Tigres UANL,0,3,0,0,0,3
+864241,mexique,2022,2022-10-01T22:05:00+00:00,Monterrey,Pachuca,0,0,0,0,0,0
+864242,mexique,2022,2022-10-02T00:05:00+00:00,Atlas,Necaxa,1,0,0,1,0,0
+864243,mexique,2022,2022-10-02T02:05:00+00:00,Cruz Azul,Guadalajara Chivas,2,1,1,1,0,1
+864244,mexique,2022,2022-10-02T17:00:00+00:00,Toluca,Club Queretaro,4,1,2,2,0,1
+864245,mexique,2022,2022-10-02T23:05:00+00:00,Santos Laguna,Mazatlán,3,0,0,3,0,0
+864246,mexique,2022,2022-10-03T01:00:00+00:00,Leon,Club Tijuana,2,2,0,2,0,2
+963835,mexique,2022,2022-10-09T00:00:00+00:00,Tigres UANL,Necaxa,2,0,0,2,0,0
+963837,mexique,2022,2022-10-09T02:15:00+00:00,Cruz Azul,Leon,1,0,0,1,0,0
+963836,mexique,2022,2022-10-09T17:00:00+00:00,Toluca,FC Juarez,3,0,1,2,0,0
+965507,mexique,2022,2022-10-13T00:06:00+00:00,Puebla,Club America,1,6,1,0,2,4
+965503,mexique,2022,2022-10-13T02:06:00+00:00,Cruz Azul,Monterrey,0,0,0,0,0,0
+965505,mexique,2022,2022-10-14T00:06:00+00:00,Toluca,Santos Laguna,4,3,2,2,2,1
+965509,mexique,2022,2022-10-14T02:06:00+00:00,Tigres UANL,Pachuca,1,0,0,1,0,0
+965508,mexique,2022,2022-10-16T01:06:00+00:00,Club America,Puebla,5,1,2,3,1,0
+965504,mexique,2022,2022-10-16T23:06:00+00:00,Monterrey,Cruz Azul,3,0,1,2,0,0
+965506,mexique,2022,2022-10-17T00:06:00+00:00,Santos Laguna,Toluca,1,2,0,1,0,2
+965510,mexique,2022,2022-10-17T02:06:00+00:00,Pachuca,Tigres UANL,2,1,1,1,0,1
+967071,mexique,2022,2022-10-20T02:06:00+00:00,Toluca,Club America,2,1,2,0,0,1
+967073,mexique,2022,2022-10-21T02:06:00+00:00,Pachuca,Monterrey,5,2,2,3,2,0
+967072,mexique,2022,2022-10-23T01:06:00+00:00,Club America,Toluca,1,1,1,0,1,0
+967074,mexique,2022,2022-10-24T01:06:00+00:00,Monterrey,Pachuca,0,1,0,0,0,1
+968247,mexique,2022,2022-10-28T01:06:00+00:00,Toluca,Pachuca,1,5,0,1,4,1
+968248,mexique,2022,2022-10-31T01:36:00+00:00,Pachuca,Toluca,3,1,1,2,1,0
+973610,mexique,2022,2023-01-07T01:00:00+00:00,Necaxa,Atletico San Luis,2,3,0,2,0,3
+973612,mexique,2022,2023-01-07T23:00:00+00:00,Club America,Club Queretaro,0,0,0,0,0,0
+973614,mexique,2022,2023-01-08T03:10:00+00:00,Monterrey,Guadalajara Chivas,0,1,0,0,0,1
+973615,mexique,2022,2023-01-08T18:00:00+00:00,U.N.A.M. - Pumas,FC Juarez,2,1,0,2,1,0
+973616,mexique,2022,2023-01-09T01:00:00+00:00,Santos Laguna,Tigres UANL,0,3,0,0,1,2
+973618,mexique,2022,2023-01-09T03:10:00+00:00,Club Tijuana,Cruz Azul,1,1,1,0,0,1
+973617,mexique,2022,2023-01-10T03:10:00+00:00,Pachuca,Puebla,5,1,2,3,1,0
+973619,mexique,2022,2023-01-13T03:00:00+00:00,Atlas,Mazatlán,2,1,0,2,0,1
+973620,mexique,2022,2023-01-14T01:05:00+00:00,Atletico San Luis,Guadalajara Chivas,0,0,0,0,0,0
+973621,mexique,2022,2023-01-14T03:05:00+00:00,Puebla,Club Queretaro,2,0,1,1,0,0
+973622,mexique,2022,2023-01-14T23:00:00+00:00,Cruz Azul,Monterrey,2,3,1,1,1,2
+973623,mexique,2022,2023-01-15T01:05:00+00:00,Toluca,Club America,2,2,2,0,1,1
+973625,mexique,2022,2023-01-15T01:05:00+00:00,FC Juarez,Club Tijuana,3,0,2,1,0,0
+973624,mexique,2022,2023-01-15T03:10:00+00:00,Santos Laguna,U.N.A.M. - Pumas,3,0,1,2,0,0
+973626,mexique,2022,2023-01-16T01:05:00+00:00,Tigres UANL,Pachuca,4,1,1,3,1,0
+973627,mexique,2022,2023-01-17T03:05:00+00:00,Leon,Necaxa,2,1,0,2,1,0
+974323,mexique,2022,2023-01-21T03:00:00+00:00,Mazatlán,Santos Laguna,1,2,0,1,1,1
+974324,mexique,2022,2023-01-21T03:10:00+00:00,Club Tijuana,Tigres UANL,1,1,1,0,0,1
+974326,mexique,2022,2023-01-22T01:10:00+00:00,Club America,Puebla,2,2,1,1,0,2
+974327,mexique,2022,2023-01-22T03:10:00+00:00,Guadalajara Chivas,Toluca,1,2,1,0,0,2
+974328,mexique,2022,2023-01-22T03:10:00+00:00,Necaxa,Cruz Azul,1,0,1,0,0,0
+974329,mexique,2022,2023-01-22T18:00:00+00:00,U.N.A.M. - Pumas,Leon,4,1,2,2,1,0
+974330,mexique,2022,2023-01-22T23:00:00+00:00,Club Queretaro,Atlas,3,3,2,1,2,1
+974325,mexique,2022,2023-01-22T23:06:00+00:00,Monterrey,Atletico San Luis,3,1,2,1,0,1
+974331,mexique,2022,2023-01-23T01:10:00+00:00,Pachuca,FC Juarez,4,1,1,3,0,1
+974332,mexique,2022,2023-01-27T03:05:00+00:00,Atlas,Santos Laguna,2,2,0,2,1,1
+974333,mexique,2022,2023-01-28T01:05:00+00:00,Puebla,Monterrey,1,2,1,0,0,2
+974334,mexique,2022,2023-01-28T03:05:00+00:00,Club Tijuana,U.N.A.M. - Pumas,0,0,0,0,0,0
+974336,mexique,2022,2023-01-29T01:05:00+00:00,Tigres UANL,Atletico San Luis,0,0,0,0,0,0
+974337,mexique,2022,2023-01-29T03:05:00+00:00,Club America,Mazatlán,6,0,4,2,0,0
+974338,mexique,2022,2023-01-29T03:05:00+00:00,FC Juarez,Guadalajara Chivas,1,2,0,1,2,0
+974339,mexique,2022,2023-01-29T18:00:00+00:00,Toluca,Leon,0,0,0,0,0,0
+974340,mexique,2022,2023-01-30T01:00:00+00:00,Pachuca,Necaxa,2,1,1,1,0,1
+973613,mexique,2022,2023-02-02T02:05:00+00:00,Atlas,Toluca,0,0,0,0,0,0
+974341,mexique,2022,2023-02-03T03:00:00+00:00,Atletico San Luis,Puebla,2,0,0,2,0,0
+974342,mexique,2022,2023-02-04T01:00:00+00:00,Necaxa,Club Tijuana,1,1,0,1,1,0
+974343,mexique,2022,2023-02-04T03:05:00+00:00,Mazatlán,FC Juarez,2,3,1,1,1,2
+974344,mexique,2022,2023-02-04T23:00:00+00:00,Leon,Pachuca,0,1,0,0,1,0
+974345,mexique,2022,2023-02-05T01:05:00+00:00,Cruz Azul,Tigres UANL,0,1,0,0,1,0
+974346,mexique,2022,2023-02-05T03:05:00+00:00,Santos Laguna,Club America,2,2,2,0,1,1
+974347,mexique,2022,2023-02-05T18:00:00+00:00,U.N.A.M. - Pumas,Atlas,2,2,2,0,1,1
+974348,mexique,2022,2023-02-05T23:00:00+00:00,Guadalajara Chivas,Club Queretaro,1,1,0,1,0,1
+974349,mexique,2022,2023-02-06T01:10:00+00:00,Monterrey,Toluca,2,1,2,0,0,1
+974350,mexique,2022,2023-02-10T01:05:00+00:00,Club Queretaro,Leon,0,3,0,0,2,1
+974351,mexique,2022,2023-02-10T03:05:00+00:00,Atlas,Monterrey,0,2,0,0,0,2
+974352,mexique,2022,2023-02-11T01:00:00+00:00,Puebla,Mazatlán,3,1,3,0,0,1
+974353,mexique,2022,2023-02-11T03:10:00+00:00,Club Tijuana,Atletico San Luis,1,0,0,1,0,0
+974354,mexique,2022,2023-02-11T23:00:00+00:00,Club America,Necaxa,2,1,1,1,0,1
+974356,mexique,2022,2023-02-12T01:05:00+00:00,Tigres UANL,U.N.A.M. - Pumas,4,2,3,1,1,1
+974355,mexique,2022,2023-02-12T01:05:00+00:00,FC Juarez,Santos Laguna,3,1,0,3,1,0
+974357,mexique,2022,2023-02-12T03:05:00+00:00,Pachuca,Guadalajara Chivas,1,1,0,1,1,0
+974358,mexique,2022,2023-02-12T18:00:00+00:00,Toluca,Cruz Azul,3,1,1,2,1,0
+974360,mexique,2022,2023-02-15T01:05:00+00:00,Tigres UANL,FC Juarez,0,0,0,0,0,0
+974359,mexique,2022,2023-02-15T01:05:00+00:00,Leon,Puebla,2,0,0,2,0,0
+974361,mexique,2022,2023-02-15T03:05:00+00:00,Atletico San Luis,Club America,1,3,1,0,2,1
+974363,mexique,2022,2023-02-16T01:05:00+00:00,Guadalajara Chivas,Club Tijuana,2,1,1,1,1,0
+974362,mexique,2022,2023-02-16T01:05:00+00:00,Monterrey,Club Queretaro,2,0,2,0,0,0
+974364,mexique,2022,2023-02-16T03:05:00+00:00,Necaxa,U.N.A.M. - Pumas,3,1,2,1,1,0
+974365,mexique,2022,2023-02-17T03:00:00+00:00,Mazatlán,Pachuca,2,3,0,2,1,2
+974369,mexique,2022,2023-02-18T01:06:00+00:00,FC Juarez,Leon,0,0,0,0,0,0
+974370,mexique,2022,2023-02-18T03:05:00+00:00,Puebla,Cruz Azul,1,3,0,1,1,2
+974368,mexique,2022,2023-02-18T23:00:00+00:00,Atletico San Luis,Santos Laguna,1,1,1,0,0,1
+974372,mexique,2022,2023-02-19T01:05:00+00:00,Atlas,Tigres UANL,0,1,0,0,1,0
+974373,mexique,2022,2023-02-19T03:05:00+00:00,U.N.A.M. - Pumas,Guadalajara Chivas,1,2,0,1,2,0
+974374,mexique,2022,2023-02-19T23:00:00+00:00,Club Queretaro,Mazatlán,1,1,1,0,0,1
+974371,mexique,2022,2023-02-19T23:06:00+00:00,Monterrey,Necaxa,2,1,0,2,0,1
+974375,mexique,2022,2023-02-20T01:05:00+00:00,Club America,Club Tijuana,2,1,1,1,0,1
+974376,mexique,2022,2023-02-20T03:05:00+00:00,Pachuca,Toluca,1,2,0,1,1,1
+974366,mexique,2022,2023-02-23T02:05:00+00:00,Cruz Azul,Atlas,1,0,0,1,0,0
+974367,mexique,2022,2023-02-24T02:05:00+00:00,Santos Laguna,Toluca,0,5,0,0,2,3
+974377,mexique,2022,2023-02-25T01:05:00+00:00,Necaxa,Club Queretaro,1,1,1,0,0,1
+974378,mexique,2022,2023-02-25T03:10:00+00:00,Mazatlán,U.N.A.M. - Pumas,1,2,1,0,0,2
+974379,mexique,2022,2023-02-25T23:00:00+00:00,Cruz Azul,FC Juarez,1,0,1,0,0,0
+974380,mexique,2022,2023-02-26T01:05:00+00:00,Tigres UANL,Guadalajara Chivas,1,2,0,1,2,0
+974381,mexique,2022,2023-02-26T03:05:00+00:00,Atlas,Club America,2,2,1,1,2,0
+974382,mexique,2022,2023-02-26T18:00:00+00:00,Toluca,Atletico San Luis,2,0,2,0,0,0
+974383,mexique,2022,2023-02-27T01:05:00+00:00,Santos Laguna,Puebla,3,2,2,1,0,2
+974384,mexique,2022,2023-02-27T03:05:00+00:00,Club Tijuana,Pachuca,2,0,2,0,0,0
+974385,mexique,2022,2023-02-28T03:10:00+00:00,Leon,Monterrey,1,1,1,0,0,1
+974386,mexique,2022,2023-03-04T01:05:00+00:00,Necaxa,Tigres UANL,0,1,0,0,1,0
+974387,mexique,2022,2023-03-04T01:05:00+00:00,Mazatlán,Cruz Azul,3,1,1,2,1,0
+974388,mexique,2022,2023-03-04T03:15:00+00:00,Club Tijuana,Atlas,1,1,1,0,1,0
+974389,mexique,2022,2023-03-04T23:00:00+00:00,Leon,Atletico San Luis,2,0,0,2,0,0
+974391,mexique,2022,2023-03-05T01:05:00+00:00,Club America,Pachuca,0,3,0,0,3,0
+974390,mexique,2022,2023-03-05T01:10:00+00:00,Monterrey,FC Juarez,3,0,1,2,0,0
+974392,mexique,2022,2023-03-05T03:05:00+00:00,Guadalajara Chivas,Santos Laguna,2,0,2,0,0,0
+974393,mexique,2022,2023-03-05T18:00:00+00:00,U.N.A.M. - Pumas,Puebla,2,4,1,1,2,2
+974394,mexique,2022,2023-03-06T01:05:00+00:00,Club Queretaro,Toluca,1,0,1,0,0,0
+974395,mexique,2022,2023-03-11T01:05:00+00:00,Atletico San Luis,Club Queretaro,2,0,0,2,0,0
+974396,mexique,2022,2023-03-11T03:05:00+00:00,Puebla,Guadalajara Chivas,1,0,1,0,0,0
+974397,mexique,2022,2023-03-11T23:00:00+00:00,Atlas,Leon,0,1,0,0,1,0
+974398,mexique,2022,2023-03-12T01:05:00+00:00,Cruz Azul,U.N.A.M. - Pumas,1,0,0,1,0,0
+974399,mexique,2022,2023-03-12T03:10:00+00:00,Tigres UANL,Club America,0,2,0,0,1,1
+974400,mexique,2022,2023-03-12T18:00:00+00:00,Toluca,Mazatlán,4,1,2,2,1,0
+974402,mexique,2022,2023-03-13T01:05:00+00:00,Santos Laguna,Club Tijuana,3,2,1,2,1,1
+974401,mexique,2022,2023-03-13T01:05:00+00:00,Pachuca,Monterrey,1,2,1,0,1,1
+974403,mexique,2022,2023-03-13T03:15:00+00:00,FC Juarez,Necaxa,1,1,0,1,0,1
+974404,mexique,2022,2023-03-18T01:00:00+00:00,Puebla,Atlas,0,4,0,0,2,2
+974406,mexique,2022,2023-03-18T03:05:00+00:00,Club Tijuana,Toluca,3,3,0,3,3,0
+974405,mexique,2022,2023-03-18T03:05:00+00:00,Mazatlán,Necaxa,0,1,0,0,1,0
+974407,mexique,2022,2023-03-18T23:00:00+00:00,Cruz Azul,Atletico San Luis,1,0,0,1,0,0
+974408,mexique,2022,2023-03-19T01:05:00+00:00,Tigres UANL,Monterrey,0,1,0,0,0,1
+974409,mexique,2022,2023-03-19T03:10:00+00:00,Guadalajara Chivas,Club America,2,4,0,2,3,1
+974410,mexique,2022,2023-03-19T18:00:00+00:00,U.N.A.M. - Pumas,Pachuca,0,2,0,0,0,2
+974411,mexique,2022,2023-03-20T01:05:00+00:00,Club Queretaro,FC Juarez,2,2,1,1,0,2
+974412,mexique,2022,2023-03-20T03:05:00+00:00,Leon,Santos Laguna,4,1,3,1,0,1
+973611,mexique,2022,2023-03-25T03:05:00+00:00,Mazatlán,Leon,1,2,1,0,1,1
+974335,mexique,2022,2023-03-30T03:05:00+00:00,Club Queretaro,Cruz Azul,2,2,0,2,1,1
+974413,mexique,2022,2023-04-01T01:05:00+00:00,Necaxa,Santos Laguna,0,0,0,0,0,0
+974414,mexique,2022,2023-04-01T03:00:00+00:00,FC Juarez,Puebla,0,2,0,0,0,2
+974415,mexique,2022,2023-04-01T23:00:00+00:00,Pachuca,Cruz Azul,0,2,0,0,1,1
+974416,mexique,2022,2023-04-02T01:05:00+00:00,Club America,Leon,2,2,0,2,1,1
+974417,mexique,2022,2023-04-02T01:15:00+00:00,Monterrey,Club Tijuana,4,0,3,1,0,0
+974418,mexique,2022,2023-04-02T03:10:00+00:00,Atlas,Guadalajara Chivas,3,3,2,1,2,1
+974419,mexique,2022,2023-04-02T18:00:00+00:00,Toluca,Tigres UANL,3,2,2,1,0,2
+974420,mexique,2022,2023-04-02T23:00:00+00:00,Atletico San Luis,Mazatlán,2,1,1,1,0,1
+974421,mexique,2022,2023-04-03T01:05:00+00:00,Club Queretaro,U.N.A.M. - Pumas,1,0,0,1,0,0
+974422,mexique,2022,2023-04-08T01:05:00+00:00,Puebla,Toluca,1,2,0,1,2,0
+974423,mexique,2022,2023-04-08T03:10:00+00:00,Club Tijuana,Club Queretaro,1,2,0,1,1,1
+974425,mexique,2022,2023-04-08T23:00:00+00:00,Guadalajara Chivas,Necaxa,1,0,0,1,0,0
+974426,mexique,2022,2023-04-09T01:05:00+00:00,Tigres UANL,Mazatlán,1,2,0,1,2,0
+974424,mexique,2022,2023-04-09T01:05:00+00:00,Leon,Cruz Azul,0,0,0,0,0,0
+974427,mexique,2022,2023-04-09T03:10:00+00:00,Club America,Monterrey,2,1,1,1,1,0
+974428,mexique,2022,2023-04-09T18:00:00+00:00,U.N.A.M. - Pumas,Atletico San Luis,3,1,2,1,1,0
+974429,mexique,2022,2023-04-10T00:05:00+00:00,Santos Laguna,Pachuca,1,4,1,0,2,2
+974430,mexique,2022,2023-04-10T02:10:00+00:00,FC Juarez,Atlas,1,1,1,0,1,0
+974431,mexique,2022,2023-04-14T03:05:00+00:00,Atletico San Luis,FC Juarez,2,0,1,1,0,0
+974432,mexique,2022,2023-04-15T01:05:00+00:00,Necaxa,Puebla,1,1,0,1,0,1
+974433,mexique,2022,2023-04-15T03:05:00+00:00,Mazatlán,Club Tijuana,1,2,1,0,1,1
+974434,mexique,2022,2023-04-15T23:00:00+00:00,Atlas,Pachuca,4,1,3,1,0,1
+974435,mexique,2022,2023-04-16T01:05:00+00:00,Leon,Guadalajara Chivas,0,2,0,0,0,2
+974436,mexique,2022,2023-04-16T03:10:00+00:00,Cruz Azul,Club America,1,3,1,0,1,2
+974437,mexique,2022,2023-04-16T18:00:00+00:00,U.N.A.M. - Pumas,Toluca,3,1,3,0,1,0
+974438,mexique,2022,2023-04-16T23:00:00+00:00,Club Queretaro,Tigres UANL,0,0,0,0,0,0
+974439,mexique,2022,2023-04-17T01:10:00+00:00,Monterrey,Santos Laguna,1,2,1,0,1,1
+974440,mexique,2022,2023-04-21T02:05:00+00:00,Tigres UANL,Puebla,1,0,0,1,0,0
+974441,mexique,2022,2023-04-22T01:05:00+00:00,Necaxa,Atlas,1,3,0,1,3,0
+974442,mexique,2022,2023-04-22T01:05:00+00:00,Mazatlán,Monterrey,0,2,0,0,1,1
+974443,mexique,2022,2023-04-22T03:05:00+00:00,Club Tijuana,Leon,0,0,0,0,0,0
+974444,mexique,2022,2023-04-22T23:00:00+00:00,Pachuca,Atletico San Luis,2,1,0,2,1,0
+974445,mexique,2022,2023-04-23T01:05:00+00:00,Guadalajara Chivas,Cruz Azul,2,1,0,2,1,0
+974446,mexique,2022,2023-04-23T03:10:00+00:00,Club America,U.N.A.M. - Pumas,1,1,0,1,0,1
+974447,mexique,2022,2023-04-23T18:00:00+00:00,Toluca,FC Juarez,1,1,1,0,0,1
+974448,mexique,2022,2023-04-24T01:05:00+00:00,Santos Laguna,Club Queretaro,0,2,0,0,0,2
+974450,mexique,2022,2023-04-29T03:05:00+00:00,FC Juarez,Club America,0,1,0,0,1,0
+974449,mexique,2022,2023-04-29T23:00:00+00:00,Puebla,Club Tijuana,5,2,2,3,1,1
+974451,mexique,2022,2023-04-30T01:00:00+00:00,Atletico San Luis,Atlas,0,0,0,0,0,0
+974453,mexique,2022,2023-04-30T01:05:00+00:00,Guadalajara Chivas,Mazatlán,4,1,2,2,1,0
+974452,mexique,2022,2023-04-30T01:05:00+00:00,Monterrey,U.N.A.M. - Pumas,4,1,4,0,1,0
+974454,mexique,2022,2023-04-30T03:05:00+00:00,Cruz Azul,Santos Laguna,3,2,2,1,0,2
+974455,mexique,2022,2023-04-30T18:00:00+00:00,Toluca,Necaxa,3,0,1,2,0,0
+974456,mexique,2022,2023-04-30T23:00:00+00:00,Club Queretaro,Pachuca,0,1,0,0,1,0
+974457,mexique,2022,2023-05-01T01:05:00+00:00,Leon,Tigres UANL,3,0,2,1,0,0
+1024695,mexique,2022,2023-05-06T23:00:00+00:00,Cruz Azul,Atlas,0,1,0,0,1,0
+1024693,mexique,2022,2023-05-08T01:06:00+00:00,Leon,Atlético San Luis,1,3,1,0,3,0
+1024694,mexique,2022,2023-05-08T03:10:00+00:00,Tigres UANL,Puebla,1,0,0,1,0,0
+1025954,mexique,2022,2023-05-11T01:00:00+00:00,Santos Laguna,Monterrey,0,0,0,0,0,0
+1026493,mexique,2022,2023-05-11T03:10:00+00:00,Atletico San Luis,Club America,1,3,1,0,3,0
+1026495,mexique,2022,2023-05-12T01:00:00+00:00,Atlas,Guadalajara Chivas,1,0,1,0,0,0
+1026497,mexique,2022,2023-05-12T03:10:00+00:00,Tigres UANL,Toluca,4,1,3,1,1,0
+1025953,mexique,2022,2023-05-14T01:06:00+00:00,Monterrey,Santos Laguna,2,0,1,1,0,0
+1026492,mexique,2022,2023-05-14T03:16:00+00:00,Club America,Atletico San Luis,1,2,0,1,2,0
+1026496,mexique,2022,2023-05-14T18:00:00+00:00,Toluca,Tigres UANL,3,1,2,1,0,1
+1026494,mexique,2022,2023-05-15T01:05:00+00:00,Guadalajara Chivas,Atlas,1,0,0,1,0,0
+1027143,mexique,2022,2023-05-18T03:00:00+00:00,Tigres UANL,Monterrey,1,1,0,1,1,0
+1027145,mexique,2022,2023-05-19T02:10:00+00:00,Guadalajara Chivas,Club America,0,1,0,0,0,1
+1027144,mexique,2022,2023-05-21T01:06:00+00:00,Monterrey,Tigres UANL,0,1,0,0,0,1
+1027146,mexique,2022,2023-05-22T02:00:00+00:00,Club America,Guadalajara Chivas,1,3,0,1,1,2
+1028348,mexique,2022,2023-05-26T02:00:00+00:00,Tigres UANL,Guadalajara Chivas,0,0,0,0,0,0
+1031275,mexique,2023,2023-07-01T01:00:00+00:00,Club America,FC Juarez,1,2,1,0,0,2
+1031277,mexique,2023,2023-07-01T01:00:00+00:00,Mazatlán,Pachuca,1,1,0,1,1,0
+1031276,mexique,2023,2023-07-01T03:10:00+00:00,Club Tijuana,U.N.A.M. - Pumas,2,3,1,1,1,2
+1031278,mexique,2023,2023-07-01T23:00:00+00:00,Atletico San Luis,Monterrey,1,1,0,1,1,0
+1031279,mexique,2023,2023-07-02T01:00:00+00:00,Tigres UANL,Puebla,1,1,0,1,0,1
+1031280,mexique,2023,2023-07-02T03:10:00+00:00,Atlas,Cruz Azul,2,0,1,1,0,0
+1031281,mexique,2023,2023-07-02T18:00:00+00:00,Toluca,Necaxa,0,0,0,0,0,0
+1031282,mexique,2023,2023-07-03T01:05:00+00:00,Santos Laguna,Club Queretaro,0,2,0,0,0,2
+1031283,mexique,2023,2023-07-04T02:00:00+00:00,Leon,Guadalajara Chivas,1,2,1,0,1,1
+1031284,mexique,2023,2023-07-08T01:00:00+00:00,Puebla,Santos Laguna,2,3,2,0,2,1
+1031290,mexique,2023,2023-07-08T03:00:00+00:00,Necaxa,Club Tijuana,1,1,0,1,0,1
+1031288,mexique,2023,2023-07-08T23:50:00+00:00,Cruz Azul,Toluca,0,2,0,0,1,1
+1031286,mexique,2023,2023-07-09T00:05:00+00:00,Guadalajara Chivas,Atletico San Luis,3,1,2,1,1,0
+1031285,mexique,2023,2023-07-09T00:06:00+00:00,FC Juarez,Tigres UANL,1,1,0,1,1,0
+1031289,mexique,2023,2023-07-09T18:00:00+00:00,U.N.A.M. - Pumas,Mazatlán,0,0,0,0,0,0
+1031287,mexique,2023,2023-07-10T01:00:00+00:00,Monterrey,Atlas,1,0,1,0,0,0
+1031292,mexique,2023,2023-07-11T02:00:00+00:00,Leon,Pachuca,4,0,3,1,0,0
+1031293,mexique,2023,2023-07-14T01:05:00+00:00,Santos Laguna,Atlas,0,0,0,0,0,0
+1031294,mexique,2023,2023-07-14T03:00:00+00:00,Guadalajara Chivas,Necaxa,2,0,1,1,0,0
+1031295,mexique,2023,2023-07-15T01:00:00+00:00,Mazatlán,Monterrey,0,3,0,0,0,3
+1031296,mexique,2023,2023-07-15T03:10:00+00:00,Club Tijuana,Cruz Azul,2,1,0,2,1,0
+1031297,mexique,2023,2023-07-15T23:00:00+00:00,Atletico San Luis,Club Queretaro,4,1,2,2,1,0
+1031298,mexique,2023,2023-07-16T01:00:00+00:00,Club America,Puebla,3,0,2,1,0,0
+1031299,mexique,2023,2023-07-16T03:05:00+00:00,Tigres UANL,Leon,1,0,1,0,0,0
+1031300,mexique,2023,2023-07-16T18:00:00+00:00,Toluca,FC Juarez,2,4,1,1,1,3
+1031301,mexique,2023,2023-07-17T02:15:00+00:00,Pachuca,U.N.A.M. - Pumas,1,1,1,0,1,0
+1031305,mexique,2023,2023-08-19T01:06:00+00:00,Leon,Mazatlán,2,1,0,2,1,0
+1031308,mexique,2023,2023-08-19T03:00:00+00:00,U.N.A.M. - Pumas,Toluca,1,1,1,0,1,0
+1031302,mexique,2023,2023-08-19T03:06:00+00:00,Puebla,Atletico San Luis,1,2,0,1,1,1
+1031303,mexique,2023,2023-08-19T03:10:00+00:00,FC Juarez,Guadalajara Chivas,1,1,0,1,1,0
+1031309,mexique,2023,2023-08-20T23:00:00+00:00,Cruz Azul,Santos Laguna,2,2,2,0,1,1
+1031310,mexique,2023,2023-08-21T01:06:00+00:00,Club Queretaro,Pachuca,1,1,1,0,0,1
+1031307,mexique,2023,2023-08-21T01:10:00+00:00,Club America,Atlas,1,1,1,0,1,0
+1031304,mexique,2023,2023-08-21T03:10:00+00:00,Necaxa,Tigres UANL,0,3,0,0,1,2
+1031316,mexique,2023,2023-08-23T01:00:00+00:00,Guadalajara Chivas,Club Tijuana,1,0,0,1,0,0
+1031317,mexique,2023,2023-08-23T01:00:00+00:00,Mazatlán,Puebla,1,0,0,1,0,0
+1031312,mexique,2023,2023-08-23T03:06:00+00:00,FC Juarez,U.N.A.M. - Pumas,4,1,3,1,0,1
+1031311,mexique,2023,2023-08-24T01:00:00+00:00,Club America,Necaxa,3,2,2,1,1,1
+1031314,mexique,2023,2023-08-24T01:06:00+00:00,Pachuca,Cruz Azul,1,0,0,1,0,0
+1031424,mexique,2023,2023-08-24T03:00:00+00:00,Atletico San Luis,Leon,3,0,1,2,0,0
+1031425,mexique,2023,2023-08-26T01:00:00+00:00,Puebla,FC Juarez,1,0,1,0,0,0
+1031319,mexique,2023,2023-08-26T03:10:00+00:00,Club Tijuana,Mazatlán,1,1,1,0,1,0
+1031320,mexique,2023,2023-08-26T23:00:00+00:00,Atlas,Toluca,0,0,0,0,0,0
+1031321,mexique,2023,2023-08-27T01:00:00+00:00,Club America,Leon,1,1,0,1,0,1
+1031322,mexique,2023,2023-08-27T03:05:00+00:00,Santos Laguna,Guadalajara Chivas,2,1,0,2,0,1
+1031324,mexique,2023,2023-08-28T00:05:00+00:00,U.N.A.M. - Pumas,Tigres UANL,2,1,0,2,0,1
+1031325,mexique,2023,2023-08-28T02:05:00+00:00,Monterrey,Cruz Azul,1,2,1,0,1,1
+1031323,mexique,2023,2023-08-28T22:00:00+00:00,Necaxa,Club Queretaro,0,1,0,0,0,1
+1031326,mexique,2023,2023-08-29T03:10:00+00:00,Pachuca,Atletico San Luis,0,2,0,0,0,2
+1031315,mexique,2023,2023-08-31T01:00:00+00:00,Toluca,Monterrey,1,0,1,0,0,0
+1031313,mexique,2023,2023-08-31T01:06:00+00:00,Club Queretaro,Atlas,1,2,0,1,1,1
+1031318,mexique,2023,2023-08-31T03:00:00+00:00,Tigres UANL,Santos Laguna,3,2,1,2,1,1
+1031328,mexique,2023,2023-09-02T01:06:00+00:00,FC Juarez,Mazatlán,3,1,2,1,1,0
+1031329,mexique,2023,2023-09-02T03:10:00+00:00,Puebla,Club Tijuana,3,0,2,1,0,0
+1031331,mexique,2023,2023-09-02T23:00:00+00:00,Leon,Necaxa,1,1,0,1,1,0
+1031332,mexique,2023,2023-09-03T01:00:00+00:00,Santos Laguna,U.N.A.M. - Pumas,2,1,2,0,1,0
+1031333,mexique,2023,2023-09-03T01:05:00+00:00,Tigres UANL,Club Queretaro,5,0,2,3,0,0
+1031334,mexique,2023,2023-09-03T03:10:00+00:00,Cruz Azul,Club America,2,3,1,1,3,0
+1031335,mexique,2023,2023-09-03T18:00:00+00:00,Toluca,Pachuca,5,0,2,3,0,0
+1031330,mexique,2023,2023-09-03T23:05:00+00:00,Guadalajara Chivas,Monterrey,1,2,0,1,2,0
+1031327,mexique,2023,2023-09-04T02:00:00+00:00,Atletico San Luis,Atlas,2,0,1,1,0,0
+1031338,mexique,2023,2023-09-16T01:00:00+00:00,Mazatlán,Cruz Azul,2,2,2,0,0,2
+1031339,mexique,2023,2023-09-16T03:10:00+00:00,Club Tijuana,Toluca,2,1,2,0,0,1
+1031340,mexique,2023,2023-09-16T23:00:00+00:00,Necaxa,FC Juarez,1,1,1,0,1,0
+1031336,mexique,2023,2023-09-17T01:00:00+00:00,Monterrey,Leon,3,1,2,1,1,0
+1031337,mexique,2023,2023-09-17T03:10:00+00:00,Club America,Guadalajara Chivas,4,0,2,2,0,0
+1031341,mexique,2023,2023-09-17T18:00:00+00:00,U.N.A.M. - Pumas,Atletico San Luis,3,2,0,3,1,1
+1031342,mexique,2023,2023-09-17T23:00:00+00:00,Club Queretaro,Puebla,1,1,0,1,1,0
+1031343,mexique,2023,2023-09-18T01:00:00+00:00,Atlas,Tigres UANL,2,0,2,0,0,0
+1031344,mexique,2023,2023-09-19T03:00:00+00:00,Pachuca,Santos Laguna,3,2,1,2,0,2
+1031291,mexique,2023,2023-09-21T02:06:00+00:00,Club Queretaro,Club America,1,2,1,0,0,2
+1031346,mexique,2023,2023-09-23T01:00:00+00:00,FC Juarez,Atlas,1,2,0,1,1,1
+1031345,mexique,2023,2023-09-23T01:00:00+00:00,Atletico San Luis,Mazatlán,3,2,2,1,0,2
+1031347,mexique,2023,2023-09-23T03:10:00+00:00,Puebla,U.N.A.M. - Pumas,0,2,0,0,1,1
+1031349,mexique,2023,2023-09-24T01:00:00+00:00,Guadalajara Chivas,Pachuca,0,0,0,0,0,0
+1031348,mexique,2023,2023-09-24T01:00:00+00:00,Leon,Club Tijuana,1,0,0,1,0,0
+1031350,mexique,2023,2023-09-24T03:05:00+00:00,Tigres UANL,Monterrey,3,0,1,2,0,0
+1031426,mexique,2023,2023-09-24T18:00:00+00:00,Toluca,Club America,1,1,0,1,1,0
+1031352,mexique,2023,2023-09-25T02:05:00+00:00,Santos Laguna,Necaxa,2,5,0,2,1,4
+1031351,mexique,2023,2023-09-25T22:00:00+00:00,Cruz Azul,Club Queretaro,1,3,1,0,0,3
+1031367,mexique,2023,2023-09-27T01:05:00+00:00,Guadalajara Chivas,Mazatlán,1,3,0,1,2,1
+1031353,mexique,2023,2023-09-29T02:00:00+00:00,Atlas,Puebla,2,3,1,1,2,1
+1031354,mexique,2023,2023-09-30T01:00:00+00:00,Club Queretaro,Leon,1,1,0,1,1,0
+1031361,mexique,2023,2023-09-30T03:00:00+00:00,Atletico San Luis,Cruz Azul,1,2,0,1,0,2
+1031356,mexique,2023,2023-09-30T03:10:00+00:00,Club Tijuana,FC Juarez,5,1,1,4,1,0
+1031357,mexique,2023,2023-09-30T23:00:00+00:00,Pachuca,Necaxa,1,1,1,0,1,0
+1031359,mexique,2023,2023-10-01T00:40:00+00:00,Club America,U.N.A.M. - Pumas,1,0,0,1,0,0
+1031355,mexique,2023,2023-10-01T01:06:00+00:00,Mazatlán,Tigres UANL,2,3,1,1,1,2
+1031360,mexique,2023,2023-10-02T23:20:00+00:00,Toluca,Guadalajara Chivas,1,1,0,1,0,1
+1031362,mexique,2023,2023-10-04T01:00:00+00:00,Puebla,Monterrey,1,1,1,0,1,0
+1031363,mexique,2023,2023-10-04T03:00:00+00:00,Club America,Pachuca,4,0,1,3,0,0
+1031364,mexique,2023,2023-10-05T01:00:00+00:00,U.N.A.M. - Pumas,Club Queretaro,4,0,2,2,0,0
+1031365,mexique,2023,2023-10-05T01:00:00+00:00,Necaxa,Cruz Azul,1,3,0,1,1,2
+1031366,mexique,2023,2023-10-05T03:00:00+00:00,Tigres UANL,Toluca,2,2,1,1,1,1
+1031368,mexique,2023,2023-10-05T03:00:00+00:00,Santos Laguna,Club Tijuana,2,1,1,1,1,0
+1031370,mexique,2023,2023-10-07T03:00:00+00:00,Mazatlán,Club America,1,2,1,0,0,2
+1031371,mexique,2023,2023-10-07T23:00:00+00:00,Monterrey,FC Juarez,3,1,2,1,0,1
+1031373,mexique,2023,2023-10-08T01:00:00+00:00,Guadalajara Chivas,Atlas,4,1,1,3,1,0
+1031372,mexique,2023,2023-10-08T01:00:00+00:00,Pachuca,Tigres UANL,1,1,1,0,1,0
+1031374,mexique,2023,2023-10-08T03:10:00+00:00,Cruz Azul,U.N.A.M. - Pumas,1,4,1,0,1,3
+1031375,mexique,2023,2023-10-08T18:00:00+00:00,Toluca,Club Queretaro,3,1,1,2,1,0
+1031376,mexique,2023,2023-10-08T23:00:00+00:00,Necaxa,Puebla,1,2,0,1,2,0
+1031377,mexique,2023,2023-10-09T01:05:00+00:00,Santos Laguna,Leon,0,2,0,0,1,1
+1031378,mexique,2023,2023-10-09T03:00:00+00:00,Club Tijuana,Atletico San Luis,2,1,1,1,0,1
+1031379,mexique,2023,2023-10-21T01:00:00+00:00,Atlas,Mazatlán,1,3,1,0,2,1
+1031380,mexique,2023,2023-10-21T01:06:00+00:00,FC Juarez,Pachuca,0,1,0,0,0,1
+1031428,mexique,2023,2023-10-21T03:10:00+00:00,Puebla,Guadalajara Chivas,0,2,0,0,1,1
+1031381,mexique,2023,2023-10-21T23:00:00+00:00,Leon,Toluca,1,0,1,0,0,0
+1031382,mexique,2023,2023-10-22T01:00:00+00:00,Club America,Santos Laguna,4,3,3,1,2,1
+1031386,mexique,2023,2023-10-22T01:06:00+00:00,Club Queretaro,Club Tijuana,1,0,0,1,0,0
+1031383,mexique,2023,2023-10-22T03:10:00+00:00,Tigres UANL,Cruz Azul,2,1,0,2,1,0
+1031384,mexique,2023,2023-10-22T18:00:00+00:00,U.N.A.M. - Pumas,Monterrey,0,1,0,0,0,1
+1031385,mexique,2023,2023-10-23T00:00:00+00:00,Atletico San Luis,Necaxa,4,0,2,2,0,0
+1031427,mexique,2023,2023-10-25T01:00:00+00:00,Leon,Atlas,1,1,0,1,1,0
+1031306,mexique,2023,2023-10-26T01:00:00+00:00,Monterrey,Club Tijuana,3,1,2,1,0,1
+1031369,mexique,2023,2023-10-26T03:06:00+00:00,FC Juarez,Atletico San Luis,3,2,2,1,0,2
+1031387,mexique,2023,2023-10-28T01:00:00+00:00,Necaxa,U.N.A.M. - Pumas,1,0,0,1,0,0
+1031388,mexique,2023,2023-10-28T03:00:00+00:00,Mazatlán,Club Queretaro,3,0,0,3,0,0
+1031389,mexique,2023,2023-10-29T00:00:00+00:00,Cruz Azul,Leon,1,0,1,0,0,0
+1031391,mexique,2023,2023-10-29T01:05:00+00:00,Guadalajara Chivas,Tigres UANL,0,4,0,0,1,3
+1031390,mexique,2023,2023-10-29T01:05:00+00:00,Pachuca,Puebla,1,1,1,0,1,0
+1031392,mexique,2023,2023-10-29T03:10:00+00:00,Monterrey,Club America,0,3,0,0,3,0
+1031393,mexique,2023,2023-10-29T18:00:00+00:00,Toluca,Atletico San Luis,3,1,1,2,0,1
+1031394,mexique,2023,2023-10-30T01:05:00+00:00,Santos Laguna,FC Juarez,5,1,2,3,1,0
+1031395,mexique,2023,2023-10-30T03:00:00+00:00,Club Tijuana,Atlas,2,0,1,1,0,0
+1031429,mexique,2023,2023-11-01T01:00:00+00:00,Toluca,Puebla,0,1,0,0,0,1
+1031396,mexique,2023,2023-11-01T01:00:00+00:00,Club Queretaro,Guadalajara Chivas,1,2,0,1,2,0
+1031397,mexique,2023,2023-11-01T03:00:00+00:00,Leon,U.N.A.M. - Pumas,1,1,0,1,1,0
+1031398,mexique,2023,2023-11-01T03:05:00+00:00,Monterrey,Necaxa,3,0,1,2,0,0
+1031399,mexique,2023,2023-11-02T01:00:00+00:00,Atlas,Pachuca,0,2,0,0,1,1
+1031400,mexique,2023,2023-11-02T01:00:00+00:00,Cruz Azul,FC Juarez,2,0,1,1,0,0
+1031402,mexique,2023,2023-11-02T03:00:00+00:00,Atletico San Luis,Club America,0,1,0,0,1,0
+1031401,mexique,2023,2023-11-02T03:00:00+00:00,Mazatlán,Santos Laguna,3,1,2,1,1,0
+1031403,mexique,2023,2023-11-02T03:06:00+00:00,Club Tijuana,Tigres UANL,2,0,2,0,0,0
+1031404,mexique,2023,2023-11-04T03:00:00+00:00,Puebla,Leon,5,4,1,4,3,1
+1031405,mexique,2023,2023-11-04T22:55:00+00:00,Tigres UANL,Atletico San Luis,2,2,0,2,0,2
+1031406,mexique,2023,2023-11-05T01:00:00+00:00,Club America,Club Tijuana,3,0,0,3,0,0
+1031407,mexique,2023,2023-11-05T03:05:00+00:00,Guadalajara Chivas,Cruz Azul,1,0,0,1,0,0
+1031408,mexique,2023,2023-11-05T03:05:00+00:00,Pachuca,Monterrey,0,2,0,0,2,0
+1031409,mexique,2023,2023-11-05T18:00:00+00:00,U.N.A.M. - Pumas,Atlas,3,0,1,2,0,0
+1031410,mexique,2023,2023-11-05T22:00:00+00:00,Necaxa,Mazatlán,4,0,2,2,0,0
+1031411,mexique,2023,2023-11-06T00:05:00+00:00,Santos Laguna,Toluca,3,1,1,2,0,1
+1031412,mexique,2023,2023-11-06T02:06:00+00:00,FC Juarez,Club Queretaro,0,3,0,0,1,2
+1031358,mexique,2023,2023-11-09T02:00:00+00:00,Monterrey,Santos Laguna,3,0,1,2,0,0
+1031413,mexique,2023,2023-11-11T01:00:00+00:00,Atlas,Necaxa,0,0,0,0,0,0
+1031414,mexique,2023,2023-11-11T01:06:00+00:00,Mazatlán,Toluca,1,0,0,1,0,0
+1031415,mexique,2023,2023-11-11T03:10:00+00:00,Club Tijuana,Pachuca,2,3,1,1,0,3
+1031416,mexique,2023,2023-11-11T23:00:00+00:00,Club Queretaro,Monterrey,0,0,0,0,0,0
+1031417,mexique,2023,2023-11-11T23:00:00+00:00,Atletico San Luis,Santos Laguna,0,2,0,0,2,0
+1031418,mexique,2023,2023-11-12T01:00:00+00:00,U.N.A.M. - Pumas,Guadalajara Chivas,1,0,1,0,0,0
+1031419,mexique,2023,2023-11-12T03:10:00+00:00,Tigres UANL,Club America,0,0,0,0,0,0
+1031420,mexique,2023,2023-11-13T00:00:00+00:00,Cruz Azul,Puebla,1,2,1,0,1,1
+1031421,mexique,2023,2023-11-13T02:05:00+00:00,Leon,FC Juarez,2,1,2,0,1,0
+1142059,mexique,2023,2023-11-24T01:00:00+00:00,Atletico San Luis,Leon,3,2,2,1,1,1
+1142060,mexique,2023,2023-11-24T03:10:00+00:00,Santos Laguna,Mazatlán,2,1,1,1,0,1
+1144268,mexique,2023,2023-11-27T02:06:00+00:00,Leon,Santos Laguna,3,2,2,1,0,2
+1144265,mexique,2023,2023-11-30T01:06:00+00:00,León,Club America,2,2,2,0,1,1
+1144266,mexique,2023,2023-11-30T03:10:00+00:00,Atletico San Luis,Monterrey,1,0,1,0,0,0
+1142057,mexique,2023,2023-12-01T01:10:00+00:00,Puebla,Tigres UANL,2,2,1,1,1,1
+1142042,mexique,2023,2023-12-01T03:05:00+00:00,Guadalajara Chivas,U.N.A.M. - Pumas,1,0,1,0,0,0
+1144390,mexique,2023,2023-12-03T01:00:00+00:00,Club America,Leon,2,0,0,2,0,0
+1144267,mexique,2023,2023-12-03T03:10:00+00:00,Monterrey,Atletico San Luis,1,1,1,0,0,1
+1142043,mexique,2023,2023-12-04T00:00:00+00:00,U.N.A.M. - Pumas,Guadalajara Chivas,3,0,2,1,0,0
+1142058,mexique,2023,2023-12-04T02:10:00+00:00,Tigres UANL,Puebla,3,0,2,1,0,0
+1145600,mexique,2023,2023-12-07T03:00:00+00:00,Atletico San Luis,Club America,0,5,0,0,2,3
+1145602,mexique,2023,2023-12-08T03:00:00+00:00,U.N.A.M. - Pumas,Tigres UANL,0,1,0,0,0,1
+1145601,mexique,2023,2023-12-10T02:00:00+00:00,Club America,Atletico San Luis,0,2,0,0,0,2
+1145603,mexique,2023,2023-12-11T02:00:00+00:00,Tigres UANL,U.N.A.M. - Pumas,1,1,1,0,1,0
+1147013,mexique,2023,2023-12-15T03:00:00+00:00,Tigres UANL,Club America,1,1,0,1,0,1
+1150211,mexique,2023,2024-01-13T01:00:00+00:00,Club Queretaro,Toluca,2,2,1,1,0,2
+1150212,mexique,2023,2024-01-13T03:00:00+00:00,Mazatlán,Atletico San Luis,0,1,0,0,0,1
+1150213,mexique,2023,2024-01-14T01:00:00+00:00,Cruz Azul,Pachuca,0,1,0,0,0,1
+1150214,mexique,2023,2024-01-14T01:05:00+00:00,Guadalajara Chivas,Santos Laguna,1,1,0,1,0,1
+1150216,mexique,2023,2024-01-14T03:00:00+00:00,Club Tijuana,Club America,0,2,0,0,0,2
+1150215,mexique,2023,2024-01-14T03:00:00+00:00,Monterrey,Puebla,2,0,0,2,0,0
+1150217,mexique,2023,2024-01-14T18:00:00+00:00,U.N.A.M. - Pumas,FC Juarez,1,0,0,1,0,0
+1150218,mexique,2023,2024-01-15T00:00:00+00:00,Necaxa,Atlas,2,1,0,2,1,0
+1150219,mexique,2023,2024-01-18T01:00:00+00:00,Leon,Tigres UANL,1,2,0,1,0,2
+1150220,mexique,2023,2024-01-20T01:00:00+00:00,Puebla,Necaxa,1,2,0,1,0,2
+1150221,mexique,2023,2024-01-20T03:00:00+00:00,Atletico San Luis,U.N.A.M. - Pumas,3,1,1,2,0,1
+1150222,mexique,2023,2024-01-20T03:10:00+00:00,FC Juarez,Cruz Azul,0,0,0,0,0,0
+1150223,mexique,2023,2024-01-20T23:00:00+00:00,Toluca,Mazatlán,4,1,1,3,1,0
+1150224,mexique,2023,2024-01-21T01:05:00+00:00,Club America,Club Queretaro,2,0,0,2,0,0
+1150225,mexique,2023,2024-01-21T03:10:00+00:00,Atlas,Club Tijuana,0,0,0,0,0,0
+1150227,mexique,2023,2024-01-22T00:00:00+00:00,Tigres UANL,Guadalajara Chivas,1,0,0,1,0,0
+1150228,mexique,2023,2024-01-22T02:05:00+00:00,Santos Laguna,Monterrey,0,2,0,0,1,1
+1150239,mexique,2023,2024-01-25T01:00:00+00:00,Monterrey,Club Queretaro,1,1,1,0,0,1
+1150238,mexique,2023,2024-01-25T01:00:00+00:00,Atletico San Luis,Tigres UANL,1,2,1,0,0,2
+1150240,mexique,2023,2024-01-25T03:06:00+00:00,FC Juarez,Club America,0,2,0,0,1,1
+1150229,mexique,2023,2024-01-27T01:00:00+00:00,Puebla,Toluca,1,1,1,0,1,0
+1150230,mexique,2023,2024-01-27T03:00:00+00:00,Club Tijuana,Guadalajara Chivas,1,1,1,0,0,1
+1150232,mexique,2023,2024-01-27T23:00:00+00:00,Leon,Santos Laguna,3,2,0,3,1,1
+1150231,mexique,2023,2024-01-27T23:00:00+00:00,Cruz Azul,Mazatlán,2,1,2,0,1,0
+1150233,mexique,2023,2024-01-28T01:00:00+00:00,Monterrey,Atletico San Luis,3,1,2,1,1,0
+1150234,mexique,2023,2024-01-28T03:05:00+00:00,Necaxa,Club America,0,0,0,0,0,0
+1150236,mexique,2023,2024-01-28T23:15:00+00:00,U.N.A.M. - Pumas,Pachuca,3,1,2,1,1,0
+1150235,mexique,2023,2024-01-29T01:00:00+00:00,Atlas,FC Juarez,2,1,2,0,0,1
+1150237,mexique,2023,2024-01-29T03:00:00+00:00,Club Queretaro,Tigres UANL,1,1,1,0,0,1
+1150241,mexique,2023,2024-01-31T01:00:00+00:00,Cruz Azul,Club Tijuana,1,0,0,1,0,0
+1150242,mexique,2023,2024-01-31T01:00:00+00:00,Mazatlán,Leon,2,2,2,0,1,1
+1150245,mexique,2023,2024-01-31T03:00:00+00:00,Santos Laguna,Puebla,3,0,0,3,0,0
+1150243,mexique,2023,2024-01-31T03:05:00+00:00,Guadalajara Chivas,Toluca,3,2,2,1,2,0
+1150244,mexique,2023,2024-02-01T01:00:00+00:00,Pachuca,Atlas,4,3,3,1,2,1
+1150246,mexique,2023,2024-02-01T03:00:00+00:00,U.N.A.M. - Pumas,Necaxa,2,2,1,1,0,2
+1150247,mexique,2023,2024-02-03T01:00:00+00:00,Club Queretaro,Cruz Azul,1,3,1,0,3,0
+1150248,mexique,2023,2024-02-03T03:00:00+00:00,Puebla,Mazatlán,3,2,1,2,1,1
+1150249,mexique,2023,2024-02-03T23:00:00+00:00,Toluca,Leon,4,1,3,1,0,1
+1150252,mexique,2023,2024-02-04T01:05:00+00:00,Tigres UANL,U.N.A.M. - Pumas,2,2,1,1,0,2
+1150251,mexique,2023,2024-02-04T01:10:00+00:00,Pachuca,Club Tijuana,3,2,2,1,1,1
+1150253,mexique,2023,2024-02-04T03:10:00+00:00,Club America,Monterrey,1,1,1,0,1,0
+1150250,mexique,2023,2024-02-04T23:06:00+00:00,FC Juarez,Necaxa,2,2,1,1,1,1
+1150254,mexique,2023,2024-02-05T00:00:00+00:00,Atlas,Santos Laguna,3,0,2,1,0,0
+1150255,mexique,2023,2024-02-05T01:00:00+00:00,Atletico San Luis,Guadalajara Chivas,0,2,0,0,1,1
+1150226,mexique,2023,2024-02-08T03:10:00+00:00,Pachuca,Leon,3,2,1,2,2,0
+1150256,mexique,2023,2024-02-10T01:00:00+00:00,Mazatlán,Atlas,2,0,0,2,0,0
+1150257,mexique,2023,2024-02-10T03:10:00+00:00,Club Tijuana,Club Queretaro,1,1,1,0,1,0
+1150258,mexique,2023,2024-02-10T23:00:00+00:00,Necaxa,Toluca,3,3,2,1,1,2
+1150259,mexique,2023,2024-02-10T23:05:00+00:00,Guadalajara Chivas,FC Juarez,2,1,1,1,0,1
+1150261,mexique,2023,2024-02-11T01:00:00+00:00,Leon,Club America,0,1,0,0,0,1
+1150260,mexique,2023,2024-02-11T01:05:00+00:00,Cruz Azul,Atletico San Luis,3,0,1,2,0,0
+1150262,mexique,2023,2024-02-11T03:10:00+00:00,Monterrey,Pachuca,3,2,2,1,0,2
+1150263,mexique,2023,2024-02-11T03:10:00+00:00,Santos Laguna,Tigres UANL,0,3,0,0,2,1
+1150264,mexique,2023,2024-02-11T18:00:00+00:00,U.N.A.M. - Pumas,Puebla,3,0,0,3,0,0
+1150283,mexique,2023,2024-02-15T03:00:00+00:00,Atlas,U.N.A.M. - Pumas,0,0,0,0,0,0
+1150265,mexique,2023,2024-02-17T01:00:00+00:00,Club Queretaro,Necaxa,1,1,1,0,0,1
+1150266,mexique,2023,2024-02-17T03:00:00+00:00,Mazatlán,Guadalajara Chivas,2,2,0,2,1,1
+1150268,mexique,2023,2024-02-17T23:00:00+00:00,Atletico San Luis,Club Tijuana,3,3,1,2,2,1
+1150269,mexique,2023,2024-02-18T01:00:00+00:00,Pachuca,Club America,2,1,0,2,0,1
+1150270,mexique,2023,2024-02-18T03:05:00+00:00,Cruz Azul,Tigres UANL,1,0,0,1,0,0
+1150271,mexique,2023,2024-02-18T22:00:00+00:00,Atlas,Leon,0,1,0,0,0,1
+1150272,mexique,2023,2024-02-19T00:05:00+00:00,U.N.A.M. - Pumas,Santos Laguna,3,0,2,1,0,0
+1150273,mexique,2023,2024-02-19T02:10:00+00:00,Monterrey,Toluca,0,0,0,0,0,0
+1150284,mexique,2023,2024-02-21T01:00:00+00:00,Puebla,Pachuca,1,4,1,0,1,3
+1150285,mexique,2023,2024-02-21T03:00:00+00:00,Necaxa,Guadalajara Chivas,1,0,1,0,0,0
+1150286,mexique,2023,2024-02-22T01:00:00+00:00,Toluca,Santos Laguna,1,0,0,1,0,0
+1150288,mexique,2023,2024-02-22T03:00:00+00:00,Club America,Mazatlán,2,2,0,2,1,1
+1150287,mexique,2023,2024-02-22T03:00:00+00:00,Leon,Cruz Azul,2,3,0,2,2,1
+1150274,mexique,2023,2024-02-24T01:00:00+00:00,Puebla,Club Queretaro,0,2,0,0,0,2
+1150275,mexique,2023,2024-02-24T03:00:00+00:00,Necaxa,Pachuca,1,1,1,0,0,1
+1150276,mexique,2023,2024-02-24T03:10:00+00:00,FC Juarez,Monterrey,0,3,0,0,0,3
+1150277,mexique,2023,2024-02-24T23:00:00+00:00,Leon,Atletico San Luis,1,0,0,1,0,0
+1150279,mexique,2023,2024-02-25T01:00:00+00:00,Tigres UANL,Atlas,1,1,1,0,0,1
+1150278,mexique,2023,2024-02-25T01:05:00+00:00,Guadalajara Chivas,U.N.A.M. - Pumas,3,1,0,3,0,1
+1150280,mexique,2023,2024-02-25T03:10:00+00:00,Club America,Cruz Azul,1,0,1,0,0,0
+1150281,mexique,2023,2024-02-25T18:00:00+00:00,Toluca,Club Tijuana,2,0,0,2,0,0
+1150282,mexique,2023,2024-02-26T00:00:00+00:00,Santos Laguna,Mazatlán,1,0,0,1,0,0
+1150289,mexique,2023,2024-02-28T01:00:00+00:00,Club Queretaro,Atletico San Luis,4,1,2,2,0,1
+1150290,mexique,2023,2024-02-29T01:00:00+00:00,Tigres UANL,FC Juarez,1,0,0,1,0,0
+1150291,mexique,2023,2024-02-29T03:00:00+00:00,Club Tijuana,Monterrey,1,1,0,1,0,1
+1150292,mexique,2023,2024-03-02T01:00:00+00:00,Club Queretaro,Santos Laguna,0,1,0,0,0,1
+1150293,mexique,2023,2024-03-02T01:00:00+00:00,Atletico San Luis,Puebla,4,0,2,2,0,0
+1150294,mexique,2023,2024-03-02T03:00:00+00:00,Mazatlán,Necaxa,2,1,0,2,0,1
+1150295,mexique,2023,2024-03-02T23:00:00+00:00,Toluca,Tigres UANL,2,1,0,2,1,0
+1150296,mexique,2023,2024-03-03T01:00:00+00:00,Pachuca,FC Juarez,3,2,0,3,0,2
+1150297,mexique,2023,2024-03-03T01:05:00+00:00,Cruz Azul,Guadalajara Chivas,3,0,3,0,0,0
+1150298,mexique,2023,2024-03-03T03:10:00+00:00,Atlas,Club America,1,5,1,0,2,3
+1150299,mexique,2023,2024-03-04T01:00:00+00:00,Monterrey,U.N.A.M. - Pumas,3,0,0,3,0,0
+1150300,mexique,2023,2024-03-04T03:00:00+00:00,Club Tijuana,Leon,1,1,0,1,0,1
+1150301,mexique,2023,2024-03-09T01:00:00+00:00,Puebla,Atlas,2,2,1,1,2,0
+1150303,mexique,2023,2024-03-09T03:00:00+00:00,Necaxa,Atletico San Luis,3,1,2,1,1,0
+1150302,mexique,2023,2024-03-09T03:10:00+00:00,FC Juarez,Toluca,1,1,1,0,1,0
+1150304,mexique,2023,2024-03-09T23:05:00+00:00,Guadalajara Chivas,Leon,1,2,0,1,1,1
+1150306,mexique,2023,2024-03-10T01:00:00+00:00,Santos Laguna,Cruz Azul,3,0,1,2,0,0
+1150305,mexique,2023,2024-03-10T01:00:00+00:00,Pachuca,Club Queretaro,1,2,0,1,1,1
+1150307,mexique,2023,2024-03-10T03:00:00+00:00,Club America,Tigres UANL,2,0,1,1,0,0
+1150308,mexique,2023,2024-03-10T18:00:00+00:00,U.N.A.M. - Pumas,Club Tijuana,3,3,2,1,1,2
+1150309,mexique,2023,2024-03-11T01:00:00+00:00,Monterrey,Mazatlán,2,1,2,0,0,1
+1150310,mexique,2023,2024-03-16T01:00:00+00:00,Club Queretaro,FC Juarez,1,0,1,0,0,0
+1150311,mexique,2023,2024-03-16T03:00:00+00:00,Club Tijuana,Santos Laguna,2,2,0,2,1,1
+1150312,mexique,2023,2024-03-16T23:00:00+00:00,Cruz Azul,Necaxa,1,2,1,0,2,0
+1150315,mexique,2023,2024-03-17T01:00:00+00:00,Tigres UANL,Mazatlán,5,1,2,3,0,1
+1150313,mexique,2023,2024-03-17T01:00:00+00:00,Leon,Puebla,2,1,1,1,0,1
+1150316,mexique,2023,2024-03-17T03:05:00+00:00,Guadalajara Chivas,Club America,0,0,0,0,0,0
+1150317,mexique,2023,2024-03-17T23:00:00+00:00,Atlas,Monterrey,1,2,0,1,1,1
+1150314,mexique,2023,2024-03-18T01:00:00+00:00,Toluca,U.N.A.M. - Pumas,3,0,2,1,0,0
+1150318,mexique,2023,2024-03-18T01:00:00+00:00,Atletico San Luis,Pachuca,2,1,1,1,0,1
+1150267,mexique,2023,2024-03-24T01:00:00+00:00,FC Juarez,Puebla,4,3,1,3,1,2
+1150319,mexique,2023,2024-03-30T01:00:00+00:00,Puebla,Tigres UANL,2,3,1,1,0,3
+1150321,mexique,2023,2024-03-30T02:00:00+00:00,Club America,Atletico San Luis,2,1,0,2,0,1
+1150320,mexique,2023,2024-03-30T03:00:00+00:00,Mazatlán,Club Tijuana,2,0,1,1,0,0
+1150323,mexique,2023,2024-03-31T01:00:00+00:00,Monterrey,Guadalajara Chivas,0,2,0,0,0,2
+1150322,mexique,2023,2024-03-31T01:00:00+00:00,Pachuca,Toluca,2,3,1,1,3,0
+1150324,mexique,2023,2024-03-31T03:05:00+00:00,U.N.A.M. - Pumas,Cruz Azul,0,0,0,0,0,0
+1150325,mexique,2023,2024-03-31T23:00:00+00:00,Atlas,Club Queretaro,2,3,2,0,1,2
+1150326,mexique,2023,2024-04-01T01:00:00+00:00,Necaxa,Leon,1,2,0,1,0,2
+1150327,mexique,2023,2024-04-01T01:36:00+00:00,FC Juarez,Santos Laguna,2,1,0,2,0,1
+1150328,mexique,2023,2024-04-06T01:00:00+00:00,Mazatlán,U.N.A.M. - Pumas,0,4,0,0,1,3
+1150329,mexique,2023,2024-04-06T03:10:00+00:00,Club Tijuana,Necaxa,2,3,1,1,1,2
+1150330,mexique,2023,2024-04-06T23:00:00+00:00,Leon,Club Queretaro,0,2,0,0,1,1
+1150332,mexique,2023,2024-04-07T01:00:00+00:00,Tigres UANL,Pachuca,0,3,0,0,0,3
+1150331,mexique,2023,2024-04-07T01:05:00+00:00,Guadalajara Chivas,Puebla,3,2,1,2,0,2
+1150334,mexique,2023,2024-04-07T03:05:00+00:00,Santos Laguna,Club America,1,1,0,1,0,1
+1150333,mexique,2023,2024-04-07T03:05:00+00:00,Cruz Azul,Monterrey,2,1,0,2,0,1
+1150335,mexique,2023,2024-04-07T18:00:00+00:00,Toluca,Atlas,4,1,2,2,0,1
+1150336,mexique,2023,2024-04-08T00:00:00+00:00,Atletico San Luis,FC Juarez,2,3,2,0,2,1
+1150337,mexique,2023,2024-04-13T01:06:00+00:00,Club Queretaro,Mazatlán,0,2,0,0,1,1
+1150338,mexique,2023,2024-04-13T03:00:00+00:00,Necaxa,Santos Laguna,2,0,1,1,0,0
+1150339,mexique,2023,2024-04-13T03:00:00+00:00,Puebla,Cruz Azul,0,1,0,0,0,1
+1150340,mexique,2023,2024-04-13T23:00:00+00:00,Pachuca,Guadalajara Chivas,0,1,0,0,1,0
+1150341,mexique,2023,2024-04-14T01:05:00+00:00,Club America,Toluca,5,1,3,2,1,0
+1150342,mexique,2023,2024-04-14T03:10:00+00:00,Monterrey,Tigres UANL,3,3,1,2,2,1
+1150343,mexique,2023,2024-04-15T00:00:00+00:00,Atlas,Atletico San Luis,2,1,1,1,1,0
+1150344,mexique,2023,2024-04-15T00:00:00+00:00,U.N.A.M. - Pumas,Leon,1,0,0,1,0,0
+1150345,mexique,2023,2024-04-15T02:06:00+00:00,FC Juarez,Club Tijuana,0,1,0,0,0,1
+1150346,mexique,2023,2024-04-20T01:00:00+00:00,Mazatlán,FC Juarez,0,2,0,0,0,2
+1150347,mexique,2023,2024-04-20T03:00:00+00:00,Atletico San Luis,Toluca,1,5,1,0,2,3
+1150348,mexique,2023,2024-04-20T03:10:00+00:00,Club Tijuana,Puebla,3,1,0,3,1,0
+1150349,mexique,2023,2024-04-20T23:00:00+00:00,Leon,Monterrey,2,0,1,1,0,0
+1150351,mexique,2023,2024-04-21T01:05:00+00:00,Guadalajara Chivas,Club Queretaro,2,0,0,2,0,0
+1150350,mexique,2023,2024-04-21T01:05:00+00:00,Tigres UANL,Necaxa,5,2,0,5,1,1
+1150354,mexique,2023,2024-04-21T01:05:00+00:00,Santos Laguna,Pachuca,0,2,0,0,0,2
+1150352,mexique,2023,2024-04-21T03:10:00+00:00,U.N.A.M. - Pumas,Club America,2,1,1,1,1,0
+1150353,mexique,2023,2024-04-22T00:00:00+00:00,Cruz Azul,Atlas,2,2,1,1,2,0
+1150355,mexique,2023,2024-04-27T01:00:00+00:00,Puebla,Club America,1,2,1,0,2,0
+1150356,mexique,2023,2024-04-27T03:10:00+00:00,Club Queretaro,U.N.A.M. - Pumas,1,1,0,1,0,1
+1150357,mexique,2023,2024-04-27T23:06:00+00:00,FC Juarez,Leon,1,1,1,0,0,1
+1150358,mexique,2023,2024-04-28T01:00:00+00:00,Tigres UANL,Club Tijuana,4,1,1,3,0,1
+1150360,mexique,2023,2024-04-28T01:00:00+00:00,Toluca,Cruz Azul,0,1,0,0,1,0
+1150359,mexique,2023,2024-04-28T01:10:00+00:00,Pachuca,Mazatlán,1,1,0,1,0,1
+1150361,mexique,2023,2024-04-28T03:10:00+00:00,Atlas,Guadalajara Chivas,0,1,0,0,0,1
+1150363,mexique,2023,2024-04-29T00:00:00+00:00,Santos Laguna,Atletico San Luis,0,3,0,0,2,1
+1150362,mexique,2023,2024-04-29T00:00:00+00:00,Necaxa,Monterrey,2,5,0,2,0,5
+1198553,mexique,2023,2024-05-06T02:06:00+00:00,Pachuca,Necaxa,2,1,0,2,0,1
+1197967,mexique,2023,2024-05-09T01:05:00+00:00,Guadalajara Chivas,Toluca,1,0,0,1,0,0
+1198984,mexique,2023,2024-05-09T03:16:00+00:00,Pachuca,Club America,1,1,1,0,1,0
+1198551,mexique,2023,2024-05-10T01:00:00+00:00,U.N.A.M. - Pumas,Cruz Azul,0,2,0,0,1,1
+1197969,mexique,2023,2024-05-10T03:10:00+00:00,Tigres UANL,Monterrey,1,2,1,0,1,1
+1198985,mexique,2023,2024-05-12T00:00:00+00:00,Club America,Pachuca,1,1,0,1,1,0
+1197968,mexique,2023,2024-05-12T02:10:00+00:00,Toluca,Guadalajara Chivas,0,0,0,0,0,0
+1198552,mexique,2023,2024-05-13T01:00:00+00:00,Cruz Azul,U.N.A.M. - Pumas,2,2,0,2,0,2
+1197970,mexique,2023,2024-05-13T03:10:00+00:00,Monterrey,Tigres UANL,1,1,0,1,1,0
+1199963,mexique,2023,2024-05-16T02:05:00+00:00,Guadalajara Chivas,Club America,0,0,0,0,0,0
+1200174,mexique,2023,2024-05-17T03:00:00+00:00,Monterrey,Cruz Azul,0,1,0,0,1,0
+1199964,mexique,2023,2024-05-19T02:00:00+00:00,Club America,Guadalajara Chivas,1,0,0,1,0,0
+1200175,mexique,2023,2024-05-20T00:00:00+00:00,Cruz Azul,Monterrey,1,2,0,1,0,2
+1200843,mexique,2023,2024-05-24T02:00:00+00:00,Cruz Azul,Club America,1,1,1,0,1,0
+1200844,mexique,2023,2024-05-27T01:00:00+00:00,Club America,Cruz Azul,1,0,0,1,0,0
+1206004,mexique,2024,2024-07-05T22:45:00+00:00,Puebla,Santos Laguna,1,0,0,1,0,0
+1206003,mexique,2024,2024-07-06T01:00:00+00:00,Club Queretaro,Club Tijuana,1,2,0,1,1,1
+1206005,mexique,2024,2024-07-06T03:10:00+00:00,FC Juarez,Atlas,2,2,1,1,0,2
+1206006,mexique,2024,2024-07-06T23:00:00+00:00,Atletico San Luis,Club America,2,1,1,1,1,0
+1206008,mexique,2024,2024-07-07T01:00:00+00:00,Guadalajara Chivas,Toluca,0,0,0,0,0,0
+1206007,mexique,2024,2024-07-07T01:00:00+00:00,Tigres UANL,Necaxa,1,0,1,0,0,0
+1206009,mexique,2024,2024-07-07T03:00:00+00:00,Cruz Azul,Mazatlán,1,0,0,1,0,0
+1206010,mexique,2024,2024-07-07T18:00:00+00:00,U.N.A.M. - Pumas,Leon,4,1,2,2,1,0
+1206011,mexique,2024,2024-07-08T01:06:00+00:00,Pachuca,Monterrey,0,1,0,0,1,0
+1206012,mexique,2024,2024-07-13T01:00:00+00:00,Club America,Club Queretaro,3,1,2,1,1,0
+1206014,mexique,2024,2024-07-13T03:00:00+00:00,Club Tijuana,Guadalajara Chivas,4,2,1,3,0,2
+1206013,mexique,2024,2024-07-13T03:00:00+00:00,Mazatlán,Atletico San Luis,2,2,0,2,0,2
+1206015,mexique,2024,2024-07-13T03:05:00+00:00,Atlas,Tigres UANL,1,1,1,0,0,1
+1206016,mexique,2024,2024-07-13T23:00:00+00:00,Necaxa,Puebla,4,1,2,2,0,1
+1206017,mexique,2024,2024-07-13T23:00:00+00:00,Leon,Pachuca,0,0,0,0,0,0
+1206018,mexique,2024,2024-07-14T01:10:00+00:00,Toluca,FC Juarez,3,2,2,1,0,2
+1206019,mexique,2024,2024-07-14T01:25:00+00:00,Santos Laguna,U.N.A.M. - Pumas,1,1,1,0,1,0
+1206020,mexique,2024,2024-07-14T03:10:00+00:00,Monterrey,Cruz Azul,0,4,0,0,2,2
+1206022,mexique,2024,2024-07-17T01:00:00+00:00,Atlas,Santos Laguna,1,0,0,1,0,0
+1206021,mexique,2024,2024-07-17T01:00:00+00:00,Club Queretaro,Guadalajara Chivas,0,2,0,0,1,1
+1206024,mexique,2024,2024-07-17T01:00:00+00:00,Pachuca,Atletico San Luis,2,0,1,1,0,0
+1206023,mexique,2024,2024-07-17T03:00:00+00:00,Puebla,Leon,2,2,1,1,1,1
+1206025,mexique,2024,2024-07-17T03:05:00+00:00,Cruz Azul,Club Tijuana,3,0,2,1,0,0
+1206029,mexique,2024,2024-07-18T01:00:00+00:00,Necaxa,Monterrey,0,1,0,0,0,1
+1206026,mexique,2024,2024-07-18T01:06:00+00:00,FC Juarez,U.N.A.M. - Pumas,1,2,1,0,0,2
+1206028,mexique,2024,2024-07-18T03:00:00+00:00,Tigres UANL,Club America,1,0,0,1,0,0
+1206027,mexique,2024,2024-07-18T03:00:00+00:00,Toluca,Mazatlán,3,0,2,1,0,0
+1206030,mexique,2024,2024-07-20T01:00:00+00:00,Atletico San Luis,Club Tijuana,1,1,1,0,1,0
+1206031,mexique,2024,2024-07-20T03:05:00+00:00,Puebla,Atlas,1,2,0,1,2,0
+1206032,mexique,2024,2024-07-20T23:05:00+00:00,Guadalajara Chivas,Mazatlán,2,0,0,2,0,0
+1206034,mexique,2024,2024-07-21T01:00:00+00:00,Monterrey,Club Queretaro,2,1,1,1,0,1
+1206033,mexique,2024,2024-07-21T01:00:00+00:00,Santos Laguna,Tigres UANL,0,3,0,0,0,3
+1206036,mexique,2024,2024-07-21T03:05:00+00:00,Cruz Azul,Toluca,1,1,0,1,1,0
+1206035,mexique,2024,2024-07-21T03:10:00+00:00,FC Juarez,Club America,1,2,1,0,1,1
+1206037,mexique,2024,2024-07-21T23:00:00+00:00,U.N.A.M. - Pumas,Pachuca,2,0,1,1,0,0
+1206038,mexique,2024,2024-07-22T01:05:00+00:00,Leon,Necaxa,1,1,0,1,1,0
+1206140,mexique,2024,2024-08-17T01:00:00+00:00,Puebla,Monterrey,1,2,0,1,1,1
+1206074,mexique,2024,2024-08-19T00:05:00+00:00,Club Tijuana,Santos Laguna,3,1,2,1,1,0
+1206115,mexique,2024,2024-08-19T02:00:00+00:00,Atletico San Luis,Club Queretaro,4,0,2,2,0,0
+1206039,mexique,2024,2024-08-24T01:00:00+00:00,Club Queretaro,Cruz Azul,0,2,0,0,1,1
+1206040,mexique,2024,2024-08-24T02:00:00+00:00,Mazatlán,Pachuca,3,0,3,0,0,0
+1206041,mexique,2024,2024-08-24T03:05:00+00:00,Club Tijuana,Monterrey,2,2,1,1,2,0
+1206042,mexique,2024,2024-08-24T23:00:00+00:00,Necaxa,FC Juarez,3,0,1,2,0,0
+1206045,mexique,2024,2024-08-25T01:00:00+00:00,Tigres UANL,Guadalajara Chivas,1,1,0,1,0,1
+1206044,mexique,2024,2024-08-25T01:00:00+00:00,Atlas,U.N.A.M. - Pumas,2,1,1,1,0,1
+1206043,mexique,2024,2024-08-25T01:00:00+00:00,Leon,Santos Laguna,1,1,1,0,1,0
+1206046,mexique,2024,2024-08-25T03:05:00+00:00,Club America,Puebla,0,1,0,0,0,1
+1206047,mexique,2024,2024-08-25T18:00:00+00:00,Toluca,Atletico San Luis,2,1,1,1,1,0
+1206048,mexique,2024,2024-08-31T01:00:00+00:00,Atletico San Luis,Atlas,2,1,1,1,0,1
+1206049,mexique,2024,2024-08-31T02:00:00+00:00,Mazatlán,Puebla,1,1,1,0,1,0
+1206050,mexique,2024,2024-08-31T03:05:00+00:00,Club Tijuana,Leon,2,1,1,1,1,0
+1206051,mexique,2024,2024-08-31T23:00:00+00:00,Pachuca,Club Queretaro,1,1,0,1,1,0
+1206052,mexique,2024,2024-08-31T23:05:00+00:00,Guadalajara Chivas,FC Juarez,5,0,4,1,0,0
+1206053,mexique,2024,2024-09-01T01:00:00+00:00,Monterrey,Toluca,1,2,0,1,1,1
+1206054,mexique,2024,2024-09-01T03:10:00+00:00,Cruz Azul,Club America,4,1,2,2,1,0
+1206055,mexique,2024,2024-09-01T23:00:00+00:00,U.N.A.M. - Pumas,Tigres UANL,1,3,1,0,2,1
+1206056,mexique,2024,2024-09-02T01:05:00+00:00,Santos Laguna,Necaxa,3,2,0,3,1,1
+1206057,mexique,2024,2024-09-14T00:00:00+00:00,Puebla,Club Queretaro,2,1,1,1,0,1
+1206058,mexique,2024,2024-09-14T01:00:00+00:00,Atlas,Pachuca,2,0,2,0,0,0
+1206060,mexique,2024,2024-09-14T02:10:00+00:00,Tigres UANL,Atletico San Luis,1,0,0,1,0,0
+1206059,mexique,2024,2024-09-14T02:10:00+00:00,FC Juarez,Mazatlán,1,0,0,1,0,0
+1206061,mexique,2024,2024-09-14T03:00:00+00:00,Necaxa,U.N.A.M. - Pumas,2,0,0,2,0,0
+1206062,mexique,2024,2024-09-14T22:45:00+00:00,Toluca,Club Tijuana,4,0,1,3,0,0
+1206063,mexique,2024,2024-09-15T00:50:00+00:00,Club America,Guadalajara Chivas,1,0,1,0,0,0
+1206064,mexique,2024,2024-09-15T02:35:00+00:00,Leon,Cruz Azul,1,2,1,0,1,1
+1206065,mexique,2024,2024-09-15T03:00:00+00:00,Santos Laguna,Monterrey,0,2,0,0,1,1
+1206070,mexique,2024,2024-09-18T01:00:00+00:00,Club America,Atlas,3,0,1,2,0,0
+1206067,mexique,2024,2024-09-18T01:00:00+00:00,Pachuca,Toluca,2,2,0,2,1,1
+1206066,mexique,2024,2024-09-18T01:00:00+00:00,Atletico San Luis,Cruz Azul,3,1,2,1,1,0
+1206069,mexique,2024,2024-09-18T03:00:00+00:00,Club Queretaro,Tigres UANL,1,0,1,0,0,0
+1206068,mexique,2024,2024-09-18T03:05:00+00:00,U.N.A.M. - Pumas,Puebla,1,0,0,1,0,0
+1206071,mexique,2024,2024-09-19T01:05:00+00:00,Guadalajara Chivas,Leon,2,0,1,1,0,0
+1206072,mexique,2024,2024-09-19T02:00:00+00:00,Mazatlán,Necaxa,0,0,0,0,0,0
+1206073,mexique,2024,2024-09-19T03:00:00+00:00,Monterrey,FC Juarez,3,2,1,2,0,2
+1206075,mexique,2024,2024-09-21T01:00:00+00:00,Atlas,Club Queretaro,0,1,0,0,1,0
+1206076,mexique,2024,2024-09-21T01:00:00+00:00,Puebla,Pachuca,2,3,1,1,2,1
+1206077,mexique,2024,2024-09-21T23:00:00+00:00,Leon,Atletico San Luis,1,0,0,1,0,0
+1206079,mexique,2024,2024-09-22T01:00:00+00:00,Monterrey,Mazatlán,0,0,0,0,0,0
+1206078,mexique,2024,2024-09-22T01:00:00+00:00,Necaxa,Club America,1,1,1,0,0,1
+1206080,mexique,2024,2024-09-22T03:05:00+00:00,Cruz Azul,Guadalajara Chivas,1,0,0,1,0,0
+1206081,mexique,2024,2024-09-22T23:00:00+00:00,U.N.A.M. - Pumas,Club Tijuana,1,0,0,1,0,0
+1206083,mexique,2024,2024-09-23T01:05:00+00:00,Santos Laguna,Toluca,2,0,1,1,0,0
+1206082,mexique,2024,2024-09-23T01:10:00+00:00,FC Juarez,Tigres UANL,0,1,0,0,0,1
+1206084,mexique,2024,2024-09-28T00:00:00+00:00,Puebla,FC Juarez,2,3,0,2,1,2
+1206085,mexique,2024,2024-09-28T01:00:00+00:00,Club Queretaro,Necaxa,0,0,0,0,0,0
+1206086,mexique,2024,2024-09-28T02:00:00+00:00,Tigres UANL,Leon,2,2,1,1,1,1
+1206087,mexique,2024,2024-09-28T03:05:00+00:00,Club Tijuana,Mazatlán,1,0,1,0,0,0
+1206088,mexique,2024,2024-09-28T23:00:00+00:00,Toluca,Atlas,4,1,2,2,0,1
+1206089,mexique,2024,2024-09-29T01:05:00+00:00,Pachuca,Cruz Azul,2,4,2,0,1,3
+1206090,mexique,2024,2024-09-29T03:05:00+00:00,Guadalajara Chivas,Monterrey,1,1,1,0,0,1
+1206091,mexique,2024,2024-09-29T03:10:00+00:00,Atletico San Luis,Santos Laguna,3,1,0,3,1,0
+1206092,mexique,2024,2024-09-30T00:00:00+00:00,Club America,U.N.A.M. - Pumas,0,1,0,0,1,0
+1206093,mexique,2024,2024-10-05T02:00:00+00:00,Mazatlán,Club Queretaro,2,2,2,0,1,1
+1206094,mexique,2024,2024-10-05T03:00:00+00:00,Club Tijuana,Pachuca,2,1,0,2,0,1
+1206095,mexique,2024,2024-10-05T23:00:00+00:00,Tigres UANL,Puebla,1,0,1,0,0,0
+1206100,mexique,2024,2024-10-05T23:00:00+00:00,Cruz Azul,Necaxa,3,0,2,1,0,0
+1206096,mexique,2024,2024-10-05T23:00:00+00:00,Atletico San Luis,Monterrey,1,0,1,0,0,0
+1206099,mexique,2024,2024-10-06T01:00:00+00:00,Toluca,U.N.A.M. - Pumas,1,1,1,0,1,0
+1206097,mexique,2024,2024-10-06T01:05:00+00:00,Guadalajara Chivas,Atlas,2,3,0,2,1,2
+1206098,mexique,2024,2024-10-06T03:00:00+00:00,Leon,Club America,1,1,1,0,0,1
+1206101,mexique,2024,2024-10-07T02:05:00+00:00,Santos Laguna,FC Juarez,0,2,0,0,0,2
+1206102,mexique,2024,2024-10-19T01:00:00+00:00,Atlas,Mazatlán,0,0,0,0,0,0
+1206103,mexique,2024,2024-10-19T01:00:00+00:00,Club Queretaro,Toluca,0,1,0,0,1,0
+1206104,mexique,2024,2024-10-19T03:00:00+00:00,Necaxa,Club Tijuana,1,2,1,0,2,0
+1206105,mexique,2024,2024-10-19T03:05:00+00:00,Puebla,Cruz Azul,1,2,1,0,1,1
+1206106,mexique,2024,2024-10-19T23:00:00+00:00,Pachuca,Guadalajara Chivas,0,2,0,0,2,0
+1206108,mexique,2024,2024-10-20T01:05:00+00:00,Club America,Santos Laguna,3,0,0,3,0,0
+1206107,mexique,2024,2024-10-20T01:06:00+00:00,FC Juarez,Leon,2,3,0,2,1,2
+1206109,mexique,2024,2024-10-20T03:10:00+00:00,Monterrey,Tigres UANL,4,2,3,1,2,0
+1206110,mexique,2024,2024-10-20T18:00:00+00:00,U.N.A.M. - Pumas,Atletico San Luis,3,0,1,2,0,0
+1206112,mexique,2024,2024-10-23T01:00:00+00:00,Santos Laguna,Pachuca,1,1,0,1,0,1
+1206111,mexique,2024,2024-10-23T01:05:00+00:00,Guadalajara Chivas,Necaxa,3,2,0,3,1,1
+1206114,mexique,2024,2024-10-23T03:05:00+00:00,Toluca,Puebla,5,0,2,3,0,0
+1206113,mexique,2024,2024-10-23T03:06:00+00:00,Mazatlán,Tigres UANL,2,0,0,2,0,0
+1206117,mexique,2024,2024-10-24T01:00:00+00:00,Monterrey,U.N.A.M. - Pumas,0,0,0,0,0,0
+1206116,mexique,2024,2024-10-24T01:00:00+00:00,Cruz Azul,FC Juarez,4,0,2,2,0,0
+1206118,mexique,2024,2024-10-24T03:00:00+00:00,Leon,Atlas,0,0,0,0,0,0
+1206119,mexique,2024,2024-10-24T03:05:00+00:00,Club Tijuana,Club America,2,2,1,1,1,1
+1206120,mexique,2024,2024-10-26T01:00:00+00:00,Santos Laguna,Mazatlán,0,0,0,0,0,0
+1206121,mexique,2024,2024-10-26T03:00:00+00:00,Puebla,Guadalajara Chivas,1,0,0,1,0,0
+1206122,mexique,2024,2024-10-26T23:00:00+00:00,Leon,Club Queretaro,4,0,1,3,0,0
+1206123,mexique,2024,2024-10-27T01:00:00+00:00,U.N.A.M. - Pumas,Cruz Azul,0,2,0,0,2,0
+1206124,mexique,2024,2024-10-27T03:00:00+00:00,Tigres UANL,Pachuca,2,1,1,1,1,0
+1206125,mexique,2024,2024-10-27T03:05:00+00:00,Atlas,Club Tijuana,0,0,0,0,0,0
+1206126,mexique,2024,2024-10-28T00:00:00+00:00,Necaxa,Toluca,1,3,0,1,2,1
+1206127,mexique,2024,2024-10-28T00:06:00+00:00,FC Juarez,Atletico San Luis,2,4,0,2,3,1
+1206128,mexique,2024,2024-10-28T02:05:00+00:00,Club America,Monterrey,2,1,0,2,0,1
+1206129,mexique,2024,2024-11-02T01:00:00+00:00,Club Queretaro,FC Juarez,1,2,0,1,2,0
+1206130,mexique,2024,2024-11-02T03:00:00+00:00,Mazatlán,Club America,0,5,0,0,4,1
+1206131,mexique,2024,2024-11-02T03:05:00+00:00,Club Tijuana,Tigres UANL,0,3,0,0,1,2
+1206133,mexique,2024,2024-11-02T23:00:00+00:00,Toluca,Leon,2,2,0,2,1,1
+1206132,mexique,2024,2024-11-02T23:00:00+00:00,Atletico San Luis,Puebla,2,0,1,1,0,0
+1206134,mexique,2024,2024-11-03T01:05:00+00:00,Guadalajara Chivas,U.N.A.M. - Pumas,0,0,0,0,0,0
+1206135,mexique,2024,2024-11-03T01:05:00+00:00,Monterrey,Atlas,4,0,3,1,0,0
+1206136,mexique,2024,2024-11-03T03:06:00+00:00,Pachuca,Necaxa,6,2,2,4,0,2
+1206137,mexique,2024,2024-11-03T03:10:00+00:00,Cruz Azul,Santos Laguna,2,0,1,1,0,0
+1206141,mexique,2024,2024-11-06T01:00:00+00:00,Santos Laguna,Guadalajara Chivas,0,2,0,0,1,1
+1206138,mexique,2024,2024-11-06T01:00:00+00:00,Leon,Mazatlán,0,0,0,0,0,0
+1206139,mexique,2024,2024-11-06T03:05:00+00:00,U.N.A.M. - Pumas,Club Queretaro,2,0,1,1,0,0
+1206142,mexique,2024,2024-11-07T01:00:00+00:00,Tigres UANL,Toluca,2,1,1,1,0,1
+1206144,mexique,2024,2024-11-07T01:00:00+00:00,Club America,Pachuca,2,1,1,1,1,0
+1206143,mexique,2024,2024-11-07T01:00:00+00:00,Necaxa,Atletico San Luis,1,1,0,1,1,0
+1206146,mexique,2024,2024-11-07T03:05:00+00:00,Atlas,Cruz Azul,2,2,1,1,2,0
+1206145,mexique,2024,2024-11-07T03:06:00+00:00,FC Juarez,Club Tijuana,1,1,0,1,0,1
+1206147,mexique,2024,2024-11-09T01:00:00+00:00,Club Queretaro,Santos Laguna,3,2,1,2,1,1
+1206148,mexique,2024,2024-11-09T03:00:00+00:00,Mazatlán,U.N.A.M. - Pumas,0,1,0,0,0,1
+1206149,mexique,2024,2024-11-09T23:05:00+00:00,Guadalajara Chivas,Atletico San Luis,0,1,0,0,0,1
+1206151,mexique,2024,2024-11-10T01:00:00+00:00,Toluca,Club America,4,0,1,3,0,0
+1206150,mexique,2024,2024-11-10T01:00:00+00:00,Pachuca,FC Juarez,0,1,0,0,0,1
+1206152,mexique,2024,2024-11-10T03:05:00+00:00,Cruz Azul,Tigres UANL,1,1,0,1,0,1
+1206153,mexique,2024,2024-11-10T23:00:00+00:00,Necaxa,Atlas,0,0,0,0,0,0
+1206154,mexique,2024,2024-11-11T01:05:00+00:00,Monterrey,Leon,2,1,1,1,0,1
+1206155,mexique,2024,2024-11-11T03:10:00+00:00,Club Tijuana,Puebla,2,1,0,2,1,0
+1315388,mexique,2024,2024-11-22T01:05:00+00:00,Guadalajara Chivas,Atlas,1,2,0,1,0,2
+1316504,mexique,2024,2024-11-25T03:00:00+00:00,Club Tijuana,Atlas,3,0,2,1,0,0
+1316502,mexique,2024,2024-11-28T01:00:00+00:00,Club America,Toluca,2,0,0,2,0,0
+1316646,mexique,2024,2024-11-28T03:10:00+00:00,Club Tijuana,Cruz Azul,3,0,3,0,0,0
+1315383,mexique,2024,2024-11-29T01:00:00+00:00,Atletico San Luis,Tigres UANL,3,0,1,2,0,0
+1315385,mexique,2024,2024-11-29T03:10:00+00:00,Monterrey,U.N.A.M. - Pumas,1,0,0,1,0,0
+1316503,mexique,2024,2024-11-30T23:00:00+00:00,Toluca,Club America,0,2,0,0,0,2
+1316647,mexique,2024,2024-12-01T01:10:00+00:00,Cruz Azul,Club Tijuana,3,0,1,2,0,0
+1315386,mexique,2024,2024-12-01T18:00:00+00:00,U.N.A.M. - Pumas,Monterrey,3,5,1,2,1,4
+1315384,mexique,2024,2024-12-02T01:00:00+00:00,Tigres UANL,Atletico San Luis,0,0,0,0,0,0
+1318623,mexique,2024,2024-12-05T03:00:00+00:00,Atletico San Luis,Monterrey,2,1,1,1,0,1
+1318625,mexique,2024,2024-12-06T02:00:00+00:00,Club America,Cruz Azul,0,0,0,0,0,0
+1318624,mexique,2024,2024-12-08T02:00:00+00:00,Monterrey,Atletico San Luis,5,1,0,5,0,1
+1318626,mexique,2024,2024-12-09T01:00:00+00:00,Cruz Azul,Club America,3,4,0,3,1,3
+1320866,mexique,2024,2024-12-13T02:00:00+00:00,Club America,Monterrey,2,1,1,1,1,0
+1320867,mexique,2024,2024-12-16T01:00:00+00:00,Monterrey,Club America,1,1,0,1,1,0
+1323483,mexique,2024,2025-01-11T01:00:00+00:00,Club Queretaro,Club America,0,1,0,0,0,1
+1323485,mexique,2024,2025-01-11T03:00:00+00:00,Mazatlán,FC Juarez,1,1,0,1,1,0
+1323484,mexique,2024,2025-01-11T03:05:00+00:00,Club Tijuana,Toluca,2,4,1,1,1,3
+1323486,mexique,2024,2025-01-11T23:00:00+00:00,Atletico San Luis,Tigres UANL,1,3,1,0,1,2
+1323488,mexique,2024,2025-01-12T01:05:00+00:00,Guadalajara Chivas,Santos Laguna,1,0,0,1,0,0
+1323489,mexique,2024,2025-01-12T03:05:00+00:00,Cruz Azul,Atlas,1,1,1,0,0,1
+1323786,mexique,2024,2025-01-12T18:00:00+00:00,U.N.A.M. - Pumas,Necaxa,2,1,2,0,0,1
+1323487,mexique,2024,2025-01-13T01:00:00+00:00,Monterrey,Puebla,1,1,1,0,0,1
+1323491,mexique,2024,2025-01-17T02:10:00+00:00,Club America,Club Tijuana,1,1,0,1,1,0
+1323493,mexique,2024,2025-01-18T01:00:00+00:00,Tigres UANL,Mazatlán,2,1,0,2,0,1
+1323492,mexique,2024,2025-01-18T01:00:00+00:00,Puebla,Atletico San Luis,1,2,1,0,1,1
+1323494,mexique,2024,2025-01-18T03:05:00+00:00,Necaxa,Guadalajara Chivas,3,2,0,3,0,2
+1323496,mexique,2024,2025-01-18T23:00:00+00:00,FC Juarez,Cruz Azul,1,0,1,0,0,0
+1323495,mexique,2024,2025-01-19T01:00:00+00:00,Toluca,Monterrey,1,1,1,0,0,1
+1323497,mexique,2024,2025-01-19T03:00:00+00:00,Atlas,Leon,1,2,0,1,0,2
+1323787,mexique,2024,2025-01-19T23:00:00+00:00,Club Queretaro,U.N.A.M. - Pumas,3,2,1,2,1,1
+1323498,mexique,2024,2025-01-21T01:00:00+00:00,Pachuca,Santos Laguna,2,1,2,0,0,1
+1323499,mexique,2024,2025-01-25T01:00:00+00:00,Atletico San Luis,Necaxa,0,3,0,0,2,1
+1323500,mexique,2024,2025-01-25T03:00:00+00:00,Club Tijuana,Club Queretaro,2,1,1,1,1,0
+1323501,mexique,2024,2025-01-25T03:00:00+00:00,Mazatlán,Toluca,2,1,1,1,1,0
+1323502,mexique,2024,2025-01-25T23:00:00+00:00,Leon,FC Juarez,1,0,0,1,0,0
+1323503,mexique,2024,2025-01-25T23:00:00+00:00,Cruz Azul,Puebla,1,1,1,0,1,0
+1323505,mexique,2024,2025-01-26T01:05:00+00:00,Guadalajara Chivas,Tigres UANL,1,1,1,0,1,0
+1323506,mexique,2024,2025-01-26T01:05:00+00:00,Santos Laguna,Club America,1,4,0,1,2,2
+1323504,mexique,2024,2025-01-26T03:10:00+00:00,Monterrey,Pachuca,2,3,1,1,1,2
+1323507,mexique,2024,2025-01-26T18:00:00+00:00,U.N.A.M. - Pumas,Atlas,0,0,0,0,0,0
+1323508,mexique,2024,2025-01-29T01:00:00+00:00,Club America,Atletico San Luis,3,0,2,1,0,0
+1323509,mexique,2024,2025-01-29T01:00:00+00:00,Puebla,Mazatlán,0,1,0,0,1,0
+1323512,mexique,2024,2025-01-29T03:00:00+00:00,Tigres UANL,Club Tijuana,4,0,1,3,0,0
+1323510,mexique,2024,2025-01-29T03:00:00+00:00,Leon,Guadalajara Chivas,2,1,1,1,1,0
+1323511,mexique,2024,2025-01-29T03:05:00+00:00,Necaxa,Cruz Azul,1,3,1,0,1,2
+1323513,mexique,2024,2025-01-30T01:00:00+00:00,Atlas,Monterrey,3,3,2,1,1,2
+1323514,mexique,2024,2025-01-30T01:00:00+00:00,Club Queretaro,Pachuca,0,1,0,0,1,0
+1323516,mexique,2024,2025-01-30T03:00:00+00:00,FC Juarez,Santos Laguna,1,0,0,1,0,0
+1323515,mexique,2024,2025-01-30T03:05:00+00:00,U.N.A.M. - Pumas,Toluca,1,1,0,1,0,1
+1323517,mexique,2024,2025-02-01T01:00:00+00:00,Mazatlán,Leon,1,2,0,1,2,0
+1323518,mexique,2024,2025-02-01T03:05:00+00:00,Club Tijuana,Cruz Azul,2,3,0,2,3,0
+1323519,mexique,2024,2025-02-01T23:00:00+00:00,Club America,FC Juarez,4,0,2,2,0,0
+1323520,mexique,2024,2025-02-01T23:05:00+00:00,Guadalajara Chivas,Club Queretaro,1,1,1,0,0,1
+1323521,mexique,2024,2025-02-02T01:00:00+00:00,Pachuca,Atlas,0,0,0,0,0,0
+1323522,mexique,2024,2025-02-02T01:05:00+00:00,Monterrey,Necaxa,1,0,1,0,0,0
+1323523,mexique,2024,2025-02-02T03:15:00+00:00,Toluca,Tigres UANL,1,0,0,1,0,0
+1323524,mexique,2024,2025-02-02T23:00:00+00:00,Santos Laguna,Puebla,0,2,0,0,1,1
+1323525,mexique,2024,2025-02-03T01:00:00+00:00,Atletico San Luis,U.N.A.M. - Pumas,2,3,1,1,2,1
+1323490,mexique,2024,2025-02-06T03:10:00+00:00,Pachuca,Leon,1,2,1,0,1,1
+1323528,mexique,2024,2025-02-08T01:00:00+00:00,Necaxa,Santos Laguna,3,2,2,1,2,0
+1323526,mexique,2024,2025-02-08T01:00:00+00:00,Club Queretaro,Atletico San Luis,1,0,1,0,0,0
+1323527,mexique,2024,2025-02-08T03:00:00+00:00,Puebla,Club America,1,2,0,1,2,0
+1323530,mexique,2024,2025-02-09T01:00:00+00:00,Tigres UANL,Atlas,2,1,1,1,1,0
+1323529,mexique,2024,2025-02-09T01:00:00+00:00,Leon,Toluca,3,3,2,1,0,3
+1323531,mexique,2024,2025-02-09T03:00:00+00:00,FC Juarez,Monterrey,2,1,1,1,0,1
+1323532,mexique,2024,2025-02-09T03:05:00+00:00,Cruz Azul,Pachuca,2,1,1,1,0,1
+1323788,mexique,2024,2025-02-10T00:00:00+00:00,U.N.A.M. - Pumas,Mazatlán,1,0,0,1,0,0
+1323533,mexique,2024,2025-02-10T03:05:00+00:00,Guadalajara Chivas,Club Tijuana,2,1,2,0,1,0
+1323534,mexique,2024,2025-02-15T03:00:00+00:00,Club Tijuana,FC Juarez,1,2,1,0,1,1
+1323537,mexique,2024,2025-02-15T03:00:00+00:00,Club America,Necaxa,2,3,0,2,2,1
+1323535,mexique,2024,2025-02-15T03:00:00+00:00,Mazatlán,Santos Laguna,1,1,1,0,1,0
+1323536,mexique,2024,2025-02-15T23:00:00+00:00,Atlas,Puebla,3,2,1,2,1,1
+1323538,mexique,2024,2025-02-16T01:00:00+00:00,Tigres UANL,Cruz Azul,2,1,0,2,0,1
+1323539,mexique,2024,2025-02-16T03:10:00+00:00,Toluca,Guadalajara Chivas,2,1,1,1,0,1
+1323540,mexique,2024,2025-02-16T23:00:00+00:00,Club Queretaro,Monterrey,2,4,0,2,3,1
+1323541,mexique,2024,2025-02-17T01:00:00+00:00,Atletico San Luis,Leon,1,2,1,0,1,1
+1323789,mexique,2024,2025-02-17T01:05:00+00:00,Pachuca,U.N.A.M. - Pumas,2,1,2,0,0,1
+1323551,mexique,2024,2025-02-19T03:10:00+00:00,Atlas,Necaxa,0,4,0,0,2,2
+1323552,mexique,2024,2025-02-20T01:00:00+00:00,Club America,Leon,1,1,1,0,1,0
+1323550,mexique,2024,2025-02-20T03:05:00+00:00,Santos Laguna,Cruz Azul,0,1,0,0,1,0
+1323542,mexique,2024,2025-02-22T01:00:00+00:00,Necaxa,Mazatlán,3,1,1,2,1,0
+1323543,mexique,2024,2025-02-22T03:00:00+00:00,Puebla,Club Tijuana,2,0,1,1,0,0
+1323547,mexique,2024,2025-02-22T23:00:00+00:00,FC Juarez,Toluca,0,4,0,0,3,1
+1323545,mexique,2024,2025-02-23T01:00:00+00:00,Monterrey,Atletico San Luis,3,1,2,1,0,1
+1323544,mexique,2024,2025-02-23T01:00:00+00:00,Leon,Tigres UANL,1,0,1,0,0,0
+1323546,mexique,2024,2025-02-23T01:05:00+00:00,Guadalajara Chivas,Pachuca,2,1,2,0,1,0
+1323790,mexique,2024,2025-02-23T03:05:00+00:00,U.N.A.M. - Pumas,Club America,0,2,0,0,1,1
+1323548,mexique,2024,2025-02-23T23:00:00+00:00,Santos Laguna,Atlas,2,0,1,1,0,0
+1323549,mexique,2024,2025-02-24T01:05:00+00:00,Cruz Azul,Club Queretaro,1,0,0,1,0,0
+1323553,mexique,2024,2025-02-26T01:00:00+00:00,Tigres UANL,FC Juarez,0,1,0,0,1,0
+1323791,mexique,2024,2025-02-26T03:00:00+00:00,Club Tijuana,U.N.A.M. - Pumas,4,2,3,1,0,2
+1323554,mexique,2024,2025-02-26T03:00:00+00:00,Mazatlán,Monterrey,1,0,1,0,0,0
+1323555,mexique,2024,2025-02-27T01:00:00+00:00,Pachuca,Puebla,2,1,0,2,1,0
+1323556,mexique,2024,2025-02-27T03:00:00+00:00,Toluca,Club Queretaro,5,0,4,1,0,0
+1323557,mexique,2024,2025-02-27T03:05:00+00:00,Atletico San Luis,Guadalajara Chivas,3,1,0,3,0,1
+1323558,mexique,2024,2025-03-01T03:00:00+00:00,Mazatlán,Cruz Azul,1,1,0,1,0,1
+1323560,mexique,2024,2025-03-01T23:00:00+00:00,Club America,Toluca,3,0,1,2,0,0
+1323562,mexique,2024,2025-03-01T23:00:00+00:00,FC Juarez,Pachuca,2,2,2,0,0,2
+1323559,mexique,2024,2025-03-02T01:00:00+00:00,Necaxa,Tigres UANL,1,2,0,1,0,2
+1323561,mexique,2024,2025-03-02T01:00:00+00:00,Leon,Club Tijuana,2,1,1,1,1,0
+1323792,mexique,2024,2025-03-02T03:10:00+00:00,U.N.A.M. - Pumas,Guadalajara Chivas,0,1,0,0,0,1
+1323563,mexique,2024,2025-03-02T22:00:00+00:00,Club Queretaro,Puebla,2,0,1,1,0,0
+1323564,mexique,2024,2025-03-03T00:00:00+00:00,Atlas,Atletico San Luis,3,1,0,3,1,0
+1323565,mexique,2024,2025-03-03T02:05:00+00:00,Monterrey,Santos Laguna,4,2,1,3,1,1
+1323567,mexique,2024,2025-03-08T01:00:00+00:00,Tigres UANL,Club Queretaro,1,0,1,0,0,0
+1323566,mexique,2024,2025-03-08T01:00:00+00:00,Atletico San Luis,FC Juarez,1,0,0,1,0,0
+1323568,mexique,2024,2025-03-08T03:00:00+00:00,Puebla,U.N.A.M. - Pumas,1,3,1,0,0,3
+1323569,mexique,2024,2025-03-08T23:00:00+00:00,Toluca,Necaxa,5,2,1,4,2,0
+1323571,mexique,2024,2025-03-09T01:00:00+00:00,Pachuca,Mazatlán,1,1,0,1,0,1
+1323570,mexique,2024,2025-03-09T01:05:00+00:00,Cruz Azul,Monterrey,1,1,1,0,1,0
+1323572,mexique,2024,2025-03-09T03:05:00+00:00,Guadalajara Chivas,Club America,0,0,0,0,0,0
+1323573,mexique,2024,2025-03-09T23:00:00+00:00,Santos Laguna,Leon,2,1,0,2,0,1
+1323574,mexique,2024,2025-03-10T03:00:00+00:00,Club Tijuana,Atlas,3,4,1,2,0,4
+1323576,mexique,2024,2025-03-15T01:00:00+00:00,Necaxa,Leon,2,1,2,0,0,1
+1323575,mexique,2024,2025-03-15T01:00:00+00:00,Club Queretaro,Mazatlán,1,0,1,0,0,0
+1323577,mexique,2024,2025-03-15T03:05:00+00:00,Puebla,Toluca,0,3,0,0,1,2
+1323578,mexique,2024,2025-03-15T23:00:00+00:00,Tigres UANL,Santos Laguna,3,0,0,3,0,0
+1323579,mexique,2024,2025-03-16T01:00:00+00:00,Cruz Azul,Atletico San Luis,3,0,2,1,0,0
+1323580,mexique,2024,2025-03-16T01:10:00+00:00,FC Juarez,Guadalajara Chivas,1,1,1,0,0,1
+1323581,mexique,2024,2025-03-16T03:05:00+00:00,Atlas,Club America,1,3,0,1,0,3
+1323793,mexique,2024,2025-03-17T00:00:00+00:00,U.N.A.M. - Pumas,Monterrey,1,3,0,1,0,3
+1323582,mexique,2024,2025-03-17T02:00:00+00:00,Pachuca,Club Tijuana,4,1,2,2,0,1
+1323583,mexique,2024,2025-03-29T01:00:00+00:00,Necaxa,Club Queretaro,2,0,1,1,0,0
+1323585,mexique,2024,2025-03-29T03:10:00+00:00,Mazatlán,Atlas,3,2,2,1,2,0
+1323586,mexique,2024,2025-03-29T23:00:00+00:00,Toluca,Pachuca,3,2,3,0,0,2
+1323584,mexique,2024,2025-03-29T23:00:00+00:00,FC Juarez,Puebla,2,0,1,1,0,0
+1323587,mexique,2024,2025-03-30T01:05:00+00:00,Club America,Tigres UANL,3,0,2,1,0,0
+1323589,mexique,2024,2025-03-30T03:05:00+00:00,Guadalajara Chivas,Cruz Azul,0,1,0,0,1,0
+1323588,mexique,2024,2025-03-30T03:15:00+00:00,Monterrey,Club Tijuana,1,2,1,0,1,1
+1323590,mexique,2024,2025-03-30T23:00:00+00:00,Santos Laguna,Atletico San Luis,2,3,2,0,1,2
+1323794,mexique,2024,2025-03-31T01:05:00+00:00,Leon,U.N.A.M. - Pumas,1,2,1,0,1,1
+1323591,mexique,2024,2025-04-05T01:00:00+00:00,Club Queretaro,Leon,1,1,1,0,1,0
+1323592,mexique,2024,2025-04-05T03:00:00+00:00,Club Tijuana,Necaxa,1,2,0,1,0,2
+1323593,mexique,2024,2025-04-05T03:05:00+00:00,Puebla,Tigres UANL,0,0,0,0,0,0
+1323594,mexique,2024,2025-04-05T23:00:00+00:00,Atlas,FC Juarez,1,1,0,1,0,1
+1323595,mexique,2024,2025-04-05T23:00:00+00:00,Pachuca,Club America,1,0,1,0,0,0
+1323599,mexique,2024,2025-04-06T01:00:00+00:00,Atletico San Luis,Mazatlán,2,1,2,0,1,0
+1323596,mexique,2024,2025-04-06T01:05:00+00:00,Monterrey,Guadalajara Chivas,3,1,2,1,0,1
+1323597,mexique,2024,2025-04-06T03:10:00+00:00,Cruz Azul,U.N.A.M. - Pumas,3,2,2,1,1,1
+1323598,mexique,2024,2025-04-07T00:00:00+00:00,Toluca,Santos Laguna,2,1,2,0,0,1
+1323608,mexique,2024,2025-04-11T02:05:00+00:00,Club Tijuana,Atletico San Luis,2,1,1,1,1,0
+1323600,mexique,2024,2025-04-12T01:00:00+00:00,Necaxa,Pachuca,3,5,1,2,2,3
+1323601,mexique,2024,2025-04-12T03:05:00+00:00,Mazatlán,Guadalajara Chivas,1,1,0,1,1,0
+1323602,mexique,2024,2025-04-12T23:00:00+00:00,U.N.A.M. - Pumas,FC Juarez,0,0,0,0,0,0
+1323603,mexique,2024,2025-04-12T23:00:00+00:00,Leon,Puebla,1,0,0,1,0,0
+1323605,mexique,2024,2025-04-13T01:00:00+00:00,Tigres UANL,Monterrey,2,1,0,2,0,1
+1323604,mexique,2024,2025-04-13T01:05:00+00:00,Atlas,Toluca,2,3,2,0,2,1
+1323606,mexique,2024,2025-04-13T03:15:00+00:00,Club America,Cruz Azul,0,0,0,0,0,0
+1323607,mexique,2024,2025-04-13T23:00:00+00:00,Santos Laguna,Club Queretaro,1,2,1,0,0,2
+1323609,mexique,2024,2025-04-16T01:00:00+00:00,Pachuca,Tigres UANL,0,0,0,0,0,0
+1323610,mexique,2024,2025-04-16T01:05:00+00:00,Guadalajara Chivas,Puebla,1,0,1,0,0,0
+1323612,mexique,2024,2025-04-16T03:00:00+00:00,FC Juarez,Necaxa,2,2,1,1,0,2
+1323611,mexique,2024,2025-04-16T03:05:00+00:00,Cruz Azul,Leon,2,1,0,2,0,1
+1323615,mexique,2024,2025-04-17T01:00:00+00:00,Monterrey,Club America,1,0,0,1,0,0
+1323614,mexique,2024,2025-04-17T01:00:00+00:00,Club Queretaro,Atlas,1,2,0,1,1,1
+1323613,mexique,2024,2025-04-17T02:00:00+00:00,Atletico San Luis,Toluca,0,1,0,0,1,0
+1323616,mexique,2024,2025-04-17T03:00:00+00:00,Mazatlán,Club Tijuana,0,2,0,0,0,2
+1323795,mexique,2024,2025-04-17T03:05:00+00:00,U.N.A.M. - Pumas,Santos Laguna,2,0,1,1,0,0
+1323617,mexique,2024,2025-04-19T01:00:00+00:00,Puebla,Necaxa,0,1,0,0,1,0
+1323618,mexique,2024,2025-04-19T23:00:00+00:00,Club America,Mazatlán,5,0,2,3,0,0
+1323620,mexique,2024,2025-04-20T01:05:00+00:00,Toluca,Cruz Azul,2,2,2,0,2,0
+1323796,mexique,2024,2025-04-20T03:00:00+00:00,Tigres UANL,U.N.A.M. - Pumas,2,1,1,1,0,1
+1323621,mexique,2024,2025-04-20T03:15:00+00:00,Atlas,Guadalajara Chivas,1,1,1,0,1,0
+1323622,mexique,2024,2025-04-20T23:00:00+00:00,Santos Laguna,Club Tijuana,0,4,0,0,2,2
+1323624,mexique,2024,2025-04-21T01:00:00+00:00,Atletico San Luis,Pachuca,2,1,0,2,0,1
+1323623,mexique,2024,2025-04-21T01:05:00+00:00,Leon,Monterrey,0,2,0,0,1,1
+1323619,mexique,2024,2025-04-21T03:00:00+00:00,FC Juarez,Club Queretaro,0,2,0,0,0,2
+1372469,mexique,2024,2025-04-28T01:30:00+00:00,Monterrey,Pachuca,1,2,0,1,0,2
+1373369,mexique,2024,2025-05-05T01:30:00+00:00,Monterrey,U.N.A.M. - Pumas,2,0,0,2,0,0
+1374342,mexique,2024,2025-05-08T01:00:00+00:00,Monterrey,Toluca,3,2,1,2,1,1
+1373367,mexique,2024,2025-05-08T03:10:00+00:00,Pachuca,Club America,0,0,0,0,0,0
+1372467,mexique,2024,2025-05-09T01:00:00+00:00,Necaxa,Tigres UANL,0,0,0,0,0,0
+1372465,mexique,2024,2025-05-09T03:10:00+00:00,Leon,Cruz Azul,2,3,1,1,3,0
+1374343,mexique,2024,2025-05-11T01:00:00+00:00,Toluca,Monterrey,2,1,1,1,0,1
+1373368,mexique,2024,2025-05-11T03:10:00+00:00,Club America,Pachuca,2,0,2,0,0,0
+1372466,mexique,2024,2025-05-12T01:00:00+00:00,Cruz Azul,Leon,2,1,1,1,1,0
+1372468,mexique,2024,2025-05-12T03:10:00+00:00,Tigres UANL,Necaxa,2,2,0,2,0,2
+1375216,mexique,2024,2025-05-15T03:00:00+00:00,Tigres UANL,Toluca,1,1,1,0,1,0
+1375218,mexique,2024,2025-05-16T02:00:00+00:00,Cruz Azul,Club America,1,0,0,1,0,0
+1375217,mexique,2024,2025-05-18T01:00:00+00:00,Toluca,Tigres UANL,3,0,1,2,0,0
+1375219,mexique,2024,2025-05-19T01:15:00+00:00,Club America,Cruz Azul,2,1,0,2,0,1
+1375860,mexique,2024,2025-05-23T02:00:00+00:00,Club America,Toluca,0,0,0,0,0,0
+1375861,mexique,2024,2025-05-26T01:00:00+00:00,Toluca,Club America,2,0,0,2,0,0
+1379481,mexique,2025,2025-07-12T01:00:00+00:00,Puebla,Atlas,2,3,1,1,1,2
+1379483,mexique,2025,2025-07-12T03:00:00+00:00,FC Juarez,Club America,1,1,0,1,1,0
+1379482,mexique,2025,2025-07-12T03:05:00+00:00,Club Tijuana,Club Queretaro,1,0,1,0,0,0
+1379485,mexique,2025,2025-07-13T01:00:00+00:00,Toluca,Necaxa,3,1,2,1,1,0
+1379484,mexique,2025,2025-07-13T01:00:00+00:00,Santos Laguna,U.N.A.M. - Pumas,3,0,1,2,0,0
+1379486,mexique,2025,2025-07-13T03:05:00+00:00,Cruz Azul,Mazatlán,0,0,0,0,0,0
+1379487,mexique,2025,2025-07-13T23:00:00+00:00,Pachuca,Monterrey,3,0,0,3,0,0
+1379488,mexique,2025,2025-07-14T01:00:00+00:00,Leon,Atletico San Luis,0,1,0,0,0,1
+1379489,mexique,2025,2025-07-17T01:00:00+00:00,Club America,Club Tijuana,3,1,1,2,0,1
+1379490,mexique,2025,2025-07-17T03:05:00+00:00,Santos Laguna,Toluca,2,4,2,0,1,3
+1379491,mexique,2025,2025-07-19T01:00:00+00:00,Necaxa,Club Queretaro,3,1,2,1,1,0
+1379492,mexique,2025,2025-07-19T03:00:00+00:00,Atletico San Luis,Monterrey,0,1,0,0,1,0
+1379493,mexique,2025,2025-07-19T03:05:00+00:00,Mazatlán,Puebla,2,1,2,0,0,1
+1379495,mexique,2025,2025-07-20T01:00:00+00:00,Tigres UANL,FC Juarez,1,0,0,1,0,0
+1379494,mexique,2025,2025-07-20T01:00:00+00:00,Leon,Guadalajara Chivas,1,0,0,1,0,0
+1379496,mexique,2025,2025-07-20T03:05:00+00:00,Atlas,Cruz Azul,3,3,2,1,0,3
+1379497,mexique,2025,2025-07-20T18:00:00+00:00,U.N.A.M. - Pumas,Pachuca,2,3,2,0,2,1
+1379499,mexique,2025,2025-07-26T01:00:00+00:00,Club Queretaro,U.N.A.M. - Pumas,0,2,0,0,1,1
+1379498,mexique,2025,2025-07-26T01:00:00+00:00,Puebla,Santos Laguna,1,0,0,1,0,0
+1379500,mexique,2025,2025-07-26T03:00:00+00:00,Club Tijuana,FC Juarez,1,1,0,1,0,1
+1379502,mexique,2025,2025-07-26T23:00:00+00:00,Pachuca,Mazatlán,1,0,0,1,0,0
+1379501,mexique,2025,2025-07-26T23:07:00+00:00,Guadalajara Chivas,Atletico San Luis,4,3,2,2,0,3
+1379504,mexique,2025,2025-07-27T01:00:00+00:00,Toluca,Tigres UANL,3,4,1,2,3,1
+1379506,mexique,2025,2025-07-27T01:00:00+00:00,Monterrey,Atlas,3,1,1,2,1,0
+1379503,mexique,2025,2025-07-27T01:00:00+00:00,Cruz Azul,Leon,4,1,0,4,0,1
+1379505,mexique,2025,2025-07-27T03:05:00+00:00,Necaxa,Club America,1,1,1,0,1,0
+1379507,mexique,2025,2025-08-09T03:00:00+00:00,Tigres UANL,Puebla,7,0,2,5,0,0
+1379508,mexique,2025,2025-08-10T01:00:00+00:00,Club America,Club Queretaro,1,0,1,0,0,0
+1379510,mexique,2025,2025-08-10T03:00:00+00:00,Mazatlán,Club Tijuana,2,2,0,2,1,1
+1379509,mexique,2025,2025-08-10T03:05:00+00:00,Atlas,Pachuca,0,3,0,0,3,0
+1379511,mexique,2025,2025-08-11T00:00:00+00:00,U.N.A.M. - Pumas,Necaxa,1,1,0,1,0,1
+1379512,mexique,2025,2025-08-11T02:05:00+00:00,Santos Laguna,Guadalajara Chivas,1,0,1,0,0,0
+1379513,mexique,2025,2025-08-12T01:00:00+00:00,Leon,Monterrey,1,3,0,1,2,1
+1379515,mexique,2025,2025-08-12T03:00:00+00:00,FC Juarez,Toluca,0,2,0,0,1,1
+1379514,mexique,2025,2025-08-12T03:05:00+00:00,Atletico San Luis,Cruz Azul,1,2,0,1,0,2
+1379516,mexique,2025,2025-08-16T01:00:00+00:00,Puebla,Atletico San Luis,0,2,0,0,1,1
+1379517,mexique,2025,2025-08-16T03:05:00+00:00,Necaxa,Leon,0,1,0,0,1,0
+1379518,mexique,2025,2025-08-16T23:07:00+00:00,Guadalajara Chivas,FC Juarez,1,2,0,1,1,1
+1379521,mexique,2025,2025-08-17T01:00:00+00:00,Tigres UANL,Club America,1,3,1,0,1,2
+1379520,mexique,2025,2025-08-17T01:00:00+00:00,Pachuca,Club Tijuana,0,2,0,0,2,0
+1379522,mexique,2025,2025-08-17T01:00:00+00:00,Cruz Azul,Santos Laguna,3,2,2,1,1,1
+1379519,mexique,2025,2025-08-17T03:10:00+00:00,Toluca,U.N.A.M. - Pumas,1,1,0,1,1,0
+1379523,mexique,2025,2025-08-17T22:00:00+00:00,Club Queretaro,Atlas,3,3,0,3,1,2
+1379524,mexique,2025,2025-08-18T00:00:00+00:00,Monterrey,Mazatlán,3,2,3,0,1,1
+1379526,mexique,2025,2025-08-23T01:00:00+00:00,Club Queretaro,Atletico San Luis,3,2,1,2,1,1
+1379525,mexique,2025,2025-08-23T01:00:00+00:00,FC Juarez,Santos Laguna,2,1,0,2,1,0
+1379527,mexique,2025,2025-08-23T03:00:00+00:00,Club Tijuana,Guadalajara Chivas,3,3,1,2,0,3
+1379529,mexique,2025,2025-08-23T23:00:00+00:00,Leon,Pachuca,1,1,1,0,1,0
+1379530,mexique,2025,2025-08-24T01:00:00+00:00,Monterrey,Necaxa,3,0,2,1,0,0
+1379528,mexique,2025,2025-08-24T01:00:00+00:00,Mazatlán,Tigres UANL,2,2,1,1,1,1
+1379531,mexique,2025,2025-08-24T03:05:00+00:00,Cruz Azul,Toluca,1,0,0,1,0,0
+1379532,mexique,2025,2025-08-24T23:00:00+00:00,U.N.A.M. - Pumas,Puebla,0,0,0,0,0,0
+1379533,mexique,2025,2025-08-25T01:05:00+00:00,Atlas,Club America,2,4,1,1,1,3
+1379535,mexique,2025,2025-08-30T01:00:00+00:00,FC Juarez,Mazatlán,1,0,1,0,0,0
+1379534,mexique,2025,2025-08-30T01:00:00+00:00,Atletico San Luis,Toluca,1,3,0,1,2,1
+1379536,mexique,2025,2025-08-30T03:05:00+00:00,Puebla,Monterrey,2,4,1,1,2,2
+1379537,mexique,2025,2025-08-30T23:00:00+00:00,Leon,Club Queretaro,3,0,1,2,0,0
+1379539,mexique,2025,2025-08-31T01:00:00+00:00,Santos Laguna,Tigres UANL,0,1,0,0,0,1
+1379538,mexique,2025,2025-08-31T01:07:00+00:00,Guadalajara Chivas,Cruz Azul,1,2,1,0,2,0
+1379540,mexique,2025,2025-08-31T03:05:00+00:00,Club America,Pachuca,2,0,1,1,0,0
+1379541,mexique,2025,2025-08-31T22:00:00+00:00,U.N.A.M. - Pumas,Atlas,1,0,0,1,0,0
+1379542,mexique,2025,2025-09-01T03:00:00+00:00,Club Tijuana,Necaxa,3,0,1,2,0,0
+1379544,mexique,2025,2025-09-13T01:00:00+00:00,Necaxa,FC Juarez,1,1,0,1,1,0
+1379545,mexique,2025,2025-09-13T03:00:00+00:00,Mazatlán,U.N.A.M. - Pumas,1,4,1,0,2,2
+1379546,mexique,2025,2025-09-13T23:00:00+00:00,Pachuca,Cruz Azul,0,1,0,0,0,1
+1379548,mexique,2025,2025-09-14T01:00:00+00:00,Tigres UANL,Leon,0,0,0,0,0,0
+1379547,mexique,2025,2025-09-14T01:00:00+00:00,Atlas,Santos Laguna,2,2,2,0,1,1
+1379549,mexique,2025,2025-09-14T03:00:00+00:00,Toluca,Puebla,3,1,1,2,0,1
+1379543,mexique,2025,2025-09-14T03:15:00+00:00,Club America,Guadalajara Chivas,1,2,0,1,0,2
+1379550,mexique,2025,2025-09-14T23:00:00+00:00,Club Queretaro,Monterrey,0,1,0,0,1,0
+1379551,mexique,2025,2025-09-15T01:00:00+00:00,Atletico San Luis,Club Tijuana,1,1,1,0,0,1
+1379552,mexique,2025,2025-09-18T01:07:00+00:00,Guadalajara Chivas,Tigres UANL,0,0,0,0,0,0
+1379554,mexique,2025,2025-09-20T01:00:00+00:00,Necaxa,Puebla,1,0,1,0,0,0
+1379553,mexique,2025,2025-09-20T01:00:00+00:00,Cruz Azul,FC Juarez,3,2,3,0,2,0
+1379556,mexique,2025,2025-09-20T03:00:00+00:00,Mazatlán,Atlas,1,1,0,1,0,1
+1379555,mexique,2025,2025-09-20T03:05:00+00:00,Club Tijuana,Leon,5,0,3,2,0,0
+1379557,mexique,2025,2025-09-20T23:00:00+00:00,Pachuca,Club Queretaro,0,2,0,0,2,0
+1379559,mexique,2025,2025-09-21T01:00:00+00:00,U.N.A.M. - Pumas,Tigres UANL,1,1,0,1,0,1
+1379558,mexique,2025,2025-09-21T01:07:00+00:00,Guadalajara Chivas,Toluca,0,3,0,0,2,1
+1379560,mexique,2025,2025-09-21T03:05:00+00:00,Monterrey,Club America,2,2,2,0,0,2
+1379561,mexique,2025,2025-09-21T23:00:00+00:00,Santos Laguna,Atletico San Luis,1,4,0,1,1,3
+1379563,mexique,2025,2025-09-24T01:00:00+00:00,Puebla,Pachuca,2,2,0,2,1,1
+1379562,mexique,2025,2025-09-24T01:07:00+00:00,Guadalajara Chivas,Necaxa,3,1,2,1,0,1
+1379565,mexique,2025,2025-09-24T03:00:00+00:00,FC Juarez,U.N.A.M. - Pumas,3,1,1,2,0,1
+1379564,mexique,2025,2025-09-24T03:05:00+00:00,Leon,Mazatlán,2,2,2,0,0,2
+1379566,mexique,2025,2025-09-25T00:00:00+00:00,Cruz Azul,Club Queretaro,2,2,1,1,2,0
+1379567,mexique,2025,2025-09-25T01:00:00+00:00,Tigres UANL,Atlas,2,0,1,1,0,0
+1379568,mexique,2025,2025-09-25T02:00:00+00:00,Toluca,Monterrey,6,2,4,2,2,0
+1379570,mexique,2025,2025-09-25T03:00:00+00:00,Santos Laguna,Club Tijuana,1,0,0,1,0,0
+1379569,mexique,2025,2025-09-25T03:00:00+00:00,Atletico San Luis,Club America,0,1,0,0,0,1

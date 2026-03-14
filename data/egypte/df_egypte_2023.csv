@@ -1,0 +1,306 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+306,2023,2023-09-18,El Geish,National Bank of Egypt,2,0,0,2,H
+307,2023,2023-09-19,Masr,Ismaily SC,1,0,1,0,H
+308,2023,2023-09-19,Al Ahly,AL Masry,4,0,1,3,H
+309,2023,2023-09-20,El Dakhleya,Enppi,1,0,1,0,H
+310,2023,2023-09-20,Smouha SC,El Gouna FC,1,1,1,0,D
+311,2023,2023-09-20,El Mokawloon,Baladiyyat Al Mehalla,0,2,0,0,A
+312,2023,2023-09-21,Pharco,Coca-Cola,0,2,0,0,A
+313,2023,2023-09-21,Pyramids FC,Zamalek SC,2,2,1,1,D
+314,2023,2023-09-21,Al Ittihad,Ceramica Cleopatra,1,0,1,0,H
+315,2023,2023-09-25,National Bank of Egypt,Pyramids FC,0,1,0,0,A
+316,2023,2023-09-25,Zamalek SC,El Mokawloon,1,1,0,1,D
+317,2023,2023-09-26,Baladiyyat Al Mehalla,Smouha SC,0,2,0,0,A
+318,2023,2023-09-26,Coca-Cola,El Dakhleya,2,1,0,2,H
+319,2023,2023-09-27,Enppi,El Geish,0,0,0,0,D
+320,2023,2023-09-27,El Gouna FC,Masr,0,1,0,0,A
+321,2023,2023-09-28,AL Masry,Pharco,1,0,0,1,H
+322,2023,2023-09-28,Ismaily SC,Al Ittihad,3,1,2,1,H
+323,2023,2023-10-05,Masr,Baladiyyat Al Mehalla,3,3,3,0,D
+324,2023,2023-10-05,Smouha SC,El Mokawloon,2,1,2,0,H
+325,2023,2023-10-06,Al Ittihad,El Gouna FC,2,2,0,2,D
+326,2023,2023-10-06,Pharco,Ceramica Cleopatra,2,2,2,0,D
+327,2023,2023-10-07,El Dakhleya,AL Masry,1,3,0,1,A
+328,2023,2023-10-07,El Geish,Coca-Cola,0,2,0,0,A
+329,2023,2023-10-07,National Bank of Egypt,Zamalek SC,1,2,1,0,A
+330,2023,2023-10-08,Pyramids FC,Enppi,1,0,1,0,H
+331,2023,2023-10-08,Al Ahly,Ismaily SC,3,1,2,1,H
+332,2023,2023-10-20,AL Masry,El Geish,1,0,0,1,H
+333,2023,2023-10-20,Ceramica Cleopatra,El Dakhleya,4,0,4,0,H
+334,2023,2023-10-21,Baladiyyat Al Mehalla,Al Ittihad,2,2,2,0,D
+335,2023,2023-10-21,Enppi,National Bank of Egypt,3,1,1,2,H
+336,2023,2023-10-21,Zamalek SC,Smouha SC,5,1,3,2,H
+337,2023,2023-10-22,El Mokawloon,Masr,3,3,2,1,D
+338,2023,2023-10-22,Ismaily SC,Pharco,0,1,0,0,A
+339,2023,2023-10-22,Coca-Cola,Pyramids FC,0,1,0,0,A
+340,2023,2023-10-27,Pyramids FC,AL Masry,3,2,1,2,H
+341,2023,2023-10-27,Enppi,Zamalek SC,2,1,1,1,H
+342,2023,2023-10-28,Pharco,El Gouna FC,0,1,0,0,A
+343,2023,2023-10-28,Al Ittihad,El Mokawloon,3,2,2,1,H
+344,2023,2023-10-28,Masr,Smouha SC,1,1,0,1,D
+345,2023,2023-10-29,El Geish,Ceramica Cleopatra,1,0,1,0,H
+346,2023,2023-10-30,El Dakhleya,Ismaily SC,0,0,0,0,D
+347,2023,2023-10-30,National Bank of Egypt,Coca-Cola,1,2,1,0,A
+348,2023,2023-11-03,Smouha SC,Al Ittihad,0,1,0,0,A
+349,2023,2023-11-03,Zamalek SC,Masr,1,2,1,0,A
+350,2023,2023-11-03,Ceramica Cleopatra,Pyramids FC,2,0,1,1,H
+351,2023,2023-11-04,El Gouna FC,El Dakhleya,2,0,2,0,H
+352,2023,2023-11-04,El Mokawloon,Al Ahly,1,2,0,1,A
+353,2023,2023-11-04,Baladiyyat Al Mehalla,Pharco,3,2,3,0,H
+354,2023,2023-11-05,Ismaily SC,El Geish,2,3,1,1,A
+355,2023,2023-11-05,Coca-Cola,Enppi,0,1,0,0,A
+356,2023,2023-11-05,AL Masry,National Bank of Egypt,0,4,0,0,A
+357,2023,2023-11-08,Ceramica Cleopatra,Al Ahly,1,2,0,1,A
+358,2023,2023-11-11,El Gouna FC,Al Ahly,1,1,1,0,D
+359,2023,2023-11-28,Pyramids FC,Ismaily SC,2,1,0,2,H
+360,2023,2023-11-28,Al Ahly,Smouha SC,0,0,0,0,D
+361,2023,2023-11-29,Coca-Cola,Zamalek SC,0,2,0,0,A
+362,2023,2023-11-30,Al Ittihad,Masr,0,0,0,0,D
+363,2023,2023-11-30,El Geish,El Gouna FC,1,1,0,1,D
+364,2023,2023-11-30,Pharco,El Mokawloon,1,1,1,0,D
+365,2023,2023-12-01,El Dakhleya,Baladiyyat Al Mehalla,0,0,0,0,D
+366,2023,2023-12-01,Enppi,AL Masry,1,2,0,1,A
+367,2023,2023-12-01,National Bank of Egypt,Ceramica Cleopatra,0,1,0,0,A
+368,2023,2023-12-04,Smouha SC,Pharco,2,1,0,2,H
+369,2023,2023-12-05,Baladiyyat Al Mehalla,El Geish,0,2,0,0,A
+370,2023,2023-12-05,Ismaily SC,National Bank of Egypt,2,1,1,1,H
+371,2023,2023-12-05,Ceramica Cleopatra,Enppi,4,2,1,3,H
+372,2023,2023-12-06,El Mokawloon,El Dakhleya,0,0,0,0,D
+373,2023,2023-12-14,National Bank of Egypt,El Gouna FC,2,3,0,2,A
+374,2023,2023-12-14,Coca-Cola,Ceramica Cleopatra,1,1,1,0,D
+375,2023,2023-12-14,AL Masry,Zamalek SC,1,0,1,0,H
+376,2023,2023-12-14,Pyramids FC,Baladiyyat Al Mehalla,2,2,1,1,D
+377,2023,2023-12-15,El Dakhleya,Smouha SC,0,0,0,0,D
+378,2023,2023-12-15,El Geish,El Mokawloon,1,2,1,0,A
+379,2023,2023-12-15,Pharco,Masr,1,2,1,0,A
+380,2023,2023-12-16,Enppi,Ismaily SC,1,0,1,0,H
+381,2023,2023-12-25,El Gouna FC,Enppi,1,2,0,1,A
+382,2023,2023-12-25,Baladiyyat Al Mehalla,National Bank of Egypt,0,2,0,0,A
+383,2023,2023-12-26,Al Ittihad,Pharco,3,1,2,1,H
+384,2023,2023-12-27,Masr,El Dakhleya,3,1,1,2,H
+385,2023,2023-12-27,Smouha SC,El Geish,1,0,1,0,H
+386,2023,2023-12-30,National Bank of Egypt,El Mokawloon,3,1,0,3,H
+387,2023,2023-12-30,Enppi,Baladiyyat Al Mehalla,3,0,3,0,H
+388,2023,2023-12-30,El Geish,Masr,1,0,0,1,H
+389,2023,2024-01-01,El Dakhleya,Al Ittihad,0,1,0,0,A
+390,2023,2024-01-01,AL Masry,Ismaily SC,1,1,0,1,D
+391,2023,2024-02-13,El Gouna FC,AL Masry,2,2,1,1,D
+392,2023,2024-02-13,Smouha SC,National Bank of Egypt,1,1,0,1,D
+393,2023,2024-02-14,Al Ittihad,El Geish,2,2,2,0,D
+394,2023,2024-02-14,El Mokawloon,Enppi,0,1,0,0,A
+395,2023,2024-02-14,Masr,Pyramids FC,0,0,0,0,D
+396,2023,2024-02-15,Baladiyyat Al Mehalla,Coca-Cola,1,0,1,0,H
+397,2023,2024-02-15,Ismaily SC,Ceramica Cleopatra,2,1,2,0,H
+398,2023,2024-02-18,Enppi,Smouha SC,0,0,0,0,D
+399,2023,2024-02-18,National Bank of Egypt,Masr,1,1,0,1,D
+400,2023,2024-02-18,Pyramids FC,Al Ittihad,1,0,0,1,H
+401,2023,2024-02-19,Coca-Cola,El Mokawloon,2,2,2,0,D
+402,2023,2024-02-19,Ismaily SC,Zamalek SC,0,0,0,0,D
+403,2023,2024-02-20,Ceramica Cleopatra,El Gouna FC,1,1,0,1,D
+404,2023,2024-02-20,AL Masry,Baladiyyat Al Mehalla,3,0,2,1,H
+405,2023,2024-02-20,El Dakhleya,Pharco,1,1,0,1,D
+406,2023,2024-02-23,Baladiyyat Al Mehalla,Ceramica Cleopatra,3,5,1,2,A
+407,2023,2024-02-25,Pharco,El Geish,1,1,1,0,D
+408,2023,2024-02-25,Al Ittihad,National Bank of Egypt,0,0,0,0,D
+409,2023,2024-02-26,El Gouna FC,Ismaily SC,0,0,0,0,D
+410,2023,2024-02-26,Masr,Enppi,0,1,0,0,A
+411,2023,2024-02-26,El Mokawloon,AL Masry,0,1,0,0,A
+412,2023,2024-02-27,Al Ahly,Baladiyyat Al Mehalla,5,1,3,2,H
+413,2023,2024-02-29,Zamalek SC,El Dakhleya,1,0,0,1,H
+414,2023,2024-02-29,Smouha SC,Coca-Cola,1,1,1,0,D
+415,2023,2024-03-01,Pharco,National Bank of Egypt,2,1,0,2,H
+416,2023,2024-03-01,Ceramica Cleopatra,El Mokawloon,2,0,1,1,H
+417,2023,2024-03-02,Ismaily SC,Baladiyyat Al Mehalla,0,1,0,0,A
+418,2023,2024-03-03,Enppi,Al Ittihad,1,2,1,0,A
+419,2023,2024-03-05,El Geish,El Dakhleya,0,0,0,0,D
+420,2023,2024-03-05,AL Masry,Smouha SC,2,0,1,1,H
+421,2023,2024-03-06,Pyramids FC,Pharco,1,1,0,1,D
+422,2023,2024-03-07,Coca-Cola,Masr,0,0,0,0,D
+423,2023,2024-03-08,Baladiyyat Al Mehalla,El Gouna FC,1,2,1,0,A
+424,2023,2024-03-09,El Mokawloon,Ismaily SC,1,1,0,1,D
+425,2023,2024-03-10,El Dakhleya,Pyramids FC,0,2,0,0,A
+426,2023,2024-03-10,Smouha SC,Ceramica Cleopatra,1,0,1,0,H
+427,2023,2024-03-11,Al Ittihad,Coca-Cola,0,0,0,0,D
+428,2023,2024-03-12,El Gouna FC,Zamalek SC,3,2,1,2,H
+429,2023,2024-03-12,Masr,AL Masry,2,2,1,1,D
+430,2023,2024-03-12,National Bank of Egypt,Al Ahly,4,3,1,3,H
+431,2023,2024-04-03,Ismaily SC,Smouha SC,2,1,0,2,H
+432,2023,2024-04-03,El Gouna FC,El Mokawloon,1,2,1,0,A
+433,2023,2024-04-03,Ceramica Cleopatra,Masr,1,1,1,0,D
+434,2023,2024-04-04,AL Masry,Al Ittihad,2,3,0,2,A
+435,2023,2024-04-04,Enppi,Pharco,1,1,0,1,D
+436,2023,2024-04-04,National Bank of Egypt,El Dakhleya,1,0,1,0,H
+437,2023,2024-04-05,Pyramids FC,El Geish,0,0,0,0,D
+438,2023,2024-04-08,Al Ahly,Enppi,2,2,1,1,D
+439,2023,2024-04-09,El Gouna FC,Pyramids FC,0,4,0,0,A
+440,2023,2024-04-11,AL Masry,Coca-Cola,1,2,0,1,A
+441,2023,2024-04-11,Zamalek SC,Al Ittihad,3,0,2,1,H
+442,2023,2024-04-11,Masr,Al Ahly,0,1,0,0,A
+443,2023,2024-04-14,Ceramica Cleopatra,AL Masry,1,1,0,1,D
+444,2023,2024-04-14,Ismaily SC,Coca-Cola,1,1,0,1,D
+445,2023,2024-04-15,El Mokawloon,Pyramids FC,0,2,0,0,A
+446,2023,2024-04-15,Zamalek SC,Al Ahly,2,1,1,1,H
+447,2023,2024-04-17,El Gouna FC,Smouha SC,1,0,1,0,H
+448,2023,2024-04-17,Enppi,El Dakhleya,0,0,0,0,D
+449,2023,2024-04-17,National Bank of Egypt,El Geish,0,1,0,0,A
+450,2023,2024-04-18,Ceramica Cleopatra,Al Ittihad,1,1,1,0,D
+451,2023,2024-04-18,Ismaily SC,Masr,1,2,0,1,A
+452,2023,2024-04-18,Future FC,Pharco,2,0,2,0,H
+453,2023,2024-04-19,Baladiyyat Al Mehalla,El Mokawloon,2,0,0,2,H
+454,2023,2024-04-22,Masr,El Gouna FC,3,0,3,0,H
+455,2023,2024-04-22,El Dakhleya,Future FC,1,1,1,0,D
+456,2023,2024-04-22,Al Ittihad,Ismaily SC,1,1,1,0,D
+457,2023,2024-04-23,Smouha SC,Baladiyyat Al Mehalla,4,0,2,2,H
+458,2023,2024-04-23,Pharco,AL Masry,1,2,0,1,A
+459,2023,2024-04-24,El Geish,Enppi,1,0,0,1,H
+460,2023,2024-04-24,Pyramids FC,National Bank of Egypt,3,2,1,2,H
+461,2023,2024-04-27,Baladiyyat Al Mehalla,Masr,0,3,0,0,A
+462,2023,2024-04-27,El Gouna FC,Al Ittihad,2,1,0,2,H
+463,2023,2024-04-28,AL Masry,El Dakhleya,1,0,0,1,H
+464,2023,2024-04-28,El Mokawloon,Smouha SC,0,1,0,0,A
+465,2023,2024-04-29,Ceramica Cleopatra,Pharco,1,1,1,0,D
+466,2023,2024-05-01,Ismaily SC,Al Ahly,1,2,0,1,A
+467,2023,2024-05-01,Enppi,Pyramids FC,0,1,0,0,A
+468,2023,2024-05-02,Zamalek SC,National Bank of Egypt,1,0,1,0,H
+469,2023,2024-05-02,Future FC,El Geish,0,0,0,0,D
+470,2023,2024-05-03,Al Ittihad,Baladiyyat Al Mehalla,2,1,1,1,H
+471,2023,2024-05-03,Masr,El Mokawloon,0,1,0,0,A
+472,2023,2024-05-04,Pharco,Ismaily SC,0,2,0,0,A
+473,2023,2024-05-04,El Dakhleya,Ceramica Cleopatra,1,3,0,1,A
+474,2023,2024-05-04,Al Ahly,El Gouna FC,3,0,1,2,H
+475,2023,2024-05-05,Smouha SC,Zamalek SC,1,0,0,1,H
+476,2023,2024-05-05,National Bank of Egypt,Enppi,1,5,1,0,A
+477,2023,2024-05-06,Pyramids FC,Future FC,2,1,0,2,H
+478,2023,2024-05-06,El Geish,AL Masry,0,2,0,0,A
+479,2023,2024-05-07,Al Ahly,Al Ittihad,4,1,3,1,H
+480,2023,2024-05-09,Ismaily SC,El Dakhleya,1,0,0,1,H
+481,2023,2024-05-09,Smouha SC,Masr,1,2,0,1,A
+482,2023,2024-05-10,Ceramica Cleopatra,El Geish,2,1,2,0,H
+483,2023,2024-05-10,El Gouna FC,Pharco,1,2,1,0,A
+484,2023,2024-05-10,Future FC,National Bank of Egypt,1,1,1,0,D
+485,2023,2024-05-11,El Mokawloon,Al Ittihad,0,1,0,0,A
+486,2023,2024-05-11,AL Masry,Pyramids FC,0,1,0,0,A
+487,2023,2024-05-11,Baladiyyat Al Mehalla,Al Ahly,1,2,0,1,A
+488,2023,2024-05-14,Al Ittihad,Smouha SC,0,2,0,0,A
+489,2023,2024-05-14,El Geish,Ismaily SC,1,1,0,1,D
+490,2023,2024-05-15,El Dakhleya,El Gouna FC,0,0,0,0,D
+491,2023,2024-05-15,Pyramids FC,Ceramica Cleopatra,2,1,2,0,H
+492,2023,2024-05-15,Pharco,Baladiyyat Al Mehalla,1,0,0,1,H
+493,2023,2024-05-16,Enppi,Future FC,0,1,0,0,A
+494,2023,2024-05-16,National Bank of Egypt,AL Masry,5,2,2,3,H
+495,2023,2024-05-19,Ismaily SC,Pyramids FC,0,2,0,0,A
+496,2023,2024-05-20,AL Masry,Enppi,0,0,0,0,D
+497,2023,2024-05-20,El Mokawloon,Pharco,1,1,1,0,D
+498,2023,2024-05-20,Masr,Al Ittihad,0,0,0,0,D
+499,2023,2024-05-21,Baladiyyat Al Mehalla,El Dakhleya,1,0,1,0,H
+500,2023,2024-05-21,El Gouna FC,El Geish,0,0,0,0,D
+501,2023,2024-05-21,Ceramica Cleopatra,National Bank of Egypt,1,0,0,1,H
+502,2023,2024-05-23,Zamalek SC,Future FC,1,1,1,0,D
+503,2023,2024-05-24,Enppi,Ceramica Cleopatra,3,2,0,3,H
+504,2023,2024-05-24,Pharco,Smouha SC,1,1,1,0,D
+505,2023,2024-05-25,El Dakhleya,El Mokawloon,3,0,1,2,H
+506,2023,2024-05-26,National Bank of Egypt,Ismaily SC,2,2,1,1,D
+507,2023,2024-05-26,El Geish,Baladiyyat Al Mehalla,1,0,0,1,H
+508,2023,2024-05-26,Future FC,AL Masry,0,0,0,0,D
+509,2023,2024-05-27,Pyramids FC,El Gouna FC,1,0,1,0,H
+510,2023,2024-05-27,Al Ittihad,Zamalek SC,0,2,0,0,A
+511,2023,2024-06-13,Pyramids FC,Smouha SC,3,0,2,1,H
+512,2023,2024-06-13,Coca-Cola,El Gouna FC,3,1,1,2,H
+513,2023,2024-06-14,Ceramica Cleopatra,Zamalek SC,1,2,1,0,A
+514,2023,2024-06-14,Pharco,Al Ahly,1,2,1,0,A
+515,2023,2024-06-16,El Mokawloon,El Geish,3,1,0,3,H
+516,2023,2024-06-17,El Gouna FC,National Bank of Egypt,1,1,1,0,D
+517,2023,2024-06-17,Ismaily SC,Enppi,2,2,1,1,D
+518,2023,2024-06-17,Zamalek SC,AL Masry,1,2,0,1,A
+519,2023,2024-06-18,Smouha SC,El Dakhleya,3,2,1,2,H
+520,2023,2024-06-18,Al Ittihad,Al Ahly,0,1,0,0,A
+521,2023,2024-06-18,Masr,Pharco,2,2,1,1,D
+522,2023,2024-06-19,Ceramica Cleopatra,Future FC,0,1,0,0,A
+523,2023,2024-06-19,Baladiyyat Al Mehalla,Pyramids FC,0,2,0,0,A
+524,2023,2024-06-21,El Dakhleya,Al Ahly,1,2,1,0,A
+525,2023,2024-06-21,Zamalek SC,Pharco,2,0,1,1,H
+526,2023,2024-06-22,Enppi,El Gouna FC,1,0,0,1,H
+527,2023,2024-06-22,El Geish,Smouha SC,2,2,1,1,D
+528,2023,2024-06-23,Future FC,Ismaily SC,0,1,0,0,A
+529,2023,2024-06-23,AL Masry,Ceramica Cleopatra,0,2,0,0,A
+530,2023,2024-06-23,Pyramids FC,El Mokawloon,3,1,0,3,H
+531,2023,2024-06-24,National Bank of Egypt,Baladiyyat Al Mehalla,5,0,1,4,H
+532,2023,2024-06-24,El Dakhleya,Masr,1,0,0,1,H
+533,2023,2024-06-24,Pharco,Al Ittihad,1,0,1,0,H
+534,2023,2024-06-27,El Gouna FC,Future FC,0,2,0,0,A
+535,2023,2024-06-27,Ismaily SC,AL Masry,0,1,0,0,A
+536,2023,2024-06-27,Masr,El Geish,4,1,2,2,H
+537,2023,2024-06-28,El Mokawloon,National Bank of Egypt,1,4,0,1,A
+538,2023,2024-06-28,Al Ahly,Pharco,2,1,1,1,H
+539,2023,2024-06-29,Baladiyyat Al Mehalla,Enppi,0,0,0,0,D
+540,2023,2024-06-29,Al Ittihad,El Dakhleya,1,1,0,1,D
+541,2023,2024-06-29,Zamalek SC,Ceramica Cleopatra,4,2,2,2,H
+542,2023,2024-07-01,AL Masry,El Gouna FC,2,1,1,1,H
+543,2023,2024-07-01,El Geish,Al Ahly,0,4,0,0,A
+544,2023,2024-07-02,Enppi,El Mokawloon,2,2,1,1,D
+545,2023,2024-07-02,Smouha SC,Pyramids FC,2,3,1,1,A
+546,2023,2024-07-03,Future FC,Baladiyyat Al Mehalla,1,0,0,1,H
+547,2023,2024-07-03,Ceramica Cleopatra,Ismaily SC,1,0,0,1,H
+548,2023,2024-07-03,Pharco,Zamalek SC,1,1,1,0,D
+549,2023,2024-07-04,El Geish,Al Ittihad,0,0,0,0,D
+550,2023,2024-07-04,Al Ahly,El Dakhleya,4,1,2,2,H
+551,2023,2024-07-06,Smouha SC,Enppi,2,0,0,2,H
+552,2023,2024-07-06,Masr,National Bank of Egypt,0,1,0,0,A
+553,2023,2024-07-07,Baladiyyat Al Mehalla,AL Masry,0,1,0,0,A
+554,2023,2024-07-07,Zamalek SC,Ismaily SC,2,1,0,2,H
+555,2023,2024-07-07,El Gouna FC,Ceramica Cleopatra,0,0,0,0,D
+556,2023,2024-07-08,Pharco,El Dakhleya,2,0,0,2,H
+557,2023,2024-07-08,Al Ittihad,Pyramids FC,0,4,0,0,A
+558,2023,2024-07-08,Al Ahly,El Geish,2,0,0,2,H
+559,2023,2024-07-11,El Geish,Zamalek SC,1,2,0,1,A
+560,2023,2024-07-11,El Mokawloon,Future FC,1,2,0,1,A
+561,2023,2024-07-12,Al Ahly,Pyramids FC,3,2,1,2,H
+562,2023,2024-07-13,National Bank of Egypt,Smouha SC,1,2,1,0,A
+563,2023,2024-07-15,Zamalek SC,Baladiyyat Al Mehalla,0,0,0,0,D
+564,2023,2024-07-16,Future FC,Al Ahly,1,2,1,0,A
+565,2023,2024-07-20,El Geish,Pharco,0,0,0,0,D
+566,2023,2024-07-20,Ceramica Cleopatra,Baladiyyat Al Mehalla,4,0,3,1,H
+567,2023,2024-07-20,National Bank of Egypt,Al Ittihad,0,0,0,0,D
+568,2023,2024-07-21,AL Masry,El Mokawloon,1,1,1,0,D
+569,2023,2024-07-21,El Dakhleya,Zamalek SC,1,2,0,1,A
+570,2023,2024-07-21,Enppi,Masr,1,4,0,1,A
+571,2023,2024-07-22,Ismaily SC,El Gouna FC,1,1,1,0,D
+572,2023,2024-07-22,Pyramids FC,Al Ahly,0,1,0,0,A
+573,2023,2024-07-22,Future FC,Smouha SC,3,0,2,1,H
+574,2023,2024-07-26,AL Masry,Al Ahly,0,1,0,0,A
+575,2023,2024-07-26,Zamalek SC,Pyramids FC,1,1,1,0,D
+576,2023,2024-07-29,El Mokawloon,Zamalek SC,2,1,1,1,H
+577,2023,2024-07-29,Al Ahly,Ceramica Cleopatra,4,1,1,3,H
+578,2023,2024-07-30,El Dakhleya,El Geish,0,1,0,0,A
+579,2023,2024-07-30,Pharco,Pyramids FC,2,2,2,0,D
+580,2023,2024-07-30,Baladiyyat Al Mehalla,Ismaily SC,4,2,1,3,H
+581,2023,2024-07-31,Al Ittihad,Enppi,0,0,0,0,D
+582,2023,2024-07-31,Masr,Future FC,3,2,1,2,H
+583,2023,2024-08-01,El Mokawloon,Ceramica Cleopatra,1,1,0,1,D
+584,2023,2024-08-01,Smouha SC,AL Masry,1,0,0,1,H
+585,2023,2024-08-01,Al Ahly,National Bank of Egypt,1,0,1,0,H
+586,2023,2024-08-02,Zamalek SC,El Gouna FC,1,0,1,0,H
+587,2023,2024-08-04,Pyramids FC,Masr,2,1,1,1,H
+588,2023,2024-08-04,Al Ahly,El Mokawloon,4,0,2,2,H
+589,2023,2024-08-05,Zamalek SC,Enppi,4,2,2,2,H
+590,2023,2024-08-08,Smouha SC,Al Ahly,0,1,0,0,A
+591,2023,2024-08-08,Masr,Zamalek SC,0,1,0,0,A
+592,2023,2024-08-11,El Geish,Pyramids FC,2,5,1,1,A
+593,2023,2024-08-11,Al Ahly,Masr,2,1,1,1,H
+594,2023,2024-08-12,Ceramica Cleopatra,Smouha SC,0,1,0,0,A
+595,2023,2024-08-12,Future FC,Al Ittihad,1,1,1,0,D
+596,2023,2024-08-13,Ismaily SC,El Mokawloon,1,1,0,1,D
+597,2023,2024-08-13,El Gouna FC,Baladiyyat Al Mehalla,2,1,1,1,H
+598,2023,2024-08-13,National Bank of Egypt,Pharco,0,0,0,0,D
+599,2023,2024-08-14,AL Masry,Masr,0,1,0,0,A
+600,2023,2024-08-14,Zamalek SC,El Geish,1,3,1,0,A
+601,2023,2024-08-14,Pyramids FC,El Dakhleya,1,0,0,1,H
+602,2023,2024-08-14,Enppi,Al Ahly,1,1,1,0,D
+603,2023,2024-08-16,Smouha SC,Ismaily SC,2,0,0,2,H
+604,2023,2024-08-17,Pharco,Enppi,0,0,0,0,D
+605,2023,2024-08-17,Al Ahly,Future FC,1,2,0,1,A
+606,2023,2024-08-17,Baladiyyat Al Mehalla,Zamalek SC,2,2,0,2,D
+607,2023,2024-08-18,El Dakhleya,National Bank of Egypt,0,0,0,0,D
+608,2023,2024-08-18,El Mokawloon,El Gouna FC,0,1,0,0,A
+609,2023,2024-08-18,Al Ittihad,AL Masry,0,2,0,0,A
+610,2023,2024-08-18,Masr,Ceramica Cleopatra,2,2,2,0,D

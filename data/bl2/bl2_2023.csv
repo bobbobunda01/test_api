@@ -1,0 +1,309 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1459,bundesliga_2,2023,2023-07-28,Hamburger SV,FC Schalke 04,5,3,1,4,H
+1460,bundesliga_2,2023,2023-07-29,Hannover 96,SV Elversberg,2,2,1,1,D
+1461,bundesliga_2,2023,2023-07-29,FC Kaiserslautern,FC St. Pauli,1,2,0,1,A
+1462,bundesliga_2,2023,2023-07-29,SV Wehen,FC Magdeburg,1,1,0,1,D
+1463,bundesliga_2,2023,2023-07-29,VfL Osnabruck,Karlsruher SC,2,3,1,1,A
+1464,bundesliga_2,2023,2023-07-29,Fortuna Dusseldorf,Hertha Berlin,1,0,0,1,H
+1465,bundesliga_2,2023,2023-07-30,SpVgg Greuther Furth,SC Paderborn 07,5,0,3,2,H
+1466,bundesliga_2,2023,2023-07-30,Eintracht Braunschweig,Holstein Kiel,0,1,0,0,A
+1467,bundesliga_2,2023,2023-07-30,Hansa Rostock,FC Nurnberg,2,0,1,1,H
+1468,bundesliga_2,2023,2023-08-04,Hertha Berlin,SV Wehen,0,1,0,0,A
+1469,bundesliga_2,2023,2023-08-04,SC Paderborn 07,VfL Osnabruck,1,1,0,1,D
+1470,bundesliga_2,2023,2023-08-05,FC St. Pauli,Fortuna Dusseldorf,0,0,0,0,D
+1471,bundesliga_2,2023,2023-08-05,Holstein Kiel,SpVgg Greuther Furth,2,1,0,2,H
+1472,bundesliga_2,2023,2023-08-05,SV Elversberg,Hansa Rostock,1,2,0,1,A
+1473,bundesliga_2,2023,2023-08-05,FC Schalke 04,FC Kaiserslautern,3,0,1,2,H
+1474,bundesliga_2,2023,2023-08-06,FC Nurnberg,Hannover 96,2,2,0,2,D
+1475,bundesliga_2,2023,2023-08-06,FC Magdeburg,Eintracht Braunschweig,2,1,2,0,H
+1476,bundesliga_2,2023,2023-08-06,Karlsruher SC,Hamburger SV,2,2,1,1,D
+1477,bundesliga_2,2023,2023-08-18,FC Kaiserslautern,SV Elversberg,3,2,1,2,H
+1478,bundesliga_2,2023,2023-08-18,SV Wehen,Karlsruher SC,1,0,1,0,H
+1479,bundesliga_2,2023,2023-08-19,Fortuna Dusseldorf,SC Paderborn 07,1,2,0,1,A
+1480,bundesliga_2,2023,2023-08-19,SpVgg Greuther Furth,FC St. Pauli,0,0,0,0,D
+1481,bundesliga_2,2023,2023-08-19,Hansa Rostock,Hannover 96,1,2,0,1,A
+1482,bundesliga_2,2023,2023-08-19,Hamburger SV,Hertha Berlin,3,0,2,1,H
+1483,bundesliga_2,2023,2023-08-20,Holstein Kiel,FC Magdeburg,2,4,1,1,A
+1484,bundesliga_2,2023,2023-08-20,Eintracht Braunschweig,FC Schalke 04,1,0,1,0,H
+1485,bundesliga_2,2023,2023-08-20,VfL Osnabruck,FC Nurnberg,2,3,0,2,A
+1486,bundesliga_2,2023,2023-08-25,FC Schalke 04,Holstein Kiel,0,2,0,0,A
+1487,bundesliga_2,2023,2023-08-25,SC Paderborn 07,FC Kaiserslautern,1,2,0,1,A
+1488,bundesliga_2,2023,2023-08-26,Hertha Berlin,SpVgg Greuther Furth,5,0,2,3,H
+1489,bundesliga_2,2023,2023-08-26,Hansa Rostock,VfL Osnabruck,2,1,1,1,H
+1490,bundesliga_2,2023,2023-08-26,SV Elversberg,Fortuna Dusseldorf,0,5,0,0,A
+1491,bundesliga_2,2023,2023-08-26,Hannover 96,Hamburger SV,0,1,0,0,A
+1492,bundesliga_2,2023,2023-08-27,FC Nurnberg,SV Wehen,2,1,0,2,H
+1493,bundesliga_2,2023,2023-08-27,FC St. Pauli,FC Magdeburg,0,0,0,0,D
+1494,bundesliga_2,2023,2023-08-27,Karlsruher SC,Eintracht Braunschweig,2,0,1,1,H
+1495,bundesliga_2,2023,2023-09-01,Fortuna Dusseldorf,Karlsruher SC,3,1,1,2,H
+1496,bundesliga_2,2023,2023-09-01,Eintracht Braunschweig,FC St. Pauli,1,1,0,1,D
+1497,bundesliga_2,2023,2023-09-02,FC Magdeburg,Hertha Berlin,6,4,2,4,H
+1498,bundesliga_2,2023,2023-09-02,Holstein Kiel,SC Paderborn 07,2,1,1,1,H
+1499,bundesliga_2,2023,2023-09-02,SV Wehen,FC Schalke 04,1,1,0,1,D
+1500,bundesliga_2,2023,2023-09-02,FC Kaiserslautern,FC Nurnberg,3,1,3,0,H
+1501,bundesliga_2,2023,2023-09-03,Hamburger SV,Hansa Rostock,2,0,1,1,H
+1502,bundesliga_2,2023,2023-09-03,SpVgg Greuther Furth,Hannover 96,1,3,0,1,A
+1503,bundesliga_2,2023,2023-09-03,VfL Osnabruck,SV Elversberg,0,1,0,0,A
+1504,bundesliga_2,2023,2023-09-15,FC Nurnberg,SpVgg Greuther Furth,1,1,1,0,D
+1505,bundesliga_2,2023,2023-09-15,SC Paderborn 07,SV Wehen,2,1,0,2,H
+1506,bundesliga_2,2023,2023-09-16,Karlsruher SC,FC Kaiserslautern,1,1,1,0,D
+1507,bundesliga_2,2023,2023-09-16,Hansa Rostock,Fortuna Dusseldorf,1,3,1,0,A
+1508,bundesliga_2,2023,2023-09-16,SV Elversberg,Hamburger SV,2,1,1,1,H
+1509,bundesliga_2,2023,2023-09-16,FC Schalke 04,FC Magdeburg,4,3,1,3,H
+1510,bundesliga_2,2023,2023-09-17,Hertha Berlin,Eintracht Braunschweig,3,0,2,1,H
+1511,bundesliga_2,2023,2023-09-17,Hannover 96,VfL Osnabruck,7,0,2,5,H
+1512,bundesliga_2,2023,2023-09-17,FC St. Pauli,Holstein Kiel,5,1,3,2,H
+1513,bundesliga_2,2023,2023-09-22,FC Magdeburg,SC Paderborn 07,1,1,0,1,D
+1514,bundesliga_2,2023,2023-09-22,VfL Osnabruck,Hamburger SV,2,1,2,0,H
+1515,bundesliga_2,2023,2023-09-23,SpVgg Greuther Furth,Karlsruher SC,4,3,3,1,H
+1516,bundesliga_2,2023,2023-09-23,Eintracht Braunschweig,FC Nurnberg,2,2,1,1,D
+1517,bundesliga_2,2023,2023-09-23,SV Wehen,SV Elversberg,0,2,0,0,A
+1518,bundesliga_2,2023,2023-09-23,FC St. Pauli,FC Schalke 04,3,1,1,2,H
+1519,bundesliga_2,2023,2023-09-24,Fortuna Dusseldorf,Hannover 96,1,1,0,1,D
+1520,bundesliga_2,2023,2023-09-24,Holstein Kiel,Hertha Berlin,2,3,0,2,A
+1521,bundesliga_2,2023,2023-09-24,FC Kaiserslautern,Hansa Rostock,3,1,2,1,H
+1522,bundesliga_2,2023,2023-09-29,Hamburger SV,Fortuna Dusseldorf,1,0,0,1,H
+1523,bundesliga_2,2023,2023-09-29,SC Paderborn 07,FC Schalke 04,3,1,1,2,H
+1524,bundesliga_2,2023,2023-09-30,Hannover 96,SV Wehen,2,0,1,1,H
+1525,bundesliga_2,2023,2023-09-30,Karlsruher SC,Holstein Kiel,0,2,0,0,A
+1526,bundesliga_2,2023,2023-09-30,Hansa Rostock,Eintracht Braunschweig,1,0,0,1,H
+1527,bundesliga_2,2023,2023-09-30,Hertha Berlin,FC St. Pauli,1,2,0,1,A
+1528,bundesliga_2,2023,2023-10-01,FC Nurnberg,FC Magdeburg,1,0,0,1,H
+1529,bundesliga_2,2023,2023-10-01,VfL Osnabruck,FC Kaiserslautern,2,2,2,0,D
+1530,bundesliga_2,2023,2023-10-01,SV Elversberg,SpVgg Greuther Furth,1,1,1,0,D
+1531,bundesliga_2,2023,2023-10-06,Fortuna Dusseldorf,VfL Osnabruck,1,1,0,1,D
+1532,bundesliga_2,2023,2023-10-06,FC Kaiserslautern,Hannover 96,3,1,1,2,H
+1533,bundesliga_2,2023,2023-10-07,SpVgg Greuther Furth,Hansa Rostock,1,0,1,0,H
+1534,bundesliga_2,2023,2023-10-07,FC Magdeburg,Karlsruher SC,1,1,0,1,D
+1535,bundesliga_2,2023,2023-10-07,SV Wehen,Hamburger SV,1,1,0,1,D
+1536,bundesliga_2,2023,2023-10-07,FC St. Pauli,FC Nurnberg,5,1,1,4,H
+1537,bundesliga_2,2023,2023-10-08,FC Schalke 04,Hertha Berlin,1,2,0,1,A
+1538,bundesliga_2,2023,2023-10-08,Holstein Kiel,SV Elversberg,1,1,1,0,D
+1539,bundesliga_2,2023,2023-10-08,Eintracht Braunschweig,SC Paderborn 07,1,3,1,0,A
+1540,bundesliga_2,2023,2023-10-20,Hannover 96,FC Magdeburg,2,1,1,1,H
+1541,bundesliga_2,2023,2023-10-20,SV Elversberg,Eintracht Braunschweig,3,0,2,1,H
+1542,bundesliga_2,2023,2023-10-21,Hamburger SV,SpVgg Greuther Furth,2,0,2,0,H
+1543,bundesliga_2,2023,2023-10-21,SC Paderborn 07,FC St. Pauli,2,2,1,1,D
+1544,bundesliga_2,2023,2023-10-21,VfL Osnabruck,SV Wehen,0,2,0,0,A
+1545,bundesliga_2,2023,2023-10-21,Fortuna Dusseldorf,FC Kaiserslautern,4,3,1,3,H
+1546,bundesliga_2,2023,2023-10-22,FC Nurnberg,Hertha Berlin,3,1,0,3,H
+1547,bundesliga_2,2023,2023-10-22,Karlsruher SC,FC Schalke 04,3,0,2,1,H
+1548,bundesliga_2,2023,2023-10-22,Hansa Rostock,Holstein Kiel,1,3,1,0,A
+1549,bundesliga_2,2023,2023-10-27,SpVgg Greuther Furth,VfL Osnabruck,4,0,1,3,H
+1550,bundesliga_2,2023,2023-10-27,Eintracht Braunschweig,Fortuna Dusseldorf,1,4,0,1,A
+1551,bundesliga_2,2023,2023-10-28,Hertha Berlin,SC Paderborn 07,3,1,2,1,H
+1552,bundesliga_2,2023,2023-10-28,FC Schalke 04,Hannover 96,3,2,1,2,H
+1553,bundesliga_2,2023,2023-10-28,FC St. Pauli,Karlsruher SC,2,1,0,2,H
+1554,bundesliga_2,2023,2023-10-28,FC Kaiserslautern,Hamburger SV,3,3,2,1,D
+1555,bundesliga_2,2023,2023-10-29,FC Magdeburg,SV Elversberg,1,2,0,1,A
+1556,bundesliga_2,2023,2023-10-29,Holstein Kiel,FC Nurnberg,0,2,0,0,A
+1557,bundesliga_2,2023,2023-10-29,SV Wehen,Hansa Rostock,1,0,0,1,H
+1558,bundesliga_2,2023,2023-11-03,Fortuna Dusseldorf,SV Wehen,1,3,0,1,A
+1559,bundesliga_2,2023,2023-11-03,SV Elversberg,FC St. Pauli,0,2,0,0,A
+1560,bundesliga_2,2023,2023-11-04,FC Nurnberg,FC Schalke 04,1,2,0,1,A
+1561,bundesliga_2,2023,2023-11-04,FC Kaiserslautern,SpVgg Greuther Furth,0,2,0,0,A
+1562,bundesliga_2,2023,2023-11-04,VfL Osnabruck,Holstein Kiel,1,1,0,1,D
+1563,bundesliga_2,2023,2023-11-04,Hamburger SV,FC Magdeburg,2,0,1,1,H
+1564,bundesliga_2,2023,2023-11-05,Hannover 96,Eintracht Braunschweig,2,0,2,0,H
+1565,bundesliga_2,2023,2023-11-05,Karlsruher SC,SC Paderborn 07,0,3,0,0,A
+1566,bundesliga_2,2023,2023-11-05,Hansa Rostock,Hertha Berlin,0,0,0,0,D
+1567,bundesliga_2,2023,2023-11-10,FC Schalke 04,SV Elversberg,1,2,1,0,A
+1568,bundesliga_2,2023,2023-11-10,FC St. Pauli,Hannover 96,0,0,0,0,D
+1569,bundesliga_2,2023,2023-11-11,SC Paderborn 07,FC Nurnberg,1,3,0,1,A
+1570,bundesliga_2,2023,2023-11-11,Holstein Kiel,Hamburger SV,4,2,1,3,H
+1571,bundesliga_2,2023,2023-11-11,Eintracht Braunschweig,VfL Osnabruck,3,2,1,2,H
+1572,bundesliga_2,2023,2023-11-11,Hertha Berlin,Karlsruher SC,2,2,2,0,D
+1573,bundesliga_2,2023,2023-11-12,SpVgg Greuther Furth,Fortuna Dusseldorf,1,0,0,1,H
+1574,bundesliga_2,2023,2023-11-12,FC Magdeburg,Hansa Rostock,1,2,1,0,A
+1575,bundesliga_2,2023,2023-11-12,SV Wehen,FC Kaiserslautern,2,1,0,2,H
+1576,bundesliga_2,2023,2023-11-24,Hannover 96,Hertha Berlin,2,2,0,2,D
+1577,bundesliga_2,2023,2023-11-24,Hamburger SV,Eintracht Braunschweig,2,1,2,0,H
+1578,bundesliga_2,2023,2023-11-25,Hansa Rostock,FC St. Pauli,2,3,1,1,A
+1579,bundesliga_2,2023,2023-11-25,VfL Osnabruck,FC Magdeburg,0,2,0,0,A
+1580,bundesliga_2,2023,2023-11-25,SV Elversberg,SC Paderborn 07,4,1,1,3,H
+1581,bundesliga_2,2023,2023-11-25,Fortuna Dusseldorf,FC Schalke 04,5,3,3,2,H
+1582,bundesliga_2,2023,2023-11-26,SpVgg Greuther Furth,SV Wehen,2,0,1,1,H
+1583,bundesliga_2,2023,2023-11-26,FC Kaiserslautern,Holstein Kiel,0,3,0,0,A
+1584,bundesliga_2,2023,2023-11-26,Karlsruher SC,FC Nurnberg,4,1,1,3,H
+1585,bundesliga_2,2023,2023-12-01,FC Schalke 04,VfL Osnabruck,4,0,1,3,H
+1586,bundesliga_2,2023,2023-12-01,FC St. Pauli,Hamburger SV,2,2,2,0,D
+1587,bundesliga_2,2023,2023-12-02,FC Nurnberg,Fortuna Dusseldorf,0,5,0,0,A
+1588,bundesliga_2,2023,2023-12-02,Holstein Kiel,SV Wehen,3,2,2,1,H
+1589,bundesliga_2,2023,2023-12-02,Eintracht Braunschweig,SpVgg Greuther Furth,0,1,0,0,A
+1590,bundesliga_2,2023,2023-12-02,FC Magdeburg,FC Kaiserslautern,4,1,1,3,H
+1591,bundesliga_2,2023,2023-12-03,Hertha Berlin,SV Elversberg,5,1,2,3,H
+1592,bundesliga_2,2023,2023-12-03,SC Paderborn 07,Hannover 96,1,0,0,1,H
+1593,bundesliga_2,2023,2023-12-03,Karlsruher SC,Hansa Rostock,2,2,1,1,D
+1594,bundesliga_2,2023,2023-12-08,Hannover 96,Karlsruher SC,2,2,0,2,D
+1595,bundesliga_2,2023,2023-12-08,SV Wehen,Eintracht Braunschweig,1,3,1,0,A
+1596,bundesliga_2,2023,2023-12-09,Hamburger SV,SC Paderborn 07,1,2,1,0,A
+1597,bundesliga_2,2023,2023-12-09,SpVgg Greuther Furth,FC Magdeburg,1,1,0,1,D
+1598,bundesliga_2,2023,2023-12-09,FC Kaiserslautern,Hertha Berlin,1,2,1,0,A
+1599,bundesliga_2,2023,2023-12-09,VfL Osnabruck,FC St. Pauli,1,1,0,1,D
+1600,bundesliga_2,2023,2023-12-10,Fortuna Dusseldorf,Holstein Kiel,0,1,0,0,A
+1601,bundesliga_2,2023,2023-12-10,Hansa Rostock,FC Schalke 04,0,2,0,0,A
+1602,bundesliga_2,2023,2023-12-10,SV Elversberg,FC Nurnberg,0,1,0,0,A
+1603,bundesliga_2,2023,2023-12-15,FC Schalke 04,SpVgg Greuther Furth,2,2,1,1,D
+1604,bundesliga_2,2023,2023-12-15,SC Paderborn 07,Hansa Rostock,3,0,1,2,H
+1605,bundesliga_2,2023,2023-12-16,Hertha Berlin,VfL Osnabruck,0,0,0,0,D
+1606,bundesliga_2,2023,2023-12-16,FC Nurnberg,Hamburger SV,0,2,0,0,A
+1607,bundesliga_2,2023,2023-12-16,FC Magdeburg,Fortuna Dusseldorf,2,3,2,0,A
+1608,bundesliga_2,2023,2023-12-16,Holstein Kiel,Hannover 96,3,0,3,0,H
+1609,bundesliga_2,2023,2023-12-17,FC St. Pauli,SV Wehen,1,1,0,1,D
+1610,bundesliga_2,2023,2023-12-17,Eintracht Braunschweig,FC Kaiserslautern,2,1,1,1,H
+1611,bundesliga_2,2023,2023-12-17,Karlsruher SC,SV Elversberg,3,2,2,1,H
+1612,bundesliga_2,2023,2024-01-19,Holstein Kiel,Eintracht Braunschweig,1,2,1,0,A
+1613,bundesliga_2,2023,2024-01-19,Karlsruher SC,VfL Osnabruck,2,1,1,1,H
+1614,bundesliga_2,2023,2024-01-20,FC Nurnberg,Hansa Rostock,3,0,2,1,H
+1615,bundesliga_2,2023,2024-01-20,FC St. Pauli,FC Kaiserslautern,2,0,1,1,H
+1616,bundesliga_2,2023,2024-01-20,SV Elversberg,Hannover 96,2,2,0,2,D
+1617,bundesliga_2,2023,2024-01-20,FC Schalke 04,Hamburger SV,0,2,0,0,A
+1618,bundesliga_2,2023,2024-01-21,Hertha Berlin,Fortuna Dusseldorf,2,2,2,0,D
+1619,bundesliga_2,2023,2024-01-21,FC Magdeburg,SV Wehen,1,0,0,1,H
+1620,bundesliga_2,2023,2024-01-21,SC Paderborn 07,SpVgg Greuther Furth,0,1,0,0,A
+1621,bundesliga_2,2023,2024-01-26,Hannover 96,FC Nurnberg,3,0,2,1,H
+1622,bundesliga_2,2023,2024-01-26,FC Kaiserslautern,FC Schalke 04,4,1,1,3,H
+1623,bundesliga_2,2023,2024-01-27,SV Wehen,Hertha Berlin,3,1,1,2,H
+1624,bundesliga_2,2023,2024-01-27,Hansa Rostock,SV Elversberg,2,1,0,2,H
+1625,bundesliga_2,2023,2024-01-27,VfL Osnabruck,SC Paderborn 07,0,0,0,0,D
+1626,bundesliga_2,2023,2024-01-27,Fortuna Dusseldorf,FC St. Pauli,1,2,0,1,A
+1627,bundesliga_2,2023,2024-01-28,Hamburger SV,Karlsruher SC,3,4,2,1,A
+1628,bundesliga_2,2023,2024-01-28,SpVgg Greuther Furth,Holstein Kiel,2,1,0,2,H
+1629,bundesliga_2,2023,2024-01-28,Eintracht Braunschweig,FC Magdeburg,1,0,1,0,H
+1630,bundesliga_2,2023,2024-02-02,FC Magdeburg,Holstein Kiel,1,1,0,1,D
+1631,bundesliga_2,2023,2024-02-02,Karlsruher SC,SV Wehen,2,2,1,1,D
+1632,bundesliga_2,2023,2024-02-03,FC Nurnberg,VfL Osnabruck,2,2,1,1,D
+1633,bundesliga_2,2023,2024-02-03,FC Schalke 04,Eintracht Braunschweig,1,0,0,1,H
+1634,bundesliga_2,2023,2024-02-03,FC St. Pauli,SpVgg Greuther Furth,3,2,2,1,H
+1635,bundesliga_2,2023,2024-02-03,Hertha Berlin,Hamburger SV,1,2,0,1,A
+1636,bundesliga_2,2023,2024-02-04,Hannover 96,Hansa Rostock,2,1,1,1,H
+1637,bundesliga_2,2023,2024-02-04,SC Paderborn 07,Fortuna Dusseldorf,4,3,3,1,H
+1638,bundesliga_2,2023,2024-02-04,SV Elversberg,FC Kaiserslautern,2,1,1,1,H
+1639,bundesliga_2,2023,2024-02-09,Hamburger SV,Hannover 96,3,4,1,2,A
+1640,bundesliga_2,2023,2024-02-09,SV Wehen,FC Nurnberg,1,1,0,1,D
+1641,bundesliga_2,2023,2024-02-10,Fortuna Dusseldorf,SV Elversberg,1,1,1,0,D
+1642,bundesliga_2,2023,2024-02-10,FC Magdeburg,FC St. Pauli,1,0,0,1,H
+1643,bundesliga_2,2023,2024-02-10,Eintracht Braunschweig,Karlsruher SC,2,0,1,1,H
+1644,bundesliga_2,2023,2024-02-10,FC Kaiserslautern,SC Paderborn 07,1,2,1,0,A
+1645,bundesliga_2,2023,2024-02-11,SpVgg Greuther Furth,Hertha Berlin,1,2,0,1,A
+1646,bundesliga_2,2023,2024-02-11,Holstein Kiel,FC Schalke 04,1,0,0,1,H
+1647,bundesliga_2,2023,2024-02-11,VfL Osnabruck,Hansa Rostock,0,0,0,0,D
+1648,bundesliga_2,2023,2024-02-16,Hertha Berlin,FC Magdeburg,3,2,2,1,H
+1649,bundesliga_2,2023,2024-02-16,Hannover 96,SpVgg Greuther Furth,2,1,0,2,H
+1650,bundesliga_2,2023,2024-02-17,FC Schalke 04,SV Wehen,1,0,0,1,H
+1651,bundesliga_2,2023,2024-02-17,SC Paderborn 07,Holstein Kiel,0,4,0,0,A
+1652,bundesliga_2,2023,2024-02-17,Hansa Rostock,Hamburger SV,2,2,0,2,D
+1653,bundesliga_2,2023,2024-02-17,Karlsruher SC,Fortuna Dusseldorf,2,2,0,2,D
+1654,bundesliga_2,2023,2024-02-18,FC Nurnberg,FC Kaiserslautern,1,1,0,1,D
+1655,bundesliga_2,2023,2024-02-18,FC St. Pauli,Eintracht Braunschweig,1,0,1,0,H
+1656,bundesliga_2,2023,2024-02-18,SV Elversberg,VfL Osnabruck,3,1,3,0,H
+1657,bundesliga_2,2023,2024-02-23,Holstein Kiel,FC St. Pauli,3,4,0,3,A
+1658,bundesliga_2,2023,2024-02-23,SV Wehen,SC Paderborn 07,1,2,1,0,A
+1659,bundesliga_2,2023,2024-02-24,Eintracht Braunschweig,Hertha Berlin,1,1,1,0,D
+1660,bundesliga_2,2023,2024-02-24,FC Kaiserslautern,Karlsruher SC,0,4,0,0,A
+1661,bundesliga_2,2023,2024-02-24,VfL Osnabruck,Hannover 96,1,0,0,1,H
+1662,bundesliga_2,2023,2024-02-24,FC Magdeburg,FC Schalke 04,3,0,3,0,H
+1663,bundesliga_2,2023,2024-02-25,Fortuna Dusseldorf,Hansa Rostock,2,0,2,0,H
+1664,bundesliga_2,2023,2024-02-25,Hamburger SV,SV Elversberg,1,0,0,1,H
+1665,bundesliga_2,2023,2024-02-25,SpVgg Greuther Furth,FC Nurnberg,2,1,1,1,H
+1666,bundesliga_2,2023,2024-03-01,Hertha Berlin,Holstein Kiel,2,2,2,0,D
+1667,bundesliga_2,2023,2024-03-01,FC Schalke 04,FC St. Pauli,3,1,1,2,H
+1668,bundesliga_2,2023,2024-03-02,Hannover 96,Fortuna Dusseldorf,2,2,0,2,D
+1669,bundesliga_2,2023,2024-03-02,FC Nurnberg,Eintracht Braunschweig,2,1,2,0,H
+1670,bundesliga_2,2023,2024-03-02,Hansa Rostock,FC Kaiserslautern,0,3,0,0,A
+1671,bundesliga_2,2023,2024-03-02,Karlsruher SC,SpVgg Greuther Furth,4,0,1,3,H
+1672,bundesliga_2,2023,2024-03-03,Hamburger SV,VfL Osnabruck,1,2,1,0,A
+1673,bundesliga_2,2023,2024-03-03,SC Paderborn 07,FC Magdeburg,0,0,0,0,D
+1674,bundesliga_2,2023,2024-03-03,SV Elversberg,SV Wehen,0,3,0,0,A
+1675,bundesliga_2,2023,2024-03-08,Fortuna Dusseldorf,Hamburger SV,2,0,1,1,H
+1676,bundesliga_2,2023,2024-03-08,Eintracht Braunschweig,Hansa Rostock,0,1,0,0,A
+1677,bundesliga_2,2023,2024-03-09,FC Schalke 04,SC Paderborn 07,3,3,1,2,D
+1678,bundesliga_2,2023,2024-03-09,Holstein Kiel,Karlsruher SC,1,0,0,1,H
+1679,bundesliga_2,2023,2024-03-09,SV Wehen,Hannover 96,1,1,1,0,D
+1680,bundesliga_2,2023,2024-03-09,FC Magdeburg,FC Nurnberg,0,1,0,0,A
+1681,bundesliga_2,2023,2024-03-10,SpVgg Greuther Furth,SV Elversberg,1,4,0,1,A
+1682,bundesliga_2,2023,2024-03-10,FC St. Pauli,Hertha Berlin,2,0,2,0,H
+1683,bundesliga_2,2023,2024-03-10,FC Kaiserslautern,VfL Osnabruck,3,2,0,3,H
+1684,bundesliga_2,2023,2024-03-15,SC Paderborn 07,Eintracht Braunschweig,1,2,0,1,A
+1685,bundesliga_2,2023,2024-03-15,VfL Osnabruck,Fortuna Dusseldorf,0,4,0,0,A
+1686,bundesliga_2,2023,2024-03-16,FC Nurnberg,FC St. Pauli,0,2,0,0,A
+1687,bundesliga_2,2023,2024-03-16,Hansa Rostock,SpVgg Greuther Furth,1,0,1,0,H
+1688,bundesliga_2,2023,2024-03-16,SV Elversberg,Holstein Kiel,0,2,0,0,A
+1689,bundesliga_2,2023,2024-03-16,Hannover 96,FC Kaiserslautern,1,1,0,1,D
+1690,bundesliga_2,2023,2024-03-17,Hertha Berlin,FC Schalke 04,5,2,3,2,H
+1691,bundesliga_2,2023,2024-03-17,Hamburger SV,SV Wehen,3,0,1,2,H
+1692,bundesliga_2,2023,2024-03-17,Karlsruher SC,FC Magdeburg,7,0,4,3,H
+1693,bundesliga_2,2023,2024-03-30,Holstein Kiel,Hansa Rostock,2,0,1,1,H
+1694,bundesliga_2,2023,2024-03-30,Eintracht Braunschweig,SV Elversberg,5,0,2,3,H
+1695,bundesliga_2,2023,2024-03-30,FC Kaiserslautern,Fortuna Dusseldorf,1,3,1,0,A
+1696,bundesliga_2,2023,2024-03-30,Hertha Berlin,FC Nurnberg,3,3,1,2,D
+1697,bundesliga_2,2023,2024-03-31,FC Schalke 04,Karlsruher SC,0,0,0,0,D
+1698,bundesliga_2,2023,2024-03-31,SpVgg Greuther Furth,Hamburger SV,1,1,0,1,D
+1699,bundesliga_2,2023,2024-03-31,FC Magdeburg,Hannover 96,0,3,0,0,A
+1700,bundesliga_2,2023,2024-03-31,FC St. Pauli,SC Paderborn 07,2,1,1,1,H
+1701,bundesliga_2,2023,2024-03-31,SV Wehen,VfL Osnabruck,0,1,0,0,A
+1702,bundesliga_2,2023,2024-04-05,SC Paderborn 07,Hertha Berlin,2,3,1,1,A
+1703,bundesliga_2,2023,2024-04-05,Hansa Rostock,SV Wehen,3,1,0,3,H
+1704,bundesliga_2,2023,2024-04-06,FC Nurnberg,Holstein Kiel,0,4,0,0,A
+1705,bundesliga_2,2023,2024-04-06,Hamburger SV,FC Kaiserslautern,2,1,1,1,H
+1706,bundesliga_2,2023,2024-04-06,SV Elversberg,FC Magdeburg,0,0,0,0,D
+1707,bundesliga_2,2023,2024-04-06,Karlsruher SC,FC St. Pauli,2,1,1,1,H
+1708,bundesliga_2,2023,2024-04-07,Fortuna Dusseldorf,Eintracht Braunschweig,2,0,1,1,H
+1709,bundesliga_2,2023,2024-04-07,Hannover 96,FC Schalke 04,1,1,0,1,D
+1710,bundesliga_2,2023,2024-04-07,VfL Osnabruck,SpVgg Greuther Furth,2,0,2,0,H
+1711,bundesliga_2,2023,2024-04-12,Hertha Berlin,Hansa Rostock,4,0,2,2,H
+1712,bundesliga_2,2023,2024-04-12,SpVgg Greuther Furth,FC Kaiserslautern,2,1,0,2,H
+1713,bundesliga_2,2023,2024-04-13,SC Paderborn 07,Karlsruher SC,1,1,1,0,D
+1714,bundesliga_2,2023,2024-04-13,Holstein Kiel,VfL Osnabruck,4,0,2,2,H
+1715,bundesliga_2,2023,2024-04-13,SV Wehen,Fortuna Dusseldorf,0,2,0,0,A
+1716,bundesliga_2,2023,2024-04-13,FC Schalke 04,FC Nurnberg,2,0,1,1,H
+1717,bundesliga_2,2023,2024-04-14,FC Magdeburg,Hamburger SV,2,2,2,0,D
+1718,bundesliga_2,2023,2024-04-14,FC St. Pauli,SV Elversberg,3,4,1,2,A
+1719,bundesliga_2,2023,2024-04-14,Eintracht Braunschweig,Hannover 96,0,0,0,0,D
+1720,bundesliga_2,2023,2024-04-19,FC Nurnberg,SC Paderborn 07,0,2,0,0,A
+1721,bundesliga_2,2023,2024-04-19,SV Elversberg,FC Schalke 04,1,1,1,0,D
+1722,bundesliga_2,2023,2024-04-20,Fortuna Dusseldorf,SpVgg Greuther Furth,1,0,0,1,H
+1723,bundesliga_2,2023,2024-04-20,FC Kaiserslautern,SV Wehen,1,1,1,0,D
+1724,bundesliga_2,2023,2024-04-20,VfL Osnabruck,Eintracht Braunschweig,0,3,0,0,A
+1725,bundesliga_2,2023,2024-04-20,Hamburger SV,Holstein Kiel,0,1,0,0,A
+1726,bundesliga_2,2023,2024-04-21,Hannover 96,FC St. Pauli,1,2,1,0,A
+1727,bundesliga_2,2023,2024-04-21,Karlsruher SC,Hertha Berlin,3,2,2,1,H
+1728,bundesliga_2,2023,2024-04-21,Hansa Rostock,FC Magdeburg,0,2,0,0,A
+1729,bundesliga_2,2023,2024-04-26,Hertha Berlin,Hannover 96,1,1,1,0,D
+1730,bundesliga_2,2023,2024-04-26,FC St. Pauli,Hansa Rostock,1,0,0,1,H
+1731,bundesliga_2,2023,2024-04-27,SC Paderborn 07,SV Elversberg,3,1,0,3,H
+1732,bundesliga_2,2023,2024-04-27,Holstein Kiel,FC Kaiserslautern,1,3,1,0,A
+1733,bundesliga_2,2023,2024-04-27,Eintracht Braunschweig,Hamburger SV,0,4,0,0,A
+1734,bundesliga_2,2023,2024-04-27,FC Schalke 04,Fortuna Dusseldorf,1,1,0,1,D
+1735,bundesliga_2,2023,2024-04-28,FC Nurnberg,Karlsruher SC,0,1,0,0,A
+1736,bundesliga_2,2023,2024-04-28,FC Magdeburg,VfL Osnabruck,1,1,1,0,D
+1737,bundesliga_2,2023,2024-04-28,SV Wehen,SpVgg Greuther Furth,3,5,2,1,A
+1738,bundesliga_2,2023,2024-05-03,Fortuna Dusseldorf,FC Nurnberg,3,1,2,1,H
+1739,bundesliga_2,2023,2024-05-03,Hamburger SV,FC St. Pauli,1,0,0,1,H
+1740,bundesliga_2,2023,2024-05-04,SpVgg Greuther Furth,Eintracht Braunschweig,3,3,1,2,D
+1741,bundesliga_2,2023,2024-05-04,Hansa Rostock,Karlsruher SC,1,2,1,0,A
+1742,bundesliga_2,2023,2024-05-04,FC Kaiserslautern,FC Magdeburg,4,1,2,2,H
+1743,bundesliga_2,2023,2024-05-05,Hannover 96,SC Paderborn 07,3,2,3,0,H
+1744,bundesliga_2,2023,2024-05-05,SV Wehen,Holstein Kiel,0,1,0,0,A
+1745,bundesliga_2,2023,2024-05-05,SV Elversberg,Hertha Berlin,4,2,1,3,H
+1746,bundesliga_2,2023,2024-05-07,VfL Osnabruck,FC Schalke 04,0,4,0,0,A
+1747,bundesliga_2,2023,2024-05-10,FC Magdeburg,SpVgg Greuther Furth,0,0,0,0,D
+1748,bundesliga_2,2023,2024-05-10,SC Paderborn 07,Hamburger SV,1,0,1,0,H
+1749,bundesliga_2,2023,2024-05-11,Hertha Berlin,FC Kaiserslautern,3,1,2,1,H
+1750,bundesliga_2,2023,2024-05-11,FC Nurnberg,SV Elversberg,3,0,1,2,H
+1751,bundesliga_2,2023,2024-05-11,FC Schalke 04,Hansa Rostock,2,1,2,0,H
+1752,bundesliga_2,2023,2024-05-11,Holstein Kiel,Fortuna Dusseldorf,1,1,1,0,D
+1753,bundesliga_2,2023,2024-05-12,FC St. Pauli,VfL Osnabruck,3,1,1,2,H
+1754,bundesliga_2,2023,2024-05-12,Eintracht Braunschweig,SV Wehen,1,0,1,0,H
+1755,bundesliga_2,2023,2024-05-12,Karlsruher SC,Hannover 96,1,2,1,0,A
+1756,bundesliga_2,2023,2024-05-19,Fortuna Dusseldorf,FC Magdeburg,3,2,2,1,H
+1757,bundesliga_2,2023,2024-05-19,Hannover 96,Holstein Kiel,1,2,0,1,A
+1758,bundesliga_2,2023,2024-05-19,Hamburger SV,FC Nurnberg,4,1,3,1,H
+1759,bundesliga_2,2023,2024-05-19,SpVgg Greuther Furth,FC Schalke 04,2,0,0,2,H
+1760,bundesliga_2,2023,2024-05-19,FC Kaiserslautern,Eintracht Braunschweig,5,0,1,4,H
+1761,bundesliga_2,2023,2024-05-19,SV Wehen,FC St. Pauli,1,2,1,0,A
+1762,bundesliga_2,2023,2024-05-19,Hansa Rostock,SC Paderborn 07,1,2,0,1,A
+1763,bundesliga_2,2023,2024-05-19,VfL Osnabruck,Hertha Berlin,2,1,1,1,H
+1764,bundesliga_2,2023,2024-05-19,SV Elversberg,Karlsruher SC,0,3,0,0,A
+1765,bundesliga_2,2023,2024-05-24,Jahn Regensburg,SV Wehen,2,2,1,1,D
+1766,bundesliga_2,2023,2024-05-28,SV Wehen,Jahn Regensburg,1,2,0,1,A

@@ -1,0 +1,307 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,2022,2022-10-18,Aswan Sc,Al Ittihad,0,1,0,0,A
+1,2022,2022-10-18,National Bank of Egypt,Pharco,1,1,1,0,D
+2,2022,2022-10-18,AL Masry,Ceramica Cleopatra,0,3,0,0,A
+3,2022,2022-10-19,Ismaily SC,Al Ahly,0,1,0,0,A
+4,2022,2022-10-19,Enppi,Pyramids FC,1,1,0,1,D
+5,2022,2022-10-19,Zamalek SC,Smouha SC,2,0,0,2,H
+6,2022,2022-10-20,El Mokawloon,Ghazl El Mehalla,1,1,0,1,D
+7,2022,2022-10-20,Haras El Hodood,Coca-Cola,0,2,0,0,A
+8,2022,2022-10-20,El Dakhleya,El Geish,0,0,0,0,D
+9,2022,2022-10-23,Pyramids FC,AL Masry,0,0,0,0,D
+10,2022,2022-10-23,Ceramica Cleopatra,Zamalek SC,0,2,0,0,A
+11,2022,2022-10-23,Al Ahly,Aswan Sc,1,0,1,0,H
+12,2022,2022-10-24,Ghazl El Mehalla,Ismaily SC,2,1,1,1,H
+13,2022,2022-10-24,Al Ittihad,El Dakhleya,2,0,1,1,H
+14,2022,2022-10-24,Coca-Cola,El Mokawloon,0,0,0,0,D
+15,2022,2022-10-25,Smouha SC,National Bank of Egypt,1,1,1,0,D
+16,2022,2022-10-25,El Geish,Enppi,2,1,1,1,H
+17,2022,2022-10-26,Pharco,Haras El Hodood,1,0,0,1,H
+18,2022,2022-10-29,Aswan Sc,Ghazl El Mehalla,0,1,0,0,A
+19,2022,2022-10-29,AL Masry,Enppi,2,0,0,2,H
+20,2022,2022-10-31,Al Ittihad,El Geish,3,1,0,3,H
+21,2022,2022-10-31,El Mokawloon,Pharco,0,0,0,0,D
+22,2022,2022-11-01,Haras El Hodood,Smouha SC,0,0,0,0,D
+23,2022,2022-11-01,National Bank of Egypt,Ceramica Cleopatra,3,1,2,1,H
+24,2022,2022-11-02,El Dakhleya,Al Ahly,1,4,1,0,A
+25,2022,2022-11-02,Enppi,Zamalek SC,1,1,0,1,D
+26,2022,2022-11-23,Pyramids FC,National Bank of Egypt,2,0,0,2,H
+27,2022,2022-11-23,Pharco,Ismaily SC,1,1,0,1,D
+28,2022,2022-11-23,Coca-Cola,Aswan Sc,2,1,0,2,H
+29,2022,2022-11-30,Haras El Hodood,Pyramids FC,0,1,0,0,A
+30,2022,2022-11-30,National Bank of Egypt,Enppi,2,3,0,2,A
+31,2022,2022-11-30,Al Ittihad,Ghazl El Mehalla,0,2,0,0,A
+32,2022,2022-12-01,El Dakhleya,Coca-Cola,0,1,0,0,A
+33,2022,2022-12-01,Aswan Sc,Pharco,1,0,1,0,H
+34,2022,2022-12-01,Zamalek SC,AL Masry,2,2,1,1,D
+35,2022,2022-12-02,Ismaily SC,Smouha SC,0,1,0,0,A
+36,2022,2022-12-02,El Mokawloon,Ceramica Cleopatra,2,1,1,1,H
+37,2022,2022-12-02,Al Ahly,El Geish,2,1,0,2,H
+38,2022,2022-12-06,AL Masry,National Bank of Egypt,0,0,0,0,D
+39,2022,2022-12-07,Pyramids FC,El Mokawloon,2,0,1,1,H
+40,2022,2022-12-07,Pharco,El Dakhleya,1,1,1,0,D
+41,2022,2022-12-07,Ghazl El Mehalla,Al Ahly,0,2,0,0,A
+42,2022,2022-12-07,El Geish,Zamalek SC,0,4,0,0,A
+43,2022,2022-12-08,Enppi,Haras El Hodood,0,0,0,0,D
+44,2022,2022-12-08,Smouha SC,Aswan Sc,1,2,1,0,A
+45,2022,2022-12-08,Coca-Cola,Al Ittihad,1,0,1,0,H
+46,2022,2022-12-08,Ceramica Cleopatra,Ismaily SC,1,1,1,0,D
+47,2022,2022-12-11,Ghazl El Mehalla,El Dakhleya,2,1,1,1,H
+48,2022,2022-12-11,El Geish,AL Masry,3,1,2,1,H
+49,2022,2022-12-11,Smouha SC,El Mokawloon,0,0,0,0,D
+50,2022,2022-12-11,Zamalek SC,Pyramids FC,1,0,1,0,H
+51,2022,2022-12-12,Ceramica Cleopatra,Haras El Hodood,2,1,2,0,H
+52,2022,2022-12-12,Ismaily SC,Coca-Cola,0,0,0,0,D
+53,2022,2022-12-12,Al Ahly,Al Ittihad,3,0,2,1,H
+54,2022,2022-12-14,Ghazl El Mehalla,El Geish,3,2,1,2,H
+55,2022,2022-12-15,Ceramica Cleopatra,Aswan Sc,3,2,1,2,H
+56,2022,2022-12-15,El Dakhleya,Smouha SC,0,0,0,0,D
+57,2022,2022-12-15,Al Ittihad,Pharco,1,0,0,1,H
+58,2022,2022-12-15,El Mokawloon,Enppi,3,2,1,2,H
+59,2022,2022-12-16,Ismaily SC,Pyramids FC,1,2,1,0,A
+60,2022,2022-12-16,Haras El Hodood,AL Masry,0,0,0,0,D
+61,2022,2022-12-16,National Bank of Egypt,Zamalek SC,0,1,0,0,A
+62,2022,2022-12-16,Al Ahly,Coca-Cola,1,1,1,0,D
+63,2022,2022-12-19,Ceramica Cleopatra,El Dakhleya,0,0,0,0,D
+64,2022,2022-12-19,Smouha SC,Al Ittihad,0,2,0,0,A
+65,2022,2022-12-19,Coca-Cola,Ghazl El Mehalla,1,0,1,0,H
+66,2022,2022-12-19,Pyramids FC,Aswan Sc,2,1,0,2,H
+67,2022,2022-12-20,Enppi,Ismaily SC,1,2,0,1,A
+68,2022,2022-12-20,El Geish,National Bank of Egypt,1,0,1,0,H
+69,2022,2022-12-20,Pharco,Al Ahly,1,2,1,0,A
+70,2022,2022-12-20,Zamalek SC,Haras El Hodood,4,0,1,3,H
+71,2022,2022-12-21,AL Masry,El Mokawloon,2,2,1,1,D
+72,2022,2022-12-23,Al Ittihad,Ceramica Cleopatra,1,0,1,0,H
+73,2022,2022-12-23,El Dakhleya,Pyramids FC,2,1,0,2,H
+74,2022,2022-12-24,Aswan Sc,Enppi,2,0,2,0,H
+75,2022,2022-12-24,Haras El Hodood,National Bank of Egypt,2,1,1,1,H
+76,2022,2022-12-24,Ghazl El Mehalla,Pharco,0,0,0,0,D
+77,2022,2022-12-24,Coca-Cola,El Geish,0,0,0,0,D
+78,2022,2022-12-25,Ismaily SC,AL Masry,0,1,0,0,A
+79,2022,2022-12-25,El Mokawloon,Zamalek SC,0,0,0,0,D
+80,2022,2022-12-25,Al Ahly,Smouha SC,0,0,0,0,D
+81,2022,2022-12-27,Pyramids FC,Al Ittihad,3,0,1,2,H
+82,2022,2022-12-28,Enppi,El Dakhleya,0,0,0,0,D
+83,2022,2022-12-28,El Geish,Haras El Hodood,2,2,0,2,D
+84,2022,2022-12-28,Pharco,Coca-Cola,2,3,1,1,A
+85,2022,2022-12-28,Ceramica Cleopatra,Al Ahly,1,1,1,0,D
+86,2022,2022-12-29,AL Masry,Aswan Sc,1,2,1,0,A
+87,2022,2022-12-29,Zamalek SC,Ismaily SC,3,1,3,0,H
+88,2022,2022-12-30,Smouha SC,Ghazl El Mehalla,0,0,0,0,D
+89,2022,2022-12-30,National Bank of Egypt,El Mokawloon,2,1,2,0,H
+90,2022,2023-01-02,El Dakhleya,AL Masry,0,1,0,0,A
+91,2022,2023-01-02,Aswan Sc,Zamalek SC,2,1,2,0,H
+92,2022,2023-01-02,Al Ittihad,Enppi,1,2,0,1,A
+93,2022,2023-01-02,Al Ahly,Pyramids FC,3,0,1,2,H
+94,2022,2023-01-03,El Mokawloon,Haras El Hodood,3,2,1,2,H
+95,2022,2023-01-03,Ghazl El Mehalla,Ceramica Cleopatra,0,3,0,0,A
+96,2022,2023-01-03,Ismaily SC,National Bank of Egypt,0,0,0,0,D
+97,2022,2023-01-03,Coca-Cola,Smouha SC,1,1,1,0,D
+98,2022,2023-01-04,Pharco,El Geish,1,1,1,0,D
+99,2022,2023-01-05,Enppi,Al Ahly,0,2,0,0,A
+100,2022,2023-01-05,Zamalek SC,El Dakhleya,1,1,0,1,D
+101,2022,2023-01-07,Pyramids FC,Ghazl El Mehalla,4,0,2,2,H
+102,2022,2023-01-07,AL Masry,Al Ittihad,2,1,1,1,H
+103,2022,2023-01-07,Ceramica Cleopatra,Coca-Cola,2,3,2,0,A
+104,2022,2023-01-08,Haras El Hodood,Ismaily SC,2,0,1,1,H
+105,2022,2023-01-08,National Bank of Egypt,Aswan Sc,0,0,0,0,D
+106,2022,2023-01-08,El Geish,El Mokawloon,1,2,0,1,A
+107,2022,2023-01-08,Smouha SC,Pharco,0,2,0,0,A
+108,2022,2023-01-11,El Dakhleya,National Bank of Egypt,3,3,1,2,D
+109,2022,2023-01-11,Smouha SC,El Geish,2,1,1,1,H
+110,2022,2023-01-11,Al Ittihad,Zamalek SC,0,0,0,0,D
+111,2022,2023-01-11,Coca-Cola,Pyramids FC,1,1,1,0,D
+112,2022,2023-01-12,Ghazl El Mehalla,Enppi,1,0,1,0,H
+113,2022,2023-01-12,Al Ahly,AL Masry,0,0,0,0,D
+114,2022,2023-01-13,Aswan Sc,Haras El Hodood,1,1,0,1,D
+115,2022,2023-01-13,Pharco,Ceramica Cleopatra,1,1,1,0,D
+116,2022,2023-01-13,Ismaily SC,El Mokawloon,1,3,0,1,A
+117,2022,2023-01-18,Haras El Hodood,El Dakhleya,0,1,0,0,A
+118,2022,2023-01-18,El Geish,Ismaily SC,1,1,1,0,D
+119,2022,2023-01-18,Enppi,Coca-Cola,2,3,1,1,A
+120,2022,2023-01-19,El Mokawloon,Aswan Sc,1,0,1,0,H
+121,2022,2023-01-19,National Bank of Egypt,Al Ittihad,2,3,2,0,A
+122,2022,2023-01-19,Pyramids FC,Pharco,3,0,2,1,H
+123,2022,2023-01-20,AL Masry,Ghazl El Mehalla,1,1,0,1,D
+124,2022,2023-01-20,Ceramica Cleopatra,Smouha SC,0,2,0,0,A
+125,2022,2023-01-21,Zamalek SC,Al Ahly,0,3,0,0,A
+126,2022,2023-01-22,El Dakhleya,El Mokawloon,1,2,1,0,A
+127,2022,2023-01-23,Aswan Sc,Ismaily SC,0,0,0,0,D
+128,2022,2023-01-23,Pharco,Enppi,0,1,0,0,A
+129,2022,2023-01-23,Ceramica Cleopatra,El Geish,0,0,0,0,D
+130,2022,2023-01-23,Al Ittihad,Haras El Hodood,1,0,0,1,H
+131,2022,2023-01-24,Coca-Cola,AL Masry,1,1,0,1,D
+132,2022,2023-01-24,Ghazl El Mehalla,Zamalek SC,2,1,2,0,H
+133,2022,2023-01-24,Smouha SC,Pyramids FC,1,2,1,0,A
+134,2022,2023-01-24,Al Ahly,National Bank of Egypt,1,0,1,0,H
+135,2022,2023-01-27,Aswan Sc,El Geish,2,2,1,1,D
+136,2022,2023-01-27,Ismaily SC,El Dakhleya,3,1,2,1,H
+137,2022,2023-01-27,El Mokawloon,Al Ittihad,0,0,0,0,D
+138,2022,2023-01-28,AL Masry,Pharco,1,2,0,1,A
+139,2022,2023-01-29,Enppi,Smouha SC,0,2,0,0,A
+140,2022,2023-01-29,Pyramids FC,Ceramica Cleopatra,2,2,1,1,D
+141,2022,2023-01-29,Zamalek SC,Coca-Cola,2,1,2,0,H
+142,2022,2023-01-30,National Bank of Egypt,Ghazl El Mehalla,2,2,1,1,D
+143,2022,2023-02-05,El Dakhleya,Aswan Sc,1,2,1,0,A
+144,2022,2023-02-05,Ghazl El Mehalla,Haras El Hodood,1,2,0,1,A
+145,2022,2023-02-05,Al Ittihad,Ismaily SC,1,1,0,1,D
+146,2022,2023-02-05,Ceramica Cleopatra,Enppi,0,1,0,0,A
+147,2022,2023-02-06,Pharco,Zamalek SC,3,0,2,1,H
+148,2022,2023-02-07,Smouha SC,AL Masry,1,1,0,1,D
+149,2022,2023-02-07,El Geish,Pyramids FC,0,1,0,0,A
+150,2022,2023-02-07,Coca-Cola,National Bank of Egypt,3,0,2,1,H
+151,2022,2023-02-09,Al Ittihad,Aswan Sc,2,0,0,2,H
+152,2022,2023-02-10,Ghazl El Mehalla,El Mokawloon,0,3,0,0,A
+153,2022,2023-02-11,Pharco,National Bank of Egypt,1,0,1,0,H
+154,2022,2023-02-11,El Geish,El Dakhleya,0,1,0,0,A
+155,2022,2023-02-12,Ceramica Cleopatra,AL Masry,3,0,1,2,H
+156,2022,2023-02-13,Smouha SC,Zamalek SC,1,3,0,1,A
+157,2022,2023-02-16,Coca-Cola,Haras El Hodood,1,0,0,1,H
+158,2022,2023-02-16,Pyramids FC,Enppi,2,1,1,1,H
+159,2022,2023-02-19,National Bank of Egypt,Smouha SC,2,2,1,1,D
+160,2022,2023-02-20,El Dakhleya,Al Ittihad,1,2,0,1,A
+161,2022,2023-02-20,Enppi,El Geish,0,0,0,0,D
+162,2022,2023-02-21,Aswan Sc,Al Ahly,0,3,0,0,A
+163,2022,2023-02-21,Ismaily SC,Ghazl El Mehalla,1,1,0,1,D
+164,2022,2023-02-21,Haras El Hodood,Pharco,0,0,0,0,D
+165,2022,2023-02-22,El Mokawloon,Coca-Cola,0,0,0,0,D
+166,2022,2023-02-22,AL Masry,Pyramids FC,0,0,0,0,D
+167,2022,2023-02-26,Smouha SC,Haras El Hodood,3,0,1,2,H
+168,2022,2023-02-27,Ghazl El Mehalla,Aswan Sc,1,2,0,1,A
+169,2022,2023-02-27,El Geish,Al Ittihad,3,4,1,2,A
+170,2022,2023-02-28,Enppi,AL Masry,1,2,0,1,A
+171,2022,2023-02-28,Ceramica Cleopatra,National Bank of Egypt,2,1,0,2,H
+172,2022,2023-02-28,Al Ahly,El Dakhleya,1,1,0,1,D
+173,2022,2023-03-01,Pharco,El Mokawloon,2,1,1,1,H
+174,2022,2023-03-03,Coca-Cola,Ismaily SC,0,0,0,0,D
+175,2022,2023-03-03,Pyramids FC,Zamalek SC,0,0,0,0,D
+176,2022,2023-03-05,Haras El Hodood,Ceramica Cleopatra,0,0,0,0,D
+177,2022,2023-03-06,El Dakhleya,Ghazl El Mehalla,2,1,1,1,H
+178,2022,2023-03-06,AL Masry,El Geish,1,0,0,1,H
+179,2022,2023-03-07,Al Ahly,El Mokawloon,2,1,2,0,H
+180,2022,2023-03-08,Ismaily SC,Pharco,0,0,0,0,D
+181,2022,2023-03-11,El Mokawloon,Smouha SC,0,1,0,0,A
+182,2022,2023-03-12,Aswan Sc,Coca-Cola,1,2,0,1,A
+183,2022,2023-03-12,Zamalek SC,Enppi,0,2,0,0,A
+184,2022,2023-03-13,National Bank of Egypt,Pyramids FC,2,1,1,1,H
+185,2022,2023-03-30,Enppi,National Bank of Egypt,2,1,1,1,H
+186,2022,2023-03-30,Smouha SC,Ismaily SC,1,3,1,0,A
+187,2022,2023-03-30,Ceramica Cleopatra,El Mokawloon,0,0,0,0,D
+188,2022,2023-03-31,Ghazl El Mehalla,Al Ittihad,2,0,1,1,H
+189,2022,2023-03-31,Pharco,Aswan Sc,0,0,0,0,D
+190,2022,2023-04-03,Ismaily SC,Ceramica Cleopatra,1,1,1,0,D
+191,2022,2023-04-03,Haras El Hodood,Enppi,0,1,0,0,A
+192,2022,2023-04-04,AL Masry,Zamalek SC,3,2,1,2,H
+193,2022,2023-04-04,El Dakhleya,Pharco,0,0,0,0,D
+194,2022,2023-04-04,Aswan Sc,Smouha SC,1,1,0,1,D
+195,2022,2023-04-05,El Mokawloon,Pyramids FC,0,0,0,0,D
+196,2022,2023-04-05,Al Ahly,Ghazl El Mehalla,3,0,1,2,H
+197,2022,2023-04-06,Al Ittihad,Coca-Cola,0,1,0,0,A
+198,2022,2023-04-07,AL Masry,Haras El Hodood,1,0,0,1,H
+199,2022,2023-04-07,Aswan Sc,Ceramica Cleopatra,1,1,1,0,D
+200,2022,2023-04-09,Enppi,El Mokawloon,2,1,2,0,H
+201,2022,2023-04-09,Zamalek SC,National Bank of Egypt,1,0,1,0,H
+202,2022,2023-04-09,Smouha SC,El Dakhleya,4,3,4,0,H
+203,2022,2023-04-10,Pharco,Al Ittihad,3,2,1,2,H
+204,2022,2023-04-12,El Dakhleya,Ceramica Cleopatra,0,0,0,0,D
+205,2022,2023-04-12,Ghazl El Mehalla,Coca-Cola,0,1,0,0,A
+206,2022,2023-04-13,Ismaily SC,Enppi,3,1,2,1,H
+207,2022,2023-04-13,El Mokawloon,AL Masry,0,0,0,0,D
+208,2022,2023-04-13,Haras El Hodood,Zamalek SC,0,3,0,0,A
+209,2022,2023-04-14,Aswan Sc,Pyramids FC,0,3,0,0,A
+210,2022,2023-04-14,Al Ittihad,Smouha SC,3,1,1,2,H
+211,2022,2023-04-14,Al Ahly,Pharco,3,0,2,1,H
+212,2022,2023-04-15,National Bank of Egypt,El Geish,2,0,1,1,H
+213,2022,2023-04-17,Zamalek SC,El Mokawloon,2,2,1,1,D
+214,2022,2023-04-17,Smouha SC,Al Ahly,0,2,0,0,A
+215,2022,2023-04-18,Pyramids FC,El Dakhleya,2,0,0,2,H
+216,2022,2023-04-18,Enppi,Aswan Sc,2,0,1,1,H
+217,2022,2023-04-19,El Geish,Coca-Cola,0,0,0,0,D
+218,2022,2023-04-19,National Bank of Egypt,Haras El Hodood,1,0,1,0,H
+219,2022,2023-04-19,Pharco,Ghazl El Mehalla,3,1,1,2,H
+220,2022,2023-04-20,AL Masry,Ismaily SC,1,2,0,1,A
+221,2022,2023-04-20,Ceramica Cleopatra,Al Ittihad,0,0,0,0,D
+222,2022,2023-04-25,National Bank of Egypt,AL Masry,0,0,0,0,D
+223,2022,2023-04-25,Coca-Cola,El Dakhleya,0,1,0,0,A
+224,2022,2023-04-26,El Geish,Ghazl El Mehalla,1,0,1,0,H
+225,2022,2023-04-26,Zamalek SC,Ceramica Cleopatra,1,0,1,0,H
+226,2022,2023-05-02,Ghazl El Mehalla,Smouha SC,0,2,0,0,A
+227,2022,2023-05-02,El Dakhleya,Enppi,1,1,0,1,D
+228,2022,2023-05-03,Aswan Sc,AL Masry,3,1,3,0,H
+229,2022,2023-05-04,El Mokawloon,National Bank of Egypt,1,1,1,0,D
+230,2022,2023-05-04,Haras El Hodood,El Geish,2,3,2,0,A
+231,2022,2023-05-04,Coca-Cola,Pharco,0,0,0,0,D
+232,2022,2023-05-09,Pyramids FC,Ismaily SC,3,1,2,1,H
+233,2022,2023-05-13,Ismaily SC,Zamalek SC,2,1,1,1,H
+234,2022,2023-05-14,Ceramica Cleopatra,Ghazl El Mehalla,0,0,0,0,D
+235,2022,2023-05-15,AL Masry,El Dakhleya,1,1,1,0,D
+236,2022,2023-05-15,Enppi,Al Ittihad,1,0,0,1,H
+237,2022,2023-05-16,Haras El Hodood,El Mokawloon,0,2,0,0,A
+238,2022,2023-05-16,Smouha SC,Coca-Cola,1,1,1,0,D
+239,2022,2023-05-16,El Geish,Pharco,2,2,1,1,D
+240,2022,2023-05-17,National Bank of Egypt,Ismaily SC,2,0,1,1,H
+241,2022,2023-05-18,Zamalek SC,Aswan Sc,1,0,1,0,H
+242,2022,2023-05-21,Ismaily SC,Haras El Hodood,1,0,0,1,H
+243,2022,2023-05-21,Ghazl El Mehalla,Pyramids FC,0,2,0,0,A
+244,2022,2023-05-22,Al Ittihad,AL Masry,1,2,1,0,A
+245,2022,2023-05-22,El Mokawloon,El Geish,0,0,0,0,D
+246,2022,2023-05-22,El Dakhleya,Zamalek SC,1,1,0,1,D
+247,2022,2023-05-23,Aswan Sc,National Bank of Egypt,1,2,0,1,A
+248,2022,2023-05-23,Al Ahly,Enppi,2,0,2,0,H
+249,2022,2023-05-23,Pharco,Smouha SC,1,0,0,1,H
+250,2022,2023-05-24,Pyramids FC,Haras El Hodood,1,0,0,1,H
+251,2022,2023-05-24,Coca-Cola,Ceramica Cleopatra,1,0,0,1,H
+252,2022,2023-05-26,El Geish,Al Ahly,0,2,0,0,A
+253,2022,2023-05-29,Al Ittihad,Pyramids FC,1,2,1,0,A
+254,2022,2023-05-29,Al Ahly,Ceramica Cleopatra,1,0,0,1,H
+255,2022,2023-05-30,Zamalek SC,El Geish,2,0,0,2,H
+256,2022,2023-05-31,National Bank of Egypt,El Dakhleya,3,1,2,1,H
+257,2022,2023-05-31,El Mokawloon,Ismaily SC,2,2,1,1,D
+258,2022,2023-06-01,Haras El Hodood,Aswan Sc,1,0,0,1,H
+259,2022,2023-06-01,Enppi,Ghazl El Mehalla,1,0,0,1,H
+260,2022,2023-06-02,Ceramica Cleopatra,Pharco,0,0,0,0,D
+261,2022,2023-06-02,Pyramids FC,Coca-Cola,1,0,0,1,H
+262,2022,2023-06-03,El Geish,Smouha SC,2,0,2,0,H
+263,2022,2023-06-05,Zamalek SC,Al Ittihad,2,1,1,1,H
+264,2022,2023-06-06,El Dakhleya,Haras El Hodood,1,1,0,1,D
+265,2022,2023-06-06,Pharco,Pyramids FC,0,1,0,0,A
+266,2022,2023-06-06,Coca-Cola,Enppi,1,0,0,1,H
+267,2022,2023-06-07,Ghazl El Mehalla,AL Masry,1,1,1,0,D
+268,2022,2023-06-07,Smouha SC,Ceramica Cleopatra,2,2,2,0,D
+269,2022,2023-06-08,Ismaily SC,El Geish,0,1,0,0,A
+270,2022,2023-06-08,Aswan Sc,El Mokawloon,1,1,0,1,D
+271,2022,2023-06-09,Al Ittihad,National Bank of Egypt,0,0,0,0,D
+272,2022,2023-06-22,Haras El Hodood,Al Ahly,0,3,0,0,A
+273,2022,2023-06-27,Zamalek SC,Ghazl El Mehalla,2,0,1,1,H
+274,2022,2023-06-28,AL Masry,Coca-Cola,2,0,0,2,H
+275,2022,2023-06-28,Pyramids FC,Smouha SC,5,2,2,3,H
+276,2022,2023-06-29,Ismaily SC,Aswan Sc,1,1,1,0,D
+277,2022,2023-06-29,National Bank of Egypt,Al Ahly,0,3,0,0,A
+278,2022,2023-06-30,Enppi,Pharco,2,1,1,1,H
+279,2022,2023-06-30,El Geish,Ceramica Cleopatra,0,0,0,0,D
+280,2022,2023-06-30,El Mokawloon,El Dakhleya,0,1,0,0,A
+281,2022,2023-07-01,Haras El Hodood,Al Ittihad,2,2,1,1,D
+282,2022,2023-07-02,Coca-Cola,Al Ahly,0,0,0,0,D
+283,2022,2023-07-05,Al Ahly,Ismaily SC,1,0,0,1,H
+284,2022,2023-07-08,Al Ittihad,Al Ahly,0,2,0,0,A
+285,2022,2023-07-08,Coca-Cola,Zamalek SC,2,3,2,0,A
+286,2022,2023-07-09,Pharco,AL Masry,0,3,0,0,A
+287,2022,2023-07-10,El Dakhleya,Ismaily SC,0,1,0,0,A
+288,2022,2023-07-10,El Geish,Aswan Sc,1,0,1,0,H
+289,2022,2023-07-10,Ghazl El Mehalla,National Bank of Egypt,0,0,0,0,D
+290,2022,2023-07-10,Ceramica Cleopatra,Pyramids FC,2,1,1,1,H
+291,2022,2023-07-11,Smouha SC,Enppi,2,1,2,0,H
+292,2022,2023-07-12,Al Ittihad,El Mokawloon,0,0,0,0,D
+293,2022,2023-07-13,Al Ahly,Zamalek SC,4,1,3,1,H
+294,2022,2023-07-14,Pyramids FC,El Geish,4,2,3,1,H
+295,2022,2023-07-14,Aswan Sc,El Dakhleya,2,4,0,2,A
+296,2022,2023-07-14,Haras El Hodood,Ghazl El Mehalla,2,1,1,1,H
+297,2022,2023-07-14,National Bank of Egypt,Coca-Cola,1,0,0,1,H
+298,2022,2023-07-15,AL Masry,Smouha SC,0,1,0,0,A
+299,2022,2023-07-15,Enppi,Ceramica Cleopatra,1,0,0,1,H
+300,2022,2023-07-15,Ismaily SC,Al Ittihad,4,1,3,1,H
+301,2022,2023-07-16,El Mokawloon,Al Ahly,1,4,1,0,A
+302,2022,2023-07-16,Zamalek SC,Pharco,2,2,2,0,D
+303,2022,2023-07-19,Al Ahly,Haras El Hodood,1,1,0,1,D
+304,2022,2023-07-23,Pyramids FC,Al Ahly,3,0,1,2,H
+305,2022,2023-07-26,AL Masry,Al Ahly,0,0,0,0,D
