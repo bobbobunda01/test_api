@@ -1,0 +1,381 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+bresil,2022,2022-04-09,Fluminense,Santos,0,0,0,0,D
+bresil,2022,2022-04-09,Atletico Goianiense,Flamengo,1,1,0,1,D
+bresil,2022,2022-04-10,Palmeiras,Ceara,2,3,1,1,A
+bresil,2022,2022-04-10,Coritiba,Goias,3,0,1,2,H
+bresil,2022,2022-04-10,Botafogo,Corinthians,1,3,0,1,A
+bresil,2022,2022-04-10,Atletico-MG,Internacional,2,0,1,1,H
+bresil,2022,2022-04-10,Fortaleza EC,Cuiaba,0,1,0,0,A
+bresil,2022,2022-04-10,Sao Paulo,Atletico Paranaense,4,0,1,3,H
+bresil,2022,2022-04-10,Avai,America Mineiro,1,0,0,1,H
+bresil,2022,2022-04-11,Juventude,RB Bragantino,2,2,1,1,D
+bresil,2022,2022-04-16,Goias,Palmeiras,1,1,0,1,D
+bresil,2022,2022-04-16,America Mineiro,Juventude,4,1,2,2,H
+bresil,2022,2022-04-16,Corinthians,Avai,3,0,2,1,H
+bresil,2022,2022-04-17,Cuiaba,Fluminense,0,1,0,0,A
+bresil,2022,2022-04-17,Santos,Coritiba,2,1,2,0,H
+bresil,2022,2022-04-17,Flamengo,Sao Paulo,3,1,1,2,H
+bresil,2022,2022-04-17,Internacional,Fortaleza EC,2,1,1,1,H
+bresil,2022,2022-04-17,Atletico Paranaense,Atletico-MG,0,1,0,0,A
+bresil,2022,2022-04-17,RB Bragantino,Atletico Goianiense,4,0,3,1,H
+bresil,2022,2022-04-17,Ceara,Botafogo,1,3,1,0,A
+bresil,2022,2022-04-20,Flamengo,Palmeiras,0,0,0,0,D
+bresil,2022,2022-04-23,Atletico Paranaense,Flamengo,1,0,1,0,H
+bresil,2022,2022-04-23,RB Bragantino,Sao Paulo,1,1,1,0,D
+bresil,2022,2022-04-23,Palmeiras,Corinthians,3,0,2,1,H
+bresil,2022,2022-04-23,Fluminense,Internacional,0,1,0,0,A
+bresil,2022,2022-04-24,Atletico-MG,Coritiba,2,2,2,0,D
+bresil,2022,2022-04-24,Santos,America Mineiro,3,0,1,2,H
+bresil,2022,2022-04-24,Juventude,Cuiaba,0,1,0,0,A
+bresil,2022,2022-04-24,Atletico Goianiense,Botafogo,1,1,0,1,D
+bresil,2022,2022-04-25,Avai,Goias,3,2,1,2,H
+bresil,2022,2022-04-30,America Mineiro,Atletico Paranaense,1,0,0,1,H
+bresil,2022,2022-04-30,Ceara,RB Bragantino,0,1,0,0,A
+bresil,2022,2022-04-30,Goias,Atletico-MG,2,2,0,2,D
+bresil,2022,2022-04-30,Cuiaba,Atletico Goianiense,1,1,0,1,D
+bresil,2022,2022-05-01,Botafogo,Juventude,1,1,0,1,D
+bresil,2022,2022-05-01,Corinthians,Fortaleza EC,1,0,0,1,H
+bresil,2022,2022-05-01,Coritiba,Fluminense,3,2,0,3,H
+bresil,2022,2022-05-01,Internacional,Avai,0,0,0,0,D
+bresil,2022,2022-05-02,Sao Paulo,Santos,2,1,1,1,H
+bresil,2022,2022-05-07,Atletico-MG,America Mineiro,1,2,0,1,A
+bresil,2022,2022-05-07,Atletico Paranaense,Ceara,1,0,0,1,H
+bresil,2022,2022-05-08,Flamengo,Botafogo,0,1,0,0,A
+bresil,2022,2022-05-08,Palmeiras,Fluminense,1,1,0,1,D
+bresil,2022,2022-05-08,Atletico Goianiense,Goias,0,1,0,0,A
+bresil,2022,2022-05-08,Santos,Cuiaba,4,1,2,2,H
+bresil,2022,2022-05-08,RB Bragantino,Corinthians,0,1,0,0,A
+bresil,2022,2022-05-08,Juventude,Internacional,1,1,0,1,D
+bresil,2022,2022-05-08,Fortaleza EC,Sao Paulo,1,1,0,1,D
+bresil,2022,2022-05-09,Avai,Coritiba,2,1,0,2,H
+bresil,2022,2022-05-11,RB Bragantino,Atletico-MG,1,1,1,0,D
+bresil,2022,2022-05-14,Palmeiras,RB Bragantino,2,0,1,1,H
+bresil,2022,2022-05-14,Ceara,Flamengo,2,2,1,1,D
+bresil,2022,2022-05-14,Internacional,Corinthians,2,2,2,0,D
+bresil,2022,2022-05-14,Atletico-MG,Atletico Goianiense,2,0,1,1,H
+bresil,2022,2022-05-15,Fluminense,Atletico Paranaense,2,1,1,1,H
+bresil,2022,2022-05-15,Sao Paulo,Cuiaba,2,1,0,2,H
+bresil,2022,2022-05-15,Coritiba,America Mineiro,1,0,1,0,H
+bresil,2022,2022-05-15,Botafogo,Fortaleza EC,3,1,1,2,H
+bresil,2022,2022-05-15,Avai,Juventude,1,2,1,0,A
+bresil,2022,2022-05-15,Goias,Santos,1,0,1,0,H
+bresil,2022,2022-05-21,Flamengo,Goias,1,0,1,0,H
+bresil,2022,2022-05-21,Atletico Goianiense,Coritiba,2,0,1,1,H
+bresil,2022,2022-05-21,Santos,Ceara,0,0,0,0,D
+bresil,2022,2022-05-21,Juventude,Palmeiras,0,3,0,0,A
+bresil,2022,2022-05-22,America Mineiro,Botafogo,1,1,1,0,D
+bresil,2022,2022-05-22,Cuiaba,Internacional,1,1,0,1,D
+bresil,2022,2022-05-22,Corinthians,Sao Paulo,1,1,0,1,D
+bresil,2022,2022-05-22,Fortaleza EC,Fluminense,0,1,0,0,A
+bresil,2022,2022-05-22,Atletico Paranaense,Avai,2,1,2,0,H
+bresil,2022,2022-05-28,Goias,RB Bragantino,1,1,0,1,D
+bresil,2022,2022-05-28,Sao Paulo,Ceara,2,2,2,0,D
+bresil,2022,2022-05-28,Fortaleza EC,Juventude,1,1,0,1,D
+bresil,2022,2022-05-29,Santos,Palmeiras,0,1,0,0,A
+bresil,2022,2022-05-29,Coritiba,Botafogo,1,0,1,0,H
+bresil,2022,2022-05-29,Fluminense,Flamengo,1,2,1,0,A
+bresil,2022,2022-05-29,Corinthians,America Mineiro,1,1,0,1,D
+bresil,2022,2022-05-29,Cuiaba,Atletico Paranaense,0,1,0,0,A
+bresil,2022,2022-05-29,Atletico-MG,Avai,2,1,0,2,H
+bresil,2022,2022-05-30,Internacional,Atletico Goianiense,1,1,1,0,D
+bresil,2022,2022-06-01,Fortaleza EC,Ceara,0,1,0,0,A
+bresil,2022,2022-06-04,America Mineiro,Cuiaba,2,1,1,1,H
+bresil,2022,2022-06-04,Ceara,Coritiba,1,1,1,0,D
+bresil,2022,2022-06-04,Atletico Paranaense,Santos,2,2,1,1,D
+bresil,2022,2022-06-04,Avai,Sao Paulo,1,1,0,1,D
+bresil,2022,2022-06-04,Atletico Goianiense,Corinthians,0,1,0,0,A
+bresil,2022,2022-06-05,Juventude,Fluminense,1,0,1,0,H
+bresil,2022,2022-06-05,Palmeiras,Atletico-MG,0,0,0,0,D
+bresil,2022,2022-06-05,Flamengo,Fortaleza EC,1,2,1,0,A
+bresil,2022,2022-06-05,RB Bragantino,Internacional,0,2,0,0,A
+bresil,2022,2022-06-06,Botafogo,Goias,1,2,1,0,A
+bresil,2022,2022-06-08,Cuiaba,Corinthians,1,0,1,0,H
+bresil,2022,2022-06-08,America Mineiro,Ceara,0,2,0,0,A
+bresil,2022,2022-06-08,Juventude,Atletico Paranaense,1,3,1,0,A
+bresil,2022,2022-06-08,Atletico Goianiense,Avai,2,1,1,1,H
+bresil,2022,2022-06-08,RB Bragantino,Flamengo,1,0,1,0,H
+bresil,2022,2022-06-09,Fluminense,Atletico-MG,5,3,3,2,H
+bresil,2022,2022-06-09,Santos,Internacional,1,1,0,1,D
+bresil,2022,2022-06-09,Palmeiras,Botafogo,4,0,3,1,H
+bresil,2022,2022-06-09,Coritiba,Sao Paulo,1,1,0,1,D
+bresil,2022,2022-06-09,Fortaleza EC,Goias,1,1,1,0,D
+bresil,2022,2022-06-11,Corinthians,Juventude,2,0,1,1,H
+bresil,2022,2022-06-11,Fluminense,Atletico Goianiense,0,2,0,0,A
+bresil,2022,2022-06-11,Atletico-MG,Santos,1,1,1,0,D
+bresil,2022,2022-06-11,Cuiaba,RB Bragantino,1,1,1,0,D
+bresil,2022,2022-06-12,Internacional,Flamengo,3,1,2,1,H
+bresil,2022,2022-06-12,Sao Paulo,America Mineiro,1,0,1,0,H
+bresil,2022,2022-06-12,Goias,Ceara,1,1,0,1,D
+bresil,2022,2022-06-12,Coritiba,Palmeiras,0,2,0,0,A
+bresil,2022,2022-06-12,Fortaleza EC,Atletico Paranaense,0,0,0,0,D
+bresil,2022,2022-06-13,Botafogo,Avai,0,1,0,0,A
+bresil,2022,2022-06-15,Juventude,Santos,1,2,1,0,A
+bresil,2022,2022-06-15,Ceara,Atletico-MG,0,0,0,0,D
+bresil,2022,2022-06-15,RB Bragantino,Coritiba,4,2,3,1,H
+bresil,2022,2022-06-15,Flamengo,Cuiaba,2,0,1,1,H
+bresil,2022,2022-06-15,Goias,Internacional,1,2,1,0,A
+bresil,2022,2022-06-16,America Mineiro,Fluminense,0,0,0,0,D
+bresil,2022,2022-06-16,Atletico Paranaense,Corinthians,1,1,0,1,D
+bresil,2022,2022-06-16,Botafogo,Sao Paulo,1,0,0,1,H
+bresil,2022,2022-06-16,Palmeiras,Atletico Goianiense,4,2,4,0,H
+bresil,2022,2022-06-16,Avai,Fortaleza EC,3,2,2,1,H
+bresil,2022,2022-06-18,Cuiaba,Ceara,0,0,0,0,D
+bresil,2022,2022-06-19,Santos,RB Bragantino,2,2,2,0,D
+bresil,2022,2022-06-19,Corinthians,Goias,1,0,1,0,H
+bresil,2022,2022-06-19,Coritiba,Atletico Paranaense,0,1,0,0,A
+bresil,2022,2022-06-19,Atletico-MG,Flamengo,2,0,1,1,H
+bresil,2022,2022-06-19,Internacional,Botafogo,2,3,2,0,A
+bresil,2022,2022-06-19,Atletico Goianiense,Juventude,3,1,0,3,H
+bresil,2022,2022-06-19,Fortaleza EC,America Mineiro,1,0,1,0,H
+bresil,2022,2022-06-19,Fluminense,Avai,2,0,1,1,H
+bresil,2022,2022-06-20,Sao Paulo,Palmeiras,1,2,1,0,A
+bresil,2022,2022-06-25,Internacional,Coritiba,3,0,2,1,H
+bresil,2022,2022-06-25,Atletico Paranaense,RB Bragantino,4,2,3,1,H
+bresil,2022,2022-06-25,Flamengo,America Mineiro,3,0,1,2,H
+bresil,2022,2022-06-25,Corinthians,Santos,0,0,0,0,D
+bresil,2022,2022-06-26,Atletico-MG,Fortaleza EC,3,2,0,3,H
+bresil,2022,2022-06-26,Botafogo,Fluminense,0,1,0,0,A
+bresil,2022,2022-06-26,Avai,Palmeiras,2,2,1,1,D
+bresil,2022,2022-06-26,Sao Paulo,Juventude,0,0,0,0,D
+bresil,2022,2022-06-26,Ceara,Atletico Goianiense,1,1,0,1,D
+bresil,2022,2022-06-26,Goias,Cuiaba,1,0,0,1,H
+bresil,2022,2022-07-02,Fluminense,Corinthians,4,0,2,2,H
+bresil,2022,2022-07-02,Juventude,Atletico-MG,1,2,0,1,A
+bresil,2022,2022-07-02,Santos,Flamengo,1,2,0,1,A
+bresil,2022,2022-07-02,Ceara,Internacional,1,1,1,0,D
+bresil,2022,2022-07-03,Palmeiras,Atletico Paranaense,0,2,0,0,A
+bresil,2022,2022-07-03,Avai,Cuiaba,1,2,1,0,A
+bresil,2022,2022-07-03,Atletico Goianiense,Sao Paulo,1,2,1,0,A
+bresil,2022,2022-07-03,America Mineiro,Goias,1,0,0,1,H
+bresil,2022,2022-07-03,Coritiba,Fortaleza EC,2,1,1,1,H
+bresil,2022,2022-07-04,RB Bragantino,Botafogo,0,1,0,0,A
+bresil,2022,2022-07-09,RB Bragantino,Avai,4,0,0,4,H
+bresil,2022,2022-07-09,Fluminense,Ceara,2,1,1,1,H
+bresil,2022,2022-07-09,Goias,Atletico Paranaense,2,1,2,0,H
+bresil,2022,2022-07-10,Coritiba,Juventude,2,2,0,2,D
+bresil,2022,2022-07-10,Corinthians,Flamengo,1,0,0,1,H
+bresil,2022,2022-07-10,Santos,Atletico Goianiense,1,0,0,1,H
+bresil,2022,2022-07-10,Fortaleza EC,Palmeiras,0,0,0,0,D
+bresil,2022,2022-07-10,Atletico-MG,Sao Paulo,0,0,0,0,D
+bresil,2022,2022-07-10,Cuiaba,Botafogo,2,0,1,1,H
+bresil,2022,2022-07-11,Internacional,America Mineiro,1,0,0,1,H
+bresil,2022,2022-07-16,Atletico Paranaense,Internacional,0,0,0,0,D
+bresil,2022,2022-07-16,Flamengo,Coritiba,2,0,2,0,H
+bresil,2022,2022-07-16,Avai,Santos,1,0,1,0,H
+bresil,2022,2022-07-17,Ceara,Corinthians,3,1,2,1,H
+bresil,2022,2022-07-17,Juventude,Goias,0,0,0,0,D
+bresil,2022,2022-07-17,Sao Paulo,Fluminense,2,2,2,0,D
+bresil,2022,2022-07-17,Botafogo,Atletico-MG,0,1,0,0,A
+bresil,2022,2022-07-17,Atletico Goianiense,Fortaleza EC,0,1,0,0,A
+bresil,2022,2022-07-17,America Mineiro,RB Bragantino,0,3,0,0,A
+bresil,2022,2022-07-18,Palmeiras,Cuiaba,1,0,0,1,H
+bresil,2022,2022-07-20,Ceara,Avai,1,0,1,0,H
+bresil,2022,2022-07-20,Goias,Fluminense,2,3,1,1,A
+bresil,2022,2022-07-20,RB Bragantino,Fortaleza EC,2,1,1,1,H
+bresil,2022,2022-07-20,Atletico Paranaense,Atletico Goianiense,4,1,2,2,H
+bresil,2022,2022-07-20,Internacional,Sao Paulo,3,3,3,0,D
+bresil,2022,2022-07-20,Flamengo,Juventude,4,0,3,1,H
+bresil,2022,2022-07-21,Santos,Botafogo,2,0,1,1,H
+bresil,2022,2022-07-21,Corinthians,Coritiba,3,1,1,2,H
+bresil,2022,2022-07-21,Cuiaba,Atletico-MG,1,1,0,1,D
+bresil,2022,2022-07-21,America Mineiro,Palmeiras,0,1,0,0,A
+bresil,2022,2022-07-23,Sao Paulo,Goias,3,3,2,1,D
+bresil,2022,2022-07-24,Botafogo,Atletico Paranaense,2,0,1,1,H
+bresil,2022,2022-07-24,Avai,Flamengo,1,2,0,1,A
+bresil,2022,2022-07-24,Palmeiras,Internacional,2,1,1,1,H
+bresil,2022,2022-07-24,Fluminense,RB Bragantino,2,1,0,2,H
+bresil,2022,2022-07-24,Juventude,Ceara,1,0,0,1,H
+bresil,2022,2022-07-24,Atletico Goianiense,America Mineiro,0,1,0,0,A
+bresil,2022,2022-07-24,Atletico-MG,Corinthians,1,2,1,0,A
+bresil,2022,2022-07-24,Fortaleza EC,Santos,0,0,0,0,D
+bresil,2022,2022-07-25,Coritiba,Cuiaba,1,0,1,0,H
+bresil,2022,2022-07-30,Ceara,Palmeiras,1,2,0,1,A
+bresil,2022,2022-07-30,Goias,Coritiba,1,0,0,1,H
+bresil,2022,2022-07-30,Corinthians,Botafogo,1,0,1,0,H
+bresil,2022,2022-07-30,Flamengo,Atletico Goianiense,4,1,4,0,H
+bresil,2022,2022-07-31,Internacional,Atletico-MG,3,0,3,0,H
+bresil,2022,2022-07-31,Atletico Paranaense,Sao Paulo,1,0,0,1,H
+bresil,2022,2022-07-31,America Mineiro,Avai,3,1,1,2,H
+bresil,2022,2022-07-31,Cuiaba,Fortaleza EC,0,1,0,0,A
+bresil,2022,2022-07-31,RB Bragantino,Juventude,1,0,1,0,H
+bresil,2022,2022-08-01,Santos,Fluminense,2,2,1,1,D
+bresil,2022,2022-08-06,Botafogo,Ceara,1,1,1,0,D
+bresil,2022,2022-08-06,Juventude,America Mineiro,0,1,0,0,A
+bresil,2022,2022-08-06,Atletico Goianiense,RB Bragantino,2,1,0,2,H
+bresil,2022,2022-08-06,Avai,Corinthians,1,1,1,0,D
+bresil,2022,2022-08-06,Sao Paulo,Flamengo,0,2,0,0,A
+bresil,2022,2022-08-07,Palmeiras,Goias,3,0,2,1,H
+bresil,2022,2022-08-07,Fluminense,Cuiaba,1,0,1,0,H
+bresil,2022,2022-08-07,Fortaleza EC,Internacional,3,0,1,2,H
+bresil,2022,2022-08-07,Atletico-MG,Atletico Paranaense,2,3,1,1,A
+bresil,2022,2022-08-08,Coritiba,Santos,1,2,0,1,A
+bresil,2022,2022-08-13,Goias,Avai,1,1,0,1,D
+bresil,2022,2022-08-13,Corinthians,Palmeiras,0,1,0,0,A
+bresil,2022,2022-08-13,Cuiaba,Juventude,1,0,1,0,H
+bresil,2022,2022-08-14,Botafogo,Atletico Goianiense,0,0,0,0,D
+bresil,2022,2022-08-14,Coritiba,Atletico-MG,0,1,0,0,A
+bresil,2022,2022-08-14,Sao Paulo,RB Bragantino,3,0,1,2,H
+bresil,2022,2022-08-14,Flamengo,Atletico Paranaense,5,0,0,5,H
+bresil,2022,2022-08-14,Ceara,Fortaleza EC,0,1,0,0,A
+bresil,2022,2022-08-14,America Mineiro,Santos,1,0,1,0,H
+bresil,2022,2022-08-14,Internacional,Fluminense,3,0,1,2,H
+bresil,2022,2022-08-20,Atletico-MG,Goias,0,1,0,0,A
+bresil,2022,2022-08-20,Fluminense,Coritiba,5,2,2,3,H
+bresil,2022,2022-08-21,Juventude,Botafogo,2,2,1,1,D
+bresil,2022,2022-08-21,Palmeiras,Flamengo,1,1,0,1,D
+bresil,2022,2022-08-21,Atletico Paranaense,America Mineiro,1,1,1,0,D
+bresil,2022,2022-08-21,Atletico Goianiense,Cuiaba,1,1,1,0,D
+bresil,2022,2022-08-21,Fortaleza EC,Corinthians,1,0,0,1,H
+bresil,2022,2022-08-21,RB Bragantino,Ceara,1,1,0,1,D
+bresil,2022,2022-08-21,Santos,Sao Paulo,1,0,1,0,H
+bresil,2022,2022-08-22,Avai,Internacional,0,1,0,0,A
+bresil,2022,2022-08-27,Coritiba,Avai,1,0,0,1,H
+bresil,2022,2022-08-27,Goias,Atletico Goianiense,2,1,1,1,H
+bresil,2022,2022-08-27,Fluminense,Palmeiras,1,1,1,0,D
+bresil,2022,2022-08-28,Ceara,Atletico Paranaense,0,0,0,0,D
+bresil,2022,2022-08-28,America Mineiro,Atletico-MG,1,1,1,0,D
+bresil,2022,2022-08-28,Sao Paulo,Fortaleza EC,0,1,0,0,A
+bresil,2022,2022-08-28,Botafogo,Flamengo,0,1,0,0,A
+bresil,2022,2022-08-28,Cuiaba,Santos,0,0,0,0,D
+bresil,2022,2022-08-29,Internacional,Juventude,4,0,2,2,H
+bresil,2022,2022-08-30,Corinthians,RB Bragantino,1,0,1,0,H
+bresil,2022,2022-09-03,Juventude,Avai,1,1,0,1,D
+bresil,2022,2022-09-03,Atletico Paranaense,Fluminense,1,0,1,0,H
+bresil,2022,2022-09-03,RB Bragantino,Palmeiras,2,2,2,0,D
+bresil,2022,2022-09-03,America Mineiro,Coritiba,2,0,1,1,H
+bresil,2022,2022-09-04,Flamengo,Ceara,1,1,0,1,D
+bresil,2022,2022-09-04,Corinthians,Internacional,2,2,2,0,D
+bresil,2022,2022-09-04,Fortaleza EC,Botafogo,1,3,0,1,A
+bresil,2022,2022-09-04,Atletico Goianiense,Atletico-MG,0,2,0,0,A
+bresil,2022,2022-09-04,Cuiaba,Sao Paulo,1,1,1,0,D
+bresil,2022,2022-09-05,Santos,Goias,1,2,0,1,A
+bresil,2022,2022-09-07,Atletico-MG,RB Bragantino,1,1,1,0,D
+bresil,2022,2022-09-10,Internacional,Cuiaba,1,0,0,1,H
+bresil,2022,2022-09-10,Ceara,Santos,2,1,2,0,H
+bresil,2022,2022-09-10,Fluminense,Fortaleza EC,2,1,1,1,H
+bresil,2022,2022-09-11,Palmeiras,Juventude,2,1,0,2,H
+bresil,2022,2022-09-11,Botafogo,America Mineiro,0,0,0,0,D
+bresil,2022,2022-09-11,Avai,Atletico Paranaense,1,1,1,0,D
+bresil,2022,2022-09-11,Sao Paulo,Corinthians,1,1,1,0,D
+bresil,2022,2022-09-11,Coritiba,Atletico Goianiense,2,0,1,1,H
+bresil,2022,2022-09-11,Goias,Flamengo,1,1,0,1,D
+bresil,2022,2022-09-17,Avai,Atletico-MG,1,0,0,1,H
+bresil,2022,2022-09-17,Botafogo,Coritiba,2,0,0,2,H
+bresil,2022,2022-09-18,RB Bragantino,Goias,1,1,1,0,D
+bresil,2022,2022-09-18,Flamengo,Fluminense,1,2,0,1,A
+bresil,2022,2022-09-18,Ceara,Sao Paulo,0,2,0,0,A
+bresil,2022,2022-09-18,America Mineiro,Corinthians,1,0,0,1,H
+bresil,2022,2022-09-18,Juventude,Fortaleza EC,1,1,0,1,D
+bresil,2022,2022-09-18,Palmeiras,Santos,1,0,0,1,H
+bresil,2022,2022-09-18,Atletico Paranaense,Cuiaba,2,2,2,0,D
+bresil,2022,2022-09-19,Atletico Goianiense,Internacional,1,2,0,1,A
+bresil,2022,2022-09-25,Sao Paulo,Avai,4,0,3,1,H
+bresil,2022,2022-09-28,Santos,Atletico Paranaense,2,0,1,1,H
+bresil,2022,2022-09-28,Fluminense,Juventude,4,0,2,2,H
+bresil,2022,2022-09-28,Corinthians,Atletico Goianiense,2,1,1,1,H
+bresil,2022,2022-09-28,Coritiba,Ceara,1,0,1,0,H
+bresil,2022,2022-09-28,Fortaleza EC,Flamengo,3,2,1,2,H
+bresil,2022,2022-09-29,Cuiaba,America Mineiro,2,1,1,1,H
+bresil,2022,2022-09-29,Internacional,RB Bragantino,0,0,0,0,D
+bresil,2022,2022-09-29,Goias,Botafogo,0,1,0,0,A
+bresil,2022,2022-09-29,Atletico-MG,Palmeiras,0,1,0,0,A
+bresil,2022,2022-10-01,Internacional,Santos,1,0,1,0,H
+bresil,2022,2022-10-01,Ceara,America Mineiro,1,2,0,1,A
+bresil,2022,2022-10-01,Atletico-MG,Fluminense,2,0,1,1,H
+bresil,2022,2022-10-01,Flamengo,RB Bragantino,4,1,1,3,H
+bresil,2022,2022-10-01,Atletico Paranaense,Juventude,2,0,1,1,H
+bresil,2022,2022-10-01,Avai,Atletico Goianiense,1,2,0,1,A
+bresil,2022,2022-10-01,Goias,Fortaleza EC,0,1,0,0,A
+bresil,2022,2022-10-02,Corinthians,Cuiaba,2,0,2,0,H
+bresil,2022,2022-10-03,Botafogo,Palmeiras,1,3,1,0,A
+bresil,2022,2022-10-05,Juventude,Corinthians,2,2,0,2,D
+bresil,2022,2022-10-05,Ceara,Goias,1,1,0,1,D
+bresil,2022,2022-10-05,Atletico Goianiense,Fluminense,3,2,1,2,H
+bresil,2022,2022-10-05,RB Bragantino,Cuiaba,2,1,1,1,H
+bresil,2022,2022-10-05,Atletico Paranaense,Fortaleza EC,1,1,0,1,D
+bresil,2022,2022-10-06,Flamengo,Internacional,0,0,0,0,D
+bresil,2022,2022-10-06,Santos,Atletico-MG,1,2,0,1,A
+bresil,2022,2022-10-06,Palmeiras,Coritiba,4,0,2,2,H
+bresil,2022,2022-10-06,America Mineiro,Sao Paulo,1,2,1,0,A
+bresil,2022,2022-10-06,Avai,Botafogo,1,2,1,0,A
+bresil,2022,2022-10-08,Cuiaba,Flamengo,1,2,0,1,A
+bresil,2022,2022-10-09,Corinthians,Atletico Paranaense,2,1,2,0,H
+bresil,2022,2022-10-09,Internacional,Goias,4,2,2,2,H
+bresil,2022,2022-10-09,Sao Paulo,Botafogo,0,1,0,0,A
+bresil,2022,2022-10-09,Fortaleza EC,Avai,2,0,0,2,H
+bresil,2022,2022-10-09,Fluminense,America Mineiro,0,2,0,0,A
+bresil,2022,2022-10-09,Coritiba,RB Bragantino,2,1,1,1,H
+bresil,2022,2022-10-09,Atletico-MG,Ceara,0,0,0,0,D
+bresil,2022,2022-10-10,Atletico Goianiense,Palmeiras,1,1,0,1,D
+bresil,2022,2022-10-10,Santos,Juventude,4,1,1,3,H
+bresil,2022,2022-10-15,America Mineiro,Fortaleza EC,1,2,0,1,A
+bresil,2022,2022-10-15,Flamengo,Atletico-MG,1,0,1,0,H
+bresil,2022,2022-10-16,Palmeiras,Sao Paulo,0,0,0,0,D
+bresil,2022,2022-10-16,Ceara,Cuiaba,1,1,0,1,D
+bresil,2022,2022-10-16,Botafogo,Internacional,0,1,0,0,A
+bresil,2022,2022-10-16,Juventude,Atletico Goianiense,1,1,0,1,D
+bresil,2022,2022-10-16,Atletico Paranaense,Coritiba,1,0,0,1,H
+bresil,2022,2022-10-16,Avai,Fluminense,0,3,0,0,A
+bresil,2022,2022-10-17,RB Bragantino,Santos,0,2,0,0,A
+bresil,2022,2022-10-20,Sao Paulo,Coritiba,3,1,1,2,H
+bresil,2022,2022-10-22,RB Bragantino,Atletico Paranaense,4,2,3,1,H
+bresil,2022,2022-10-22,America Mineiro,Flamengo,1,2,1,0,A
+bresil,2022,2022-10-22,Santos,Corinthians,0,1,0,0,A
+bresil,2022,2022-10-23,Palmeiras,Avai,3,0,1,2,H
+bresil,2022,2022-10-23,Fluminense,Botafogo,2,2,0,2,D
+bresil,2022,2022-10-23,Juventude,Sao Paulo,1,2,1,0,A
+bresil,2022,2022-10-23,Atletico Goianiense,Ceara,1,0,1,0,H
+bresil,2022,2022-10-23,Coritiba,Internacional,1,1,1,0,D
+bresil,2022,2022-10-23,Cuiaba,Goias,1,2,0,1,A
+bresil,2022,2022-10-24,Fortaleza EC,Atletico-MG,0,0,0,0,D
+bresil,2022,2022-10-26,Flamengo,Santos,3,2,1,2,H
+bresil,2022,2022-10-26,Atletico Paranaense,Palmeiras,1,3,1,0,A
+bresil,2022,2022-10-26,Botafogo,RB Bragantino,2,1,1,1,H
+bresil,2022,2022-10-27,Internacional,Ceara,2,1,0,2,H
+bresil,2022,2022-10-27,Corinthians,Fluminense,0,2,0,0,A
+bresil,2022,2022-10-27,Goias,America Mineiro,2,2,0,2,D
+bresil,2022,2022-10-27,Sao Paulo,Atletico Goianiense,2,1,1,1,H
+bresil,2022,2022-10-27,Fortaleza EC,Coritiba,3,1,1,2,H
+bresil,2022,2022-10-27,Atletico-MG,Juventude,1,0,1,0,H
+bresil,2022,2022-10-27,Cuiaba,Avai,1,0,0,1,H
+bresil,2022,2022-10-29,Goias,Corinthians,0,0,0,0,D
+bresil,2022,2022-10-31,Botafogo,Cuiaba,0,2,0,0,A
+bresil,2022,2022-10-31,Ceara,Fluminense,0,1,0,0,A
+bresil,2022,2022-11-01,Atletico Goianiense,Santos,2,3,2,0,A
+bresil,2022,2022-11-01,Avai,RB Bragantino,1,2,0,1,A
+bresil,2022,2022-11-01,Juventude,Coritiba,0,1,0,0,A
+bresil,2022,2022-11-02,Sao Paulo,Atletico-MG,2,2,2,0,D
+bresil,2022,2022-11-02,America Mineiro,Internacional,1,0,0,1,H
+bresil,2022,2022-11-02,Atletico Paranaense,Goias,3,2,3,0,H
+bresil,2022,2022-11-03,Palmeiras,Fortaleza EC,4,0,2,2,H
+bresil,2022,2022-11-03,Flamengo,Corinthians,1,2,0,1,A
+bresil,2022,2022-11-04,Goias,Juventude,1,0,0,1,H
+bresil,2022,2022-11-04,RB Bragantino,America Mineiro,1,4,1,0,A
+bresil,2022,2022-11-05,Fluminense,Sao Paulo,3,1,0,3,H
+bresil,2022,2022-11-05,Santos,Avai,1,1,1,0,D
+bresil,2022,2022-11-05,Corinthians,Ceara,1,0,0,1,H
+bresil,2022,2022-11-06,Internacional,Atletico Paranaense,2,0,0,2,H
+bresil,2022,2022-11-06,Coritiba,Flamengo,1,0,0,1,H
+bresil,2022,2022-11-06,Fortaleza EC,Atletico Goianiense,1,1,0,1,D
+bresil,2022,2022-11-06,Cuiaba,Palmeiras,1,1,1,0,D
+bresil,2022,2022-11-07,Atletico-MG,Botafogo,0,2,0,0,A
+bresil,2022,2022-11-08,Fluminense,Goias,3,0,0,3,H
+bresil,2022,2022-11-08,Avai,Ceara,2,0,0,2,H
+bresil,2022,2022-11-08,Coritiba,Corinthians,2,2,2,0,D
+bresil,2022,2022-11-09,Sao Paulo,Internacional,0,1,0,0,A
+bresil,2022,2022-11-09,Fortaleza EC,RB Bragantino,6,0,4,2,H
+bresil,2022,2022-11-10,Palmeiras,America Mineiro,2,1,1,1,H
+bresil,2022,2022-11-10,Atletico Goianiense,Atletico Paranaense,1,1,0,1,D
+bresil,2022,2022-11-10,Juventude,Flamengo,2,2,2,0,D
+bresil,2022,2022-11-10,Botafogo,Santos,3,0,1,2,H
+bresil,2022,2022-11-10,Atletico-MG,Cuiaba,3,0,2,1,H
+bresil,2022,2022-11-12,Flamengo,Avai,1,2,1,0,A
+bresil,2022,2022-11-13,Internacional,Palmeiras,3,0,2,1,H
+bresil,2022,2022-11-13,America Mineiro,Atletico Goianiense,1,1,1,0,D
+bresil,2022,2022-11-13,Santos,Fortaleza EC,0,2,0,0,A
+bresil,2022,2022-11-13,Ceara,Juventude,4,1,2,2,H
+bresil,2022,2022-11-13,Corinthians,Atletico-MG,0,1,0,0,A
+bresil,2022,2022-11-13,Atletico Paranaense,Botafogo,3,0,0,3,H
+bresil,2022,2022-11-13,Goias,Sao Paulo,0,4,0,0,A
+bresil,2022,2022-11-13,RB Bragantino,Fluminense,0,1,0,0,A
+bresil,2022,2022-11-13,Cuiaba,Coritiba,2,1,2,0,H

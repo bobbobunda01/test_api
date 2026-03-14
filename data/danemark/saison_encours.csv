@@ -1,0 +1,109 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Danemark,2025,2025-07-18,Viborg,FC Copenhagen,2,3,1,1,A
+Danemark,2025,2025-07-20,Vejle,Randers FC,1,1,0,1,D
+Danemark,2025,2025-07-20,FC Fredericia,FC Nordsjaelland,2,3,1,1,A
+Danemark,2025,2025-07-20,Sonderjyske,Aarhus,1,1,0,1,D
+Danemark,2025,2025-07-20,FC Midtjylland,Odense,3,3,2,1,D
+Danemark,2025,2025-07-20,Brondby,Silkeborg,3,0,1,2,H
+Danemark,2025,2025-07-25,Aarhus,Randers FC,1,2,1,0,A
+Danemark,2025,2025-07-26,FC Copenhagen,Vejle,2,0,2,0,H
+Danemark,2025,2025-07-27,Odense,Viborg,3,1,1,2,H
+Danemark,2025,2025-07-27,Silkeborg,FC Fredericia,0,2,0,0,A
+Danemark,2025,2025-07-27,FC Nordsjaelland,Brondby,0,1,0,0,A
+Danemark,2025,2025-07-28,FC Midtjylland,Sonderjyske,6,2,3,3,H
+Danemark,2025,2025-08-01,FC Fredericia,FC Copenhagen,0,2,0,0,A
+Danemark,2025,2025-08-01,Vejle,Odense,4,0,2,2,H
+Danemark,2025,2025-08-03,Sonderjyske,FC Nordsjaelland,3,2,1,2,H
+Danemark,2025,2025-08-03,Randers FC,Silkeborg,1,0,1,0,H
+Danemark,2025,2025-08-03,Aarhus,FC Midtjylland,0,0,0,0,D
+Danemark,2025,2025-08-03,Brondby,Viborg,0,2,0,0,A
+Danemark,2025,2025-08-08,FC Copenhagen,Aarhus,2,3,0,2,A
+Danemark,2025,2025-08-08,Viborg,Sonderjyske,1,0,1,0,H
+Danemark,2025,2025-08-10,FC Midtjylland,FC Fredericia,3,3,2,1,D
+Danemark,2025,2025-08-10,Silkeborg,FC Nordsjaelland,4,2,2,2,H
+Danemark,2025,2025-08-10,Brondby,Vejle,2,1,2,0,H
+Danemark,2025,2025-08-11,Odense,Randers FC,3,2,3,0,H
+Danemark,2025,2025-08-15,FC Nordsjaelland,FC Copenhagen,1,3,0,1,A
+Danemark,2025,2025-08-15,FC Fredericia,Sonderjyske,3,2,0,3,H
+Danemark,2025,2025-08-17,Vejle,FC Midtjylland,0,2,0,0,A
+Danemark,2025,2025-08-17,Viborg,Silkeborg,2,3,2,0,A
+Danemark,2025,2025-08-17,Randers FC,Brondby,0,2,0,0,A
+Danemark,2025,2025-08-18,Odense,Aarhus,1,5,1,0,A
+Danemark,2025,2025-08-23,FC Copenhagen,Odense,1,1,0,1,D
+Danemark,2025,2025-08-24,FC Midtjylland,Silkeborg,4,2,1,3,H
+Danemark,2025,2025-08-24,FC Fredericia,Randers FC,1,0,1,0,H
+Danemark,2025,2025-08-24,Sonderjyske,Brondby,2,0,0,2,H
+Danemark,2025,2025-08-24,Aarhus,Vejle,1,0,1,0,H
+Danemark,2025,2025-08-25,FC Nordsjaelland,Viborg,1,0,1,0,H
+Danemark,2025,2025-08-29,Vejle,Viborg,1,2,1,0,A
+Danemark,2025,2025-08-31,Aarhus,FC Fredericia,4,1,2,2,H
+Danemark,2025,2025-08-31,Silkeborg,Sonderjyske,0,2,0,0,A
+Danemark,2025,2025-08-31,Odense,FC Nordsjaelland,1,2,1,0,A
+Danemark,2025,2025-08-31,Randers FC,FC Copenhagen,1,5,0,1,A
+Danemark,2025,2025-08-31,Brondby,FC Midtjylland,1,3,0,1,A
+Danemark,2025,2025-09-12,Sonderjyske,Randers FC,0,1,0,0,A
+Danemark,2025,2025-09-13,Brondby,FC Copenhagen,2,1,1,1,H
+Danemark,2025,2025-09-14,Viborg,Aarhus,1,2,1,0,A
+Danemark,2025,2025-09-14,FC Nordsjaelland,FC Midtjylland,1,0,1,0,H
+Danemark,2025,2025-09-14,Silkeborg,Odense,2,1,1,1,H
+Danemark,2025,2025-09-15,FC Fredericia,Vejle,1,1,0,1,D
+Danemark,2025,2025-09-19,Odense,FC Fredericia,3,2,1,2,H
+Danemark,2025,2025-09-20,FC Midtjylland,Viborg,2,0,0,2,H
+Danemark,2025,2025-09-21,Vejle,Sonderjyske,2,2,1,1,D
+Danemark,2025,2025-09-21,FC Copenhagen,Silkeborg,3,3,2,1,D
+Danemark,2025,2025-09-21,Aarhus,Brondby,1,0,1,0,H
+Danemark,2025,2025-09-22,Randers FC,FC Nordsjaelland,3,0,0,3,H
+Danemark,2025,2025-09-27,Sonderjyske,FC Copenhagen,1,2,0,1,A
+Danemark,2025,2025-09-28,Viborg,FC Fredericia,2,1,1,1,H
+Danemark,2025,2025-09-28,Silkeborg,Vejle,1,1,1,0,D
+Danemark,2025,2025-09-28,FC Nordsjaelland,Aarhus,1,2,0,1,A
+Danemark,2025,2025-09-28,Brondby,Odense,5,1,3,2,H
+Danemark,2025,2025-09-29,FC Midtjylland,Randers FC,2,1,0,2,H
+Danemark,2025,2025-10-03,Odense,Sonderjyske,1,1,1,0,D
+Danemark,2025,2025-10-05,Vejle,FC Nordsjaelland,0,3,0,0,A
+Danemark,2025,2025-10-05,Randers FC,Viborg,2,1,2,0,H
+Danemark,2025,2025-10-05,Aarhus,Silkeborg,3,1,2,1,H
+Danemark,2025,2025-10-05,FC Copenhagen,FC Midtjylland,1,1,0,1,D
+Danemark,2025,2025-10-05,FC Fredericia,Brondby,0,2,0,0,A
+Danemark,2025,2025-10-17,Silkeborg,FC Copenhagen,3,1,3,0,H
+Danemark,2025,2025-10-19,FC Nordsjaelland,Randers FC,1,0,1,0,H
+Danemark,2025,2025-10-19,Viborg,Odense,1,2,1,0,A
+Danemark,2025,2025-10-19,Brondby,Aarhus,3,3,1,2,D
+Danemark,2025,2025-10-19,FC Midtjylland,Vejle,5,1,4,1,H
+Danemark,2025,2025-10-20,Sonderjyske,FC Fredericia,3,0,2,1,H
+Danemark,2025,2025-10-24,Aarhus,FC Nordsjaelland,1,0,0,1,H
+Danemark,2025,2025-10-26,Vejle,Silkeborg,1,2,1,0,A
+Danemark,2025,2025-10-26,FC Fredericia,FC Midtjylland,0,4,0,0,A
+Danemark,2025,2025-10-26,Randers FC,Sonderjyske,0,0,0,0,D
+Danemark,2025,2025-10-26,FC Copenhagen,Viborg,0,0,0,0,D
+Danemark,2025,2025-10-27,Odense,Brondby,1,4,0,1,A
+Danemark,2025,2025-11-01,FC Copenhagen,FC Fredericia,3,2,1,2,H
+Danemark,2025,2025-11-02,Viborg,Randers FC,3,2,2,1,H
+Danemark,2025,2025-11-02,Sonderjyske,Vejle,2,1,1,1,H
+Danemark,2025,2025-11-02,FC Nordsjaelland,Odense,2,4,1,1,A
+Danemark,2025,2025-11-02,Silkeborg,Brondby,0,2,0,0,A
+Danemark,2025,2025-11-03,FC Midtjylland,Aarhus,1,1,0,1,D
+Danemark,2025,2025-11-07,Odense,Silkeborg,1,1,0,1,D
+Danemark,2025,2025-11-09,Vejle,FC Copenhagen,2,0,0,2,H
+Danemark,2025,2025-11-09,FC Fredericia,Viborg,0,3,0,0,A
+Danemark,2025,2025-11-09,Randers FC,FC Midtjylland,0,2,0,0,A
+Danemark,2025,2025-11-09,Aarhus,Sonderjyske,2,3,2,0,A
+Danemark,2025,2025-11-09,Brondby,FC Nordsjaelland,2,0,2,0,H
+Danemark,2025,2025-11-21,Silkeborg,Aarhus,0,2,0,0,A
+Danemark,2025,2025-11-23,FC Copenhagen,Brondby,1,0,0,1,H
+Danemark,2025,2025-11-23,Viborg,Vejle,5,2,4,1,H
+Danemark,2025,2025-11-23,FC Nordsjaelland,FC Fredericia,5,0,2,3,H
+Danemark,2025,2025-11-23,Sonderjyske,FC Midtjylland,2,1,1,1,H
+Danemark,2025,2025-11-24,Randers FC,Odense,0,0,0,0,D
+Danemark,2025,2025-11-28,Sonderjyske,Viborg,2,2,1,1,D
+Danemark,2025,2025-11-30,Aarhus,FC Copenhagen,2,0,1,1,H
+Danemark,2025,2025-11-30,Silkeborg,Randers FC,0,0,0,0,D
+Danemark,2025,2025-11-30,FC Midtjylland,FC Nordsjaelland,6,0,4,2,H
+Danemark,2025,2025-11-30,Odense,Vejle,3,0,2,1,H
+Danemark,2025,2025-12-01,Brondby,FC Fredericia,1,3,1,0,A
+Danemark,2025,2025-12-05,FC Fredericia,Odense,1,3,1,0,A
+Danemark,2025,2025-12-07,FC Nordsjaelland,Silkeborg,5,0,4,1,H
+Danemark,2025,2025-12-07,Viborg,FC Midtjylland,3,3,2,1,D
+Danemark,2025,2025-12-07,Randers FC,Aarhus,1,2,1,0,A
+Danemark,2025,2025-12-07,FC Copenhagen,Sonderjyske,0,2,0,0,A
+Danemark,2025,2025-12-08,Vejle,Brondby,2,1,0,2,H

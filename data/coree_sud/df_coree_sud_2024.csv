@@ -1,0 +1,232 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+462,2024,2024-03-01,Ulsan Hyundai FC,Pohang Steelers,1,0,0,1,H
+463,2024,2024-03-01,Jeonbuk Motors,Daejeon Citizen,1,1,0,1,D
+464,2024,2024-03-02,Gwangju FC,FC Seoul,2,0,1,1,H
+465,2024,2024-03-02,Gangwon FC,Jeju United FC,1,1,1,0,D
+466,2024,2024-03-02,Incheon United,Suwon City FC,0,1,0,0,A
+467,2024,2024-03-03,Daegu FC,Gimcheon Sangmu FC,0,1,0,0,A
+468,2024,2024-03-09,Suwon City FC,Jeonbuk Motors,1,1,0,1,D
+469,2024,2024-03-09,Pohang Steelers,Daegu FC,3,1,0,3,H
+470,2024,2024-03-09,Gimcheon Sangmu FC,Ulsan Hyundai FC,2,3,0,2,A
+471,2024,2024-03-10,Jeju United FC,Daejeon Citizen,3,1,2,1,H
+472,2024,2024-03-10,FC Seoul,Incheon United,0,0,0,0,D
+473,2024,2024-03-10,Gwangju FC,Gangwon FC,4,2,0,4,H
+474,2024,2024-03-16,Daejeon Citizen,Gangwon FC,1,1,0,1,D
+475,2024,2024-03-16,Daegu FC,Suwon City FC,1,1,1,0,D
+476,2024,2024-03-16,FC Seoul,Jeju United FC,2,0,2,0,H
+477,2024,2024-03-17,Pohang Steelers,Gwangju FC,1,0,0,1,H
+478,2024,2024-03-17,Gimcheon Sangmu FC,Jeonbuk Motors,1,0,1,0,H
+479,2024,2024-03-17,Ulsan Hyundai FC,Incheon United,3,3,1,2,D
+480,2024,2024-03-30,Jeonbuk Motors,Ulsan Hyundai FC,2,2,1,1,D
+481,2024,2024-03-30,Incheon United,Daejeon Citizen,2,0,1,1,H
+482,2024,2024-03-30,Suwon City FC,Gimcheon Sangmu FC,1,4,0,1,A
+483,2024,2024-03-30,Jeju United FC,Pohang Steelers,0,2,0,0,A
+484,2024,2024-03-31,Gangwon FC,FC Seoul,1,1,0,1,D
+485,2024,2024-03-31,Gwangju FC,Daegu FC,1,2,1,0,A
+486,2024,2024-04-02,Daejeon Citizen,Ulsan Hyundai FC,2,0,0,2,H
+487,2024,2024-04-02,Pohang Steelers,Suwon City FC,1,1,1,0,D
+488,2024,2024-04-03,Gangwon FC,Daegu FC,3,0,1,2,H
+489,2024,2024-04-03,Gwangju FC,Incheon United,2,3,0,2,A
+490,2024,2024-04-03,Jeju United FC,Jeonbuk Motors,2,0,1,1,H
+491,2024,2024-04-03,FC Seoul,Gimcheon Sangmu FC,5,1,4,1,H
+492,2024,2024-04-06,Ulsan Hyundai FC,Suwon City FC,3,0,1,2,H
+493,2024,2024-04-06,Incheon United,Jeju United FC,0,1,0,0,A
+494,2024,2024-04-06,Gimcheon Sangmu FC,Gwangju FC,2,1,1,1,H
+495,2024,2024-04-07,Daegu FC,FC Seoul,0,0,0,0,D
+496,2024,2024-04-07,Jeonbuk Motors,Gangwon FC,2,3,1,1,A
+497,2024,2024-04-07,Daejeon Citizen,Pohang Steelers,1,2,0,1,A
+498,2024,2024-04-13,Jeonbuk Motors,Gwangju FC,2,1,1,1,H
+499,2024,2024-04-13,FC Seoul,Pohang Steelers,2,4,1,1,A
+500,2024,2024-04-13,Jeju United FC,Gimcheon Sangmu FC,0,2,0,0,A
+501,2024,2024-04-13,Ulsan Hyundai FC,Gangwon FC,4,0,2,2,H
+502,2024,2024-04-14,Suwon City FC,Daejeon Citizen,1,0,0,1,H
+503,2024,2024-04-14,Incheon United,Daegu FC,1,1,1,0,D
+504,2024,2024-04-20,Suwon City FC,Jeju United FC,2,1,0,2,H
+505,2024,2024-04-20,Pohang Steelers,Gimcheon Sangmu FC,0,0,0,0,D
+506,2024,2024-04-20,FC Seoul,Jeonbuk Motors,2,3,2,0,A
+507,2024,2024-04-21,Gangwon FC,Incheon United,4,1,3,1,H
+508,2024,2024-04-21,Daegu FC,Daejeon Citizen,0,0,0,0,D
+509,2024,2024-04-27,Daejeon Citizen,FC Seoul,3,1,2,1,H
+510,2024,2024-04-27,Gwangju FC,Suwon City FC,1,2,1,0,A
+511,2024,2024-04-27,Gimcheon Sangmu FC,Gangwon FC,1,0,0,1,H
+512,2024,2024-04-28,Jeonbuk Motors,Daegu FC,2,2,1,1,D
+513,2024,2024-04-28,Pohang Steelers,Incheon United,0,0,0,0,D
+514,2024,2024-04-28,Ulsan Hyundai FC,Jeju United FC,3,1,0,3,H
+515,2024,2024-04-30,Daejeon Citizen,Gimcheon Sangmu FC,0,0,0,0,D
+516,2024,2024-04-30,Suwon City FC,FC Seoul,0,2,0,0,A
+517,2024,2024-05-01,Gangwon FC,Pohang Steelers,2,4,0,2,A
+518,2024,2024-05-01,Daegu FC,Ulsan Hyundai FC,1,2,1,0,A
+519,2024,2024-05-01,Jeju United FC,Gwangju FC,1,3,0,1,A
+520,2024,2024-05-01,Incheon United,Jeonbuk Motors,3,0,0,3,H
+521,2024,2024-05-04,FC Seoul,Ulsan Hyundai FC,0,1,0,0,A
+522,2024,2024-05-04,Pohang Steelers,Jeonbuk Motors,1,0,0,1,H
+523,2024,2024-05-05,Suwon City FC,Gangwon FC,1,2,0,1,A
+524,2024,2024-05-05,Gimcheon Sangmu FC,Incheon United,2,2,1,1,D
+525,2024,2024-05-06,Jeju United FC,Daegu FC,1,0,0,1,H
+526,2024,2024-05-06,Gwangju FC,Daejeon Citizen,2,1,0,2,H
+527,2024,2024-05-11,Incheon United,FC Seoul,1,2,1,0,A
+528,2024,2024-05-11,Gangwon FC,Daejeon Citizen,3,3,1,2,D
+529,2024,2024-05-11,Daegu FC,Gwangju FC,3,2,2,1,H
+530,2024,2024-05-12,Jeonbuk Motors,Suwon City FC,2,3,2,0,A
+531,2024,2024-05-12,Pohang Steelers,Jeju United FC,1,1,1,0,D
+532,2024,2024-05-12,Ulsan Hyundai FC,Gimcheon Sangmu FC,2,2,1,1,D
+533,2024,2024-05-15,Gwangju FC,Ulsan Hyundai FC,2,1,0,2,H
+534,2024,2024-05-18,Daejeon Citizen,Incheon United,0,1,0,0,A
+535,2024,2024-05-18,Gimcheon Sangmu FC,Jeju United FC,1,0,0,1,H
+536,2024,2024-05-19,Gangwon FC,Ulsan Hyundai FC,1,0,0,1,H
+537,2024,2024-05-19,Gwangju FC,Jeonbuk Motors,0,3,0,0,A
+538,2024,2024-05-19,FC Seoul,Daegu FC,1,2,0,1,A
+539,2024,2024-05-19,Suwon City FC,Pohang Steelers,1,0,0,1,H
+540,2024,2024-05-25,Jeonbuk Motors,Gimcheon Sangmu FC,0,0,0,0,D
+541,2024,2024-05-25,Ulsan Hyundai FC,Daejeon Citizen,4,1,1,3,H
+542,2024,2024-05-25,Incheon United,Gwangju FC,1,1,0,1,D
+543,2024,2024-05-25,Pohang Steelers,FC Seoul,2,2,1,1,D
+544,2024,2024-05-26,Daegu FC,Gangwon FC,1,2,0,1,A
+545,2024,2024-05-26,Jeju United FC,Suwon City FC,1,0,1,0,H
+546,2024,2024-05-28,Gwangju FC,Pohang Steelers,0,1,0,0,A
+547,2024,2024-05-28,Gimcheon Sangmu FC,FC Seoul,0,0,0,0,D
+548,2024,2024-05-29,Gangwon FC,Jeonbuk Motors,2,1,1,1,H
+549,2024,2024-05-29,Daejeon Citizen,Jeju United FC,0,1,0,0,A
+550,2024,2024-05-29,Suwon City FC,Daegu FC,2,0,0,2,H
+551,2024,2024-05-29,Incheon United,Ulsan Hyundai FC,1,1,0,1,D
+552,2024,2024-06-01,Ulsan Hyundai FC,Jeonbuk Motors,1,0,0,1,H
+553,2024,2024-06-01,Suwon City FC,Incheon United,3,1,2,1,H
+554,2024,2024-06-01,Gimcheon Sangmu FC,Pohang Steelers,3,1,0,3,H
+555,2024,2024-06-02,Daejeon Citizen,Daegu FC,1,0,0,1,H
+556,2024,2024-06-02,Jeju United FC,Gangwon FC,1,2,0,1,A
+557,2024,2024-06-02,FC Seoul,Gwangju FC,1,2,1,0,A
+558,2024,2024-06-15,Pohang Steelers,Daejeon Citizen,1,1,1,0,D
+559,2024,2024-06-15,Gwangju FC,Gimcheon Sangmu FC,2,0,0,2,H
+560,2024,2024-06-15,Gangwon FC,Suwon City FC,3,1,1,2,H
+561,2024,2024-06-16,Jeonbuk Motors,Incheon United,2,2,1,1,D
+562,2024,2024-06-16,Ulsan Hyundai FC,FC Seoul,2,2,2,0,D
+563,2024,2024-06-16,Daegu FC,Jeju United FC,1,0,1,0,H
+564,2024,2024-06-22,Daegu FC,Jeonbuk Motors,3,0,1,2,H
+565,2024,2024-06-22,Gangwon FC,Gimcheon Sangmu FC,2,3,2,0,A
+566,2024,2024-06-22,Daejeon Citizen,Gwangju FC,2,1,0,2,H
+567,2024,2024-06-22,FC Seoul,Suwon City FC,3,0,1,2,H
+568,2024,2024-06-23,Jeju United FC,Ulsan Hyundai FC,2,3,1,1,A
+569,2024,2024-06-23,Incheon United,Pohang Steelers,1,3,0,1,A
+570,2024,2024-06-25,Suwon City FC,Gwangju FC,1,0,0,1,H
+571,2024,2024-06-25,Gimcheon Sangmu FC,Daejeon Citizen,2,0,0,2,H
+572,2024,2024-06-26,Jeju United FC,Incheon United,1,0,0,1,H
+573,2024,2024-06-26,Jeonbuk Motors,Pohang Steelers,1,1,1,0,D
+574,2024,2024-06-26,FC Seoul,Gangwon FC,2,0,0,2,H
+575,2024,2024-06-26,Ulsan Hyundai FC,Daegu FC,1,0,1,0,H
+576,2024,2024-06-29,Gimcheon Sangmu FC,Daegu FC,2,0,0,2,H
+577,2024,2024-06-29,Jeonbuk Motors,FC Seoul,1,5,0,1,A
+578,2024,2024-06-29,Daejeon Citizen,Suwon City FC,0,2,0,0,A
+579,2024,2024-06-30,Pohang Steelers,Ulsan Hyundai FC,2,1,2,0,H
+580,2024,2024-06-30,Gwangju FC,Jeju United FC,2,1,1,1,H
+581,2024,2024-06-30,Incheon United,Gangwon FC,0,1,0,0,A
+582,2024,2024-07-05,Suwon City FC,Ulsan Hyundai FC,1,1,0,1,D
+583,2024,2024-07-05,Incheon United,Gimcheon Sangmu FC,1,1,0,1,D
+584,2024,2024-07-06,Jeju United FC,FC Seoul,3,2,2,1,H
+585,2024,2024-07-06,Daegu FC,Pohang Steelers,3,3,1,2,D
+586,2024,2024-07-07,Gangwon FC,Gwangju FC,2,0,1,1,H
+587,2024,2024-07-07,Daejeon Citizen,Jeonbuk Motors,2,2,0,2,D
+588,2024,2024-07-09,Daegu FC,Incheon United,0,0,0,0,D
+589,2024,2024-07-09,Gimcheon Sangmu FC,Suwon City FC,2,3,0,2,A
+590,2024,2024-07-10,Jeonbuk Motors,Jeju United FC,2,1,1,1,H
+591,2024,2024-07-10,Pohang Steelers,Gangwon FC,2,0,0,2,H
+592,2024,2024-07-10,FC Seoul,Daejeon Citizen,2,1,0,2,H
+593,2024,2024-07-10,Ulsan Hyundai FC,Gwangju FC,0,1,0,0,A
+594,2024,2024-07-13,Ulsan Hyundai FC,FC Seoul,1,0,0,1,H
+595,2024,2024-07-13,Daejeon Citizen,Gangwon FC,1,1,1,0,D
+596,2024,2024-07-13,Jeju United FC,Pohang Steelers,2,1,0,2,H
+597,2024,2024-07-14,Suwon City FC,Daegu FC,2,2,1,1,D
+598,2024,2024-07-14,Gwangju FC,Incheon United,0,2,0,0,A
+599,2024,2024-07-14,Gimcheon Sangmu FC,Jeonbuk Motors,4,0,1,3,H
+600,2024,2024-07-20,Jeonbuk Motors,Ulsan Hyundai FC,2,0,0,2,H
+601,2024,2024-07-20,Gangwon FC,Jeju United FC,4,0,3,1,H
+602,2024,2024-07-21,Daegu FC,Gwangju FC,0,1,0,0,A
+603,2024,2024-07-21,Daejeon Citizen,Pohang Steelers,1,2,1,0,A
+604,2024,2024-07-21,Incheon United,Suwon City FC,1,4,0,1,A
+605,2024,2024-07-21,FC Seoul,Gimcheon Sangmu FC,1,0,0,1,H
+606,2024,2024-07-26,Gangwon FC,Jeonbuk Motors,4,2,1,3,H
+607,2024,2024-07-26,Jeju United FC,Ulsan Hyundai FC,1,0,0,1,H
+608,2024,2024-07-27,Gwangju FC,Suwon City FC,1,0,1,0,H
+609,2024,2024-07-27,Daegu FC,Daejeon Citizen,1,1,1,0,D
+610,2024,2024-07-27,Incheon United,FC Seoul,0,1,0,0,A
+611,2024,2024-07-28,Pohang Steelers,Gimcheon Sangmu FC,1,2,0,1,A
+612,2024,2024-08-09,Jeonbuk Motors,Gwangju FC,0,1,0,0,A
+613,2024,2024-08-09,Gimcheon Sangmu FC,Gangwon FC,1,2,1,0,A
+614,2024,2024-08-10,Ulsan Hyundai FC,Daegu FC,1,0,1,0,H
+615,2024,2024-08-10,Suwon City FC,Daejeon Citizen,1,2,1,0,A
+616,2024,2024-08-10,Jeju United FC,Incheon United,0,1,0,0,A
+617,2024,2024-08-11,Pohang Steelers,FC Seoul,1,2,0,1,A
+618,2024,2024-08-16,Daegu FC,Gimcheon Sangmu FC,3,0,0,3,H
+619,2024,2024-08-16,FC Seoul,Jeju United FC,1,0,1,0,H
+620,2024,2024-08-17,Jeonbuk Motors,Pohang Steelers,2,1,1,1,H
+621,2024,2024-08-17,Daejeon Citizen,Incheon United,2,1,1,1,H
+622,2024,2024-08-18,Gangwon FC,Gwangju FC,3,2,1,2,H
+623,2024,2024-08-18,Ulsan Hyundai FC,Suwon City FC,1,2,0,1,A
+624,2024,2024-08-24,Pohang Steelers,Daegu FC,1,2,0,1,A
+625,2024,2024-08-24,Incheon United,Jeonbuk Motors,0,1,0,0,A
+626,2024,2024-08-24,FC Seoul,Gangwon FC,2,0,2,0,H
+627,2024,2024-08-25,Suwon City FC,Jeju United FC,5,0,2,3,H
+628,2024,2024-08-25,Gwangju FC,Ulsan Hyundai FC,0,1,0,0,A
+629,2024,2024-08-25,Gimcheon Sangmu FC,Daejeon Citizen,2,2,1,1,D
+630,2024,2024-08-31,Ulsan Hyundai FC,Pohang Steelers,5,4,2,3,H
+631,2024,2024-08-31,Daegu FC,Incheon United,1,2,1,0,A
+632,2024,2024-09-01,Jeju United FC,Gimcheon Sangmu FC,1,0,0,1,H
+633,2024,2024-09-01,Gangwon FC,Suwon City FC,2,2,1,1,D
+634,2024,2024-09-01,Daejeon Citizen,Gwangju FC,2,0,1,1,H
+635,2024,2024-09-01,Jeonbuk Motors,FC Seoul,0,0,0,0,D
+636,2024,2024-09-13,Gwangju FC,Pohang Steelers,2,1,0,2,H
+637,2024,2024-09-13,Ulsan Hyundai FC,Gangwon FC,2,0,1,1,H
+638,2024,2024-09-14,FC Seoul,Daejeon Citizen,2,3,1,1,A
+639,2024,2024-09-14,Suwon City FC,Jeonbuk Motors,0,6,0,0,A
+640,2024,2024-09-14,Jeju United FC,Daegu FC,0,4,0,0,A
+641,2024,2024-09-15,Gimcheon Sangmu FC,Incheon United,2,0,0,2,H
+642,2024,2024-09-21,Suwon City FC,Gimcheon Sangmu FC,2,4,1,1,A
+643,2024,2024-09-21,Daegu FC,FC Seoul,1,1,0,1,D
+644,2024,2024-09-22,Gwangju FC,Jeju United FC,0,2,0,0,A
+645,2024,2024-09-22,Pohang Steelers,Gangwon FC,2,1,1,1,H
+646,2024,2024-09-22,Daejeon Citizen,Jeonbuk Motors,0,0,0,0,D
+647,2024,2024-09-22,Incheon United,Ulsan Hyundai FC,0,0,0,0,D
+648,2024,2024-09-27,Daejeon Citizen,Ulsan Hyundai FC,0,1,0,0,A
+649,2024,2024-09-27,Pohang Steelers,Incheon United,1,0,0,1,H
+650,2024,2024-09-28,Gangwon FC,Daegu FC,1,1,0,1,D
+651,2024,2024-09-28,Jeonbuk Motors,Jeju United FC,2,1,0,2,H
+652,2024,2024-09-28,Gimcheon Sangmu FC,Gwangju FC,2,0,0,2,H
+653,2024,2024-09-29,FC Seoul,Suwon City FC,1,0,0,1,H
+654,2024,2024-10-06,Daegu FC,Jeonbuk Motors,4,3,2,2,H
+655,2024,2024-10-06,Gwangju FC,FC Seoul,3,1,0,3,H
+656,2024,2024-10-06,Jeju United FC,Daejeon Citizen,2,1,1,1,H
+657,2024,2024-10-06,Incheon United,Gangwon FC,1,3,0,1,A
+658,2024,2024-10-06,Pohang Steelers,Suwon City FC,1,1,1,0,D
+659,2024,2024-10-06,Ulsan Hyundai FC,Gimcheon Sangmu FC,2,1,0,2,H
+660,2024,2024-10-18,Gwangju FC,Daegu FC,1,1,0,1,D
+661,2024,2024-10-18,Pohang Steelers,Suwon City FC,1,1,1,0,D
+662,2024,2024-10-19,Jeonbuk Motors,Daejeon Citizen,0,2,0,0,A
+663,2024,2024-10-19,Incheon United,Jeju United FC,1,2,0,1,A
+664,2024,2024-10-19,Gimcheon Sangmu FC,Ulsan Hyundai FC,0,0,0,0,D
+665,2024,2024-10-20,Gangwon FC,FC Seoul,1,0,0,1,H
+666,2024,2024-10-26,Gangwon FC,Gimcheon Sangmu FC,1,0,0,1,H
+667,2024,2024-10-26,Suwon City FC,FC Seoul,0,1,0,0,A
+668,2024,2024-10-27,Daejeon Citizen,Daegu FC,1,0,1,0,H
+669,2024,2024-10-27,Pohang Steelers,Ulsan Hyundai FC,0,2,0,0,A
+670,2024,2024-10-27,Jeju United FC,Jeonbuk Motors,1,0,0,1,H
+671,2024,2024-10-27,Incheon United,Gwangju FC,1,0,1,0,H
+672,2024,2024-11-01,Ulsan Hyundai FC,Gangwon FC,2,1,1,1,H
+673,2024,2024-11-02,Jeonbuk Motors,Incheon United,0,0,0,0,D
+674,2024,2024-11-02,Gwangju FC,Daejeon Citizen,0,0,0,0,D
+675,2024,2024-11-02,FC Seoul,Pohang Steelers,1,1,1,0,D
+676,2024,2024-11-02,Gimcheon Sangmu FC,Suwon City FC,1,0,1,0,H
+677,2024,2024-11-03,Daegu FC,Jeju United FC,2,2,1,1,D
+678,2024,2024-11-09,Suwon City FC,Gangwon FC,4,0,2,2,H
+679,2024,2024-11-10,Pohang Steelers,Gimcheon Sangmu FC,0,3,0,0,A
+680,2024,2024-11-10,FC Seoul,Ulsan Hyundai FC,1,1,0,1,D
+681,2024,2024-11-10,Jeju United FC,Gwangju FC,0,0,0,0,D
+682,2024,2024-11-10,Jeonbuk Motors,Daegu FC,3,1,0,3,H
+683,2024,2024-11-10,Incheon United,Daejeon Citizen,1,2,1,0,A
+684,2024,2024-11-23,Gangwon FC,Pohang Steelers,1,0,1,0,H
+685,2024,2024-11-23,Ulsan Hyundai FC,Suwon City FC,4,2,1,3,H
+686,2024,2024-11-23,Gimcheon Sangmu FC,FC Seoul,1,3,0,1,A
+687,2024,2024-11-24,Daegu FC,Incheon United,1,3,0,1,A
+688,2024,2024-11-24,Daejeon Citizen,Jeju United FC,2,1,2,0,H
+689,2024,2024-11-24,Gwangju FC,Jeonbuk Motors,1,1,0,1,D
+690,2024,2024-11-28,Asan Mugunghwa,Daegu FC,4,3,3,1,H
+691,2024,2024-12-01,Seoul E-Land FC,Jeonbuk Motors,1,2,0,1,A
+692,2024,2024-12-08,Jeonbuk Motors,Seoul E-Land FC,2,1,0,2,H

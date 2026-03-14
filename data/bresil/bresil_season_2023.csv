@@ -1,0 +1,381 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+bresil,2023,2023-04-15,Palmeiras,Cuiaba,2,1,1,1,H
+bresil,2023,2023-04-15,America Mineiro,Fluminense,0,3,0,0,A
+bresil,2023,2023-04-15,Botafogo,Sao Paulo,2,1,1,1,H
+bresil,2023,2023-04-15,Atletico Paranaense,Goias,2,0,1,1,H
+bresil,2023,2023-04-15,Fortaleza EC,Internacional,1,1,0,1,D
+bresil,2023,2023-04-15,RB Bragantino,Bahia,2,1,0,2,H
+bresil,2023,2023-04-16,Atletico-MG,Vasco DA Gama,1,2,1,0,A
+bresil,2023,2023-04-16,Flamengo,Coritiba,3,0,1,2,H
+bresil,2023,2023-04-16,Corinthians,Cruzeiro,2,1,0,2,H
+bresil,2023,2023-04-16,Gremio,Santos,1,0,1,0,H
+bresil,2023,2023-04-22,Fluminense,Atletico Paranaense,2,0,1,1,H
+bresil,2023,2023-04-22,Sao Paulo,America Mineiro,3,0,1,2,H
+bresil,2023,2023-04-22,Cuiaba,RB Bragantino,1,1,0,1,D
+bresil,2023,2023-04-23,Cruzeiro,Gremio,1,0,0,1,H
+bresil,2023,2023-04-23,Internacional,Flamengo,2,1,0,2,H
+bresil,2023,2023-04-23,Santos,Atletico-MG,0,0,0,0,D
+bresil,2023,2023-04-23,Vasco DA Gama,Palmeiras,2,2,2,0,D
+bresil,2023,2023-04-23,Coritiba,Fortaleza EC,0,3,0,0,A
+bresil,2023,2023-04-23,Goias,Corinthians,3,1,1,2,H
+bresil,2023,2023-04-24,Bahia,Botafogo,1,2,1,0,A
+bresil,2023,2023-04-29,Coritiba,Sao Paulo,1,1,1,0,D
+bresil,2023,2023-04-29,Fortaleza EC,Fluminense,4,2,2,2,H
+bresil,2023,2023-04-29,Palmeiras,Corinthians,2,1,2,0,H
+bresil,2023,2023-04-29,Santos,America Mineiro,3,2,2,1,H
+bresil,2023,2023-04-29,RB Bragantino,Cruzeiro,0,3,0,0,A
+bresil,2023,2023-04-30,Atletico-MG,Atletico Paranaense,2,1,1,1,H
+bresil,2023,2023-04-30,Flamengo,Botafogo,2,3,0,2,A
+bresil,2023,2023-04-30,Internacional,Goias,1,0,0,1,H
+bresil,2023,2023-04-30,Cuiaba,Gremio,1,2,1,0,A
+bresil,2023,2023-05-01,Vasco DA Gama,Bahia,0,1,0,0,A
+bresil,2023,2023-05-06,Cruzeiro,Santos,2,1,1,1,H
+bresil,2023,2023-05-07,Fluminense,Vasco DA Gama,1,1,0,1,D
+bresil,2023,2023-05-07,America Mineiro,Cuiaba,1,2,1,0,A
+bresil,2023,2023-05-07,Bahia,Coritiba,3,1,1,2,H
+bresil,2023,2023-05-07,Sao Paulo,Internacional,2,0,1,1,H
+bresil,2023,2023-05-07,Atletico Paranaense,Flamengo,2,1,1,1,H
+bresil,2023,2023-05-07,Botafogo,Atletico-MG,2,0,1,1,H
+bresil,2023,2023-05-07,Gremio,RB Bragantino,3,3,1,2,D
+bresil,2023,2023-05-07,Goias,Palmeiras,0,5,0,0,A
+bresil,2023,2023-05-08,Corinthians,Fortaleza EC,1,1,0,1,D
+bresil,2023,2023-05-10,Internacional,Atletico Paranaense,0,2,0,0,A
+bresil,2023,2023-05-10,Santos,Bahia,3,0,2,1,H
+bresil,2023,2023-05-10,RB Bragantino,America Mineiro,2,2,2,0,D
+bresil,2023,2023-05-10,Flamengo,Goias,2,0,1,1,H
+bresil,2023,2023-05-10,Cuiaba,Atletico-MG,0,4,0,0,A
+bresil,2023,2023-05-11,Palmeiras,Gremio,4,1,1,3,H
+bresil,2023,2023-05-11,Cruzeiro,Fluminense,0,2,0,0,A
+bresil,2023,2023-05-11,Coritiba,Vasco DA Gama,1,1,1,0,D
+bresil,2023,2023-05-11,Botafogo,Corinthians,3,0,1,2,H
+bresil,2023,2023-05-11,Fortaleza EC,Sao Paulo,0,0,0,0,D
+bresil,2023,2023-05-13,Bahia,Flamengo,2,3,1,1,A
+bresil,2023,2023-05-13,Palmeiras,RB Bragantino,1,1,0,1,D
+bresil,2023,2023-05-13,Fluminense,Cuiaba,2,0,1,1,H
+bresil,2023,2023-05-14,Atletico-MG,Internacional,2,0,1,1,H
+bresil,2023,2023-05-14,Gremio,Fortaleza EC,0,0,0,0,D
+bresil,2023,2023-05-14,Corinthians,Sao Paulo,1,1,1,0,D
+bresil,2023,2023-05-14,Vasco DA Gama,Santos,0,1,0,0,A
+bresil,2023,2023-05-14,America Mineiro,Cruzeiro,0,4,0,0,A
+bresil,2023,2023-05-14,Atletico Paranaense,Coritiba,3,2,0,3,H
+bresil,2023,2023-05-14,Goias,Botafogo,2,1,1,1,H
+bresil,2023,2023-05-20,Bahia,Goias,1,1,1,0,D
+bresil,2023,2023-05-20,Botafogo,Fluminense,1,0,0,1,H
+bresil,2023,2023-05-20,America Mineiro,Fortaleza EC,2,1,2,0,H
+bresil,2023,2023-05-20,Sao Paulo,Vasco DA Gama,4,2,2,2,H
+bresil,2023,2023-05-20,Coritiba,Atletico-MG,1,2,1,0,A
+bresil,2023,2023-05-20,RB Bragantino,Atletico Paranaense,2,0,1,1,H
+bresil,2023,2023-05-21,Santos,Palmeiras,0,0,0,0,D
+bresil,2023,2023-05-21,Flamengo,Corinthians,1,0,0,1,H
+bresil,2023,2023-05-21,Gremio,Internacional,3,1,2,1,H
+bresil,2023,2023-05-22,Cruzeiro,Cuiaba,0,1,0,0,A
+bresil,2023,2023-05-27,Atletico Paranaense,Gremio,1,2,1,0,A
+bresil,2023,2023-05-27,Fortaleza EC,Vasco DA Gama,2,0,0,2,H
+bresil,2023,2023-05-27,Flamengo,Cruzeiro,1,1,1,0,D
+bresil,2023,2023-05-27,Cuiaba,Coritiba,1,1,1,0,D
+bresil,2023,2023-05-28,Sao Paulo,Goias,2,1,0,2,H
+bresil,2023,2023-05-28,Internacional,Bahia,2,0,0,2,H
+bresil,2023,2023-05-28,Corinthians,Fluminense,2,0,0,2,H
+bresil,2023,2023-05-28,RB Bragantino,Santos,2,0,1,1,H
+bresil,2023,2023-05-28,Atletico-MG,Palmeiras,1,1,1,0,D
+bresil,2023,2023-05-28,Botafogo,America Mineiro,2,0,1,1,H
+bresil,2023,2023-06-03,Fortaleza EC,Bahia,0,0,0,0,D
+bresil,2023,2023-06-03,America Mineiro,Corinthians,2,0,0,2,H
+bresil,2023,2023-06-03,Atletico Paranaense,Botafogo,1,0,1,0,H
+bresil,2023,2023-06-03,Cruzeiro,Atletico-MG,0,1,0,0,A
+bresil,2023,2023-06-04,Santos,Internacional,1,1,1,0,D
+bresil,2023,2023-06-04,Fluminense,RB Bragantino,2,1,2,0,H
+bresil,2023,2023-06-04,Gremio,Sao Paulo,2,1,2,0,H
+bresil,2023,2023-06-04,Palmeiras,Coritiba,3,1,2,1,H
+bresil,2023,2023-06-04,Goias,Cuiaba,0,1,0,0,A
+bresil,2023,2023-06-05,Vasco DA Gama,Flamengo,1,4,0,1,A
+bresil,2023,2023-06-10,Coritiba,Santos,0,0,0,0,D
+bresil,2023,2023-06-10,Bahia,Cruzeiro,2,2,1,1,D
+bresil,2023,2023-06-10,Corinthians,Cuiaba,1,1,0,1,D
+bresil,2023,2023-06-10,Atletico-MG,RB Bragantino,1,1,1,0,D
+bresil,2023,2023-06-11,Botafogo,Fortaleza EC,2,0,1,1,H
+bresil,2023,2023-06-11,America Mineiro,Atletico Paranaense,2,2,0,2,D
+bresil,2023,2023-06-11,Internacional,Vasco DA Gama,2,1,2,0,H
+bresil,2023,2023-06-11,Sao Paulo,Palmeiras,0,2,0,0,A
+bresil,2023,2023-06-11,Flamengo,Gremio,3,0,1,2,H
+bresil,2023,2023-06-11,Goias,Fluminense,2,2,1,1,D
+bresil,2023,2023-06-21,Sao Paulo,Atletico Paranaense,2,1,1,1,H
+bresil,2023,2023-06-21,Cruzeiro,Fortaleza EC,0,1,0,0,A
+bresil,2023,2023-06-21,Santos,Corinthians,0,2,0,0,A
+bresil,2023,2023-06-22,Bahia,Palmeiras,1,0,0,1,H
+bresil,2023,2023-06-22,Fluminense,Atletico-MG,1,1,1,0,D
+bresil,2023,2023-06-22,Gremio,America Mineiro,3,1,1,2,H
+bresil,2023,2023-06-22,Vasco DA Gama,Goias,0,1,0,0,A
+bresil,2023,2023-06-22,Coritiba,Internacional,0,1,0,0,A
+bresil,2023,2023-06-22,Cuiaba,Botafogo,0,1,0,0,A
+bresil,2023,2023-06-23,RB Bragantino,Flamengo,4,0,1,3,H
+bresil,2023,2023-06-24,Atletico Paranaense,Corinthians,1,0,1,0,H
+bresil,2023,2023-06-24,Fluminense,Bahia,2,1,0,2,H
+bresil,2023,2023-06-24,Fortaleza EC,Atletico-MG,2,1,0,2,H
+bresil,2023,2023-06-25,Cruzeiro,Sao Paulo,1,0,1,0,H
+bresil,2023,2023-06-25,Palmeiras,Botafogo,0,1,0,0,A
+bresil,2023,2023-06-25,Gremio,Coritiba,5,1,1,4,H
+bresil,2023,2023-06-25,America Mineiro,Internacional,1,2,1,0,A
+bresil,2023,2023-06-25,Santos,Flamengo,2,3,1,1,A
+bresil,2023,2023-06-25,RB Bragantino,Goias,2,0,2,0,H
+bresil,2023,2023-06-27,Vasco DA Gama,Cuiaba,1,0,0,1,H
+bresil,2023,2023-07-01,Sao Paulo,Fluminense,1,0,0,1,H
+bresil,2023,2023-07-01,Bahia,Gremio,1,2,1,0,A
+bresil,2023,2023-07-01,Flamengo,Fortaleza EC,2,0,1,1,H
+bresil,2023,2023-07-02,Internacional,Cruzeiro,0,0,0,0,D
+bresil,2023,2023-07-02,Corinthians,RB Bragantino,0,1,0,0,A
+bresil,2023,2023-07-02,Botafogo,Vasco DA Gama,2,0,0,2,H
+bresil,2023,2023-07-02,Atletico Paranaense,Palmeiras,2,2,0,2,D
+bresil,2023,2023-07-02,Atletico-MG,America Mineiro,2,2,2,0,D
+bresil,2023,2023-07-02,Cuiaba,Santos,3,0,0,3,H
+bresil,2023,2023-07-03,Goias,Coritiba,1,2,0,1,A
+bresil,2023,2023-07-08,Vasco DA Gama,Cruzeiro,0,1,0,0,A
+bresil,2023,2023-07-08,Cuiaba,Bahia,1,1,1,0,D
+bresil,2023,2023-07-08,Coritiba,America Mineiro,3,1,2,1,H
+bresil,2023,2023-07-08,Atletico-MG,Corinthians,0,1,0,0,A
+bresil,2023,2023-07-09,Palmeiras,Flamengo,1,1,1,0,D
+bresil,2023,2023-07-09,Santos,Goias,4,3,3,1,H
+bresil,2023,2023-07-09,Fluminense,Internacional,2,0,2,0,H
+bresil,2023,2023-07-09,RB Bragantino,Sao Paulo,0,0,0,0,D
+bresil,2023,2023-07-09,Gremio,Botafogo,0,2,0,0,A
+bresil,2023,2023-07-09,Fortaleza EC,Atletico Paranaense,1,0,0,1,H
+bresil,2023,2023-07-16,Botafogo,RB Bragantino,2,0,0,2,H
+bresil,2023,2023-07-16,Cruzeiro,Coritiba,0,0,0,0,D
+bresil,2023,2023-07-16,Fluminense,Flamengo,0,0,0,0,D
+bresil,2023,2023-07-16,Sao Paulo,Santos,4,1,2,2,H
+bresil,2023,2023-07-16,Fortaleza EC,Cuiaba,0,1,0,0,A
+bresil,2023,2023-07-16,Internacional,Palmeiras,0,0,0,0,D
+bresil,2023,2023-07-16,Atletico Paranaense,Bahia,2,0,2,0,H
+bresil,2023,2023-07-17,Goias,Atletico-MG,0,0,0,0,D
+bresil,2023,2023-07-22,Palmeiras,Fortaleza EC,3,1,1,2,H
+bresil,2023,2023-07-22,Flamengo,America Mineiro,1,1,0,1,D
+bresil,2023,2023-07-22,Bahia,Corinthians,0,0,0,0,D
+bresil,2023,2023-07-22,Cuiaba,Sao Paulo,2,1,0,2,H
+bresil,2023,2023-07-23,Gremio,Atletico-MG,1,0,1,0,H
+bresil,2023,2023-07-23,Santos,Botafogo,2,2,1,1,D
+bresil,2023,2023-07-23,Cruzeiro,Goias,0,1,0,0,A
+bresil,2023,2023-07-23,RB Bragantino,Internacional,0,0,0,0,D
+bresil,2023,2023-07-23,Vasco DA Gama,Atletico Paranaense,0,2,0,0,A
+bresil,2023,2023-07-24,Coritiba,Fluminense,2,0,2,0,H
+bresil,2023,2023-07-29,Internacional,Cuiaba,1,2,1,0,A
+bresil,2023,2023-07-29,Fluminense,Santos,1,0,0,1,H
+bresil,2023,2023-07-29,Atletico Paranaense,Cruzeiro,3,3,1,2,D
+bresil,2023,2023-07-29,Corinthians,Vasco DA Gama,3,1,1,2,H
+bresil,2023,2023-07-29,Fortaleza EC,RB Bragantino,0,3,0,0,A
+bresil,2023,2023-07-30,Atletico-MG,Flamengo,1,2,1,0,A
+bresil,2023,2023-07-30,Sao Paulo,Bahia,0,0,0,0,D
+bresil,2023,2023-07-30,Botafogo,Coritiba,4,1,3,1,H
+bresil,2023,2023-07-30,America Mineiro,Palmeiras,1,4,1,0,A
+bresil,2023,2023-07-30,Goias,Gremio,1,1,0,1,D
+bresil,2023,2023-08-05,Santos,Atletico Paranaense,1,1,0,1,D
+bresil,2023,2023-08-05,Internacional,Corinthians,2,2,1,1,D
+bresil,2023,2023-08-05,Goias,Fortaleza EC,1,0,0,1,H
+bresil,2023,2023-08-06,Fluminense,Palmeiras,2,1,1,1,H
+bresil,2023,2023-08-06,Sao Paulo,Atletico-MG,0,2,0,0,A
+bresil,2023,2023-08-06,Vasco DA Gama,Gremio,1,0,0,1,H
+bresil,2023,2023-08-06,Bahia,America Mineiro,3,1,1,2,H
+bresil,2023,2023-08-06,Cruzeiro,Botafogo,0,0,0,0,D
+bresil,2023,2023-08-06,Coritiba,RB Bragantino,0,1,0,0,A
+bresil,2023,2023-08-06,Cuiaba,Flamengo,3,0,0,3,H
+bresil,2023,2023-08-13,Botafogo,Internacional,3,1,0,3,H
+bresil,2023,2023-08-13,Atletico-MG,Bahia,1,0,0,1,H
+bresil,2023,2023-08-13,America Mineiro,Goias,0,1,0,0,A
+bresil,2023,2023-08-13,Gremio,Fluminense,2,1,2,0,H
+bresil,2023,2023-08-13,Corinthians,Coritiba,3,1,0,3,H
+bresil,2023,2023-08-13,Flamengo,Sao Paulo,1,1,0,1,D
+bresil,2023,2023-08-13,Fortaleza EC,Santos,4,0,0,4,H
+bresil,2023,2023-08-14,Palmeiras,Cruzeiro,1,0,0,1,H
+bresil,2023,2023-08-15,RB Bragantino,Vasco DA Gama,1,1,1,0,D
+bresil,2023,2023-08-15,Atletico Paranaense,Cuiaba,2,0,1,1,H
+bresil,2023,2023-08-19,Internacional,Fortaleza EC,0,1,0,0,A
+bresil,2023,2023-08-19,Sao Paulo,Botafogo,0,0,0,0,D
+bresil,2023,2023-08-19,Fluminense,America Mineiro,3,1,0,3,H
+bresil,2023,2023-08-19,Cuiaba,Palmeiras,0,2,0,0,A
+bresil,2023,2023-08-20,Cruzeiro,Corinthians,1,1,1,0,D
+bresil,2023,2023-08-20,Vasco DA Gama,Atletico-MG,1,0,1,0,H
+bresil,2023,2023-08-20,Bahia,RB Bragantino,4,0,2,2,H
+bresil,2023,2023-08-20,Santos,Gremio,2,1,0,2,H
+bresil,2023,2023-08-20,Coritiba,Flamengo,2,3,1,1,A
+bresil,2023,2023-08-21,Goias,Atletico Paranaense,1,1,0,1,D
+bresil,2023,2023-08-26,Flamengo,Internacional,0,0,0,0,D
+bresil,2023,2023-08-27,Corinthians,Goias,1,1,0,1,D
+bresil,2023,2023-08-27,RB Bragantino,Cuiaba,2,0,0,2,H
+bresil,2023,2023-08-27,Botafogo,Bahia,3,0,1,2,H
+bresil,2023,2023-08-27,America Mineiro,Sao Paulo,2,1,0,2,H
+bresil,2023,2023-08-27,Atletico-MG,Santos,2,0,1,1,H
+bresil,2023,2023-08-27,Palmeiras,Vasco DA Gama,1,0,0,1,H
+bresil,2023,2023-08-27,Atletico Paranaense,Fluminense,2,2,1,1,D
+bresil,2023,2023-08-27,Fortaleza EC,Coritiba,3,1,2,1,H
+bresil,2023,2023-08-27,Gremio,Cruzeiro,3,0,1,2,H
+bresil,2023,2023-09-02,Atletico Paranaense,Atletico-MG,1,1,0,1,D
+bresil,2023,2023-09-02,Goias,Internacional,0,0,0,0,D
+bresil,2023,2023-09-03,Botafogo,Flamengo,1,2,1,0,A
+bresil,2023,2023-09-03,Gremio,Cuiaba,2,0,1,1,H
+bresil,2023,2023-09-03,Fluminense,Fortaleza EC,1,0,0,1,H
+bresil,2023,2023-09-03,Corinthians,Palmeiras,0,0,0,0,D
+bresil,2023,2023-09-03,Bahia,Vasco DA Gama,1,1,1,0,D
+bresil,2023,2023-09-03,America Mineiro,Santos,2,0,1,1,H
+bresil,2023,2023-09-03,Cruzeiro,RB Bragantino,0,0,0,0,D
+bresil,2023,2023-09-14,Internacional,Sao Paulo,2,1,0,2,H
+bresil,2023,2023-09-14,Flamengo,Atletico Paranaense,0,3,0,0,A
+bresil,2023,2023-09-14,Santos,Cruzeiro,0,3,0,0,A
+bresil,2023,2023-09-14,Fortaleza EC,Corinthians,2,1,1,1,H
+bresil,2023,2023-09-14,Coritiba,Bahia,2,4,1,1,A
+bresil,2023,2023-09-15,RB Bragantino,Gremio,2,0,2,0,H
+bresil,2023,2023-09-15,Cuiaba,America Mineiro,2,2,2,0,D
+bresil,2023,2023-09-16,Palmeiras,Goias,1,0,0,1,H
+bresil,2023,2023-09-16,Vasco DA Gama,Fluminense,4,2,1,3,H
+bresil,2023,2023-09-17,Atletico-MG,Botafogo,1,0,0,1,H
+bresil,2023,2023-09-18,Bahia,Santos,1,2,0,1,A
+bresil,2023,2023-09-19,Corinthians,Gremio,4,4,3,1,D
+bresil,2023,2023-09-20,America Mineiro,RB Bragantino,0,2,0,0,A
+bresil,2023,2023-09-20,Goias,Flamengo,0,0,0,0,D
+bresil,2023,2023-09-21,Fluminense,Cruzeiro,1,0,0,1,H
+bresil,2023,2023-09-21,Sao Paulo,Fortaleza EC,1,2,0,1,A
+bresil,2023,2023-09-21,Vasco DA Gama,Coritiba,5,1,2,3,H
+bresil,2023,2023-09-21,Atletico Paranaense,Internacional,2,1,1,1,H
+bresil,2023,2023-09-22,Gremio,Palmeiras,1,0,1,0,H
+bresil,2023,2023-09-22,Corinthians,Botafogo,1,0,0,1,H
+bresil,2023,2023-09-24,Atletico-MG,Cuiaba,1,0,1,0,H
+bresil,2023,2023-09-25,America Mineiro,Vasco DA Gama,0,1,0,0,A
+bresil,2023,2023-09-27,Sao Paulo,Coritiba,2,1,2,0,H
+bresil,2023,2023-09-30,Flamengo,Bahia,1,0,0,1,H
+bresil,2023,2023-09-30,Fortaleza EC,Gremio,1,1,1,0,D
+bresil,2023,2023-09-30,Sao Paulo,Corinthians,2,1,2,0,H
+bresil,2023,2023-09-30,Cuiaba,Fluminense,3,0,0,3,H
+bresil,2023,2023-10-01,Internacional,Atletico-MG,0,2,0,0,A
+bresil,2023,2023-10-01,Santos,Vasco DA Gama,4,1,3,1,H
+bresil,2023,2023-10-01,Cruzeiro,America Mineiro,1,1,1,0,D
+bresil,2023,2023-10-01,Coritiba,Atletico Paranaense,2,0,2,0,H
+bresil,2023,2023-10-01,RB Bragantino,Palmeiras,2,1,0,2,H
+bresil,2023,2023-10-02,Botafogo,Goias,1,1,0,1,D
+bresil,2023,2023-10-07,Goias,Bahia,4,6,3,1,A
+bresil,2023,2023-10-07,Vasco DA Gama,Sao Paulo,0,0,0,0,D
+bresil,2023,2023-10-08,Corinthians,Flamengo,1,1,0,1,D
+bresil,2023,2023-10-08,Internacional,Gremio,3,2,1,2,H
+bresil,2023,2023-10-08,Palmeiras,Santos,1,2,1,0,A
+bresil,2023,2023-10-08,Fluminense,Botafogo,0,2,0,0,A
+bresil,2023,2023-10-08,Atletico Paranaense,RB Bragantino,1,1,1,0,D
+bresil,2023,2023-10-08,Fortaleza EC,America Mineiro,3,2,1,2,H
+bresil,2023,2023-10-08,Atletico-MG,Coritiba,1,2,0,1,A
+bresil,2023,2023-10-15,Cuiaba,Cruzeiro,0,0,0,0,D
+bresil,2023,2023-10-18,Gremio,Atletico Paranaense,1,2,1,0,A
+bresil,2023,2023-10-18,America Mineiro,Botafogo,1,2,1,0,A
+bresil,2023,2023-10-18,Coritiba,Cuiaba,0,3,0,0,A
+bresil,2023,2023-10-19,Bahia,Internacional,1,0,1,0,H
+bresil,2023,2023-10-19,Vasco DA Gama,Fortaleza EC,1,0,0,1,H
+bresil,2023,2023-10-19,Goias,Sao Paulo,2,0,2,0,H
+bresil,2023,2023-10-19,Palmeiras,Atletico-MG,0,2,0,0,A
+bresil,2023,2023-10-19,Cruzeiro,Flamengo,0,2,0,0,A
+bresil,2023,2023-10-19,Santos,RB Bragantino,1,3,0,1,A
+bresil,2023,2023-10-20,Fluminense,Corinthians,3,3,1,2,D
+bresil,2023,2023-10-21,Bahia,Fortaleza EC,2,0,1,1,H
+bresil,2023,2023-10-21,Sao Paulo,Gremio,3,0,1,2,H
+bresil,2023,2023-10-21,Cuiaba,Goias,1,1,0,1,D
+bresil,2023,2023-10-22,Botafogo,Atletico Paranaense,1,1,1,0,D
+bresil,2023,2023-10-22,Internacional,Santos,7,1,4,3,H
+bresil,2023,2023-10-22,Flamengo,Vasco DA Gama,1,0,0,1,H
+bresil,2023,2023-10-22,Atletico-MG,Cruzeiro,0,1,0,0,A
+bresil,2023,2023-10-22,Corinthians,America Mineiro,1,1,0,1,D
+bresil,2023,2023-10-22,Coritiba,Palmeiras,0,2,0,0,A
+bresil,2023,2023-10-22,RB Bragantino,Fluminense,1,0,1,0,H
+bresil,2023,2023-10-25,Palmeiras,Sao Paulo,5,0,3,2,H
+bresil,2023,2023-10-25,Cruzeiro,Bahia,3,0,1,2,H
+bresil,2023,2023-10-26,Gremio,Flamengo,3,2,0,3,H
+bresil,2023,2023-10-26,Cuiaba,Corinthians,0,1,0,0,A
+bresil,2023,2023-10-26,Fluminense,Goias,5,3,2,3,H
+bresil,2023,2023-10-26,Atletico Paranaense,America Mineiro,3,2,3,0,H
+bresil,2023,2023-10-26,RB Bragantino,Atletico-MG,1,2,0,1,A
+bresil,2023,2023-10-27,Santos,Coritiba,2,1,1,1,H
+bresil,2023,2023-10-27,Vasco DA Gama,Internacional,1,2,0,1,A
+bresil,2023,2023-10-28,Palmeiras,Bahia,1,0,1,0,H
+bresil,2023,2023-10-28,America Mineiro,Gremio,3,4,2,1,A
+bresil,2023,2023-10-29,Atletico-MG,Fluminense,2,0,0,2,H
+bresil,2023,2023-10-29,Atletico Paranaense,Sao Paulo,1,1,1,0,D
+bresil,2023,2023-10-29,Goias,Vasco DA Gama,1,1,0,1,D
+bresil,2023,2023-10-29,Internacional,Coritiba,3,4,1,2,A
+bresil,2023,2023-10-29,Corinthians,Santos,1,1,0,1,D
+bresil,2023,2023-10-29,Botafogo,Cuiaba,0,1,0,0,A
+bresil,2023,2023-10-31,Bahia,Fluminense,1,0,1,0,H
+bresil,2023,2023-11-01,Internacional,America Mineiro,1,1,1,0,D
+bresil,2023,2023-11-01,Corinthians,Atletico Paranaense,1,0,0,1,H
+bresil,2023,2023-11-01,Flamengo,Santos,1,2,1,0,A
+bresil,2023,2023-11-01,Coritiba,Gremio,1,2,0,1,A
+bresil,2023,2023-11-02,Botafogo,Palmeiras,3,4,3,0,A
+bresil,2023,2023-11-02,Atletico-MG,Fortaleza EC,3,1,1,2,H
+bresil,2023,2023-11-02,Cuiaba,Vasco DA Gama,0,2,0,0,A
+bresil,2023,2023-11-02,Goias,RB Bragantino,0,2,0,0,A
+bresil,2023,2023-11-02,Sao Paulo,Cruzeiro,1,0,0,1,H
+bresil,2023,2023-11-04,America Mineiro,Atletico-MG,1,1,0,1,D
+bresil,2023,2023-11-04,Gremio,Bahia,1,0,0,1,H
+bresil,2023,2023-11-05,Palmeiras,Atletico Paranaense,1,0,1,0,H
+bresil,2023,2023-11-05,Cruzeiro,Internacional,1,2,0,1,A
+bresil,2023,2023-11-05,Fortaleza EC,Flamengo,0,2,0,0,A
+bresil,2023,2023-11-05,RB Bragantino,Corinthians,1,0,1,0,H
+bresil,2023,2023-11-05,Coritiba,Goias,0,1,0,0,A
+bresil,2023,2023-11-06,Vasco DA Gama,Botafogo,1,0,1,0,H
+bresil,2023,2023-11-07,Santos,Cuiaba,0,0,0,0,D
+bresil,2023,2023-11-08,Internacional,Fluminense,0,0,0,0,D
+bresil,2023,2023-11-08,America Mineiro,Coritiba,0,3,0,0,A
+bresil,2023,2023-11-08,Sao Paulo,RB Bragantino,1,0,0,1,H
+bresil,2023,2023-11-08,Atletico Paranaense,Fortaleza EC,1,1,0,1,D
+bresil,2023,2023-11-09,Flamengo,Palmeiras,3,0,2,1,H
+bresil,2023,2023-11-09,Corinthians,Atletico-MG,1,1,1,0,D
+bresil,2023,2023-11-09,Goias,Santos,0,1,0,0,A
+bresil,2023,2023-11-09,Bahia,Cuiaba,0,3,0,0,A
+bresil,2023,2023-11-09,Botafogo,Gremio,3,4,2,1,A
+bresil,2023,2023-11-11,Coritiba,Cruzeiro,1,0,0,1,H
+bresil,2023,2023-11-11,Flamengo,Fluminense,1,1,1,0,D
+bresil,2023,2023-11-12,Palmeiras,Internacional,3,0,1,2,H
+bresil,2023,2023-11-12,Gremio,Corinthians,0,1,0,0,A
+bresil,2023,2023-11-12,RB Bragantino,Botafogo,2,2,1,1,D
+bresil,2023,2023-11-12,Bahia,Atletico Paranaense,1,1,0,1,D
+bresil,2023,2023-11-12,Santos,Sao Paulo,0,0,0,0,D
+bresil,2023,2023-11-12,Vasco DA Gama,America Mineiro,2,1,1,1,H
+bresil,2023,2023-11-12,Atletico-MG,Goias,2,1,1,1,H
+bresil,2023,2023-11-12,Cuiaba,Fortaleza EC,2,1,1,1,H
+bresil,2023,2023-11-18,Fortaleza EC,Cruzeiro,0,1,0,0,A
+bresil,2023,2023-11-22,Cruzeiro,Vasco DA Gama,2,2,2,0,D
+bresil,2023,2023-11-23,Fluminense,Sao Paulo,1,0,0,1,H
+bresil,2023,2023-11-23,Fortaleza EC,Botafogo,2,2,2,0,D
+bresil,2023,2023-11-24,Flamengo,RB Bragantino,1,0,0,1,H
+bresil,2023,2023-11-25,Corinthians,Bahia,1,5,0,1,A
+bresil,2023,2023-11-25,Atletico Paranaense,Vasco DA Gama,0,0,0,0,D
+bresil,2023,2023-11-26,Fluminense,Coritiba,2,1,1,1,H
+bresil,2023,2023-11-26,Botafogo,Santos,1,1,1,0,D
+bresil,2023,2023-11-26,Atletico-MG,Gremio,3,0,1,2,H
+bresil,2023,2023-11-26,Internacional,RB Bragantino,1,0,1,0,H
+bresil,2023,2023-11-26,America Mineiro,Flamengo,0,3,0,0,A
+bresil,2023,2023-11-26,Sao Paulo,Cuiaba,0,0,0,0,D
+bresil,2023,2023-11-26,Fortaleza EC,Palmeiras,2,2,1,1,D
+bresil,2023,2023-11-28,Goias,Cruzeiro,0,1,0,0,A
+bresil,2023,2023-11-29,Vasco DA Gama,Corinthians,2,4,2,0,A
+bresil,2023,2023-11-29,Santos,Fluminense,0,3,0,0,A
+bresil,2023,2023-11-29,Flamengo,Atletico-MG,0,3,0,0,A
+bresil,2023,2023-11-29,Bahia,Sao Paulo,0,1,0,0,A
+bresil,2023,2023-11-29,Cuiaba,Internacional,0,2,0,0,A
+bresil,2023,2023-11-30,Palmeiras,America Mineiro,4,0,2,2,H
+bresil,2023,2023-11-30,Coritiba,Botafogo,1,1,0,1,D
+bresil,2023,2023-11-30,Gremio,Goias,2,1,0,2,H
+bresil,2023,2023-11-30,Cruzeiro,Atletico Paranaense,1,1,0,1,D
+bresil,2023,2023-11-30,RB Bragantino,Fortaleza EC,1,2,1,0,A
+bresil,2023,2023-12-02,Corinthians,Internacional,1,2,0,1,A
+bresil,2023,2023-12-03,Atletico-MG,Sao Paulo,2,1,0,2,H
+bresil,2023,2023-12-03,Palmeiras,Fluminense,1,0,1,0,H
+bresil,2023,2023-12-03,Flamengo,Cuiaba,2,1,2,0,H
+bresil,2023,2023-12-03,Botafogo,Cruzeiro,0,0,0,0,D
+bresil,2023,2023-12-03,America Mineiro,Bahia,3,2,2,1,H
+bresil,2023,2023-12-03,Gremio,Vasco DA Gama,1,0,0,1,H
+bresil,2023,2023-12-03,Atletico Paranaense,Santos,3,0,1,2,H
+bresil,2023,2023-12-03,Fortaleza EC,Goias,1,0,1,0,H
+bresil,2023,2023-12-03,RB Bragantino,Coritiba,1,0,0,1,H
+bresil,2023,2023-12-06,Goias,America Mineiro,1,0,1,0,H
+bresil,2023,2023-12-07,Bahia,Atletico-MG,4,1,2,2,H
+bresil,2023,2023-12-07,Internacional,Botafogo,3,1,1,2,H
+bresil,2023,2023-12-07,Fluminense,Gremio,2,3,1,1,A
+bresil,2023,2023-12-07,Sao Paulo,Flamengo,1,0,1,0,H
+bresil,2023,2023-12-07,Santos,Fortaleza EC,1,2,0,1,A
+bresil,2023,2023-12-07,Vasco DA Gama,RB Bragantino,2,1,1,1,H
+bresil,2023,2023-12-07,Cruzeiro,Palmeiras,1,1,0,1,D
+bresil,2023,2023-12-07,Coritiba,Corinthians,0,2,0,0,A
+bresil,2023,2023-12-07,Cuiaba,Atletico Paranaense,3,0,2,1,H

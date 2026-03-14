@@ -1,0 +1,194 @@
+,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,2024-07-19,Aarhus,FC Midtjylland,1,1,1,0,D
+1,2024-07-19,FC Nordsjaelland,Aalborg,3,0,2,1,H
+2,2024-07-21,Silkeborg,Sonderjyske,1,0,0,1,H
+3,2024-07-21,Vejle,Randers FC,2,3,1,1,A
+4,2024-07-21,Viborg,Brondby,3,3,2,1,D
+5,2024-07-22,Lyngby,FC Copenhagen,0,2,0,0,A
+6,2024-07-26,Sonderjyske,Lyngby,1,1,1,0,D
+7,2024-07-27,FC Nordsjaelland,FC Midtjylland,2,2,2,0,D
+8,2024-07-28,Randers FC,Viborg,3,1,2,1,H
+9,2024-07-28,Aalborg,Silkeborg,2,1,1,1,H
+10,2024-07-28,FC Copenhagen,Aarhus,3,2,1,2,H
+11,2024-07-29,Brondby,Vejle,2,1,0,2,H
+12,2024-08-02,Aarhus,Sonderjyske,4,0,2,2,H
+13,2024-08-03,FC Midtjylland,Aalborg,2,0,1,1,H
+14,2024-08-04,Silkeborg,Viborg,3,2,3,0,H
+15,2024-08-04,FC Copenhagen,Randers FC,1,1,0,1,D
+16,2024-08-04,Lyngby,Brondby,0,2,0,0,A
+17,2024-08-05,Vejle,FC Nordsjaelland,0,1,0,0,A
+18,2024-08-09,FC Midtjylland,Vejle,2,0,1,1,H
+19,2024-08-11,FC Nordsjaelland,Lyngby,1,1,1,0,D
+20,2024-08-11,Randers FC,Silkeborg,0,2,0,0,A
+21,2024-08-11,Brondby,Aarhus,0,1,0,0,A
+22,2024-08-11,Sonderjyske,FC Copenhagen,0,2,0,0,A
+23,2024-08-12,Viborg,Aalborg,2,3,2,0,A
+24,2024-08-16,Lyngby,FC Midtjylland,1,2,0,1,A
+25,2024-08-18,Randers FC,Sonderjyske,1,2,1,0,A
+26,2024-08-18,Silkeborg,FC Nordsjaelland,4,1,2,2,H
+27,2024-08-18,FC Copenhagen,Viborg,1,1,0,1,D
+28,2024-08-18,Aalborg,Brondby,0,4,0,0,A
+29,2024-08-19,Aarhus,Vejle,5,1,3,2,H
+30,2024-08-23,Aalborg,Aarhus,0,4,0,0,A
+31,2024-08-24,FC Midtjylland,Sonderjyske,3,2,1,2,H
+32,2024-08-25,Vejle,Silkeborg,1,3,0,1,A
+33,2024-08-25,FC Nordsjaelland,FC Copenhagen,3,2,3,0,H
+34,2024-08-25,Brondby,Randers FC,2,2,0,2,D
+35,2024-08-26,Viborg,Lyngby,1,0,0,1,H
+36,2024-08-30,Lyngby,Vejle,1,0,1,0,H
+37,2024-08-31,Aarhus,FC Nordsjaelland,4,2,1,3,H
+38,2024-09-01,Sonderjyske,Viborg,2,2,2,0,D
+39,2024-09-01,FC Copenhagen,Brondby,3,1,2,1,H
+40,2024-09-01,Silkeborg,FC Midtjylland,1,3,1,0,A
+41,2024-09-01,Randers FC,Aalborg,1,0,1,0,H
+42,2024-09-13,Aalborg,Lyngby,2,1,1,1,H
+43,2024-09-14,FC Midtjylland,FC Copenhagen,2,1,0,2,H
+44,2024-09-15,Aarhus,Silkeborg,1,1,1,0,D
+45,2024-09-15,Vejle,Viborg,0,5,0,0,A
+46,2024-09-15,Brondby,Sonderjyske,2,0,1,1,H
+47,2024-09-16,FC Nordsjaelland,Randers FC,1,1,0,1,D
+48,2024-09-20,Viborg,FC Nordsjaelland,3,2,3,0,H
+49,2024-09-22,Sonderjyske,Vejle,2,1,1,1,H
+50,2024-09-22,Randers FC,FC Midtjylland,2,2,2,0,D
+51,2024-09-22,Lyngby,Aarhus,0,0,0,0,D
+52,2024-09-22,Silkeborg,Brondby,3,3,1,2,D
+53,2024-09-23,FC Copenhagen,Aalborg,2,0,0,2,H
+54,2024-09-28,Aarhus,Randers FC,2,2,1,1,D
+55,2024-09-29,FC Midtjylland,Viborg,3,1,1,2,H
+56,2024-09-29,Aalborg,Sonderjyske,3,0,0,3,H
+57,2024-09-29,Lyngby,Silkeborg,2,2,0,2,D
+58,2024-09-29,Vejle,FC Copenhagen,1,2,0,1,A
+59,2024-09-30,FC Nordsjaelland,Brondby,4,1,4,0,H
+60,2024-10-04,Vejle,Aalborg,2,2,1,1,D
+61,2024-10-06,Sonderjyske,FC Nordsjaelland,1,4,1,0,A
+62,2024-10-06,Randers FC,Lyngby,1,1,1,0,D
+63,2024-10-06,Viborg,Aarhus,1,1,1,0,D
+64,2024-10-06,Brondby,FC Midtjylland,2,0,1,1,H
+65,2024-10-06,Silkeborg,FC Copenhagen,2,2,2,0,D
+66,2024-10-18,FC Copenhagen,Vejle,3,1,1,2,H
+67,2024-10-20,Aalborg,Randers FC,0,2,0,0,A
+68,2024-10-20,Lyngby,Viborg,0,0,0,0,D
+69,2024-10-20,FC Nordsjaelland,Silkeborg,1,1,0,1,D
+70,2024-10-20,Sonderjyske,FC Midtjylland,3,2,1,2,H
+71,2024-10-21,Aarhus,Brondby,1,0,1,0,H
+72,2024-10-25,Silkeborg,Aalborg,1,1,0,1,D
+73,2024-10-27,Brondby,FC Copenhagen,0,0,0,0,D
+74,2024-10-27,Vejle,Lyngby,2,0,0,2,H
+75,2024-10-27,Viborg,Sonderjyske,4,2,2,2,H
+76,2024-10-27,FC Midtjylland,Aarhus,2,0,1,1,H
+77,2024-10-28,Randers FC,FC Nordsjaelland,4,0,2,2,H
+78,2024-11-02,Sonderjyske,Randers FC,1,4,1,0,A
+79,2024-11-03,FC Midtjylland,Brondby,1,5,1,0,A
+80,2024-11-03,FC Nordsjaelland,Viborg,2,1,2,0,H
+81,2024-11-03,Aarhus,Lyngby,2,1,1,1,H
+82,2024-11-03,Aalborg,Vejle,3,3,0,3,D
+83,2024-11-04,FC Copenhagen,Silkeborg,2,2,1,1,D
+84,2024-11-08,Vejle,Sonderjyske,1,1,1,0,D
+85,2024-11-10,Lyngby,Aalborg,2,2,1,1,D
+86,2024-11-10,Silkeborg,Randers FC,1,0,0,1,H
+87,2024-11-10,Viborg,FC Midtjylland,1,0,1,0,H
+88,2024-11-10,Aarhus,FC Copenhagen,1,1,0,1,D
+89,2024-11-10,Brondby,FC Nordsjaelland,1,1,1,0,D
+90,2024-11-22,FC Nordsjaelland,Aarhus,1,0,0,1,H
+91,2024-11-24,Randers FC,Vejle,2,0,0,2,H
+92,2024-11-24,Aalborg,Viborg,0,0,0,0,D
+93,2024-11-24,Sonderjyske,Brondby,2,2,0,2,D
+94,2024-11-24,FC Copenhagen,Lyngby,2,1,1,1,H
+95,2024-11-25,FC Midtjylland,Silkeborg,1,0,1,0,H
+96,2024-11-29,Brondby,Aalborg,1,0,1,0,H
+97,2024-12-01,Lyngby,Sonderjyske,0,2,0,0,A
+98,2024-12-01,Viborg,Randers FC,1,2,0,1,A
+99,2024-12-01,Vejle,FC Midtjylland,0,3,0,0,A
+100,2024-12-01,Silkeborg,Aarhus,1,1,0,1,D
+101,2024-12-02,FC Copenhagen,FC Nordsjaelland,3,1,1,2,H
+102,2025-02-14,Brondby,Viborg,4,1,1,3,H
+103,2025-02-16,Silkeborg,Vejle,0,1,0,0,A
+104,2025-02-16,Sonderjyske,Aarhus,1,4,1,0,A
+105,2025-02-16,FC Midtjylland,Lyngby,1,0,1,0,H
+106,2025-02-17,Randers FC,FC Copenhagen,1,2,0,1,A
+107,2025-02-21,Lyngby,Randers FC,0,0,0,0,D
+108,2025-02-23,FC Nordsjaelland,Sonderjyske,3,2,2,1,H
+109,2025-02-23,Aarhus,Aalborg,4,0,1,3,H
+110,2025-02-23,Vejle,Brondby,2,2,0,2,D
+111,2025-02-23,FC Copenhagen,FC Midtjylland,1,0,0,1,H
+112,2025-02-24,Viborg,Silkeborg,1,4,1,0,A
+113,2025-02-26,Aalborg,FC Nordsjaelland,1,2,0,1,A
+114,2025-02-28,Randers FC,Aarhus,1,1,1,0,D
+115,2025-03-02,Sonderjyske,Silkeborg,1,3,1,0,A
+116,2025-03-02,Viborg,Vejle,3,1,3,0,H
+117,2025-03-02,FC Midtjylland,FC Nordsjaelland,2,1,0,2,H
+118,2025-03-02,Aalborg,FC Copenhagen,0,0,0,0,D
+119,2025-03-03,Brondby,Lyngby,1,1,0,1,D
+120,2025-03-07,FC Nordsjaelland,Vejle,3,1,1,2,H
+121,2025-03-09,Aalborg,FC Midtjylland,1,4,1,0,A
+122,2025-03-09,Silkeborg,Lyngby,0,1,0,0,A
+123,2025-03-09,Aarhus,Viborg,1,1,0,1,D
+124,2025-03-09,FC Copenhagen,Sonderjyske,1,1,1,0,D
+125,2025-03-10,Randers FC,Brondby,4,2,0,4,H
+126,2025-03-16,Vejle,Aarhus,3,2,2,1,H
+127,2025-03-16,Sonderjyske,Aalborg,0,3,0,0,A
+128,2025-03-16,FC Midtjylland,Randers FC,4,2,3,1,H
+129,2025-03-16,Brondby,Silkeborg,2,2,1,1,D
+130,2025-03-16,Lyngby,FC Nordsjaelland,1,0,0,1,H
+131,2025-03-16,Viborg,FC Copenhagen,3,2,0,3,H
+132,2025-03-28,Aalborg,Viborg,0,4,0,0,A
+133,2025-03-30,Sonderjyske,Silkeborg,2,1,2,0,H
+134,2025-03-30,Lyngby,Vejle,1,2,1,0,A
+135,2025-03-30,Aarhus,FC Nordsjaelland,2,0,1,1,H
+136,2025-03-30,FC Midtjylland,Brondby,0,2,0,0,A
+137,2025-03-31,FC Copenhagen,Randers FC,1,0,1,0,H
+138,2025-04-04,Randers FC,FC Midtjylland,2,1,1,1,H
+139,2025-04-06,Viborg,Sonderjyske,2,1,1,1,H
+140,2025-04-06,Silkeborg,Lyngby,2,1,2,0,H
+141,2025-04-06,Vejle,Aalborg,1,1,1,0,D
+142,2025-04-06,FC Nordsjaelland,FC Copenhagen,0,1,0,0,A
+143,2025-04-07,Brondby,Aarhus,2,1,1,1,H
+144,2025-04-11,Aalborg,Lyngby,2,2,2,0,D
+145,2025-04-13,FC Copenhagen,Brondby,1,2,0,1,A
+146,2025-04-13,Viborg,Silkeborg,2,1,0,2,H
+147,2025-04-13,Aarhus,FC Midtjylland,1,1,0,1,D
+148,2025-04-13,FC Nordsjaelland,Randers FC,5,2,3,2,H
+149,2025-04-14,Sonderjyske,Vejle,1,0,1,0,H
+150,2025-04-16,Silkeborg,Aalborg,4,0,4,0,H
+151,2025-04-17,Vejle,Viborg,3,3,1,2,D
+152,2025-04-17,Lyngby,Sonderjyske,0,2,0,0,A
+153,2025-04-17,Randers FC,Aarhus,3,1,1,2,H
+154,2025-04-17,FC Midtjylland,FC Copenhagen,4,2,2,2,H
+155,2025-04-18,Brondby,FC Nordsjaelland,0,0,0,0,D
+156,2025-04-20,Aalborg,Sonderjyske,2,3,0,2,A
+157,2025-04-21,Vejle,Silkeborg,0,4,0,0,A
+158,2025-04-21,Viborg,Lyngby,1,1,1,0,D
+159,2025-04-21,Brondby,Randers FC,4,3,2,2,H
+160,2025-04-21,FC Copenhagen,Aarhus,3,1,1,2,H
+161,2025-04-22,FC Nordsjaelland,FC Midtjylland,3,2,1,2,H
+162,2025-04-25,Randers FC,Brondby,0,0,0,0,D
+163,2025-04-27,Sonderjyske,Viborg,2,2,2,0,D
+164,2025-04-27,Lyngby,Silkeborg,2,0,1,1,H
+165,2025-04-27,Aarhus,FC Copenhagen,1,3,0,1,A
+166,2025-04-27,FC Midtjylland,FC Nordsjaelland,5,0,4,1,H
+167,2025-04-28,Aalborg,Vejle,0,1,0,0,A
+168,2025-05-02,Randers FC,FC Nordsjaelland,3,2,2,1,H
+169,2025-05-04,Lyngby,Viborg,0,0,0,0,D
+170,2025-05-04,Silkeborg,Vejle,1,1,1,0,D
+171,2025-05-04,Brondby,FC Copenhagen,0,3,0,0,A
+172,2025-05-04,FC Midtjylland,Aarhus,3,1,1,2,H
+173,2025-05-05,Sonderjyske,Aalborg,2,2,1,1,D
+174,2025-05-11,FC Nordsjaelland,Brondby,2,2,1,1,D
+175,2025-05-11,Silkeborg,Sonderjyske,1,0,0,1,H
+176,2025-05-11,Aarhus,Randers FC,1,3,1,0,A
+177,2025-05-11,Viborg,Aalborg,3,1,0,3,H
+178,2025-05-11,FC Copenhagen,FC Midtjylland,1,1,0,1,D
+179,2025-05-12,Vejle,Lyngby,2,0,1,1,H
+180,2025-05-16,FC Nordsjaelland,Aarhus,2,0,1,1,H
+181,2025-05-18,Aalborg,Silkeborg,2,3,1,1,A
+182,2025-05-18,Viborg,Vejle,0,1,0,0,A
+183,2025-05-18,Sonderjyske,Lyngby,5,1,3,2,H
+184,2025-05-18,Randers FC,FC Copenhagen,0,4,0,0,A
+185,2025-05-19,Brondby,FC Midtjylland,1,2,0,1,A
+186,2025-05-24,Vejle,Sonderjyske,2,3,0,2,A
+187,2025-05-24,Lyngby,Aalborg,3,1,1,2,H
+188,2025-05-24,Silkeborg,Viborg,1,2,1,0,A
+189,2025-05-25,FC Midtjylland,Randers FC,3,2,1,2,H
+190,2025-05-25,FC Copenhagen,FC Nordsjaelland,3,0,1,2,H
+191,2025-05-25,Aarhus,Brondby,2,3,2,0,A
+192,2025-06-01,Randers FC,Silkeborg,1,3,1,0,A

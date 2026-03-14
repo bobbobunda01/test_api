@@ -1,0 +1,330 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Belgique,2022,2022-07-22,Standard Liege,Gent,2,2,1,1,D
+Belgique,2022,2022-07-23,Charleroi,AS Eupen,3,1,1,2,H
+Belgique,2022,2022-07-23,Zulte Waregem,Seraing United,2,0,0,2,H
+Belgique,2022,2022-07-23,Kortrijk,OH Leuven,0,2,0,0,A
+Belgique,2022,2022-07-23,St. Truiden,Union St. Gilloise,1,1,1,0,D
+Belgique,2022,2022-07-24,Club Brugge KV,Genk,3,2,1,2,H
+Belgique,2022,2022-07-24,KV Mechelen,Antwerp,0,2,0,0,A
+Belgique,2022,2022-07-24,Anderlecht,Oostende,2,0,1,1,H
+Belgique,2022,2022-07-24,KVC Westerlo,Cercle Brugge,2,0,1,1,H
+Belgique,2022,2022-07-29,Union St. Gilloise,Charleroi,1,0,0,1,H
+Belgique,2022,2022-07-30,Cercle Brugge,Anderlecht,1,0,0,1,H
+Belgique,2022,2022-07-30,OH Leuven,KVC Westerlo,2,0,1,1,H
+Belgique,2022,2022-07-30,Oostende,KV Mechelen,2,1,2,0,H
+Belgique,2022,2022-07-30,Gent,St. Truiden,1,1,1,0,D
+Belgique,2022,2022-07-31,Genk,Standard Liege,3,1,3,0,H
+Belgique,2022,2022-07-31,AS Eupen,Club Brugge KV,2,1,2,0,H
+Belgique,2022,2022-07-31,Seraing United,Kortrijk,0,1,0,0,A
+Belgique,2022,2022-07-31,Antwerp,Zulte Waregem,1,0,0,1,H
+Belgique,2022,2022-08-05,Club Brugge KV,Zulte Waregem,1,1,0,1,D
+Belgique,2022,2022-08-06,Genk,AS Eupen,4,2,3,1,H
+Belgique,2022,2022-08-06,Kortrijk,St. Truiden,0,0,0,0,D
+Belgique,2022,2022-08-06,Charleroi,Oostende,1,3,0,1,A
+Belgique,2022,2022-08-06,KV Mechelen,Union St. Gilloise,3,0,1,2,H
+Belgique,2022,2022-08-07,Standard Liege,Cercle Brugge,2,0,2,0,H
+Belgique,2022,2022-08-07,Gent,KVC Westerlo,2,1,2,0,H
+Belgique,2022,2022-08-07,Anderlecht,Seraing United,3,1,3,0,H
+Belgique,2022,2022-08-07,Antwerp,OH Leuven,4,2,2,2,H
+Belgique,2022,2022-08-12,Oostende,Gent,1,3,1,0,A
+Belgique,2022,2022-08-13,KVC Westerlo,Standard Liege,4,2,1,3,H
+Belgique,2022,2022-08-13,Cercle Brugge,KV Mechelen,0,0,0,0,D
+Belgique,2022,2022-08-13,Seraing United,Charleroi,0,1,0,0,A
+Belgique,2022,2022-08-13,Union St. Gilloise,Kortrijk,2,1,1,1,H
+Belgique,2022,2022-08-14,St. Truiden,Anderlecht,0,3,0,0,A
+Belgique,2022,2022-08-14,AS Eupen,Antwerp,0,1,0,0,A
+Belgique,2022,2022-08-14,OH Leuven,Club Brugge KV,0,3,0,0,A
+Belgique,2022,2022-08-14,Zulte Waregem,Genk,1,4,1,0,A
+Belgique,2022,2022-08-19,AS Eupen,Seraing United,1,3,0,1,A
+Belgique,2022,2022-08-20,Oostende,St. Truiden,0,1,0,0,A
+Belgique,2022,2022-08-20,Genk,Cercle Brugge,2,1,1,1,H
+Belgique,2022,2022-08-21,Club Brugge KV,Kortrijk,2,1,2,0,H
+Belgique,2022,2022-08-21,Zulte Waregem,Charleroi,1,3,1,0,A
+Belgique,2022,2022-08-21,Standard Liege,OH Leuven,1,3,0,1,A
+Belgique,2022,2022-08-21,KV Mechelen,KVC Westerlo,5,4,1,4,H
+Belgique,2022,2022-08-26,Charleroi,Club Brugge KV,1,3,1,0,A
+Belgique,2022,2022-08-27,Seraing United,Genk,0,4,0,0,A
+Belgique,2022,2022-08-27,OH Leuven,Oostende,2,1,0,2,H
+Belgique,2022,2022-08-27,Cercle Brugge,Zulte Waregem,1,1,1,0,D
+Belgique,2022,2022-08-27,St. Truiden,KV Mechelen,3,1,0,3,H
+Belgique,2022,2022-08-28,Gent,Antwerp,1,2,1,0,A
+Belgique,2022,2022-08-28,Kortrijk,Standard Liege,0,1,0,0,A
+Belgique,2022,2022-08-28,Union St. Gilloise,Anderlecht,2,1,2,0,H
+Belgique,2022,2022-08-28,KVC Westerlo,AS Eupen,0,1,0,0,A
+Belgique,2022,2022-08-31,Antwerp,Union St. Gilloise,4,2,4,0,H
+Belgique,2022,2022-09-01,Anderlecht,Gent,0,1,0,0,A
+Belgique,2022,2022-09-02,Club Brugge KV,Cercle Brugge,4,0,1,3,H
+Belgique,2022,2022-09-03,Genk,St. Truiden,0,0,0,0,D
+Belgique,2022,2022-09-03,KV Mechelen,Seraing United,2,3,2,0,A
+Belgique,2022,2022-09-03,AS Eupen,Kortrijk,0,1,0,0,A
+Belgique,2022,2022-09-03,Standard Liege,Oostende,1,0,0,1,H
+Belgique,2022,2022-09-04,Anderlecht,OH Leuven,2,2,0,2,D
+Belgique,2022,2022-09-04,Antwerp,KVC Westerlo,3,0,1,2,H
+Belgique,2022,2022-09-04,Charleroi,Gent,2,1,1,1,H
+Belgique,2022,2022-09-04,Zulte Waregem,Union St. Gilloise,1,3,0,1,A
+Belgique,2022,2022-09-09,St. Truiden,Standard Liege,1,2,0,1,A
+Belgique,2022,2022-09-10,Kortrijk,KV Mechelen,1,4,0,1,A
+Belgique,2022,2022-09-10,Oostende,AS Eupen,1,0,0,1,H
+Belgique,2022,2022-09-10,Seraing United,Club Brugge KV,0,2,0,0,A
+Belgique,2022,2022-09-10,OH Leuven,Charleroi,3,2,1,2,H
+Belgique,2022,2022-09-11,KVC Westerlo,Anderlecht,2,1,1,1,H
+Belgique,2022,2022-09-11,Cercle Brugge,Antwerp,0,2,0,0,A
+Belgique,2022,2022-09-11,Union St. Gilloise,Genk,1,2,0,1,A
+Belgique,2022,2022-09-11,Gent,Zulte Waregem,2,0,0,2,H
+Belgique,2022,2022-09-16,Antwerp,Seraing United,2,1,2,0,H
+Belgique,2022,2022-09-17,KV Mechelen,OH Leuven,0,0,0,0,D
+Belgique,2022,2022-09-17,Zulte Waregem,St. Truiden,0,3,0,0,A
+Belgique,2022,2022-09-17,Cercle Brugge,Oostende,2,2,2,0,D
+Belgique,2022,2022-09-17,Charleroi,KVC Westerlo,2,3,1,1,A
+Belgique,2022,2022-09-18,Genk,Gent,1,0,0,1,H
+Belgique,2022,2022-09-18,AS Eupen,Union St. Gilloise,1,2,1,0,A
+Belgique,2022,2022-09-18,Standard Liege,Club Brugge KV,3,0,1,2,H
+Belgique,2022,2022-09-18,Anderlecht,Kortrijk,4,1,1,3,H
+Belgique,2022,2022-09-30,Standard Liege,Seraing United,0,2,0,0,A
+Belgique,2022,2022-10-01,OH Leuven,Union St. Gilloise,0,3,0,0,A
+Belgique,2022,2022-10-01,KVC Westerlo,Zulte Waregem,2,0,1,1,H
+Belgique,2022,2022-10-01,Oostende,Genk,1,2,1,0,A
+Belgique,2022,2022-10-01,Club Brugge KV,KV Mechelen,3,0,1,2,H
+Belgique,2022,2022-10-02,Anderlecht,Charleroi,0,1,0,0,A
+Belgique,2022,2022-10-02,Gent,Cercle Brugge,3,4,0,3,A
+Belgique,2022,2022-10-02,Kortrijk,Antwerp,2,1,2,0,H
+Belgique,2022,2022-10-02,St. Truiden,AS Eupen,0,1,0,0,A
+Belgique,2022,2022-10-07,Antwerp,St. Truiden,2,0,1,1,H
+Belgique,2022,2022-10-08,Genk,Kortrijk,2,1,1,1,H
+Belgique,2022,2022-10-08,Zulte Waregem,OH Leuven,2,5,1,1,A
+Belgique,2022,2022-10-08,Seraing United,Oostende,1,1,0,1,D
+Belgique,2022,2022-10-08,Club Brugge KV,KVC Westerlo,0,2,0,0,A
+Belgique,2022,2022-10-09,KV Mechelen,Anderlecht,1,3,1,0,A
+Belgique,2022,2022-10-09,AS Eupen,Gent,0,4,0,0,A
+Belgique,2022,2022-10-09,Charleroi,Standard Liege,0,1,0,0,A
+Belgique,2022,2022-10-09,Union St. Gilloise,Cercle Brugge,2,1,1,1,H
+Belgique,2022,2022-10-14,KVC Westerlo,Seraing United,2,2,2,0,D
+Belgique,2022,2022-10-15,Kortrijk,Zulte Waregem,1,3,1,0,A
+Belgique,2022,2022-10-15,St. Truiden,Charleroi,2,1,1,1,H
+Belgique,2022,2022-10-15,Cercle Brugge,AS Eupen,5,1,3,2,H
+Belgique,2022,2022-10-15,OH Leuven,Genk,0,1,0,0,A
+Belgique,2022,2022-10-16,Standard Liege,Antwerp,3,0,3,0,H
+Belgique,2022,2022-10-16,Gent,KV Mechelen,3,0,1,2,H
+Belgique,2022,2022-10-16,Anderlecht,Club Brugge KV,0,1,0,0,A
+Belgique,2022,2022-10-16,Oostende,Union St. Gilloise,1,6,0,1,A
+Belgique,2022,2022-10-18,Charleroi,Kortrijk,2,2,2,0,D
+Belgique,2022,2022-10-18,AS Eupen,OH Leuven,4,2,2,2,H
+Belgique,2022,2022-10-18,Genk,KVC Westerlo,6,1,5,1,H
+Belgique,2022,2022-10-18,Seraing United,Cercle Brugge,0,1,0,0,A
+Belgique,2022,2022-10-19,Union St. Gilloise,Gent,2,0,1,1,H
+Belgique,2022,2022-10-19,KV Mechelen,Standard Liege,2,0,0,2,H
+Belgique,2022,2022-10-19,Club Brugge KV,St. Truiden,3,0,1,2,H
+Belgique,2022,2022-10-20,Antwerp,Oostende,3,0,1,2,H
+Belgique,2022,2022-10-20,Zulte Waregem,Anderlecht,3,2,1,2,H
+Belgique,2022,2022-10-21,Cercle Brugge,Charleroi,4,1,1,3,H
+Belgique,2022,2022-10-22,Kortrijk,KVC Westerlo,0,2,0,0,A
+Belgique,2022,2022-10-22,KV Mechelen,AS Eupen,2,1,1,1,H
+Belgique,2022,2022-10-22,St. Truiden,OH Leuven,0,0,0,0,D
+Belgique,2022,2022-10-22,Union St. Gilloise,Club Brugge KV,2,2,1,1,D
+Belgique,2022,2022-10-23,Antwerp,Genk,1,3,1,0,A
+Belgique,2022,2022-10-23,Gent,Seraing United,2,1,1,1,H
+Belgique,2022,2022-10-23,Oostende,Zulte Waregem,2,1,1,1,H
+Belgique,2022,2022-10-28,Genk,KV Mechelen,3,1,1,2,H
+Belgique,2022,2022-10-29,Zulte Waregem,Standard Liege,0,3,0,0,A
+Belgique,2022,2022-10-29,KVC Westerlo,St. Truiden,2,3,0,2,A
+Belgique,2022,2022-10-29,Kortrijk,Cercle Brugge,1,1,0,1,D
+Belgique,2022,2022-10-29,Club Brugge KV,Oostende,4,2,2,2,H
+Belgique,2022,2022-10-30,Anderlecht,AS Eupen,4,2,2,2,H
+Belgique,2022,2022-10-30,Seraing United,Union St. Gilloise,1,2,0,1,A
+Belgique,2022,2022-10-30,OH Leuven,Gent,1,1,0,1,D
+Belgique,2022,2022-10-30,Charleroi,Antwerp,1,0,1,0,H
+Belgique,2022,2022-11-04,Genk,Charleroi,4,1,2,2,H
+Belgique,2022,2022-11-05,KV Mechelen,Zulte Waregem,2,2,2,0,D
+Belgique,2022,2022-11-05,Cercle Brugge,OH Leuven,2,1,1,1,H
+Belgique,2022,2022-11-05,Seraing United,St. Truiden,1,2,1,0,A
+Belgique,2022,2022-11-05,AS Eupen,Standard Liege,2,0,0,2,H
+Belgique,2022,2022-11-06,Gent,Club Brugge KV,2,0,2,0,H
+Belgique,2022,2022-11-06,Union St. Gilloise,KVC Westerlo,1,1,0,1,D
+Belgique,2022,2022-11-06,Antwerp,Anderlecht,0,0,0,0,D
+Belgique,2022,2022-11-06,Oostende,Kortrijk,3,1,1,2,H
+Belgique,2022,2022-11-11,OH Leuven,Seraing United,5,0,4,1,H
+Belgique,2022,2022-11-12,KVC Westerlo,Oostende,6,0,3,3,H
+Belgique,2022,2022-11-12,Zulte Waregem,AS Eupen,5,5,2,3,D
+Belgique,2022,2022-11-12,St. Truiden,Cercle Brugge,0,1,0,0,A
+Belgique,2022,2022-11-12,Charleroi,KV Mechelen,1,0,0,1,H
+Belgique,2022,2022-11-13,Club Brugge KV,Antwerp,2,2,1,1,D
+Belgique,2022,2022-11-13,Standard Liege,Union St. Gilloise,2,3,0,2,A
+Belgique,2022,2022-11-13,Anderlecht,Genk,0,2,0,0,A
+Belgique,2022,2022-11-13,Kortrijk,Gent,0,4,0,0,A
+Belgique,2022,2022-12-23,Seraing United,AS Eupen,0,1,0,0,A
+Belgique,2022,2022-12-23,KV Mechelen,Cercle Brugge,1,1,0,1,D
+Belgique,2022,2022-12-23,Gent,Standard Liege,0,0,0,0,D
+Belgique,2022,2022-12-26,Club Brugge KV,OH Leuven,1,1,1,0,D
+Belgique,2022,2022-12-26,Union St. Gilloise,Oostende,3,0,0,3,H
+Belgique,2022,2022-12-26,Kortrijk,Genk,1,0,0,1,H
+Belgique,2022,2022-12-26,Charleroi,Anderlecht,0,1,0,0,A
+Belgique,2022,2022-12-27,KVC Westerlo,Antwerp,3,3,1,2,D
+Belgique,2022,2022-12-27,St. Truiden,Zulte Waregem,2,0,1,1,H
+Belgique,2022,2023-01-06,Standard Liege,St. Truiden,1,1,0,1,D
+Belgique,2022,2023-01-07,AS Eupen,Charleroi,1,2,1,0,A
+Belgique,2022,2023-01-07,Oostende,Seraing United,1,2,1,0,A
+Belgique,2022,2023-01-07,Cercle Brugge,KVC Westerlo,0,1,0,0,A
+Belgique,2022,2023-01-07,Antwerp,Gent,2,0,1,1,H
+Belgique,2022,2023-01-08,Genk,Club Brugge KV,3,1,1,2,H
+Belgique,2022,2023-01-08,Zulte Waregem,KV Mechelen,2,0,1,1,H
+Belgique,2022,2023-01-08,Anderlecht,Union St. Gilloise,1,3,0,1,A
+Belgique,2022,2023-01-08,OH Leuven,Kortrijk,2,3,1,1,A
+Belgique,2022,2023-01-13,KVC Westerlo,OH Leuven,1,2,0,1,A
+Belgique,2022,2023-01-14,Seraing United,Standard Liege,1,1,1,0,D
+Belgique,2022,2023-01-14,KV Mechelen,Oostende,2,1,1,1,H
+Belgique,2022,2023-01-14,AS Eupen,St. Truiden,0,2,0,0,A
+Belgique,2022,2023-01-14,Genk,Zulte Waregem,1,0,1,0,H
+Belgique,2022,2023-01-15,Club Brugge KV,Anderlecht,1,1,0,1,D
+Belgique,2022,2023-01-15,Gent,Kortrijk,2,1,1,1,H
+Belgique,2022,2023-01-15,Union St. Gilloise,Antwerp,2,0,1,1,H
+Belgique,2022,2023-01-15,Charleroi,Cercle Brugge,2,1,1,1,H
+Belgique,2022,2023-01-17,OH Leuven,AS Eupen,1,1,1,0,D
+Belgique,2022,2023-01-17,KVC Westerlo,Genk,2,3,0,2,A
+Belgique,2022,2023-01-17,Standard Liege,KV Mechelen,2,0,1,1,H
+Belgique,2022,2023-01-18,Oostende,Antwerp,0,3,0,0,A
+Belgique,2022,2023-01-18,Cercle Brugge,Union St. Gilloise,1,1,0,1,D
+Belgique,2022,2023-01-18,Anderlecht,Zulte Waregem,2,3,2,0,A
+Belgique,2022,2023-01-18,Kortrijk,Seraing United,3,2,2,1,H
+Belgique,2022,2023-01-19,Gent,Charleroi,0,0,0,0,D
+Belgique,2022,2023-01-19,St. Truiden,Club Brugge KV,1,1,0,1,D
+Belgique,2022,2023-01-21,Zulte Waregem,KVC Westerlo,1,1,0,1,D
+Belgique,2022,2023-01-21,KV Mechelen,Kortrijk,3,2,2,1,H
+Belgique,2022,2023-01-21,Oostende,Cercle Brugge,1,2,0,1,A
+Belgique,2022,2023-01-21,Union St. Gilloise,OH Leuven,1,0,0,1,H
+Belgique,2022,2023-01-22,Antwerp,Standard Liege,4,1,3,1,H
+Belgique,2022,2023-01-22,Seraing United,Anderlecht,0,1,0,0,A
+Belgique,2022,2023-01-22,Club Brugge KV,Charleroi,2,2,1,1,D
+Belgique,2022,2023-01-22,St. Truiden,Gent,0,3,0,0,A
+Belgique,2022,2023-01-27,Standard Liege,AS Eupen,3,1,2,1,H
+Belgique,2022,2023-01-28,KVC Westerlo,KV Mechelen,2,0,1,1,H
+Belgique,2022,2023-01-28,OH Leuven,St. Truiden,1,1,0,1,D
+Belgique,2022,2023-01-28,Kortrijk,Oostende,2,2,1,1,D
+Belgique,2022,2023-01-28,Charleroi,Union St. Gilloise,0,1,0,0,A
+Belgique,2022,2023-01-29,Anderlecht,Antwerp,0,0,0,0,D
+Belgique,2022,2023-01-29,Cercle Brugge,Gent,3,2,0,3,H
+Belgique,2022,2023-01-29,Zulte Waregem,Club Brugge KV,1,2,1,0,A
+Belgique,2022,2023-01-29,Genk,Seraing United,4,0,2,2,H
+Belgique,2022,2023-02-01,AS Eupen,Genk,1,1,1,0,D
+Belgique,2022,2023-02-03,Oostende,Anderlecht,0,2,0,0,A
+Belgique,2022,2023-02-04,Cercle Brugge,Standard Liege,1,1,0,1,D
+Belgique,2022,2023-02-04,AS Eupen,KVC Westerlo,1,1,0,1,D
+Belgique,2022,2023-02-04,Seraing United,OH Leuven,2,1,1,1,H
+Belgique,2022,2023-02-04,St. Truiden,Kortrijk,1,0,1,0,H
+Belgique,2022,2023-02-05,Antwerp,Club Brugge KV,0,0,0,0,D
+Belgique,2022,2023-02-05,KV Mechelen,Charleroi,2,2,2,0,D
+Belgique,2022,2023-02-05,Gent,Genk,2,3,1,1,A
+Belgique,2022,2023-02-05,Union St. Gilloise,Zulte Waregem,4,0,1,3,H
+Belgique,2022,2023-02-10,OH Leuven,Cercle Brugge,0,0,0,0,D
+Belgique,2022,2023-02-10,Club Brugge KV,Union St. Gilloise,1,1,1,0,D
+Belgique,2022,2023-02-10,AS Eupen,KV Mechelen,2,1,0,2,H
+Belgique,2022,2023-02-11,KVC Westerlo,Gent,3,3,2,1,D
+Belgique,2022,2023-02-11,Charleroi,Seraing United,3,0,1,2,H
+Belgique,2022,2023-02-12,Genk,Antwerp,0,1,0,0,A
+Belgique,2022,2023-02-12,Anderlecht,St. Truiden,3,1,0,3,H
+Belgique,2022,2023-02-12,Standard Liege,Kortrijk,0,2,0,0,A
+Belgique,2022,2023-02-12,Zulte Waregem,Oostende,1,1,1,0,D
+Belgique,2022,2023-02-17,KV Mechelen,Genk,2,2,1,1,D
+Belgique,2022,2023-02-18,Antwerp,AS Eupen,2,0,2,0,H
+Belgique,2022,2023-02-18,Oostende,Charleroi,0,0,0,0,D
+Belgique,2022,2023-02-18,Seraing United,Zulte Waregem,1,1,0,1,D
+Belgique,2022,2023-02-18,Union St. Gilloise,Standard Liege,2,4,1,1,A
+Belgique,2022,2023-02-19,Cercle Brugge,Club Brugge KV,2,2,0,2,D
+Belgique,2022,2023-02-19,Gent,OH Leuven,2,0,0,2,H
+Belgique,2022,2023-02-19,Kortrijk,Anderlecht,2,2,0,2,D
+Belgique,2022,2023-02-19,St. Truiden,KVC Westerlo,0,1,0,0,A
+Belgique,2022,2023-02-24,Zulte Waregem,Kortrijk,3,3,1,2,D
+Belgique,2022,2023-02-25,Seraing United,KV Mechelen,0,2,0,0,A
+Belgique,2022,2023-02-25,AS Eupen,Cercle Brugge,2,2,2,0,D
+Belgique,2022,2023-02-25,Genk,Oostende,3,0,2,1,H
+Belgique,2022,2023-02-25,KVC Westerlo,Union St. Gilloise,4,2,2,2,H
+Belgique,2022,2023-02-26,Club Brugge KV,Gent,2,0,0,2,H
+Belgique,2022,2023-02-26,OH Leuven,Antwerp,1,1,1,0,D
+Belgique,2022,2023-02-26,Anderlecht,Standard Liege,2,2,2,0,D
+Belgique,2022,2023-02-26,Charleroi,St. Truiden,1,0,0,1,H
+Belgique,2022,2023-03-03,Oostende,Club Brugge KV,3,0,1,2,H
+Belgique,2022,2023-03-04,Kortrijk,Charleroi,0,1,0,0,A
+Belgique,2022,2023-03-04,OH Leuven,Zulte Waregem,4,2,3,1,H
+Belgique,2022,2023-03-04,Cercle Brugge,Seraing United,3,1,2,1,H
+Belgique,2022,2023-03-04,Standard Liege,KVC Westerlo,2,0,1,1,H
+Belgique,2022,2023-03-05,St. Truiden,Genk,2,2,1,1,D
+Belgique,2022,2023-03-05,Antwerp,KV Mechelen,5,0,3,2,H
+Belgique,2022,2023-03-05,Gent,Anderlecht,1,0,0,1,H
+Belgique,2022,2023-03-05,Union St. Gilloise,AS Eupen,2,1,1,1,H
+Belgique,2022,2023-03-10,Charleroi,OH Leuven,0,1,0,0,A
+Belgique,2022,2023-03-11,KV Mechelen,St. Truiden,1,0,0,1,H
+Belgique,2022,2023-03-11,KVC Westerlo,Kortrijk,3,1,1,2,H
+Belgique,2022,2023-03-11,AS Eupen,Oostende,4,4,1,3,D
+Belgique,2022,2023-03-11,Seraing United,Antwerp,0,2,0,0,A
+Belgique,2022,2023-03-12,Club Brugge KV,Standard Liege,2,0,0,2,H
+Belgique,2022,2023-03-12,Zulte Waregem,Gent,2,6,0,2,A
+Belgique,2022,2023-03-12,Genk,Union St. Gilloise,1,2,1,0,A
+Belgique,2022,2023-03-12,Anderlecht,Cercle Brugge,2,0,1,1,H
+Belgique,2022,2023-03-17,Cercle Brugge,Genk,1,1,1,0,D
+Belgique,2022,2023-03-18,Kortrijk,Club Brugge KV,1,0,1,0,H
+Belgique,2022,2023-03-18,Oostende,KVC Westerlo,1,2,0,1,A
+Belgique,2022,2023-03-18,St. Truiden,Seraing United,2,1,1,1,H
+Belgique,2022,2023-03-18,Standard Liege,Zulte Waregem,2,2,2,0,D
+Belgique,2022,2023-03-19,Antwerp,Charleroi,0,1,0,0,A
+Belgique,2022,2023-03-19,OH Leuven,Anderlecht,0,2,0,0,A
+Belgique,2022,2023-03-19,Union St. Gilloise,KV Mechelen,2,1,1,1,H
+Belgique,2022,2023-03-19,Gent,AS Eupen,3,0,1,2,H
+Belgique,2022,2023-03-31,Zulte Waregem,Antwerp,0,2,0,0,A
+Belgique,2022,2023-04-01,Cercle Brugge,Kortrijk,2,0,2,0,H
+Belgique,2022,2023-04-01,KVC Westerlo,Charleroi,2,3,1,1,A
+Belgique,2022,2023-04-01,Seraing United,Gent,0,5,0,0,A
+Belgique,2022,2023-04-01,Oostende,Standard Liege,1,3,1,0,A
+Belgique,2022,2023-04-02,Genk,OH Leuven,2,1,1,1,H
+Belgique,2022,2023-04-02,AS Eupen,Anderlecht,0,1,0,0,A
+Belgique,2022,2023-04-02,KV Mechelen,Club Brugge KV,0,3,0,0,A
+Belgique,2022,2023-04-02,Union St. Gilloise,St. Truiden,2,1,0,2,H
+Belgique,2022,2023-04-07,Club Brugge KV,Seraing United,2,0,0,2,H
+Belgique,2022,2023-04-08,OH Leuven,KV Mechelen,4,1,2,2,H
+Belgique,2022,2023-04-08,Kortrijk,AS Eupen,0,0,0,0,D
+Belgique,2022,2023-04-08,Charleroi,Zulte Waregem,3,2,0,3,H
+Belgique,2022,2023-04-08,Gent,Union St. Gilloise,1,1,0,1,D
+Belgique,2022,2023-04-09,Anderlecht,KVC Westerlo,0,0,0,0,D
+Belgique,2022,2023-04-09,Antwerp,Cercle Brugge,2,1,0,2,H
+Belgique,2022,2023-04-09,Standard Liege,Genk,2,0,2,0,H
+Belgique,2022,2023-04-09,St. Truiden,Oostende,5,0,2,3,H
+Belgique,2022,2023-04-14,Standard Liege,Charleroi,3,1,1,2,H
+Belgique,2022,2023-04-15,AS Eupen,Zulte Waregem,1,5,0,1,A
+Belgique,2022,2023-04-15,Oostende,OH Leuven,0,4,0,0,A
+Belgique,2022,2023-04-15,Cercle Brugge,St. Truiden,3,1,2,1,H
+Belgique,2022,2023-04-15,KVC Westerlo,Club Brugge KV,0,0,0,0,D
+Belgique,2022,2023-04-16,Genk,Anderlecht,5,2,2,3,H
+Belgique,2022,2023-04-16,KV Mechelen,Gent,1,1,1,0,D
+Belgique,2022,2023-04-16,Antwerp,Kortrijk,1,0,0,1,H
+Belgique,2022,2023-04-16,Union St. Gilloise,Seraing United,2,1,2,0,H
+Belgique,2022,2023-04-22,Seraing United,KVC Westerlo,1,1,1,0,D
+Belgique,2022,2023-04-23,St. Truiden,Antwerp,0,1,0,0,A
+Belgique,2022,2023-04-23,OH Leuven,Standard Liege,3,2,1,2,H
+Belgique,2022,2023-04-23,Anderlecht,KV Mechelen,2,3,1,1,A
+Belgique,2022,2023-04-23,Club Brugge KV,AS Eupen,7,0,4,3,H
+Belgique,2022,2023-04-23,Zulte Waregem,Cercle Brugge,2,3,0,2,A
+Belgique,2022,2023-04-23,Gent,Oostende,1,2,0,1,A
+Belgique,2022,2023-04-23,Kortrijk,Union St. Gilloise,2,4,2,0,A
+Belgique,2022,2023-04-23,Charleroi,Genk,2,2,1,1,D
+Belgique,2022,2023-04-28,Gent,KVC Westerlo,3,1,0,3,H
+Belgique,2022,2023-04-29,Cercle Brugge,Standard Liege,0,0,0,0,D
+Belgique,2022,2023-04-30,Genk,Club Brugge KV,3,1,1,2,H
+Belgique,2022,2023-05-03,Union St. Gilloise,Antwerp,0,2,0,0,A
+Belgique,2022,2023-05-06,Club Brugge KV,Union St. Gilloise,1,2,0,1,A
+Belgique,2022,2023-05-06,Standard Liege,Gent,1,2,0,1,A
+Belgique,2022,2023-05-07,KVC Westerlo,Cercle Brugge,3,5,1,2,A
+Belgique,2022,2023-05-07,Antwerp,Genk,2,1,1,1,H
+Belgique,2022,2023-05-13,Cercle Brugge,Gent,0,4,0,0,A
+Belgique,2022,2023-05-13,Standard Liege,KVC Westerlo,2,2,1,1,D
+Belgique,2022,2023-05-14,Antwerp,Club Brugge KV,3,2,1,2,H
+Belgique,2022,2023-05-14,Union St. Gilloise,Genk,3,0,1,2,H
+Belgique,2022,2023-05-20,KVC Westerlo,Standard Liege,3,0,2,1,H
+Belgique,2022,2023-05-20,Gent,Cercle Brugge,2,2,0,2,D
+Belgique,2022,2023-05-21,Club Brugge KV,Antwerp,2,0,0,2,H
+Belgique,2022,2023-05-21,Genk,Union St. Gilloise,1,1,1,0,D
+Belgique,2022,2023-05-27,KVC Westerlo,Gent,1,3,1,0,A
+Belgique,2022,2023-05-27,Standard Liege,Cercle Brugge,0,4,0,0,A
+Belgique,2022,2023-05-28,Antwerp,Union St. Gilloise,1,1,1,0,D
+Belgique,2022,2023-05-28,Club Brugge KV,Genk,1,3,0,1,A
+Belgique,2022,2023-06-03,Gent,Standard Liege,3,1,2,1,H
+Belgique,2022,2023-06-03,Cercle Brugge,KVC Westerlo,2,0,0,2,H
+Belgique,2022,2023-06-04,Genk,Antwerp,2,2,1,1,D
+Belgique,2022,2023-06-04,Union St. Gilloise,Club Brugge KV,1,3,0,1,A

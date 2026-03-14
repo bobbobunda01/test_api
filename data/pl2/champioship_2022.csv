@@ -1,0 +1,557 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+3384,Championship,2022,2022-07-29,Huddersfield,Burnley,0,1,0,0,A
+3385,Championship,2022,2022-07-30,Cardiff,Norwich,1,0,0,1,H
+3386,Championship,2022,2022-07-30,Millwall,Stoke City,2,0,1,1,H
+3387,Championship,2022,2022-07-30,Wigan,Preston,0,0,0,0,D
+3388,Championship,2022,2022-07-30,Hull City,Bristol City,2,1,0,2,H
+3389,Championship,2022,2022-07-30,Blackburn,QPR,1,0,1,0,H
+3390,Championship,2022,2022-07-30,Rotherham,Swansea,1,1,1,0,D
+3391,Championship,2022,2022-07-30,Blackpool,Reading,1,0,1,0,H
+3392,Championship,2022,2022-07-30,Luton,Birmingham,0,0,0,0,D
+3393,Championship,2022,2022-07-30,Middlesbrough,West Brom,1,1,1,0,D
+3394,Championship,2022,2022-07-31,Sunderland,Coventry,1,1,1,0,D
+3395,Championship,2022,2022-08-01,Watford,Sheffield Utd,1,0,0,1,H
+3396,Championship,2022,2022-08-05,Birmingham,Huddersfield,2,1,2,0,H
+3397,Championship,2022,2022-08-06,Norwich,Wigan,1,1,0,1,D
+3398,Championship,2022,2022-08-06,Burnley,Luton,1,1,0,1,D
+3399,Championship,2022,2022-08-06,Reading,Cardiff,2,1,1,1,H
+3400,Championship,2022,2022-08-06,Bristol City,Sunderland,2,3,1,1,A
+3401,Championship,2022,2022-08-06,Preston,Hull City,0,0,0,0,D
+3402,Championship,2022,2022-08-06,Sheffield Utd,Millwall,2,0,2,0,H
+3403,Championship,2022,2022-08-06,QPR,Middlesbrough,3,2,3,0,H
+3404,Championship,2022,2022-08-06,Stoke City,Blackpool,2,0,1,1,H
+3405,Championship,2022,2022-08-06,Swansea,Blackburn,0,3,0,0,A
+3406,Championship,2022,2022-08-08,West Brom,Watford,1,1,1,0,D
+3407,Championship,2022,2022-08-12,Watford,Burnley,1,0,1,0,H
+3408,Championship,2022,2022-08-13,Cardiff,Birmingham,1,0,1,0,H
+3409,Championship,2022,2022-08-13,Huddersfield,Stoke City,3,1,1,2,H
+3410,Championship,2022,2022-08-13,Millwall,Coventry,3,2,1,2,H
+3411,Championship,2022,2022-08-13,Wigan,Bristol City,1,1,0,1,D
+3412,Championship,2022,2022-08-13,Hull City,Norwich,2,1,1,1,H
+3413,Championship,2022,2022-08-13,Rotherham,Reading,4,0,4,0,H
+3414,Championship,2022,2022-08-13,Sunderland,QPR,2,2,2,0,D
+3415,Championship,2022,2022-08-13,Blackpool,Swansea,0,1,0,0,A
+3416,Championship,2022,2022-08-13,Luton,Preston,0,1,0,0,A
+3417,Championship,2022,2022-08-14,Middlesbrough,Sheffield Utd,2,2,1,1,D
+3418,Championship,2022,2022-08-14,Blackburn,West Brom,2,1,1,1,H
+3419,Championship,2022,2022-08-16,Burnley,Hull City,1,1,1,0,D
+3420,Championship,2022,2022-08-16,Birmingham,Watford,1,1,1,0,D
+3421,Championship,2022,2022-08-16,Bristol City,Luton,2,0,2,0,H
+3422,Championship,2022,2022-08-16,Preston,Rotherham,0,0,0,0,D
+3423,Championship,2022,2022-08-16,Norwich,Huddersfield,2,1,2,0,H
+3424,Championship,2022,2022-08-16,Swansea,Millwall,2,2,2,0,D
+3425,Championship,2022,2022-08-16,QPR,Blackpool,0,1,0,0,A
+3426,Championship,2022,2022-08-17,Stoke City,Middlesbrough,2,2,1,1,D
+3427,Championship,2022,2022-08-17,Reading,Blackburn,3,0,1,2,H
+3428,Championship,2022,2022-08-17,West Brom,Cardiff,0,0,0,0,D
+3429,Championship,2022,2022-08-17,Sheffield Utd,Sunderland,2,1,1,1,H
+3430,Championship,2022,2022-08-19,Norwich,Millwall,2,0,0,2,H
+3431,Championship,2022,2022-08-20,Burnley,Blackpool,3,3,3,0,D
+3432,Championship,2022,2022-08-20,Reading,Middlesbrough,1,0,1,0,H
+3433,Championship,2022,2022-08-20,Birmingham,Wigan,0,1,0,0,A
+3434,Championship,2022,2022-08-20,Preston,Watford,0,0,0,0,D
+3435,Championship,2022,2022-08-20,West Brom,Hull City,5,2,1,4,H
+3436,Championship,2022,2022-08-20,Sheffield Utd,Blackburn,3,0,1,2,H
+3437,Championship,2022,2022-08-20,QPR,Rotherham,1,1,1,0,D
+3438,Championship,2022,2022-08-20,Stoke City,Sunderland,0,1,0,0,A
+3439,Championship,2022,2022-08-20,Swansea,Luton,0,2,0,0,A
+3440,Championship,2022,2022-08-21,Bristol City,Cardiff,2,0,1,1,H
+3441,Championship,2022,2022-08-26,Luton,Sheffield Utd,1,1,1,0,D
+3442,Championship,2022,2022-08-27,Sunderland,Norwich,0,1,0,0,A
+3443,Championship,2022,2022-08-27,Huddersfield,West Brom,2,2,2,0,D
+3444,Championship,2022,2022-08-27,Watford,QPR,2,3,1,1,A
+3445,Championship,2022,2022-08-27,Cardiff,Preston,0,0,0,0,D
+3446,Championship,2022,2022-08-27,Millwall,Reading,0,1,0,0,A
+3447,Championship,2022,2022-08-27,Wigan,Burnley,1,5,1,0,A
+3448,Championship,2022,2022-08-27,Hull City,Coventry,3,2,2,1,H
+3449,Championship,2022,2022-08-27,Blackburn,Stoke City,0,1,0,0,A
+3450,Championship,2022,2022-08-27,Middlesbrough,Swansea,2,1,2,0,H
+3451,Championship,2022,2022-08-27,Rotherham,Birmingham,2,0,1,1,H
+3452,Championship,2022,2022-08-27,Blackpool,Bristol City,3,3,1,2,D
+3453,Championship,2022,2022-08-30,Cardiff,Luton,1,2,0,1,A
+3454,Championship,2022,2022-08-30,Burnley,Millwall,2,0,0,2,H
+3455,Championship,2022,2022-08-30,Birmingham,Norwich,1,2,0,1,A
+3456,Championship,2022,2022-08-30,Wigan,West Brom,1,1,1,0,D
+3457,Championship,2022,2022-08-30,Sheffield Utd,Reading,4,0,1,3,H
+3458,Championship,2022,2022-08-30,QPR,Hull City,3,1,3,0,H
+3459,Championship,2022,2022-08-30,Watford,Middlesbrough,2,1,1,1,H
+3460,Championship,2022,2022-08-31,Bristol City,Huddersfield,2,0,1,1,H
+3461,Championship,2022,2022-08-31,Stoke City,Swansea,1,1,0,1,D
+3462,Championship,2022,2022-08-31,Sunderland,Rotherham,3,0,0,3,H
+3463,Championship,2022,2022-08-31,Coventry,Preston,0,1,0,0,A
+3464,Championship,2022,2022-08-31,Blackpool,Blackburn,0,1,0,0,A
+3465,Championship,2022,2022-09-02,West Brom,Burnley,1,1,0,1,D
+3466,Championship,2022,2022-09-03,Millwall,Cardiff,2,0,0,2,H
+3467,Championship,2022,2022-09-03,Preston,Birmingham,0,1,0,0,A
+3468,Championship,2022,2022-09-03,Blackburn,Bristol City,2,3,0,2,A
+3469,Championship,2022,2022-09-03,Norwich,Coventry,3,0,2,1,H
+3470,Championship,2022,2022-09-03,Rotherham,Watford,1,1,1,0,D
+3471,Championship,2022,2022-09-03,Swansea,QPR,1,0,1,0,H
+3472,Championship,2022,2022-09-03,Luton,Wigan,1,2,1,0,A
+3473,Championship,2022,2022-09-04,Reading,Stoke City,2,1,1,1,H
+3474,Championship,2022,2022-09-04,Huddersfield,Blackpool,0,1,0,0,A
+3475,Championship,2022,2022-09-04,Hull City,Sheffield Utd,0,2,0,0,A
+3476,Championship,2022,2022-09-05,Middlesbrough,Sunderland,1,0,1,0,H
+3477,Championship,2022,2022-09-13,Huddersfield,Wigan,1,2,0,1,A
+3478,Championship,2022,2022-09-13,Hull City,Stoke City,0,3,0,0,A
+3479,Championship,2022,2022-09-13,Blackburn,Watford,2,0,1,1,H
+3480,Championship,2022,2022-09-13,Middlesbrough,Cardiff,2,3,0,2,A
+3481,Championship,2022,2022-09-13,Swansea,Sheffield Utd,0,1,0,0,A
+3482,Championship,2022,2022-09-13,Preston,Burnley,1,1,1,0,D
+3483,Championship,2022,2022-09-14,Millwall,QPR,0,2,0,0,A
+3484,Championship,2022,2022-09-14,Norwich,Bristol City,3,2,2,1,H
+3485,Championship,2022,2022-09-14,Rotherham,Blackpool,3,0,1,2,H
+3486,Championship,2022,2022-09-14,Luton,Coventry,2,2,2,0,D
+3487,Championship,2022,2022-09-14,Reading,Sunderland,0,3,0,0,A
+3488,Championship,2022,2022-09-14,West Brom,Birmingham,2,3,1,1,A
+3489,Championship,2022,2022-09-17,Swansea,Hull City,3,0,0,3,H
+3490,Championship,2022,2022-09-17,Huddersfield,Cardiff,1,0,1,0,H
+3491,Championship,2022,2022-09-17,Watford,Sunderland,2,2,1,1,D
+3492,Championship,2022,2022-09-17,Burnley,Bristol City,2,1,1,1,H
+3493,Championship,2022,2022-09-17,Birmingham,Coventry,0,0,0,0,D
+3494,Championship,2022,2022-09-17,Millwall,Blackpool,2,1,1,1,H
+3495,Championship,2022,2022-09-17,Preston,Sheffield Utd,0,2,0,0,A
+3496,Championship,2022,2022-09-17,Wigan,Reading,0,1,0,0,A
+3497,Championship,2022,2022-09-17,Norwich,West Brom,1,1,0,1,D
+3498,Championship,2022,2022-09-17,QPR,Stoke City,0,0,0,0,D
+3499,Championship,2022,2022-09-17,Luton,Blackburn,2,0,0,2,H
+3500,Championship,2022,2022-09-17,Middlesbrough,Rotherham,0,0,0,0,D
+3501,Championship,2022,2022-09-30,Hull City,Luton,0,2,0,0,A
+3502,Championship,2022,2022-10-01,Cardiff,Burnley,1,1,0,1,D
+3503,Championship,2022,2022-10-01,Reading,Huddersfield,3,1,2,1,H
+3504,Championship,2022,2022-10-01,Bristol City,QPR,1,2,0,1,A
+3505,Championship,2022,2022-10-01,West Brom,Swansea,2,3,0,2,A
+3506,Championship,2022,2022-10-01,Sheffield Utd,Birmingham,1,1,0,1,D
+3507,Championship,2022,2022-10-01,Blackburn,Millwall,2,1,0,2,H
+3508,Championship,2022,2022-10-01,Rotherham,Wigan,0,2,0,0,A
+3509,Championship,2022,2022-10-01,Sunderland,Preston,0,0,0,0,D
+3510,Championship,2022,2022-10-01,Coventry,Middlesbrough,1,0,1,0,H
+3511,Championship,2022,2022-10-01,Blackpool,Norwich,0,1,0,0,A
+3512,Championship,2022,2022-10-02,Stoke City,Watford,0,4,0,0,A
+3513,Championship,2022,2022-10-04,Bristol City,Coventry,0,0,0,0,D
+3514,Championship,2022,2022-10-04,Sheffield Utd,QPR,0,1,0,0,A
+3515,Championship,2022,2022-10-04,Sunderland,Blackpool,0,0,0,0,D
+3516,Championship,2022,2022-10-04,Luton,Huddersfield,3,3,3,0,D
+3517,Championship,2022,2022-10-04,Cardiff,Blackburn,1,0,0,1,H
+3518,Championship,2022,2022-10-04,Reading,Norwich,1,1,0,1,D
+3519,Championship,2022,2022-10-05,Watford,Swansea,1,2,1,0,A
+3520,Championship,2022,2022-10-05,Burnley,Stoke City,1,1,0,1,D
+3521,Championship,2022,2022-10-05,Hull City,Wigan,2,1,1,1,H
+3522,Championship,2022,2022-10-05,Middlesbrough,Birmingham,1,0,1,0,H
+3523,Championship,2022,2022-10-05,Rotherham,Millwall,1,1,1,0,D
+3524,Championship,2022,2022-10-05,Preston,West Brom,1,0,1,0,H
+3525,Championship,2022,2022-10-07,QPR,Reading,2,1,1,1,H
+3526,Championship,2022,2022-10-08,Birmingham,Bristol City,3,0,2,1,H
+3527,Championship,2022,2022-10-08,Millwall,Middlesbrough,2,0,1,1,H
+3528,Championship,2022,2022-10-08,West Brom,Luton,0,0,0,0,D
+3529,Championship,2022,2022-10-08,Wigan,Cardiff,1,3,0,1,A
+3530,Championship,2022,2022-10-08,Blackburn,Rotherham,3,0,1,2,H
+3531,Championship,2022,2022-10-08,Norwich,Preston,2,3,1,1,A
+3532,Championship,2022,2022-10-08,Stoke City,Sheffield Utd,3,1,2,1,H
+3533,Championship,2022,2022-10-08,Swansea,Sunderland,2,1,2,0,H
+3534,Championship,2022,2022-10-08,Coventry,Burnley,0,1,0,0,A
+3535,Championship,2022,2022-10-08,Blackpool,Watford,3,1,1,2,H
+3536,Championship,2022,2022-10-09,Huddersfield,Hull City,2,0,1,1,H
+3537,Championship,2022,2022-10-11,Wigan,Blackburn,1,0,0,1,H
+3538,Championship,2022,2022-10-12,Bristol City,Preston,2,1,0,2,H
+3539,Championship,2022,2022-10-15,Rotherham,Huddersfield,2,1,1,1,H
+3540,Championship,2022,2022-10-15,Luton,QPR,3,1,1,2,H
+3541,Championship,2022,2022-10-15,Cardiff,Coventry,0,1,0,0,A
+3542,Championship,2022,2022-10-15,Burnley,Swansea,4,0,3,1,H
+3543,Championship,2022,2022-10-15,Reading,West Brom,0,2,0,0,A
+3544,Championship,2022,2022-10-15,Bristol City,Millwall,1,2,0,1,A
+3545,Championship,2022,2022-10-15,Preston,Stoke City,0,2,0,0,A
+3546,Championship,2022,2022-10-15,Sheffield Utd,Blackpool,3,3,2,1,D
+3547,Championship,2022,2022-10-15,Middlesbrough,Blackburn,1,2,1,0,A
+3548,Championship,2022,2022-10-15,Sunderland,Wigan,2,1,0,2,H
+3549,Championship,2022,2022-10-15,Watford,Norwich,2,1,2,0,H
+3550,Championship,2022,2022-10-16,Hull City,Birmingham,0,2,0,0,A
+3551,Championship,2022,2022-10-18,Huddersfield,Preston,0,1,0,0,A
+3552,Championship,2022,2022-10-18,Norwich,Luton,0,1,0,0,A
+3553,Championship,2022,2022-10-18,Swansea,Reading,3,2,1,2,H
+3554,Championship,2022,2022-10-18,West Brom,Bristol City,0,2,0,0,A
+3555,Championship,2022,2022-10-18,Blackburn,Sunderland,2,0,1,1,H
+3556,Championship,2022,2022-10-18,Stoke City,Rotherham,0,1,0,0,A
+3557,Championship,2022,2022-10-19,Birmingham,Burnley,1,1,0,1,D
+3558,Championship,2022,2022-10-19,Wigan,Middlesbrough,1,4,1,0,A
+3559,Championship,2022,2022-10-19,QPR,Cardiff,3,0,2,1,H
+3560,Championship,2022,2022-10-19,Coventry,Sheffield Utd,1,0,0,1,H
+3561,Championship,2022,2022-10-19,Blackpool,Hull City,1,3,1,0,A
+3562,Championship,2022,2022-10-19,Millwall,Watford,3,0,3,0,H
+3563,Championship,2022,2022-10-22,Blackpool,Preston,4,2,1,3,H
+3564,Championship,2022,2022-10-22,Reading,Bristol City,2,0,0,2,H
+3565,Championship,2022,2022-10-22,Millwall,West Brom,2,1,1,1,H
+3566,Championship,2022,2022-10-22,Sheffield Utd,Norwich,2,2,0,2,D
+3567,Championship,2022,2022-10-22,Blackburn,Birmingham,2,1,2,0,H
+3568,Championship,2022,2022-10-22,Middlesbrough,Huddersfield,0,0,0,0,D
+3569,Championship,2022,2022-10-22,QPR,Wigan,2,1,2,0,H
+3570,Championship,2022,2022-10-22,Rotherham,Hull City,2,4,1,1,A
+3571,Championship,2022,2022-10-22,Stoke City,Coventry,0,2,0,0,A
+3572,Championship,2022,2022-10-22,Sunderland,Burnley,2,4,2,0,A
+3573,Championship,2022,2022-10-23,Watford,Luton,4,0,2,2,H
+3574,Championship,2022,2022-10-23,Swansea,Cardiff,2,0,1,1,H
+3575,Championship,2022,2022-10-25,Coventry,Rotherham,2,2,0,2,D
+3576,Championship,2022,2022-10-25,Burnley,Norwich,1,0,0,1,H
+3577,Championship,2022,2022-10-28,Birmingham,QPR,2,0,2,0,H
+3578,Championship,2022,2022-10-29,Bristol City,Swansea,1,1,1,0,D
+3579,Championship,2022,2022-10-29,West Brom,Sheffield Utd,0,2,0,0,A
+3580,Championship,2022,2022-10-29,Huddersfield,Millwall,1,0,1,0,H
+3581,Championship,2022,2022-10-29,Cardiff,Rotherham,1,0,0,1,H
+3582,Championship,2022,2022-10-29,Burnley,Reading,2,1,0,2,H
+3583,Championship,2022,2022-10-29,Preston,Middlesbrough,2,1,1,1,H
+3584,Championship,2022,2022-10-29,Wigan,Watford,0,1,0,0,A
+3585,Championship,2022,2022-10-29,Hull City,Blackburn,0,1,0,0,A
+3586,Championship,2022,2022-10-29,Norwich,Stoke City,3,1,1,2,H
+3587,Championship,2022,2022-10-29,Coventry,Blackpool,1,2,1,0,A
+3588,Championship,2022,2022-10-29,Luton,Sunderland,1,1,1,0,D
+3589,Championship,2022,2022-11-01,Preston,Swansea,1,0,1,0,H
+3590,Championship,2022,2022-11-01,Hull City,Middlesbrough,1,3,0,1,A
+3591,Championship,2022,2022-11-01,Coventry,Blackburn,1,0,1,0,H
+3592,Championship,2022,2022-11-01,Luton,Reading,0,0,0,0,D
+3593,Championship,2022,2022-11-01,Bristol City,Sheffield Utd,0,1,0,0,A
+3594,Championship,2022,2022-11-01,West Brom,Blackpool,1,0,0,1,H
+3595,Championship,2022,2022-11-02,Huddersfield,Sunderland,0,2,0,0,A
+3596,Championship,2022,2022-11-02,Cardiff,Watford,1,2,1,0,A
+3597,Championship,2022,2022-11-02,Burnley,Rotherham,3,2,1,2,H
+3598,Championship,2022,2022-11-02,Birmingham,Millwall,0,0,0,0,D
+3599,Championship,2022,2022-11-02,Wigan,Stoke City,0,1,0,0,A
+3600,Championship,2022,2022-11-02,Norwich,QPR,0,0,0,0,D
+3601,Championship,2022,2022-11-04,Reading,Preston,1,2,0,1,A
+3602,Championship,2022,2022-11-05,Sheffield Utd,Burnley,5,2,1,4,H
+3603,Championship,2022,2022-11-05,Watford,Coventry,0,1,0,0,A
+3604,Championship,2022,2022-11-05,Millwall,Hull City,0,0,0,0,D
+3605,Championship,2022,2022-11-05,Blackburn,Huddersfield,1,0,1,0,H
+3606,Championship,2022,2022-11-05,Middlesbrough,Bristol City,1,1,0,1,D
+3607,Championship,2022,2022-11-05,QPR,West Brom,0,1,0,0,A
+3608,Championship,2022,2022-11-05,Rotherham,Norwich,1,2,0,1,A
+3609,Championship,2022,2022-11-05,Stoke City,Birmingham,1,2,0,1,A
+3610,Championship,2022,2022-11-05,Swansea,Wigan,2,2,1,1,D
+3611,Championship,2022,2022-11-05,Sunderland,Cardiff,0,1,0,0,A
+3612,Championship,2022,2022-11-05,Blackpool,Luton,0,1,0,0,A
+3613,Championship,2022,2022-11-08,Cardiff,Hull City,2,3,0,2,A
+3614,Championship,2022,2022-11-08,Birmingham,Swansea,2,2,1,1,D
+3615,Championship,2022,2022-11-08,Sheffield Utd,Rotherham,0,1,0,0,A
+3616,Championship,2022,2022-11-08,QPR,Huddersfield,1,2,1,0,A
+3617,Championship,2022,2022-11-08,Stoke City,Luton,2,0,2,0,H
+3618,Championship,2022,2022-11-08,Coventry,Wigan,2,0,0,2,H
+3619,Championship,2022,2022-11-08,Blackpool,Middlesbrough,0,3,0,0,A
+3620,Championship,2022,2022-11-08,Watford,Reading,2,0,1,1,H
+3621,Championship,2022,2022-11-11,Birmingham,Sunderland,1,2,0,1,A
+3622,Championship,2022,2022-11-12,Huddersfield,Swansea,0,0,0,0,D
+3623,Championship,2022,2022-11-12,Cardiff,Sheffield Utd,0,1,0,0,A
+3624,Championship,2022,2022-11-12,Bristol City,Watford,0,0,0,0,D
+3625,Championship,2022,2022-11-12,Preston,Millwall,2,4,2,0,A
+3626,Championship,2022,2022-11-12,West Brom,Stoke City,2,0,1,1,H
+3627,Championship,2022,2022-11-12,Wigan,Blackpool,2,1,0,2,H
+3628,Championship,2022,2022-11-12,Hull City,Reading,1,2,1,0,A
+3629,Championship,2022,2022-11-12,Norwich,Middlesbrough,1,2,1,0,A
+3630,Championship,2022,2022-11-12,Coventry,QPR,2,0,1,1,H
+3631,Championship,2022,2022-11-12,Luton,Rotherham,1,1,0,1,D
+3632,Championship,2022,2022-11-13,Burnley,Blackburn,3,0,0,3,H
+3633,Championship,2022,2022-12-03,Sunderland,Millwall,3,0,0,3,H
+3634,Championship,2022,2022-12-10,Blackburn,Preston,1,4,0,1,A
+3635,Championship,2022,2022-12-10,Rotherham,Bristol City,1,3,1,0,A
+3636,Championship,2022,2022-12-10,Reading,Coventry,1,0,0,1,H
+3637,Championship,2022,2022-12-10,Millwall,Wigan,1,1,1,0,D
+3638,Championship,2022,2022-12-10,Sheffield Utd,Huddersfield,1,0,1,0,H
+3639,Championship,2022,2022-12-10,Middlesbrough,Luton,2,1,1,1,H
+3640,Championship,2022,2022-12-10,Stoke City,Cardiff,2,2,2,0,D
+3641,Championship,2022,2022-12-10,Swansea,Norwich,0,1,0,0,A
+3642,Championship,2022,2022-12-10,Blackpool,Birmingham,0,0,0,0,D
+3643,Championship,2022,2022-12-11,QPR,Burnley,0,3,0,0,A
+3644,Championship,2022,2022-12-11,Watford,Hull City,0,0,0,0,D
+3645,Championship,2022,2022-12-12,Sunderland,West Brom,1,2,1,0,A
+3646,Championship,2022,2022-12-16,Birmingham,Reading,3,2,3,0,H
+3647,Championship,2022,2022-12-17,Huddersfield,Watford,0,2,0,0,A
+3648,Championship,2022,2022-12-17,Cardiff,Blackpool,1,1,1,0,D
+3649,Championship,2022,2022-12-17,Burnley,Middlesbrough,3,1,0,3,H
+3650,Championship,2022,2022-12-17,Bristol City,Stoke City,1,2,1,0,A
+3651,Championship,2022,2022-12-17,Preston,QPR,0,1,0,0,A
+3652,Championship,2022,2022-12-17,West Brom,Rotherham,3,0,1,2,H
+3653,Championship,2022,2022-12-17,Hull City,Sunderland,1,1,0,1,D
+3654,Championship,2022,2022-12-17,Coventry,Swansea,3,3,1,2,D
+3655,Championship,2022,2022-12-17,Norwich,Blackburn,0,2,0,0,A
+3656,Championship,2022,2022-12-19,Wigan,Sheffield Utd,1,2,0,1,A
+3657,Championship,2022,2022-12-21,Coventry,West Brom,1,0,0,1,H
+3658,Championship,2022,2022-12-26,Watford,Millwall,0,2,0,0,A
+3659,Championship,2022,2022-12-26,Sunderland,Blackburn,2,1,1,1,H
+3660,Championship,2022,2022-12-26,Bristol City,West Brom,0,2,0,0,A
+3661,Championship,2022,2022-12-26,Preston,Huddersfield,1,2,1,0,A
+3662,Championship,2022,2022-12-26,Sheffield Utd,Coventry,3,1,1,2,H
+3663,Championship,2022,2022-12-26,Hull City,Blackpool,1,1,0,1,D
+3664,Championship,2022,2022-12-26,Middlesbrough,Wigan,4,1,1,3,H
+3665,Championship,2022,2022-12-26,Rotherham,Stoke City,2,2,1,1,D
+3666,Championship,2022,2022-12-26,Cardiff,QPR,0,0,0,0,D
+3667,Championship,2022,2022-12-26,Luton,Norwich,2,1,0,2,H
+3668,Championship,2022,2022-12-27,Reading,Swansea,2,1,1,1,H
+3669,Championship,2022,2022-12-27,Burnley,Birmingham,3,0,2,1,H
+3670,Championship,2022,2022-12-29,QPR,Luton,0,3,0,0,A
+3671,Championship,2022,2022-12-29,Huddersfield,Rotherham,2,0,1,1,H
+3672,Championship,2022,2022-12-29,Millwall,Bristol City,0,0,0,0,D
+3673,Championship,2022,2022-12-29,Wigan,Sunderland,1,4,1,0,A
+3674,Championship,2022,2022-12-29,Blackburn,Middlesbrough,1,2,1,0,A
+3675,Championship,2022,2022-12-29,Coventry,Cardiff,0,0,0,0,D
+3676,Championship,2022,2022-12-29,West Brom,Preston,2,0,1,1,H
+3677,Championship,2022,2022-12-29,Blackpool,Sheffield Utd,1,2,0,1,A
+3678,Championship,2022,2022-12-30,Birmingham,Hull City,0,1,0,0,A
+3679,Championship,2022,2022-12-30,Norwich,Reading,1,1,0,1,D
+3680,Championship,2022,2022-12-30,Stoke City,Burnley,0,1,0,0,A
+3681,Championship,2022,2022-12-30,Swansea,Watford,4,0,1,3,H
+3682,Championship,2022,2023-01-01,Blackburn,Cardiff,1,0,0,1,H
+3683,Championship,2022,2023-01-01,Huddersfield,Luton,1,2,1,0,A
+3684,Championship,2022,2023-01-01,Millwall,Rotherham,3,0,1,2,H
+3685,Championship,2022,2023-01-01,Coventry,Bristol City,1,1,1,0,D
+3686,Championship,2022,2023-01-01,Blackpool,Sunderland,1,1,1,0,D
+3687,Championship,2022,2023-01-02,Birmingham,Middlesbrough,1,3,0,1,A
+3688,Championship,2022,2023-01-02,West Brom,Reading,1,0,0,1,H
+3689,Championship,2022,2023-01-02,Wigan,Hull City,1,4,0,1,A
+3690,Championship,2022,2023-01-02,Norwich,Watford,0,1,0,0,A
+3691,Championship,2022,2023-01-02,Stoke City,Preston,0,1,0,0,A
+3692,Championship,2022,2023-01-02,Swansea,Burnley,1,2,1,0,A
+3693,Championship,2022,2023-01-02,QPR,Sheffield Utd,1,1,1,0,D
+3694,Championship,2022,2023-01-14,Rotherham,Blackburn,4,0,1,3,H
+3695,Championship,2022,2023-01-14,Watford,Blackpool,2,0,0,2,H
+3696,Championship,2022,2023-01-14,Cardiff,Wigan,1,1,0,1,D
+3697,Championship,2022,2023-01-14,Burnley,Coventry,1,0,0,1,H
+3698,Championship,2022,2023-01-14,Reading,QPR,2,2,2,0,D
+3699,Championship,2022,2023-01-14,Bristol City,Birmingham,4,2,2,2,H
+3700,Championship,2022,2023-01-14,Preston,Norwich,0,4,0,0,A
+3701,Championship,2022,2023-01-14,Sheffield Utd,Stoke City,3,1,2,1,H
+3702,Championship,2022,2023-01-14,Hull City,Huddersfield,1,1,0,1,D
+3703,Championship,2022,2023-01-14,Middlesbrough,Millwall,1,0,0,1,H
+3704,Championship,2022,2023-01-14,Sunderland,Swansea,1,3,0,1,A
+3705,Championship,2022,2023-01-14,Luton,West Brom,2,3,2,0,A
+3706,Championship,2022,2023-01-20,Sheffield Utd,Hull City,1,0,1,0,H
+3707,Championship,2022,2023-01-20,Burnley,West Brom,2,1,0,2,H
+3708,Championship,2022,2023-01-21,Coventry,Norwich,2,4,2,0,A
+3709,Championship,2022,2023-01-21,Watford,Rotherham,1,1,0,1,D
+3710,Championship,2022,2023-01-21,Cardiff,Millwall,0,1,0,0,A
+3711,Championship,2022,2023-01-21,Birmingham,Preston,1,2,0,1,A
+3712,Championship,2022,2023-01-21,Bristol City,Blackburn,1,1,0,1,D
+3713,Championship,2022,2023-01-21,Wigan,Luton,0,2,0,0,A
+3714,Championship,2022,2023-01-21,QPR,Swansea,1,1,1,0,D
+3715,Championship,2022,2023-01-21,Stoke City,Reading,4,0,1,3,H
+3716,Championship,2022,2023-01-22,Sunderland,Middlesbrough,2,0,0,2,H
+3717,Championship,2022,2023-01-28,Hull City,QPR,3,0,1,2,H
+3718,Championship,2022,2023-01-28,Middlesbrough,Watford,2,0,2,0,H
+3719,Championship,2022,2023-01-28,Coventry,Huddersfield,2,0,0,2,H
+3720,Championship,2022,2023-01-31,Luton,Cardiff,1,0,0,1,H
+3721,Championship,2022,2023-02-03,West Brom,Coventry,1,0,1,0,H
+3722,Championship,2022,2023-02-04,Norwich,Burnley,0,3,0,0,A
+3723,Championship,2022,2023-02-04,Rotherham,Sheffield Utd,0,0,0,0,D
+3724,Championship,2022,2023-02-04,Huddersfield,QPR,1,1,1,0,D
+3725,Championship,2022,2023-02-04,Reading,Watford,2,2,0,2,D
+3726,Championship,2022,2023-02-04,Millwall,Sunderland,1,1,0,1,D
+3727,Championship,2022,2023-02-04,Preston,Bristol City,1,2,0,1,A
+3728,Championship,2022,2023-02-04,Hull City,Cardiff,1,0,0,1,H
+3729,Championship,2022,2023-02-04,Middlesbrough,Blackpool,3,0,1,2,H
+3730,Championship,2022,2023-02-04,Swansea,Birmingham,3,4,2,1,A
+3731,Championship,2022,2023-02-04,Luton,Stoke City,1,0,1,0,H
+3732,Championship,2022,2023-02-06,Blackburn,Wigan,0,0,0,0,D
+3733,Championship,2022,2023-02-07,Blackpool,Huddersfield,2,2,0,2,D
+3734,Championship,2022,2023-02-10,Birmingham,West Brom,2,0,1,1,H
+3735,Championship,2022,2023-02-11,Watford,Blackburn,1,1,0,1,D
+3736,Championship,2022,2023-02-11,Cardiff,Middlesbrough,1,3,1,0,A
+3737,Championship,2022,2023-02-11,Burnley,Preston,3,0,1,2,H
+3738,Championship,2022,2023-02-11,Bristol City,Norwich,1,0,1,0,H
+3739,Championship,2022,2023-02-11,Wigan,Huddersfield,1,0,0,1,H
+3740,Championship,2022,2023-02-11,Sheffield Utd,Swansea,3,0,2,1,H
+3741,Championship,2022,2023-02-11,QPR,Millwall,1,2,0,1,A
+3742,Championship,2022,2023-02-11,Stoke City,Hull City,0,0,0,0,D
+3743,Championship,2022,2023-02-11,Sunderland,Reading,1,0,0,1,H
+3744,Championship,2022,2023-02-11,Coventry,Luton,1,1,1,0,D
+3745,Championship,2022,2023-02-11,Blackpool,Rotherham,0,0,0,0,D
+3746,Championship,2022,2023-02-14,Birmingham,Cardiff,0,2,0,0,A
+3747,Championship,2022,2023-02-14,Norwich,Hull City,3,1,1,2,H
+3748,Championship,2022,2023-02-14,QPR,Sunderland,0,3,0,0,A
+3749,Championship,2022,2023-02-14,Coventry,Millwall,1,0,0,1,H
+3750,Championship,2022,2023-02-14,Burnley,Watford,1,1,0,1,D
+3751,Championship,2022,2023-02-14,Reading,Rotherham,2,1,0,2,H
+3752,Championship,2022,2023-02-15,Bristol City,Wigan,1,1,1,0,D
+3753,Championship,2022,2023-02-15,Preston,Luton,1,1,0,1,D
+3754,Championship,2022,2023-02-15,Stoke City,Huddersfield,3,0,1,2,H
+3755,Championship,2022,2023-02-15,Swansea,Blackpool,2,1,1,1,H
+3756,Championship,2022,2023-02-15,West Brom,Blackburn,1,1,0,1,D
+3757,Championship,2022,2023-02-15,Sheffield Utd,Middlesbrough,1,3,1,0,A
+3758,Championship,2022,2023-02-17,Cardiff,Reading,1,0,0,1,H
+3759,Championship,2022,2023-02-18,Millwall,Sheffield Utd,3,2,1,2,H
+3760,Championship,2022,2023-02-18,Huddersfield,Birmingham,2,1,1,1,H
+3761,Championship,2022,2023-02-18,Wigan,Norwich,0,0,0,0,D
+3762,Championship,2022,2023-02-18,Hull City,Preston,0,0,0,0,D
+3763,Championship,2022,2023-02-18,Blackburn,Swansea,1,0,0,1,H
+3764,Championship,2022,2023-02-18,Middlesbrough,QPR,3,1,0,3,H
+3765,Championship,2022,2023-02-18,Rotherham,Coventry,0,2,0,0,A
+3766,Championship,2022,2023-02-18,Sunderland,Bristol City,1,1,0,1,D
+3767,Championship,2022,2023-02-18,Blackpool,Stoke City,1,0,1,0,H
+3768,Championship,2022,2023-02-18,Luton,Burnley,0,1,0,0,A
+3769,Championship,2022,2023-02-20,Watford,West Brom,3,2,1,2,H
+3770,Championship,2022,2023-02-21,Millwall,Burnley,1,1,0,1,D
+3771,Championship,2022,2023-02-21,Blackburn,Blackpool,1,0,1,0,H
+3772,Championship,2022,2023-02-21,Norwich,Birmingham,3,1,2,1,H
+3773,Championship,2022,2023-02-21,Rotherham,Sunderland,2,1,1,1,H
+3774,Championship,2022,2023-02-21,Swansea,Stoke City,1,3,1,0,A
+3775,Championship,2022,2023-02-25,Coventry,Sunderland,2,1,1,1,H
+3776,Championship,2022,2023-02-25,Burnley,Huddersfield,4,0,3,1,H
+3777,Championship,2022,2023-02-25,Reading,Blackpool,3,1,1,2,H
+3778,Championship,2022,2023-02-25,Birmingham,Luton,0,1,0,0,A
+3779,Championship,2022,2023-02-25,Bristol City,Hull City,1,0,0,1,H
+3780,Championship,2022,2023-02-25,Preston,Wigan,2,1,0,2,H
+3781,Championship,2022,2023-02-25,West Brom,Middlesbrough,2,0,2,0,H
+3782,Championship,2022,2023-02-25,Sheffield Utd,Watford,1,0,0,1,H
+3783,Championship,2022,2023-02-25,Norwich,Cardiff,2,0,2,0,H
+3784,Championship,2022,2023-02-25,QPR,Blackburn,1,3,1,0,A
+3785,Championship,2022,2023-02-25,Stoke City,Millwall,0,1,0,0,A
+3786,Championship,2022,2023-02-27,Swansea,Rotherham,1,1,1,0,D
+3787,Championship,2022,2023-02-28,Preston,Coventry,0,0,0,0,D
+3788,Championship,2022,2023-02-28,Luton,Millwall,2,2,0,2,D
+3789,Championship,2022,2023-03-03,Hull City,West Brom,2,0,1,1,H
+3790,Championship,2022,2023-03-04,Cardiff,Bristol City,2,0,0,2,H
+3791,Championship,2022,2023-03-04,Blackburn,Sheffield Utd,1,0,1,0,H
+3792,Championship,2022,2023-03-04,Huddersfield,Coventry,0,4,0,0,A
+3793,Championship,2022,2023-03-04,Watford,Preston,0,0,0,0,D
+3794,Championship,2022,2023-03-04,Millwall,Norwich,2,3,1,1,A
+3795,Championship,2022,2023-03-04,Wigan,Birmingham,1,1,0,1,D
+3796,Championship,2022,2023-03-04,Middlesbrough,Reading,5,0,2,3,H
+3797,Championship,2022,2023-03-04,Rotherham,QPR,3,1,1,2,H
+3798,Championship,2022,2023-03-04,Sunderland,Stoke City,1,5,0,1,A
+3799,Championship,2022,2023-03-04,Blackpool,Burnley,0,0,0,0,D
+3800,Championship,2022,2023-03-04,Luton,Swansea,1,0,1,0,H
+3801,Championship,2022,2023-03-07,Huddersfield,Bristol City,0,0,0,0,D
+3802,Championship,2022,2023-03-07,Reading,Sheffield Utd,0,1,0,0,A
+3803,Championship,2022,2023-03-07,West Brom,Wigan,1,0,1,0,H
+3804,Championship,2022,2023-03-10,Stoke City,Blackburn,3,2,2,1,H
+3805,Championship,2022,2023-03-11,Bristol City,Blackpool,2,0,0,2,H
+3806,Championship,2022,2023-03-11,Burnley,Wigan,3,0,1,2,H
+3807,Championship,2022,2023-03-11,Reading,Millwall,0,1,0,0,A
+3808,Championship,2022,2023-03-11,Birmingham,Rotherham,2,0,2,0,H
+3809,Championship,2022,2023-03-11,Preston,Cardiff,2,0,0,2,H
+3810,Championship,2022,2023-03-11,West Brom,Huddersfield,1,0,1,0,H
+3811,Championship,2022,2023-03-11,Sheffield Utd,Luton,0,1,0,0,A
+3812,Championship,2022,2023-03-11,QPR,Watford,1,0,1,0,H
+3813,Championship,2022,2023-03-11,Swansea,Middlesbrough,1,3,1,0,A
+3814,Championship,2022,2023-03-11,Coventry,Hull City,1,1,0,1,D
+3815,Championship,2022,2023-03-12,Norwich,Sunderland,0,1,0,0,A
+3816,Championship,2022,2023-03-14,Watford,Birmingham,3,0,2,1,H
+3817,Championship,2022,2023-03-14,Millwall,Swansea,2,1,0,2,H
+3818,Championship,2022,2023-03-14,Wigan,Coventry,1,1,0,1,D
+3819,Championship,2022,2023-03-14,Rotherham,Preston,1,2,1,0,A
+3820,Championship,2022,2023-03-14,Blackpool,QPR,6,1,4,2,H
+3821,Championship,2022,2023-03-14,Middlesbrough,Stoke City,1,1,1,0,D
+3822,Championship,2022,2023-03-15,Huddersfield,Norwich,1,1,0,1,D
+3823,Championship,2022,2023-03-15,Cardiff,West Brom,1,1,0,1,D
+3824,Championship,2022,2023-03-15,Hull City,Burnley,1,3,0,1,A
+3825,Championship,2022,2023-03-15,Blackburn,Reading,2,1,1,1,H
+3826,Championship,2022,2023-03-15,Luton,Bristol City,1,0,1,0,H
+3827,Championship,2022,2023-03-15,Sunderland,Sheffield Utd,1,2,1,0,A
+3828,Championship,2022,2023-03-18,Watford,Wigan,1,1,1,0,D
+3829,Championship,2022,2023-03-18,Reading,Hull City,1,1,1,0,D
+3830,Championship,2022,2023-03-18,Millwall,Huddersfield,0,1,0,0,A
+3831,Championship,2022,2023-03-18,Middlesbrough,Preston,4,0,1,3,H
+3832,Championship,2022,2023-03-18,QPR,Birmingham,0,1,0,0,A
+3833,Championship,2022,2023-03-18,Stoke City,Norwich,0,0,0,0,D
+3834,Championship,2022,2023-03-18,Sunderland,Luton,1,1,0,1,D
+3835,Championship,2022,2023-03-18,Blackpool,Coventry,1,4,1,0,A
+3836,Championship,2022,2023-03-19,Swansea,Bristol City,2,0,1,1,H
+3837,Championship,2022,2023-03-31,Burnley,Sunderland,0,0,0,0,D
+3838,Championship,2022,2023-04-01,Preston,Blackpool,3,1,2,1,H
+3839,Championship,2022,2023-04-01,Luton,Watford,2,0,1,1,H
+3840,Championship,2022,2023-04-01,Huddersfield,Middlesbrough,4,2,0,4,H
+3841,Championship,2022,2023-04-01,Cardiff,Swansea,2,3,1,1,A
+3842,Championship,2022,2023-04-01,Birmingham,Blackburn,1,0,0,1,H
+3843,Championship,2022,2023-04-01,Bristol City,Reading,1,1,1,0,D
+3844,Championship,2022,2023-04-01,West Brom,Millwall,0,0,0,0,D
+3845,Championship,2022,2023-04-01,Wigan,QPR,1,0,1,0,H
+3846,Championship,2022,2023-04-01,Hull City,Rotherham,0,0,0,0,D
+3847,Championship,2022,2023-04-01,Norwich,Sheffield Utd,0,1,0,0,A
+3848,Championship,2022,2023-04-01,Coventry,Stoke City,0,4,0,0,A
+3849,Championship,2022,2023-04-07,Millwall,Luton,0,0,0,0,D
+3850,Championship,2022,2023-04-07,Rotherham,West Brom,3,1,1,2,H
+3851,Championship,2022,2023-04-07,Watford,Huddersfield,2,3,1,1,A
+3852,Championship,2022,2023-04-07,Reading,Birmingham,1,1,1,0,D
+3853,Championship,2022,2023-04-07,Sheffield Utd,Wigan,1,0,1,0,H
+3854,Championship,2022,2023-04-07,Blackburn,Norwich,0,2,0,0,A
+3855,Championship,2022,2023-04-07,QPR,Preston,0,2,0,0,A
+3856,Championship,2022,2023-04-07,Stoke City,Bristol City,1,2,1,0,A
+3857,Championship,2022,2023-04-07,Swansea,Coventry,0,0,0,0,D
+3858,Championship,2022,2023-04-07,Blackpool,Cardiff,1,3,0,1,A
+3859,Championship,2022,2023-04-07,Sunderland,Hull City,4,4,2,2,D
+3860,Championship,2022,2023-04-07,Middlesbrough,Burnley,1,2,0,1,A
+3861,Championship,2022,2023-04-10,Huddersfield,Blackburn,2,2,2,0,D
+3862,Championship,2022,2023-04-10,Cardiff,Sunderland,0,1,0,0,A
+3863,Championship,2022,2023-04-10,Birmingham,Stoke City,0,0,0,0,D
+3864,Championship,2022,2023-04-10,Preston,Reading,2,1,0,2,H
+3865,Championship,2022,2023-04-10,West Brom,QPR,2,2,2,0,D
+3866,Championship,2022,2023-04-10,Wigan,Swansea,0,2,0,0,A
+3867,Championship,2022,2023-04-10,Hull City,Millwall,1,0,0,1,H
+3868,Championship,2022,2023-04-10,Norwich,Rotherham,0,0,0,0,D
+3869,Championship,2022,2023-04-10,Coventry,Watford,2,2,0,2,D
+3870,Championship,2022,2023-04-10,Luton,Blackpool,3,1,1,2,H
+3871,Championship,2022,2023-04-10,Bristol City,Middlesbrough,2,2,1,1,D
+3872,Championship,2022,2023-04-10,Burnley,Sheffield Utd,2,0,0,2,H
+3873,Championship,2022,2023-04-14,Middlesbrough,Norwich,5,1,4,1,H
+3874,Championship,2022,2023-04-15,Sheffield Utd,Cardiff,4,1,1,3,H
+3875,Championship,2022,2023-04-15,Watford,Bristol City,2,0,1,1,H
+3876,Championship,2022,2023-04-15,Reading,Burnley,0,0,0,0,D
+3877,Championship,2022,2023-04-15,Millwall,Preston,2,0,1,1,H
+3878,Championship,2022,2023-04-15,QPR,Coventry,0,3,0,0,A
+3879,Championship,2022,2023-04-15,Rotherham,Luton,0,2,0,0,A
+3880,Championship,2022,2023-04-15,Stoke City,West Brom,1,2,1,0,A
+3881,Championship,2022,2023-04-15,Swansea,Huddersfield,1,0,0,1,H
+3882,Championship,2022,2023-04-15,Sunderland,Birmingham,2,1,1,1,H
+3883,Championship,2022,2023-04-15,Blackpool,Wigan,1,0,1,0,H
+3884,Championship,2022,2023-04-15,Blackburn,Hull City,0,0,0,0,D
+3885,Championship,2022,2023-04-18,Sheffield Utd,Bristol City,1,0,0,1,H
+3886,Championship,2022,2023-04-18,Rotherham,Burnley,2,2,1,1,D
+3887,Championship,2022,2023-04-18,Stoke City,Wigan,0,1,0,0,A
+3888,Championship,2022,2023-04-18,Sunderland,Huddersfield,1,1,1,0,D
+3889,Championship,2022,2023-04-18,Blackpool,West Brom,0,2,0,0,A
+3890,Championship,2022,2023-04-18,Millwall,Birmingham,0,1,0,0,A
+3891,Championship,2022,2023-04-19,Watford,Cardiff,1,3,1,0,A
+3892,Championship,2022,2023-04-19,Blackburn,Coventry,1,1,1,0,D
+3893,Championship,2022,2023-04-19,QPR,Norwich,1,1,1,0,D
+3894,Championship,2022,2023-04-19,Swansea,Preston,4,2,3,1,H
+3895,Championship,2022,2023-04-19,Reading,Luton,1,1,0,1,D
+3896,Championship,2022,2023-04-19,Middlesbrough,Hull City,3,1,0,3,H
+3897,Championship,2022,2023-04-22,Cardiff,Stoke City,1,1,1,0,D
+3898,Championship,2022,2023-04-22,Burnley,QPR,1,2,0,1,A
+3899,Championship,2022,2023-04-22,Birmingham,Blackpool,0,1,0,0,A
+3900,Championship,2022,2023-04-22,Bristol City,Rotherham,2,1,1,1,H
+3901,Championship,2022,2023-04-22,Wigan,Millwall,2,1,1,1,H
+3902,Championship,2022,2023-04-22,Hull City,Watford,1,0,1,0,H
+3903,Championship,2022,2023-04-22,Norwich,Swansea,0,3,0,0,A
+3904,Championship,2022,2023-04-22,Coventry,Reading,2,1,1,1,H
+3905,Championship,2022,2023-04-22,Preston,Blackburn,1,1,0,1,D
+3906,Championship,2022,2023-04-23,West Brom,Sunderland,1,2,1,0,A
+3907,Championship,2022,2023-04-24,Luton,Middlesbrough,2,1,0,2,H
+3908,Championship,2022,2023-04-25,Blackburn,Burnley,0,1,0,0,A
+3909,Championship,2022,2023-04-26,Sheffield Utd,West Brom,2,0,0,2,H
+3910,Championship,2022,2023-04-27,Rotherham,Cardiff,1,2,1,0,A
+3911,Championship,2022,2023-04-28,Blackpool,Millwall,2,3,1,1,A
+3912,Championship,2022,2023-04-29,Reading,Wigan,1,1,0,1,D
+3913,Championship,2022,2023-04-29,Bristol City,Burnley,1,2,0,1,A
+3914,Championship,2022,2023-04-29,Sheffield Utd,Preston,4,1,1,3,H
+3915,Championship,2022,2023-04-29,Hull City,Swansea,1,1,1,0,D
+3916,Championship,2022,2023-04-29,Stoke City,QPR,0,1,0,0,A
+3917,Championship,2022,2023-04-29,Sunderland,Watford,2,2,0,2,D
+3918,Championship,2022,2023-04-29,Coventry,Birmingham,2,0,2,0,H
+3919,Championship,2022,2023-04-29,West Brom,Norwich,2,1,1,1,H
+3920,Championship,2022,2023-04-30,Cardiff,Huddersfield,1,2,0,1,A
+3921,Championship,2022,2023-05-01,Rotherham,Middlesbrough,1,0,0,1,H
+3922,Championship,2022,2023-05-01,Blackburn,Luton,1,1,0,1,D
+3923,Championship,2022,2023-05-04,Huddersfield,Sheffield Utd,1,0,0,1,H
+3924,Championship,2022,2023-05-08,Huddersfield,Reading,2,0,0,2,H
+3925,Championship,2022,2023-05-08,Watford,Stoke City,2,0,0,2,H
+3926,Championship,2022,2023-05-08,Burnley,Cardiff,3,0,2,1,H
+3927,Championship,2022,2023-05-08,Birmingham,Sheffield Utd,1,2,0,1,A
+3928,Championship,2022,2023-05-08,Millwall,Blackburn,3,4,3,0,A
+3929,Championship,2022,2023-05-08,Preston,Sunderland,0,3,0,0,A
+3930,Championship,2022,2023-05-08,Wigan,Rotherham,0,0,0,0,D
+3931,Championship,2022,2023-05-08,Middlesbrough,Coventry,1,1,1,0,D
+3932,Championship,2022,2023-05-08,Norwich,Blackpool,0,1,0,0,A
+3933,Championship,2022,2023-05-08,QPR,Bristol City,0,2,0,0,A
+3934,Championship,2022,2023-05-08,Swansea,West Brom,3,2,1,2,H
+3935,Championship,2022,2023-05-08,Luton,Hull City,0,0,0,0,D
+3936,Championship,2022,2023-05-13,Sunderland,Luton,2,1,1,1,H
+3937,Championship,2022,2023-05-14,Coventry,Middlesbrough,0,0,0,0,D
+3938,Championship,2022,2023-05-16,Luton,Sunderland,2,0,2,0,H
+3939,Championship,2022,2023-05-17,Middlesbrough,Coventry,0,1,0,0,A

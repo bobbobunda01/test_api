@@ -1,0 +1,57 @@
+{
+    "39": {
+        "bookmaker_margin": 0.05532682048449087,
+        "importance": 4,
+        "uncertainty_threshold": 0.107
+    },
+    "61": {
+        "bookmaker_margin": 0.055123036643900766,
+        "importance": 4,
+        "uncertainty_threshold": 0.104
+    },
+    "78": {
+        "bookmaker_margin": 0.05556250265505974,
+        "importance": 4,
+        "uncertainty_threshold": 0.107
+    },
+    "140": {
+        "bookmaker_margin": 0.05654027712098233,
+        "importance": 4,
+        "uncertainty_threshold": 0.106
+    },
+    "135": {
+        "bookmaker_margin": 0.05516440628622236,
+        "importance": 4,
+        "uncertainty_threshold": 0.105
+    },
+    "88": {
+        "bookmaker_margin": 0.056195910271154594,
+        "importance": 4,
+        "uncertainty_threshold": 0.107
+    },
+    "207": {
+        "bookmaker_margin": 0.05,
+        "importance": 3,
+        "uncertainty_threshold": 0.108
+    },
+    "94": {
+        "bookmaker_margin": 0.08288593240499947,
+        "importance": 4,
+        "uncertainty_threshold": 0.106
+    },
+    "203": {
+        "bookmaker_margin": 0.08701439661014386,
+        "importance": 4,
+        "uncertainty_threshold": 0.107
+    },
+    "144": {
+        "bookmaker_margin": 0.0870097156577691,
+        "importance": 4,
+        "uncertainty_threshold": 0.107
+    },
+    "98": {
+        "bookmaker_margin": 0.05,
+        "importance": 3,
+        "uncertainty_threshold": 0.11
+    }
+}

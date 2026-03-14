@@ -1,0 +1,237 @@
+,league,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,Grece,2024-08-17,PAOK,Panserraikos,3,2,2,1,H
+1,Grece,2024-08-17,Volos NFC,Olympiakos Piraeus,0,2,0,0,A
+2,Grece,2024-08-18,Levadiakos,Kallithea,0,0,0,0,D
+3,Grece,2024-08-18,Panathinaikos,Asteras Tripolis,0,1,0,0,A
+4,Grece,2024-08-18,Atromitos,Aris Thessalonikis,1,1,0,1,D
+5,Grece,2024-08-18,AEK Athens FC,OFI,3,0,2,1,H
+6,Grece,2024-08-19,Panetolikos,Lamia,0,1,0,0,A
+7,Grece,2024-08-24,OFI,Atromitos,1,1,1,0,D
+8,Grece,2024-08-24,Panserraikos,Aris Thessalonikis,0,1,0,0,A
+9,Grece,2024-08-24,AEK Athens FC,Lamia,1,1,0,1,D
+10,Grece,2024-08-25,Asteras Tripolis,Volos NFC,0,1,0,0,A
+11,Grece,2024-08-25,PAOK,Panetolikos,2,0,0,2,H
+12,Grece,2024-08-25,Panathinaikos,Levadiakos,1,0,0,1,H
+13,Grece,2024-08-26,Olympiakos Piraeus,Kallithea,2,1,1,1,H
+14,Grece,2024-08-31,Lamia,Olympiakos Piraeus,0,3,0,0,A
+15,Grece,2024-08-31,Aris Thessalonikis,Asteras Tripolis,1,1,0,1,D
+16,Grece,2024-08-31,Panetolikos,Panserraikos,3,0,1,2,H
+17,Grece,2024-09-01,Levadiakos,AEK Athens FC,0,3,0,0,A
+18,Grece,2024-09-01,Volos NFC,OFI,1,3,0,1,A
+19,Grece,2024-09-01,Atromitos,PAOK,1,2,0,1,A
+20,Grece,2024-09-01,Kallithea,Panathinaikos,2,2,1,1,D
+21,Grece,2024-09-14,Lamia,Kallithea,0,0,0,0,D
+22,Grece,2024-09-14,Asteras Tripolis,Atromitos,1,2,1,0,A
+23,Grece,2024-09-15,Panserraikos,Levadiakos,2,2,2,0,D
+24,Grece,2024-09-15,Olympiakos Piraeus,Panetolikos,0,0,0,0,D
+25,Grece,2024-09-15,PAOK,Panathinaikos,0,0,0,0,D
+26,Grece,2024-09-15,OFI,Aris Thessalonikis,3,2,1,2,H
+27,Grece,2024-09-16,AEK Athens FC,Volos NFC,2,0,1,1,H
+28,Grece,2024-09-21,Volos NFC,PAOK,1,4,0,1,A
+29,Grece,2024-09-21,Aris Thessalonikis,Olympiakos Piraeus,2,1,2,0,H
+30,Grece,2024-09-21,Panetolikos,Asteras Tripolis,1,1,1,0,D
+31,Grece,2024-09-22,Levadiakos,OFI,1,1,0,1,D
+32,Grece,2024-09-22,Panathinaikos,Panserraikos,3,1,1,2,H
+33,Grece,2024-09-22,Atromitos,Lamia,4,2,1,3,H
+34,Grece,2024-09-22,Kallithea,AEK Athens FC,0,0,0,0,D
+35,Grece,2024-09-28,Volos NFC,Kallithea,1,1,1,0,D
+36,Grece,2024-09-28,Asteras Tripolis,Levadiakos,1,1,1,0,D
+37,Grece,2024-09-29,OFI,Panetolikos,1,2,1,0,A
+38,Grece,2024-09-29,Olympiakos Piraeus,Atromitos,2,0,1,1,H
+39,Grece,2024-09-29,PAOK,Aris Thessalonikis,0,1,0,0,A
+40,Grece,2024-09-29,AEK Athens FC,Panathinaikos,2,0,1,1,H
+41,Grece,2024-09-30,Lamia,Panserraikos,1,2,0,1,A
+42,Grece,2024-10-05,Atromitos,Volos NFC,1,2,1,0,A
+43,Grece,2024-10-05,Panetolikos,AEK Athens FC,1,0,0,1,H
+44,Grece,2024-10-05,Aris Thessalonikis,Lamia,2,0,2,0,H
+45,Grece,2024-10-06,Panserraikos,OFI,2,3,2,0,A
+46,Grece,2024-10-06,Kallithea,Asteras Tripolis,1,3,1,0,A
+47,Grece,2024-10-06,Panathinaikos,Olympiakos Piraeus,0,0,0,0,D
+48,Grece,2024-10-06,Levadiakos,PAOK,0,2,0,0,A
+49,Grece,2024-10-19,Volos NFC,Panserraikos,0,1,0,0,A
+50,Grece,2024-10-19,Atromitos,Panetolikos,0,2,0,0,A
+51,Grece,2024-10-19,Lamia,Asteras Tripolis,0,0,0,0,D
+52,Grece,2024-10-20,Olympiakos Piraeus,Levadiakos,2,2,2,0,D
+53,Grece,2024-10-20,OFI,Panathinaikos,0,1,0,0,A
+54,Grece,2024-10-20,Aris Thessalonikis,Kallithea,2,0,0,2,H
+55,Grece,2024-10-20,AEK Athens FC,PAOK,1,1,1,0,D
+56,Grece,2024-10-26,Panetolikos,Volos NFC,0,1,0,0,A
+57,Grece,2024-10-26,Levadiakos,Lamia,2,2,1,1,D
+58,Grece,2024-10-26,Panserraikos,AEK Athens FC,1,0,1,0,H
+59,Grece,2024-10-27,Asteras Tripolis,Olympiakos Piraeus,1,0,1,0,H
+60,Grece,2024-10-27,Panathinaikos,Aris Thessalonikis,1,1,1,0,D
+61,Grece,2024-10-27,PAOK,OFI,1,2,1,0,A
+62,Grece,2024-10-27,Kallithea,Atromitos,0,3,0,0,A
+63,Grece,2024-11-02,Olympiakos Piraeus,Panserraikos,2,1,1,1,H
+64,Grece,2024-11-02,Kallithea,Panetolikos,1,1,1,0,D
+65,Grece,2024-11-03,Aris Thessalonikis,Levadiakos,3,1,2,1,H
+66,Grece,2024-11-03,Volos NFC,Panathinaikos,0,1,0,0,A
+67,Grece,2024-11-03,Lamia,PAOK,1,2,1,0,A
+68,Grece,2024-11-03,Atromitos,AEK Athens FC,0,1,0,0,A
+69,Grece,2024-11-04,Asteras Tripolis,OFI,3,0,0,3,H
+70,Grece,2024-11-09,Panetolikos,Aris Thessalonikis,2,1,1,1,H
+71,Grece,2024-11-09,Panserraikos,Atromitos,2,3,1,1,A
+72,Grece,2024-11-09,AEK Athens FC,Asteras Tripolis,3,0,2,1,H
+73,Grece,2024-11-10,OFI,Kallithea,2,2,2,0,D
+74,Grece,2024-11-10,Levadiakos,Volos NFC,3,2,1,2,H
+75,Grece,2024-11-10,Panathinaikos,Lamia,1,0,0,1,H
+76,Grece,2024-11-10,PAOK,Olympiakos Piraeus,2,3,0,2,A
+77,Grece,2024-11-22,Kallithea,Panserraikos,1,2,0,1,A
+78,Grece,2024-11-23,Lamia,OFI,1,1,1,0,D
+79,Grece,2024-11-23,Aris Thessalonikis,Volos NFC,0,1,0,0,A
+80,Grece,2024-11-24,Panetolikos,Panathinaikos,1,2,0,1,A
+81,Grece,2024-11-24,Asteras Tripolis,PAOK,1,2,0,1,A
+82,Grece,2024-11-24,Olympiakos Piraeus,AEK Athens FC,4,1,1,3,H
+83,Grece,2024-11-25,Atromitos,Levadiakos,2,1,0,2,H
+84,Grece,2024-11-30,Volos NFC,Lamia,0,0,0,0,D
+85,Grece,2024-11-30,Levadiakos,Panetolikos,1,1,1,0,D
+86,Grece,2024-11-30,AEK Athens FC,Aris Thessalonikis,4,0,2,2,H
+87,Grece,2024-12-01,Panserraikos,Asteras Tripolis,2,1,1,1,H
+88,Grece,2024-12-01,OFI,Olympiakos Piraeus,0,2,0,0,A
+89,Grece,2024-12-01,PAOK,Kallithea,2,2,1,1,D
+90,Grece,2024-12-01,Panathinaikos,Atromitos,1,1,1,0,D
+91,Grece,2024-12-07,Olympiakos Piraeus,Volos NFC,3,0,2,1,H
+92,Grece,2024-12-07,Aris Thessalonikis,Atromitos,2,1,2,0,H
+93,Grece,2024-12-08,Panserraikos,PAOK,1,4,0,1,A
+94,Grece,2024-12-08,OFI,AEK Athens FC,1,2,1,0,A
+95,Grece,2024-12-08,Asteras Tripolis,Panathinaikos,0,1,0,0,A
+96,Grece,2024-12-08,Lamia,Panetolikos,0,1,0,0,A
+97,Grece,2024-12-09,Kallithea,Levadiakos,2,4,1,1,A
+98,Grece,2024-12-14,Lamia,AEK Athens FC,0,1,0,0,A
+99,Grece,2024-12-14,Atromitos,OFI,0,0,0,0,D
+100,Grece,2024-12-14,Volos NFC,Asteras Tripolis,2,1,0,2,H
+101,Grece,2024-12-15,Aris Thessalonikis,Panserraikos,1,0,0,1,H
+102,Grece,2024-12-15,Levadiakos,Panathinaikos,0,1,0,0,A
+103,Grece,2024-12-15,Panetolikos,PAOK,0,1,0,0,A
+104,Grece,2024-12-16,Kallithea,Olympiakos Piraeus,1,1,0,1,D
+105,Grece,2024-12-21,Olympiakos Piraeus,Lamia,1,0,0,1,H
+106,Grece,2024-12-22,Panserraikos,Panetolikos,0,0,0,0,D
+107,Grece,2024-12-22,Panathinaikos,Kallithea,1,0,0,1,H
+108,Grece,2024-12-22,PAOK,Atromitos,3,0,1,2,H
+109,Grece,2024-12-22,AEK Athens FC,Levadiakos,1,1,0,1,D
+110,Grece,2024-12-23,Asteras Tripolis,Aris Thessalonikis,2,1,0,2,H
+111,Grece,2024-12-23,OFI,Volos NFC,4,0,2,2,H
+112,Grece,2025-01-04,Kallithea,Lamia,2,1,1,1,H
+113,Grece,2025-01-05,Levadiakos,Panserraikos,1,0,0,1,H
+114,Grece,2025-01-05,Aris Thessalonikis,OFI,0,2,0,0,A
+115,Grece,2025-01-05,Volos NFC,AEK Athens FC,2,4,0,2,A
+116,Grece,2025-01-05,Atromitos,Asteras Tripolis,0,1,0,0,A
+117,Grece,2025-01-05,Panathinaikos,PAOK,2,1,1,1,H
+118,Grece,2025-01-06,Panetolikos,Olympiakos Piraeus,0,2,0,0,A
+119,Grece,2025-01-11,Olympiakos Piraeus,Aris Thessalonikis,2,1,0,2,H
+120,Grece,2025-01-12,Panserraikos,Panathinaikos,2,2,0,2,D
+121,Grece,2025-01-12,Lamia,Atromitos,0,3,0,0,A
+122,Grece,2025-01-12,PAOK,Volos NFC,1,2,0,1,A
+123,Grece,2025-01-12,AEK Athens FC,Kallithea,2,0,1,1,H
+124,Grece,2025-01-13,Asteras Tripolis,Panetolikos,2,0,0,2,H
+125,Grece,2025-01-13,OFI,Levadiakos,0,0,0,0,D
+126,Grece,2025-01-18,Kallithea,Volos NFC,2,0,0,2,H
+127,Grece,2025-01-19,Atromitos,Olympiakos Piraeus,1,2,1,0,A
+128,Grece,2025-01-19,Panetolikos,OFI,1,0,1,0,H
+129,Grece,2025-01-19,Levadiakos,Asteras Tripolis,1,2,1,0,A
+130,Grece,2025-01-19,Aris Thessalonikis,PAOK,0,0,0,0,D
+131,Grece,2025-01-19,Panathinaikos,AEK Athens FC,1,0,1,0,H
+132,Grece,2025-01-20,Panserraikos,Lamia,2,0,1,1,H
+133,Grece,2025-01-24,Volos NFC,Atromitos,0,1,0,0,A
+134,Grece,2025-01-25,Asteras Tripolis,Kallithea,1,0,1,0,H
+135,Grece,2025-01-25,OFI,Panserraikos,3,2,2,1,H
+136,Grece,2025-01-25,AEK Athens FC,Panetolikos,1,0,0,1,H
+137,Grece,2025-01-26,Lamia,Aris Thessalonikis,0,2,0,0,A
+138,Grece,2025-01-26,PAOK,Levadiakos,1,0,0,1,H
+139,Grece,2025-01-26,Olympiakos Piraeus,Panathinaikos,1,1,1,0,D
+140,Grece,2025-02-01,Panathinaikos,OFI,3,2,0,3,H
+141,Grece,2025-02-01,Panserraikos,Volos NFC,1,1,1,0,D
+142,Grece,2025-02-02,Levadiakos,Olympiakos Piraeus,0,1,0,0,A
+143,Grece,2025-02-02,Kallithea,Aris Thessalonikis,0,1,0,0,A
+144,Grece,2025-02-02,PAOK,AEK Athens FC,1,2,0,1,A
+145,Grece,2025-02-02,Panetolikos,Atromitos,0,1,0,0,A
+146,Grece,2025-02-03,Asteras Tripolis,Lamia,1,0,1,0,H
+147,Grece,2025-02-08,Volos NFC,Panetolikos,0,1,0,0,A
+148,Grece,2025-02-08,OFI,PAOK,0,5,0,0,A
+149,Grece,2025-02-09,Olympiakos Piraeus,Asteras Tripolis,1,1,1,0,D
+150,Grece,2025-02-09,Aris Thessalonikis,Panathinaikos,2,0,1,1,H
+151,Grece,2025-02-09,AEK Athens FC,Panserraikos,5,0,2,3,H
+152,Grece,2025-02-10,Lamia,Levadiakos,0,2,0,0,A
+153,Grece,2025-02-10,Atromitos,Kallithea,1,2,0,1,A
+154,Grece,2025-02-15,OFI,Asteras Tripolis,2,1,0,2,H
+155,Grece,2025-02-15,AEK Athens FC,Atromitos,2,1,1,1,H
+156,Grece,2025-02-16,Levadiakos,Aris Thessalonikis,4,1,1,3,H
+157,Grece,2025-02-16,Panathinaikos,Volos NFC,2,1,1,1,H
+158,Grece,2025-02-16,Panserraikos,Olympiakos Piraeus,0,4,0,0,A
+159,Grece,2025-02-16,PAOK,Lamia,7,0,2,5,H
+160,Grece,2025-02-16,Panetolikos,Kallithea,2,0,0,2,H
+161,Grece,2025-02-22,Kallithea,OFI,1,3,0,1,A
+162,Grece,2025-02-22,Atromitos,Panserraikos,1,0,0,1,H
+163,Grece,2025-02-22,Volos NFC,Levadiakos,1,2,1,0,A
+164,Grece,2025-02-23,Aris Thessalonikis,Panetolikos,2,1,2,0,H
+165,Grece,2025-02-23,Lamia,Panathinaikos,3,1,1,2,H
+166,Grece,2025-02-23,Asteras Tripolis,AEK Athens FC,0,3,0,0,A
+167,Grece,2025-02-23,Olympiakos Piraeus,PAOK,2,1,2,0,H
+168,Grece,2025-03-01,Panserraikos,Kallithea,2,1,1,1,H
+169,Grece,2025-03-01,Volos NFC,Aris Thessalonikis,1,1,0,1,D
+170,Grece,2025-03-01,Panathinaikos,Panetolikos,2,0,1,1,H
+171,Grece,2025-03-02,Levadiakos,Atromitos,1,2,1,0,A
+172,Grece,2025-03-02,OFI,Lamia,3,0,1,2,H
+173,Grece,2025-03-02,PAOK,Asteras Tripolis,2,0,1,1,H
+174,Grece,2025-03-02,AEK Athens FC,Olympiakos Piraeus,0,1,0,0,A
+175,Grece,2025-03-09,Olympiakos Piraeus,OFI,1,0,1,0,H
+176,Grece,2025-03-09,Panetolikos,Levadiakos,0,0,0,0,D
+177,Grece,2025-03-09,Asteras Tripolis,Panserraikos,1,2,0,1,A
+178,Grece,2025-03-09,Lamia,Volos NFC,1,0,1,0,H
+179,Grece,2025-03-09,Aris Thessalonikis,AEK Athens FC,0,0,0,0,D
+180,Grece,2025-03-09,Kallithea,PAOK,2,1,1,1,H
+181,Grece,2025-03-09,Atromitos,Panathinaikos,1,1,0,1,D
+182,Grece,2025-03-29,OFI,Atromitos,1,2,1,0,A
+183,Grece,2025-03-29,Kallithea,Volos NFC,1,1,0,1,D
+184,Grece,2025-03-29,Asteras Tripolis,Aris Thessalonikis,0,2,0,0,A
+185,Grece,2025-03-29,Panetolikos,Levadiakos,1,2,1,0,A
+186,Grece,2025-03-30,Panserraikos,Lamia,1,1,0,1,D
+187,Grece,2025-03-30,AEK Athens FC,PAOK,2,3,1,1,A
+188,Grece,2025-03-30,Olympiakos Piraeus,Panathinaikos,4,2,2,2,H
+189,Grece,2025-04-05,Levadiakos,Panserraikos,3,0,2,1,H
+190,Grece,2025-04-05,Aris Thessalonikis,OFI,2,0,0,2,H
+191,Grece,2025-04-05,Lamia,Kallithea,0,2,0,0,A
+192,Grece,2025-04-06,Volos NFC,Panetolikos,0,0,0,0,D
+193,Grece,2025-04-06,PAOK,Olympiakos Piraeus,2,1,2,0,H
+194,Grece,2025-04-06,Panathinaikos,AEK Athens FC,3,1,1,2,H
+195,Grece,2025-04-07,Atromitos,Asteras Tripolis,0,1,0,0,A
+196,Grece,2025-04-12,Panetolikos,Lamia,1,0,1,0,H
+197,Grece,2025-04-12,Panserraikos,Kallithea,3,1,1,2,H
+198,Grece,2025-04-12,Volos NFC,Levadiakos,1,0,1,0,H
+199,Grece,2025-04-13,Asteras Tripolis,OFI,2,1,1,1,H
+200,Grece,2025-04-13,Panathinaikos,PAOK,3,1,2,1,H
+201,Grece,2025-04-13,Aris Thessalonikis,Atromitos,1,0,0,1,H
+202,Grece,2025-04-13,Olympiakos Piraeus,AEK Athens FC,1,0,0,1,H
+203,Grece,2025-04-23,Lamia,Volos NFC,1,3,1,0,A
+204,Grece,2025-04-23,Panserraikos,Panetolikos,1,1,1,0,D
+205,Grece,2025-04-23,Kallithea,Levadiakos,0,3,0,0,A
+206,Grece,2025-04-26,OFI,Asteras Tripolis,0,2,0,0,A
+207,Grece,2025-04-26,Atromitos,Aris Thessalonikis,1,1,0,1,D
+208,Grece,2025-04-27,AEK Athens FC,Olympiakos Piraeus,0,2,0,0,A
+209,Grece,2025-04-27,PAOK,Panathinaikos,2,1,1,1,H
+210,Grece,2025-04-28,Panetolikos,Kallithea,0,1,0,0,A
+211,Grece,2025-04-28,Levadiakos,Lamia,0,0,0,0,D
+212,Grece,2025-04-28,Volos NFC,Panserraikos,3,0,2,1,H
+213,Grece,2025-05-03,Asteras Tripolis,Atromitos,1,4,0,1,A
+214,Grece,2025-05-03,OFI,Aris Thessalonikis,1,1,1,0,D
+215,Grece,2025-05-04,Olympiakos Piraeus,PAOK,4,2,2,2,H
+216,Grece,2025-05-04,AEK Athens FC,Panathinaikos,1,2,1,0,A
+217,Grece,2025-05-05,Kallithea,Panetolikos,0,0,0,0,D
+218,Grece,2025-05-05,Panserraikos,Volos NFC,3,0,1,2,H
+219,Grece,2025-05-05,Lamia,Levadiakos,2,3,1,1,A
+220,Grece,2025-05-10,Lamia,Panserraikos,2,1,0,2,H
+221,Grece,2025-05-10,Levadiakos,Kallithea,4,1,1,3,H
+222,Grece,2025-05-10,Aris Thessalonikis,Asteras Tripolis,4,2,2,2,H
+223,Grece,2025-05-10,Atromitos,OFI,0,0,0,0,D
+224,Grece,2025-05-10,Panetolikos,Volos NFC,0,3,0,0,A
+225,Grece,2025-05-11,Panathinaikos,Olympiakos Piraeus,0,1,0,0,A
+226,Grece,2025-05-11,PAOK,AEK Athens FC,1,0,1,0,H
+227,Grece,2025-05-14,Levadiakos,Panetolikos,1,2,1,0,A
+228,Grece,2025-05-14,Kallithea,Panserraikos,1,1,1,0,D
+229,Grece,2025-05-14,Volos NFC,Lamia,3,0,3,0,H
+230,Grece,2025-05-18,Panserraikos,Levadiakos,0,1,0,0,A
+231,Grece,2025-05-18,Lamia,Panetolikos,1,3,1,0,A
+232,Grece,2025-05-18,Volos NFC,Kallithea,0,2,0,0,A
+233,Grece,2025-05-22,Panetolikos,Panserraikos,1,0,1,0,H
+234,Grece,2025-05-22,Levadiakos,Volos NFC,3,2,1,2,H
+235,Grece,2025-05-22,Kallithea,Lamia,3,0,1,2,H

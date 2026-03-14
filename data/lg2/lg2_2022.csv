@@ -1,0 +1,469 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+5220,secunda,2022,2022-08-12,Levante,Huesca,0,0,0,0,D
+5221,secunda,2022,2022-08-13,Eibar,Tenerife,2,1,0,2,H
+5222,secunda,2022,2022-08-13,Mirandes,Sporting Gijon,1,1,1,0,D
+5223,secunda,2022,2022-08-13,Leganes,Alaves,1,2,0,1,A
+5224,secunda,2022,2022-08-13,Las Palmas,Zaragoza,0,0,0,0,D
+5225,secunda,2022,2022-08-14,Racing Santander,Villarreal II,0,2,0,0,A
+5226,secunda,2022,2022-08-14,Ibiza,Granada CF,0,2,0,0,A
+5227,secunda,2022,2022-08-14,Burgos,Malaga,1,0,0,1,H
+5228,secunda,2022,2022-08-15,Oviedo,FC Andorra,0,1,0,0,A
+5229,secunda,2022,2022-08-15,Lugo,Albacete,1,2,1,0,A
+5230,secunda,2022,2022-08-15,FC Cartagena,Ponferradina,2,3,1,1,A
+5231,secunda,2022,2022-08-19,Villarreal II,Eibar,2,2,2,0,D
+5232,secunda,2022,2022-08-19,Alaves,Mirandes,1,0,1,0,H
+5233,secunda,2022,2022-08-20,Sporting Gijon,FC Andorra,4,1,1,3,H
+5234,secunda,2022,2022-08-20,Albacete,Burgos,0,0,0,0,D
+5235,secunda,2022,2022-08-20,Zaragoza,Levante,0,0,0,0,D
+5236,secunda,2022,2022-08-20,Granada CF,Racing Santander,2,0,0,2,H
+5237,secunda,2022,2022-08-21,Oviedo,Leganes,1,0,0,1,H
+5238,secunda,2022,2022-08-21,Huesca,FC Cartagena,2,3,1,1,A
+5239,secunda,2022,2022-08-21,Tenerife,Lugo,1,1,1,0,D
+5240,secunda,2022,2022-08-22,Ponferradina,Ibiza,2,1,1,1,H
+5241,secunda,2022,2022-08-22,Malaga,Las Palmas,0,4,0,0,A
+5242,secunda,2022,2022-08-26,Albacete,Huesca,2,1,1,1,H
+5243,secunda,2022,2022-08-26,FC Cartagena,Zaragoza,1,0,0,1,H
+5244,secunda,2022,2022-08-27,Sporting Gijon,Burgos,0,0,0,0,D
+5245,secunda,2022,2022-08-27,Lugo,Leganes,1,0,1,0,H
+5246,secunda,2022,2022-08-27,Mirandes,Malaga,1,3,0,1,A
+5247,secunda,2022,2022-08-27,Levante,Tenerife,2,0,1,1,H
+5248,secunda,2022,2022-08-28,Racing Santander,Oviedo,0,1,0,0,A
+5249,secunda,2022,2022-08-28,Eibar,Ponferradina,1,0,1,0,H
+5250,secunda,2022,2022-08-28,Ibiza,Alaves,1,1,1,0,D
+5251,secunda,2022,2022-08-29,Granada CF,Villarreal II,3,0,2,1,H
+5252,secunda,2022,2022-08-29,Las Palmas,FC Andorra,2,0,1,1,H
+5253,secunda,2022,2022-09-02,Leganes,Eibar,2,1,1,1,H
+5254,secunda,2022,2022-09-03,Alaves,Las Palmas,1,1,1,0,D
+5255,secunda,2022,2022-09-03,Villarreal II,Mirandes,3,0,1,2,H
+5256,secunda,2022,2022-09-03,Ponferradina,Sporting Gijon,1,3,0,1,A
+5257,secunda,2022,2022-09-03,Tenerife,Racing Santander,1,0,0,1,H
+5258,secunda,2022,2022-09-04,FC Andorra,Granada CF,1,0,1,0,H
+5259,secunda,2022,2022-09-04,Malaga,Albacete,1,2,1,0,A
+5260,secunda,2022,2022-09-04,Huesca,Ibiza,3,0,1,2,H
+5261,secunda,2022,2022-09-04,Burgos,FC Cartagena,1,0,1,0,H
+5262,secunda,2022,2022-09-04,Zaragoza,Lugo,1,2,1,0,A
+5263,secunda,2022,2022-09-05,Oviedo,Levante,1,1,1,0,D
+5264,secunda,2022,2022-09-09,Las Palmas,Leganes,1,0,1,0,H
+5265,secunda,2022,2022-09-10,Lugo,Alaves,1,2,1,0,A
+5266,secunda,2022,2022-09-10,Burgos,Oviedo,0,0,0,0,D
+5267,secunda,2022,2022-09-10,FC Cartagena,Albacete,2,1,0,2,H
+5268,secunda,2022,2022-09-10,Levante,Villarreal II,4,1,1,3,H
+5269,secunda,2022,2022-09-11,Sporting Gijon,Racing Santander,0,2,0,0,A
+5270,secunda,2022,2022-09-11,Mirandes,FC Andorra,1,1,1,0,D
+5271,secunda,2022,2022-09-11,Ibiza,Tenerife,1,0,0,1,H
+5272,secunda,2022,2022-09-11,Ponferradina,Zaragoza,1,2,1,0,A
+5273,secunda,2022,2022-09-11,Huesca,Malaga,1,0,0,1,H
+5274,secunda,2022,2022-09-12,Eibar,Granada CF,4,0,1,3,H
+5275,secunda,2022,2022-09-16,Levante,FC Cartagena,0,1,0,0,A
+5276,secunda,2022,2022-09-17,Villarreal II,Lugo,3,1,1,2,H
+5277,secunda,2022,2022-09-17,Oviedo,Ibiza,0,1,0,0,A
+5278,secunda,2022,2022-09-17,Granada CF,Mirandes,2,1,1,1,H
+5279,secunda,2022,2022-09-17,FC Andorra,Eibar,2,0,1,1,H
+5280,secunda,2022,2022-09-17,Zaragoza,Sporting Gijon,1,0,0,1,H
+5281,secunda,2022,2022-09-18,Leganes,Burgos,0,0,0,0,D
+5282,secunda,2022,2022-09-18,Alaves,Huesca,2,1,1,1,H
+5283,secunda,2022,2022-09-18,Racing Santander,Las Palmas,0,0,0,0,D
+5284,secunda,2022,2022-09-18,Albacete,Ponferradina,0,1,0,0,A
+5285,secunda,2022,2022-09-19,Tenerife,Malaga,3,1,1,2,H
+5286,secunda,2022,2022-09-23,Sporting Gijon,Ibiza,2,1,1,1,H
+5287,secunda,2022,2022-09-24,Huesca,Leganes,1,0,1,0,H
+5288,secunda,2022,2022-09-24,Mirandes,Zaragoza,2,0,1,1,H
+5289,secunda,2022,2022-09-24,Malaga,Villarreal II,1,1,1,0,D
+5290,secunda,2022,2022-09-24,Ponferradina,Tenerife,2,2,1,1,D
+5291,secunda,2022,2022-09-25,Burgos,Levante,0,0,0,0,D
+5292,secunda,2022,2022-09-25,Lugo,Oviedo,0,0,0,0,D
+5293,secunda,2022,2022-09-25,Eibar,Racing Santander,2,1,2,0,H
+5294,secunda,2022,2022-09-25,Albacete,FC Andorra,1,1,0,1,D
+5295,secunda,2022,2022-09-26,Las Palmas,Granada CF,2,0,1,1,H
+5296,secunda,2022,2022-09-26,FC Cartagena,Alaves,1,1,1,0,D
+5297,secunda,2022,2022-09-30,Tenerife,Sporting Gijon,1,1,0,1,D
+5298,secunda,2022,2022-10-01,Mirandes,Las Palmas,3,3,1,2,D
+5299,secunda,2022,2022-10-01,Racing Santander,Malaga,0,0,0,0,D
+5300,secunda,2022,2022-10-01,FC Andorra,Levante,3,1,0,3,H
+5301,secunda,2022,2022-10-01,Villarreal II,Burgos,0,0,0,0,D
+5302,secunda,2022,2022-10-02,Leganes,Albacete,1,2,1,0,A
+5303,secunda,2022,2022-10-02,Alaves,Ponferradina,3,1,2,1,H
+5304,secunda,2022,2022-10-02,Granada CF,Huesca,0,0,0,0,D
+5305,secunda,2022,2022-10-02,Oviedo,FC Cartagena,1,3,0,1,A
+5306,secunda,2022,2022-10-02,Ibiza,Lugo,3,2,2,1,H
+5307,secunda,2022,2022-10-03,Zaragoza,Eibar,0,0,0,0,D
+5308,secunda,2022,2022-10-07,Sporting Gijon,Villarreal II,3,1,2,1,H
+5309,secunda,2022,2022-10-08,Ponferradina,Granada CF,0,0,0,0,D
+5310,secunda,2022,2022-10-08,Las Palmas,Ibiza,0,0,0,0,D
+5311,secunda,2022,2022-10-08,Huesca,Lugo,1,1,0,1,D
+5312,secunda,2022,2022-10-08,Burgos,Alaves,3,0,0,3,H
+5313,secunda,2022,2022-10-09,FC Cartagena,Leganes,1,2,0,1,A
+5314,secunda,2022,2022-10-09,Zaragoza,Oviedo,1,1,1,0,D
+5315,secunda,2022,2022-10-09,Levante,Racing Santander,0,1,0,0,A
+5316,secunda,2022,2022-10-09,Albacete,Tenerife,1,1,0,1,D
+5317,secunda,2022,2022-10-09,Malaga,FC Andorra,0,0,0,0,D
+5318,secunda,2022,2022-10-10,Eibar,Mirandes,0,0,0,0,D
+5319,secunda,2022,2022-10-12,Villarreal II,Ponferradina,2,2,0,2,D
+5320,secunda,2022,2022-10-12,Leganes,Malaga,1,0,0,1,H
+5321,secunda,2022,2022-10-12,FC Andorra,Burgos,0,1,0,0,A
+5322,secunda,2022,2022-10-12,Alaves,Albacete,0,0,0,0,D
+5323,secunda,2022,2022-10-12,Oviedo,Huesca,0,1,0,0,A
+5324,secunda,2022,2022-10-12,Tenerife,FC Cartagena,0,0,0,0,D
+5325,secunda,2022,2022-10-12,Lugo,Las Palmas,0,1,0,0,A
+5326,secunda,2022,2022-10-12,Racing Santander,Zaragoza,1,0,0,1,H
+5327,secunda,2022,2022-10-13,Mirandes,Levante,0,1,0,0,A
+5328,secunda,2022,2022-10-13,Ibiza,Eibar,1,2,1,0,A
+5329,secunda,2022,2022-10-13,Granada CF,Sporting Gijon,5,0,2,3,H
+5330,secunda,2022,2022-10-15,Zaragoza,Villarreal II,2,1,1,1,H
+5331,secunda,2022,2022-10-15,FC Andorra,Alaves,0,1,0,0,A
+5332,secunda,2022,2022-10-15,Huesca,Racing Santander,0,0,0,0,D
+5333,secunda,2022,2022-10-15,Ponferradina,Las Palmas,0,1,0,0,A
+5334,secunda,2022,2022-10-15,Albacete,Oviedo,1,0,0,1,H
+5335,secunda,2022,2022-10-16,Levante,Leganes,2,1,0,2,H
+5336,secunda,2022,2022-10-16,Malaga,Lugo,3,2,1,2,H
+5337,secunda,2022,2022-10-16,Burgos,Mirandes,2,1,1,1,H
+5338,secunda,2022,2022-10-16,Tenerife,Granada CF,2,0,1,1,H
+5339,secunda,2022,2022-10-16,FC Cartagena,Ibiza,2,0,0,2,H
+5340,secunda,2022,2022-10-17,Sporting Gijon,Eibar,2,0,1,1,H
+5341,secunda,2022,2022-10-21,Granada CF,Zaragoza,1,0,0,1,H
+5342,secunda,2022,2022-10-22,Villarreal II,FC Andorra,1,0,0,1,H
+5343,secunda,2022,2022-10-22,Alaves,Sporting Gijon,0,0,0,0,D
+5344,secunda,2022,2022-10-22,Mirandes,Huesca,1,1,0,1,D
+5345,secunda,2022,2022-10-22,Ibiza,Levante,1,2,1,0,A
+5346,secunda,2022,2022-10-23,Racing Santander,Ponferradina,1,1,1,0,D
+5347,secunda,2022,2022-10-23,Lugo,Burgos,2,0,1,1,H
+5348,secunda,2022,2022-10-23,Leganes,Tenerife,2,1,1,1,H
+5349,secunda,2022,2022-10-23,Eibar,Albacete,1,1,1,0,D
+5350,secunda,2022,2022-10-23,Las Palmas,FC Cartagena,1,0,0,1,H
+5351,secunda,2022,2022-10-24,Oviedo,Malaga,1,0,1,0,H
+5352,secunda,2022,2022-10-28,Tenerife,Zaragoza,0,2,0,0,A
+5353,secunda,2022,2022-10-29,FC Andorra,Ponferradina,3,0,2,1,H
+5354,secunda,2022,2022-10-29,Huesca,Las Palmas,1,0,1,0,H
+5355,secunda,2022,2022-10-29,Leganes,Racing Santander,0,0,0,0,D
+5356,secunda,2022,2022-10-29,Alaves,Oviedo,2,1,1,1,H
+5357,secunda,2022,2022-10-29,Burgos,Ibiza,2,0,1,1,H
+5358,secunda,2022,2022-10-30,Lugo,Mirandes,0,0,0,0,D
+5359,secunda,2022,2022-10-30,Malaga,Eibar,0,1,0,0,A
+5360,secunda,2022,2022-10-30,FC Cartagena,Granada CF,0,0,0,0,D
+5361,secunda,2022,2022-10-30,Albacete,Villarreal II,0,0,0,0,D
+5362,secunda,2022,2022-10-31,Levante,Sporting Gijon,1,0,0,1,H
+5363,secunda,2022,2022-11-01,Zaragoza,FC Andorra,0,2,0,0,A
+5364,secunda,2022,2022-11-01,Ponferradina,Huesca,1,0,1,0,H
+5365,secunda,2022,2022-11-01,Las Palmas,Burgos,0,2,0,0,A
+5366,secunda,2022,2022-11-01,Racing Santander,Alaves,1,1,1,0,D
+5367,secunda,2022,2022-11-01,Ibiza,Leganes,0,2,0,0,A
+5368,secunda,2022,2022-11-02,Eibar,Lugo,1,0,0,1,H
+5369,secunda,2022,2022-11-02,Villarreal II,Oviedo,2,1,0,2,H
+5370,secunda,2022,2022-11-02,Mirandes,Tenerife,1,0,0,1,H
+5371,secunda,2022,2022-11-03,Sporting Gijon,Albacete,2,2,1,1,D
+5372,secunda,2022,2022-11-03,FC Cartagena,Malaga,2,1,0,2,H
+5373,secunda,2022,2022-11-03,Granada CF,Levante,0,0,0,0,D
+5374,secunda,2022,2022-11-04,Alaves,Zaragoza,1,0,0,1,H
+5375,secunda,2022,2022-11-05,Burgos,Tenerife,0,1,0,0,A
+5376,secunda,2022,2022-11-05,Huesca,Villarreal II,1,0,1,0,H
+5377,secunda,2022,2022-11-05,FC Andorra,Racing Santander,0,1,0,0,A
+5378,secunda,2022,2022-11-05,Leganes,Ponferradina,2,1,2,0,H
+5379,secunda,2022,2022-11-06,Ibiza,Mirandes,1,1,1,0,D
+5380,secunda,2022,2022-11-06,Oviedo,Granada CF,1,0,0,1,H
+5381,secunda,2022,2022-11-06,Las Palmas,Eibar,1,1,1,0,D
+5382,secunda,2022,2022-11-06,Malaga,Sporting Gijon,1,1,0,1,D
+5383,secunda,2022,2022-11-06,Albacete,Levante,2,3,1,1,A
+5384,secunda,2022,2022-11-07,Lugo,FC Cartagena,1,1,1,0,D
+5385,secunda,2022,2022-11-18,Granada CF,Albacete,4,0,0,4,H
+5386,secunda,2022,2022-11-19,Ponferradina,Oviedo,1,1,0,1,D
+5387,secunda,2022,2022-11-19,Tenerife,Huesca,2,0,0,2,H
+5388,secunda,2022,2022-11-19,Sporting Gijon,Leganes,2,2,2,0,D
+5389,secunda,2022,2022-11-19,Zaragoza,Malaga,1,1,0,1,D
+5390,secunda,2022,2022-11-20,Villarreal II,Ibiza,1,0,0,1,H
+5391,secunda,2022,2022-11-20,FC Andorra,Lugo,4,0,0,4,H
+5392,secunda,2022,2022-11-20,Eibar,Alaves,0,0,0,0,D
+5393,secunda,2022,2022-11-20,Racing Santander,Burgos,0,1,0,0,A
+5394,secunda,2022,2022-11-20,Levante,Las Palmas,1,1,0,1,D
+5395,secunda,2022,2022-11-21,Mirandes,FC Cartagena,2,1,0,2,H
+5396,secunda,2022,2022-11-25,Huesca,Sporting Gijon,0,0,0,0,D
+5397,secunda,2022,2022-11-26,Malaga,Ponferradina,1,0,0,1,H
+5398,secunda,2022,2022-11-26,Alaves,Villarreal II,2,0,1,1,H
+5399,secunda,2022,2022-11-26,Oviedo,Mirandes,1,0,1,0,H
+5400,secunda,2022,2022-11-26,Albacete,Racing Santander,2,1,1,1,H
+5401,secunda,2022,2022-11-26,Las Palmas,Tenerife,3,1,1,2,H
+5402,secunda,2022,2022-11-27,Burgos,Zaragoza,2,2,0,2,D
+5403,secunda,2022,2022-11-27,Leganes,Granada CF,1,0,0,1,H
+5404,secunda,2022,2022-11-27,Lugo,Levante,1,1,1,0,D
+5405,secunda,2022,2022-11-27,FC Cartagena,Eibar,2,1,0,2,H
+5406,secunda,2022,2022-11-28,Ibiza,FC Andorra,0,1,0,0,A
+5407,secunda,2022,2022-11-30,Tenerife,Oviedo,0,1,0,0,A
+5408,secunda,2022,2022-12-02,Granada CF,Alaves,3,1,2,1,H
+5409,secunda,2022,2022-12-03,Zaragoza,Ibiza,2,1,0,2,H
+5410,secunda,2022,2022-12-03,Sporting Gijon,Las Palmas,0,1,0,0,A
+5411,secunda,2022,2022-12-03,Mirandes,Albacete,4,2,3,1,H
+5412,secunda,2022,2022-12-03,Villarreal II,Leganes,0,0,0,0,D
+5413,secunda,2022,2022-12-04,FC Andorra,FC Cartagena,0,1,0,0,A
+5414,secunda,2022,2022-12-04,Racing Santander,Lugo,0,1,0,0,A
+5415,secunda,2022,2022-12-04,Eibar,Huesca,2,1,0,2,H
+5416,secunda,2022,2022-12-04,Levante,Malaga,1,0,0,1,H
+5417,secunda,2022,2022-12-05,Ponferradina,Burgos,1,2,1,0,A
+5418,secunda,2022,2022-12-06,Leganes,Mirandes,2,2,1,1,D
+5419,secunda,2022,2022-12-06,Oviedo,Las Palmas,0,0,0,0,D
+5420,secunda,2022,2022-12-06,Albacete,Zaragoza,0,0,0,0,D
+5421,secunda,2022,2022-12-07,Huesca,FC Andorra,1,0,0,1,H
+5422,secunda,2022,2022-12-07,FC Cartagena,Villarreal II,0,1,0,0,A
+5423,secunda,2022,2022-12-07,Tenerife,Alaves,2,1,1,1,H
+5424,secunda,2022,2022-12-08,Burgos,Eibar,1,2,1,0,A
+5425,secunda,2022,2022-12-08,Lugo,Sporting Gijon,0,1,0,0,A
+5426,secunda,2022,2022-12-08,Levante,Ponferradina,0,0,0,0,D
+5427,secunda,2022,2022-12-08,Ibiza,Racing Santander,1,0,0,1,H
+5428,secunda,2022,2022-12-08,Malaga,Granada CF,1,1,1,0,D
+5429,secunda,2022,2022-12-10,FC Andorra,Leganes,1,1,0,1,D
+5430,secunda,2022,2022-12-10,Villarreal II,Tenerife,2,2,0,2,D
+5431,secunda,2022,2022-12-10,Zaragoza,Huesca,3,0,2,1,H
+5432,secunda,2022,2022-12-11,Ibiza,Malaga,1,1,0,1,D
+5433,secunda,2022,2022-12-11,Sporting Gijon,FC Cartagena,0,0,0,0,D
+5434,secunda,2022,2022-12-11,Ponferradina,Lugo,1,0,1,0,H
+5435,secunda,2022,2022-12-11,Eibar,Oviedo,1,0,0,1,H
+5436,secunda,2022,2022-12-11,Granada CF,Burgos,1,0,1,0,H
+5437,secunda,2022,2022-12-11,Las Palmas,Albacete,1,2,0,1,A
+5438,secunda,2022,2022-12-11,Racing Santander,Mirandes,1,2,1,0,A
+5439,secunda,2022,2022-12-12,Alaves,Levante,0,2,0,0,A
+5440,secunda,2022,2022-12-16,Tenerife,FC Andorra,1,1,1,0,D
+5441,secunda,2022,2022-12-17,Lugo,Granada CF,1,0,1,0,H
+5442,secunda,2022,2022-12-17,Mirandes,Ponferradina,2,1,2,0,H
+5443,secunda,2022,2022-12-17,FC Cartagena,Racing Santander,0,3,0,0,A
+5444,secunda,2022,2022-12-17,Villarreal II,Las Palmas,0,1,0,0,A
+5445,secunda,2022,2022-12-17,Oviedo,Sporting Gijon,1,0,0,1,H
+5446,secunda,2022,2022-12-18,Albacete,Ibiza,4,0,3,1,H
+5447,secunda,2022,2022-12-18,Levante,Eibar,0,0,0,0,D
+5448,secunda,2022,2022-12-18,Burgos,Huesca,1,1,0,1,D
+5449,secunda,2022,2022-12-18,Malaga,Alaves,1,0,0,1,H
+5450,secunda,2022,2022-12-19,Leganes,Zaragoza,2,1,1,1,H
+5451,secunda,2022,2023-01-06,Ponferradina,Villarreal II,2,1,0,2,H
+5452,secunda,2022,2023-01-06,Sporting Gijon,Levante,1,1,0,1,D
+5453,secunda,2022,2023-01-06,Leganes,Lugo,1,0,0,1,H
+5454,secunda,2022,2023-01-07,FC Andorra,Oviedo,3,1,2,1,H
+5455,secunda,2022,2023-01-07,Malaga,Tenerife,1,1,0,1,D
+5456,secunda,2022,2023-01-07,Alaves,Burgos,1,0,0,1,H
+5457,secunda,2022,2023-01-08,Granada CF,FC Cartagena,1,0,0,1,H
+5458,secunda,2022,2023-01-08,Zaragoza,Mirandes,0,0,0,0,D
+5459,secunda,2022,2023-01-08,Las Palmas,Racing Santander,1,1,1,0,D
+5460,secunda,2022,2023-01-08,Eibar,Ibiza,1,0,1,0,H
+5461,secunda,2022,2023-01-09,Huesca,Albacete,1,1,0,1,D
+5462,secunda,2022,2023-01-13,Oviedo,Alaves,1,0,0,1,H
+5463,secunda,2022,2023-01-14,FC Cartagena,Huesca,0,0,0,0,D
+5464,secunda,2022,2023-01-14,Ibiza,Las Palmas,1,2,1,0,A
+5465,secunda,2022,2023-01-14,Villarreal II,Zaragoza,2,3,2,0,A
+5466,secunda,2022,2023-01-14,Tenerife,Ponferradina,0,0,0,0,D
+5467,secunda,2022,2023-01-14,Racing Santander,Sporting Gijon,2,0,2,0,H
+5468,secunda,2022,2023-01-14,Levante,Granada CF,3,1,2,1,H
+5469,secunda,2022,2023-01-15,Eibar,Malaga,2,1,1,1,H
+5470,secunda,2022,2023-01-15,Mirandes,Lugo,2,0,1,1,H
+5471,secunda,2022,2023-01-15,Burgos,FC Andorra,2,1,0,2,H
+5472,secunda,2022,2023-01-16,Albacete,Leganes,1,0,1,0,H
+5473,secunda,2022,2023-01-20,Las Palmas,Mirandes,2,1,0,2,H
+5474,secunda,2022,2023-01-21,Malaga,Burgos,1,1,1,0,D
+5475,secunda,2022,2023-01-21,Ponferradina,Eibar,0,1,0,0,A
+5476,secunda,2022,2023-01-21,Granada CF,Ibiza,2,0,1,1,H
+5477,secunda,2022,2023-01-21,Alaves,Racing Santander,3,0,1,2,H
+5478,secunda,2022,2023-01-22,Leganes,Levante,2,2,1,1,D
+5479,secunda,2022,2023-01-22,Sporting Gijon,Zaragoza,1,0,1,0,H
+5480,secunda,2022,2023-01-22,FC Cartagena,Tenerife,0,1,0,0,A
+5481,secunda,2022,2023-01-22,Huesca,Oviedo,1,1,1,0,D
+5482,secunda,2022,2023-01-22,Lugo,Villarreal II,1,2,0,1,A
+5483,secunda,2022,2023-01-23,FC Andorra,Albacete,0,1,0,0,A
+5484,secunda,2022,2023-01-27,Racing Santander,Tenerife,1,1,1,0,D
+5485,secunda,2022,2023-01-28,Granada CF,FC Andorra,2,0,2,0,H
+5486,secunda,2022,2023-01-28,Eibar,Leganes,0,0,0,0,D
+5487,secunda,2022,2023-01-28,Oviedo,Villarreal II,0,1,0,0,A
+5488,secunda,2022,2023-01-28,Las Palmas,Huesca,1,0,0,1,H
+5489,secunda,2022,2023-01-29,Mirandes,Alaves,1,3,1,0,A
+5490,secunda,2022,2023-01-29,Levante,Burgos,1,0,1,0,H
+5491,secunda,2022,2023-01-29,Albacete,Lugo,2,0,0,2,H
+5492,secunda,2022,2023-01-29,Sporting Gijon,Malaga,0,0,0,0,D
+5493,secunda,2022,2023-01-29,Ibiza,FC Cartagena,2,2,1,1,D
+5494,secunda,2022,2023-01-30,Zaragoza,Ponferradina,0,0,0,0,D
+5495,secunda,2022,2023-02-03,Malaga,Oviedo,0,1,0,0,A
+5496,secunda,2022,2023-02-04,Leganes,Sporting Gijon,1,0,1,0,H
+5497,secunda,2022,2023-02-04,Huesca,Mirandes,1,0,0,1,H
+5498,secunda,2022,2023-02-04,Tenerife,Albacete,1,0,1,0,H
+5499,secunda,2022,2023-02-04,Alaves,Eibar,2,0,0,2,H
+5500,secunda,2022,2023-02-05,Villarreal II,Granada CF,0,2,0,0,A
+5501,secunda,2022,2023-02-05,FC Andorra,Zaragoza,0,1,0,0,A
+5502,secunda,2022,2023-02-05,Ponferradina,Racing Santander,1,1,1,0,D
+5503,secunda,2022,2023-02-05,FC Cartagena,Levante,1,2,0,1,A
+5504,secunda,2022,2023-02-05,Lugo,Ibiza,0,0,0,0,D
+5505,secunda,2022,2023-02-06,Burgos,Las Palmas,0,0,0,0,D
+5506,secunda,2022,2023-02-10,Granada CF,Tenerife,2,0,1,1,H
+5507,secunda,2022,2023-02-11,Zaragoza,Alaves,1,4,0,1,A
+5508,secunda,2022,2023-02-11,Levante,FC Andorra,1,0,1,0,H
+5509,secunda,2022,2023-02-11,Mirandes,Villarreal II,2,1,1,1,H
+5510,secunda,2022,2023-02-11,Las Palmas,Lugo,3,0,2,1,H
+5511,secunda,2022,2023-02-12,Albacete,Malaga,3,2,1,2,H
+5512,secunda,2022,2023-02-12,Oviedo,Burgos,0,1,0,0,A
+5513,secunda,2022,2023-02-12,Eibar,FC Cartagena,0,3,0,0,A
+5514,secunda,2022,2023-02-12,Sporting Gijon,Huesca,1,1,1,0,D
+5515,secunda,2022,2023-02-12,Ibiza,Ponferradina,1,1,1,0,D
+5516,secunda,2022,2023-02-13,Racing Santander,Leganes,2,1,1,1,H
+5517,secunda,2022,2023-02-17,FC Cartagena,Oviedo,2,1,2,0,H
+5518,secunda,2022,2023-02-18,Lugo,Eibar,0,2,0,0,A
+5519,secunda,2022,2023-02-18,Leganes,Las Palmas,0,0,0,0,D
+5520,secunda,2022,2023-02-18,Ponferradina,Levante,0,0,0,0,D
+5521,secunda,2022,2023-02-18,Tenerife,Mirandes,1,0,0,1,H
+5522,secunda,2022,2023-02-19,Huesca,Granada CF,1,1,1,0,D
+5523,secunda,2022,2023-02-19,Alaves,Ibiza,4,2,3,1,H
+5524,secunda,2022,2023-02-19,FC Andorra,Sporting Gijon,1,0,0,1,H
+5525,secunda,2022,2023-02-19,Burgos,Albacete,1,1,0,1,D
+5526,secunda,2022,2023-02-19,Villarreal II,Racing Santander,2,1,0,2,H
+5527,secunda,2022,2023-02-20,Malaga,Zaragoza,3,0,0,3,H
+5528,secunda,2022,2023-02-24,Eibar,Villarreal II,2,0,1,1,H
+5529,secunda,2022,2023-02-25,Alaves,FC Cartagena,0,0,0,0,D
+5530,secunda,2022,2023-02-25,Racing Santander,FC Andorra,2,1,2,0,H
+5531,secunda,2022,2023-02-25,Sporting Gijon,Tenerife,1,0,0,1,H
+5532,secunda,2022,2023-02-25,Mirandes,Leganes,0,0,0,0,D
+5533,secunda,2022,2023-02-26,Ibiza,Huesca,2,2,1,1,D
+5534,secunda,2022,2023-02-26,Levante,Lugo,3,1,2,1,H
+5535,secunda,2022,2023-02-26,Zaragoza,Burgos,0,0,0,0,D
+5536,secunda,2022,2023-02-26,Las Palmas,Ponferradina,2,0,0,2,H
+5537,secunda,2022,2023-02-26,Oviedo,Albacete,1,1,1,0,D
+5538,secunda,2022,2023-02-27,Granada CF,Malaga,1,0,0,1,H
+5539,secunda,2022,2023-03-03,FC Andorra,Las Palmas,0,0,0,0,D
+5540,secunda,2022,2023-03-04,Burgos,Granada CF,1,3,1,0,A
+5541,secunda,2022,2023-03-04,Tenerife,Eibar,0,1,0,0,A
+5542,secunda,2022,2023-03-04,Huesca,Levante,3,0,1,2,H
+5543,secunda,2022,2023-03-04,Mirandes,Oviedo,1,0,1,0,H
+5544,secunda,2022,2023-03-05,Leganes,Ibiza,0,1,0,0,A
+5545,secunda,2022,2023-03-05,Albacete,Sporting Gijon,2,1,2,0,H
+5546,secunda,2022,2023-03-05,Malaga,Racing Santander,0,1,0,0,A
+5547,secunda,2022,2023-03-05,Lugo,Zaragoza,0,0,0,0,D
+5548,secunda,2022,2023-03-05,Ponferradina,FC Cartagena,0,3,0,0,A
+5549,secunda,2022,2023-03-06,Villarreal II,Alaves,1,0,1,0,H
+5550,secunda,2022,2023-03-10,Oviedo,Tenerife,0,0,0,0,D
+5551,secunda,2022,2023-03-11,Eibar,Burgos,1,0,1,0,H
+5552,secunda,2022,2023-03-11,Alaves,Lugo,0,0,0,0,D
+5553,secunda,2022,2023-03-11,Ibiza,Villarreal II,0,0,0,0,D
+5554,secunda,2022,2023-03-11,Las Palmas,Malaga,2,2,1,1,D
+5555,secunda,2022,2023-03-12,Zaragoza,Leganes,3,0,1,2,H
+5556,secunda,2022,2023-03-12,Sporting Gijon,Mirandes,3,4,1,2,A
+5557,secunda,2022,2023-03-12,Levante,Albacete,0,0,0,0,D
+5558,secunda,2022,2023-03-12,FC Cartagena,FC Andorra,0,3,0,0,A
+5559,secunda,2022,2023-03-12,Granada CF,Ponferradina,2,2,0,2,D
+5560,secunda,2022,2023-03-13,Racing Santander,Huesca,1,1,1,0,D
+5561,secunda,2022,2023-03-17,Malaga,Levante,0,0,0,0,D
+5562,secunda,2022,2023-03-18,FC Andorra,Ibiza,2,2,0,2,D
+5563,secunda,2022,2023-03-18,Leganes,Oviedo,0,1,0,0,A
+5564,secunda,2022,2023-03-18,Albacete,Granada CF,1,2,0,1,A
+5565,secunda,2022,2023-03-18,Tenerife,Las Palmas,4,1,3,1,H
+5566,secunda,2022,2023-03-18,Ponferradina,Alaves,1,0,0,1,H
+5567,secunda,2022,2023-03-19,Burgos,Sporting Gijon,0,0,0,0,D
+5568,secunda,2022,2023-03-19,Huesca,Zaragoza,1,1,1,0,D
+5569,secunda,2022,2023-03-19,Lugo,Racing Santander,1,1,1,0,D
+5570,secunda,2022,2023-03-19,Villarreal II,FC Cartagena,5,2,1,4,H
+5571,secunda,2022,2023-03-20,Mirandes,Eibar,2,3,2,0,A
+5572,secunda,2022,2023-03-24,FC Cartagena,Lugo,2,0,0,2,H
+5573,secunda,2022,2023-03-25,Racing Santander,Levante,0,1,0,0,A
+5574,secunda,2022,2023-03-25,Ibiza,Burgos,2,0,0,2,H
+5575,secunda,2022,2023-03-25,Alaves,Tenerife,1,0,0,1,H
+5576,secunda,2022,2023-03-26,Eibar,FC Andorra,0,0,0,0,D
+5577,secunda,2022,2023-03-26,Zaragoza,Albacete,1,1,0,1,D
+5578,secunda,2022,2023-03-26,Ponferradina,Mirandes,0,0,0,0,D
+5579,secunda,2022,2023-03-26,Granada CF,Oviedo,1,0,0,1,H
+5580,secunda,2022,2023-03-26,Villarreal II,Huesca,0,0,0,0,D
+5581,secunda,2022,2023-03-26,Las Palmas,Sporting Gijon,1,1,0,1,D
+5582,secunda,2022,2023-03-27,Malaga,Leganes,2,0,0,2,H
+5583,secunda,2022,2023-03-31,Levante,Zaragoza,1,1,1,0,D
+5584,secunda,2022,2023-04-01,Burgos,Racing Santander,2,1,1,1,H
+5585,secunda,2022,2023-04-01,Leganes,FC Cartagena,1,3,1,0,A
+5586,secunda,2022,2023-04-01,Tenerife,Villarreal II,1,1,0,1,D
+5587,secunda,2022,2023-04-01,Oviedo,Eibar,1,1,0,1,D
+5588,secunda,2022,2023-04-02,Huesca,Alaves,0,1,0,0,A
+5589,secunda,2022,2023-04-02,Lugo,Ponferradina,0,0,0,0,D
+5590,secunda,2022,2023-04-02,Sporting Gijon,Granada CF,1,0,1,0,H
+5591,secunda,2022,2023-04-02,FC Andorra,Malaga,1,0,0,1,H
+5592,secunda,2022,2023-04-02,Mirandes,Ibiza,2,2,1,1,D
+5593,secunda,2022,2023-04-03,Albacete,Las Palmas,1,2,1,0,A
+5594,secunda,2022,2023-04-07,Lugo,Tenerife,0,0,0,0,D
+5595,secunda,2022,2023-04-07,Villarreal II,Malaga,1,2,0,1,A
+5596,secunda,2022,2023-04-08,Zaragoza,Granada CF,1,0,1,0,H
+5597,secunda,2022,2023-04-08,Ibiza,Sporting Gijon,1,3,0,1,A
+5598,secunda,2022,2023-04-08,Racing Santander,Albacete,4,1,3,1,H
+5599,secunda,2022,2023-04-09,Huesca,Burgos,2,1,2,0,H
+5600,secunda,2022,2023-04-09,Eibar,Levante,1,1,0,1,D
+5601,secunda,2022,2023-04-09,Ponferradina,Leganes,0,1,0,0,A
+5602,secunda,2022,2023-04-09,FC Cartagena,Mirandes,1,0,0,1,H
+5603,secunda,2022,2023-04-09,Las Palmas,Oviedo,0,1,0,0,A
+5604,secunda,2022,2023-04-10,Alaves,FC Andorra,0,0,0,0,D
+5605,secunda,2022,2023-04-14,Albacete,Eibar,3,1,2,1,H
+5606,secunda,2022,2023-04-15,Granada CF,Las Palmas,2,1,2,0,H
+5607,secunda,2022,2023-04-15,Oviedo,Lugo,2,1,1,1,H
+5608,secunda,2022,2023-04-15,Zaragoza,Racing Santander,4,1,3,1,H
+5609,secunda,2022,2023-04-15,Burgos,Ponferradina,2,2,0,2,D
+5610,secunda,2022,2023-04-16,FC Andorra,Huesca,1,0,1,0,H
+5611,secunda,2022,2023-04-16,Sporting Gijon,Alaves,0,0,0,0,D
+5612,secunda,2022,2023-04-16,Malaga,FC Cartagena,1,0,1,0,H
+5613,secunda,2022,2023-04-16,Tenerife,Ibiza,4,0,2,2,H
+5614,secunda,2022,2023-04-16,Leganes,Villarreal II,1,0,1,0,H
+5615,secunda,2022,2023-04-17,Levante,Mirandes,1,2,0,1,A
+5616,secunda,2022,2023-04-21,Eibar,Zaragoza,1,1,0,1,D
+5617,secunda,2022,2023-04-22,Villarreal II,Albacete,1,2,1,0,A
+5618,secunda,2022,2023-04-22,Ponferradina,FC Andorra,1,4,0,1,A
+5619,secunda,2022,2023-04-22,FC Cartagena,Sporting Gijon,2,1,2,0,H
+5620,secunda,2022,2023-04-22,Las Palmas,Levante,0,0,0,0,D
+5621,secunda,2022,2023-04-22,Ibiza,Oviedo,1,2,1,0,A
+5622,secunda,2022,2023-04-23,Lugo,Malaga,0,2,0,0,A
+5623,secunda,2022,2023-04-23,Mirandes,Burgos,2,1,0,2,H
+5624,secunda,2022,2023-04-23,Racing Santander,Granada CF,1,0,0,1,H
+5625,secunda,2022,2023-04-23,Alaves,Leganes,2,1,1,1,H
+5626,secunda,2022,2023-04-24,Huesca,Tenerife,1,1,1,0,D
+5627,secunda,2022,2023-04-28,Racing Santander,Ibiza,1,0,1,0,H
+5628,secunda,2022,2023-04-29,Levante,Alaves,2,0,2,0,H
+5629,secunda,2022,2023-04-29,Albacete,FC Cartagena,1,1,1,0,D
+5630,secunda,2022,2023-04-29,Tenerife,Leganes,1,0,1,0,H
+5631,secunda,2022,2023-04-30,FC Andorra,Mirandes,0,1,0,0,A
+5632,secunda,2022,2023-04-30,Oviedo,Ponferradina,3,2,0,3,H
+5633,secunda,2022,2023-04-30,Granada CF,Eibar,1,1,0,1,D
+5634,secunda,2022,2023-04-30,Zaragoza,Las Palmas,1,1,0,1,D
+5635,secunda,2022,2023-05-01,Sporting Gijon,Lugo,3,1,2,1,H
+5636,secunda,2022,2023-05-01,Malaga,Huesca,0,0,0,0,D
+5637,secunda,2022,2023-05-01,Burgos,Villarreal II,1,0,1,0,H
+5638,secunda,2022,2023-05-05,Alaves,Granada CF,1,1,0,1,D
+5639,secunda,2022,2023-05-06,Mirandes,Racing Santander,1,1,1,0,D
+5640,secunda,2022,2023-05-06,Leganes,Huesca,2,1,1,1,H
+5641,secunda,2022,2023-05-06,Tenerife,Levante,1,0,0,1,H
+5642,secunda,2022,2023-05-07,Villarreal II,Sporting Gijon,2,0,1,1,H
+5643,secunda,2022,2023-05-07,Ponferradina,Malaga,2,0,0,2,H
+5644,secunda,2022,2023-05-07,Ibiza,Albacete,0,5,0,0,A
+5645,secunda,2022,2023-05-07,Lugo,FC Andorra,2,2,1,1,D
+5646,secunda,2022,2023-05-07,Oviedo,Zaragoza,2,1,1,1,H
+5647,secunda,2022,2023-05-07,FC Cartagena,Burgos,0,0,0,0,D
+5648,secunda,2022,2023-05-08,Eibar,Las Palmas,0,1,0,0,A
+5649,secunda,2022,2023-05-12,Burgos,Leganes,0,3,0,0,A
+5650,secunda,2022,2023-05-13,Sporting Gijon,Oviedo,1,1,0,1,D
+5651,secunda,2022,2023-05-13,Granada CF,Lugo,2,0,2,0,H
+5652,secunda,2022,2023-05-13,Zaragoza,FC Cartagena,2,0,1,1,H
+5653,secunda,2022,2023-05-13,Malaga,Mirandes,2,0,1,1,H
+5654,secunda,2022,2023-05-14,Racing Santander,Eibar,1,0,1,0,H
+5655,secunda,2022,2023-05-14,FC Andorra,Tenerife,1,0,0,1,H
+5656,secunda,2022,2023-05-14,Albacete,Alaves,1,1,1,0,D
+5657,secunda,2022,2023-05-14,Huesca,Ponferradina,1,1,0,1,D
+5658,secunda,2022,2023-05-14,Las Palmas,Villarreal II,1,1,1,0,D
+5659,secunda,2022,2023-05-15,Levante,Ibiza,0,0,0,0,D
+5660,secunda,2022,2023-05-20,Ibiza,Zaragoza,1,0,0,1,H
+5661,secunda,2022,2023-05-20,Alaves,Malaga,2,1,0,2,H
+5662,secunda,2022,2023-05-20,Eibar,Sporting Gijon,2,2,0,2,D
+5663,secunda,2022,2023-05-20,Lugo,Huesca,1,2,0,1,A
+5664,secunda,2022,2023-05-20,Mirandes,Granada CF,1,3,0,1,A
+5665,secunda,2022,2023-05-20,Ponferradina,Albacete,1,1,0,1,D
+5666,secunda,2022,2023-05-20,FC Cartagena,Las Palmas,1,4,1,0,A
+5667,secunda,2022,2023-05-20,Villarreal II,Levante,2,3,1,1,A
+5668,secunda,2022,2023-05-20,Tenerife,Burgos,2,1,0,2,H
+5669,secunda,2022,2023-05-21,Oviedo,Racing Santander,1,0,1,0,H
+5670,secunda,2022,2023-05-21,Leganes,FC Andorra,1,1,1,0,D
+5671,secunda,2022,2023-05-26,Zaragoza,Tenerife,1,1,0,1,D
+5672,secunda,2022,2023-05-27,FC Andorra,Villarreal II,4,3,1,3,H
+5673,secunda,2022,2023-05-27,Burgos,Lugo,0,1,0,0,A
+5674,secunda,2022,2023-05-27,Malaga,Ibiza,1,1,0,1,D
+5675,secunda,2022,2023-05-27,Albacete,Mirandes,2,1,0,2,H
+5676,secunda,2022,2023-05-27,Las Palmas,Alaves,0,0,0,0,D
+5677,secunda,2022,2023-05-27,Levante,Oviedo,2,1,0,2,H
+5678,secunda,2022,2023-05-27,Granada CF,Leganes,2,0,1,1,H
+5679,secunda,2022,2023-05-27,Huesca,Eibar,0,1,0,0,A
+5680,secunda,2022,2023-05-28,Sporting Gijon,Ponferradina,1,4,0,1,A
+5681,secunda,2022,2023-05-28,Racing Santander,FC Cartagena,3,1,3,0,H
+5682,secunda,2022,2023-06-03,Eibar,Alaves,1,1,1,0,D
+5683,secunda,2022,2023-06-03,Albacete,Levante,1,3,1,0,A
+5684,secunda,2022,2023-06-07,Levante,Albacete,3,0,2,1,H
+5685,secunda,2022,2023-06-08,Alaves,Eibar,2,0,1,1,H
+5686,secunda,2022,2023-06-11,Alaves,Levante,0,0,0,0,D
+5687,secunda,2022,2023-06-17,Levante,Alaves,0,1,0,0,A

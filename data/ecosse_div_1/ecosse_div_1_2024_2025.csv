@@ -1,0 +1,187 @@
+,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+15,2024-08-02,Falkirk,Queen's Park,2,1,1,1,H
+16,2024-08-03,Hamilton Academical,Ayr Utd,0,2,0,0,A
+17,2024-08-03,Livingston,Dunfermline,2,0,0,2,H
+18,2024-08-03,Partick,Morton,0,0,0,0,D
+19,2024-08-03,Airdrie United,Raith Rovers,1,0,0,1,H
+20,2024-08-09,Ayr Utd,Airdrie United,5,0,2,3,H
+21,2024-08-09,Queen's Park,Livingston,1,1,1,0,D
+22,2024-08-10,Morton,Hamilton Academical,0,0,0,0,D
+23,2024-08-10,Raith Rovers,Partick,1,0,1,0,H
+24,2024-08-10,Dunfermline,Falkirk,0,2,0,0,A
+25,2024-08-17,Ayr Utd,Hamilton Academical,3,2,1,2,H
+26,2024-08-24,Hamilton Academical,Dunfermline,1,0,1,0,H
+27,2024-08-24,Livingston,Morton,1,1,0,1,D
+28,2024-08-24,Ayr Utd,Raith Rovers,2,0,1,1,H
+29,2024-08-24,Falkirk,Partick,2,1,0,2,H
+30,2024-08-24,Airdrie United,Queen's Park,0,2,0,0,A
+31,2024-08-31,Hamilton Academical,Airdrie United,2,2,0,2,D
+32,2024-08-31,Partick,Queen's Park,3,0,1,2,H
+33,2024-08-31,Morton,Falkirk,2,3,2,0,A
+34,2024-08-31,Raith Rovers,Livingston,0,1,0,0,A
+35,2024-08-31,Dunfermline,Ayr Utd,1,1,1,0,D
+36,2024-09-13,Dunfermline,Raith Rovers,2,0,0,2,H
+37,2024-09-14,Livingston,Hamilton Academical,3,0,0,3,H
+38,2024-09-14,Ayr Utd,Partick,1,1,1,0,D
+39,2024-09-14,Airdrie United,Falkirk,0,2,0,0,A
+40,2024-09-14,Queen's Park,Morton,1,0,1,0,H
+41,2024-09-21,Partick,Dunfermline,1,0,0,1,H
+42,2024-09-21,Morton,Airdrie United,2,0,1,1,H
+43,2024-09-21,Raith Rovers,Hamilton Academical,3,3,2,1,D
+44,2024-09-21,Queen's Park,Ayr Utd,1,1,1,0,D
+45,2024-09-28,Hamilton Academical,Partick,1,0,0,1,H
+46,2024-09-28,Livingston,Airdrie United,2,1,1,1,H
+47,2024-09-28,Raith Rovers,Falkirk,1,0,1,0,H
+48,2024-09-28,Ayr Utd,Morton,1,0,0,1,H
+49,2024-09-28,Dunfermline,Queen's Park,1,2,0,1,A
+50,2024-10-05,Partick,Livingston,0,0,0,0,D
+51,2024-10-05,Morton,Raith Rovers,2,0,0,2,H
+52,2024-10-05,Falkirk,Ayr Utd,2,0,1,1,H
+53,2024-10-05,Airdrie United,Dunfermline,1,1,0,1,D
+54,2024-10-05,Queen's Park,Hamilton Academical,1,0,0,1,H
+55,2024-10-08,Falkirk,Livingston,0,0,0,0,D
+56,2024-10-12,Partick,Falkirk,1,1,0,1,D
+57,2024-10-18,Hamilton Academical,Falkirk,1,3,0,1,A
+58,2024-10-19,Partick,Airdrie United,2,1,1,1,H
+59,2024-10-19,Raith Rovers,Queen's Park,1,1,1,0,D
+60,2024-10-19,Ayr Utd,Livingston,1,2,1,0,A
+61,2024-10-19,Dunfermline,Morton,0,0,0,0,D
+62,2024-10-26,Hamilton Academical,Morton,3,0,0,3,H
+63,2024-10-26,Livingston,Raith Rovers,2,1,0,2,H
+64,2024-10-26,Falkirk,Dunfermline,2,1,1,1,H
+65,2024-10-26,Airdrie United,Ayr Utd,0,1,0,0,A
+66,2024-10-26,Queen's Park,Partick,0,1,0,0,A
+67,2024-10-29,Morton,Queen's Park,0,1,0,0,A
+68,2024-10-29,Raith Rovers,Airdrie United,1,0,1,0,H
+69,2024-10-29,Dunfermline,Livingston,3,0,1,2,H
+70,2024-11-01,Raith Rovers,Ayr Utd,2,0,2,0,H
+71,2024-11-02,Livingston,Queen's Park,1,1,0,1,D
+72,2024-11-02,Dunfermline,Partick,0,1,0,0,A
+73,2024-11-02,Falkirk,Morton,6,0,2,4,H
+74,2024-11-02,Airdrie United,Hamilton Academical,0,4,0,0,A
+75,2024-11-08,Morton,Ayr Utd,1,1,1,0,D
+76,2024-11-09,Hamilton Academical,Livingston,1,3,1,0,A
+77,2024-11-09,Partick,Raith Rovers,1,1,1,0,D
+78,2024-11-09,Falkirk,Airdrie United,2,0,1,1,H
+79,2024-11-09,Queen's Park,Dunfermline,2,1,1,1,H
+80,2024-11-16,Livingston,Falkirk,1,0,1,0,H
+81,2024-11-16,Partick,Hamilton Academical,5,1,2,3,H
+82,2024-11-16,Raith Rovers,Morton,2,3,0,2,A
+83,2024-11-16,Ayr Utd,Queen's Park,3,2,2,1,H
+84,2024-11-16,Dunfermline,Airdrie United,1,0,0,1,H
+85,2024-11-22,Queen's Park,Falkirk,0,1,0,0,A
+86,2024-11-23,Ayr Utd,Dunfermline,1,0,0,1,H
+87,2024-12-07,Partick,Ayr Utd,1,0,0,1,H
+88,2024-12-07,Morton,Livingston,0,0,0,0,D
+89,2024-12-07,Dunfermline,Hamilton Academical,3,2,0,3,H
+90,2024-12-07,Falkirk,Raith Rovers,3,0,1,2,H
+91,2024-12-07,Queen's Park,Airdrie United,2,0,2,0,H
+92,2024-12-13,Livingston,Partick,2,0,1,1,H
+93,2024-12-14,Hamilton Academical,Queen's Park,2,1,2,0,H
+94,2024-12-14,Raith Rovers,Dunfermline,2,0,1,1,H
+95,2024-12-14,Ayr Utd,Falkirk,5,2,3,2,H
+96,2024-12-14,Airdrie United,Morton,2,2,1,1,D
+97,2024-12-17,Airdrie United,Livingston,0,3,0,0,A
+98,2024-12-20,Queen's Park,Raith Rovers,1,2,0,1,A
+99,2024-12-21,Livingston,Ayr Utd,0,1,0,0,A
+100,2024-12-21,Morton,Dunfermline,2,0,1,1,H
+101,2024-12-21,Falkirk,Hamilton Academical,1,0,0,1,H
+102,2024-12-21,Airdrie United,Partick,0,2,0,0,A
+103,2024-12-27,Dunfermline,Falkirk,3,3,1,2,D
+104,2024-12-28,Hamilton Academical,Airdrie United,3,2,2,1,H
+105,2024-12-28,Partick,Queen's Park,2,1,1,1,H
+106,2024-12-28,Raith Rovers,Livingston,2,1,2,0,H
+107,2024-12-28,Ayr Utd,Morton,0,0,0,0,D
+108,2024-12-31,Morton,Partick,2,1,0,2,H
+109,2025-01-04,Partick,Dunfermline,1,4,1,0,A
+110,2025-01-04,Ayr Utd,Raith Rovers,3,0,3,0,H
+111,2025-01-04,Queen's Park,Livingston,2,0,1,1,H
+112,2025-01-10,Hamilton Academical,Partick,1,2,0,1,A
+113,2025-01-11,Falkirk,Queen's Park,0,0,0,0,D
+114,2025-01-14,Livingston,Airdrie United,2,1,1,1,H
+115,2025-01-14,Dunfermline,Ayr Utd,0,2,0,0,A
+116,2025-01-25,Livingston,Hamilton Academical,3,0,2,1,H
+117,2025-01-25,Raith Rovers,Falkirk,0,2,0,0,A
+118,2025-01-25,Ayr Utd,Partick,2,1,2,0,H
+119,2025-01-25,Airdrie United,Dunfermline,3,0,2,1,H
+120,2025-01-25,Queen's Park,Morton,1,2,1,0,A
+121,2025-01-28,Hamilton Academical,Raith Rovers,0,3,0,0,A
+122,2025-01-31,Falkirk,Livingston,1,2,0,1,A
+123,2025-02-01,Hamilton Academical,Ayr Utd,0,2,0,0,A
+124,2025-02-01,Partick,Morton,2,2,0,2,D
+125,2025-02-01,Dunfermline,Raith Rovers,3,1,0,3,H
+126,2025-02-01,Airdrie United,Queen's Park,2,1,1,1,H
+127,2025-02-08,Falkirk,Partick,5,2,3,2,H
+128,2025-02-15,Livingston,Dunfermline,0,0,0,0,D
+129,2025-02-15,Morton,Airdrie United,2,2,1,1,D
+130,2025-02-15,Raith Rovers,Partick,3,0,2,1,H
+131,2025-02-15,Falkirk,Ayr Utd,2,2,1,1,D
+132,2025-02-15,Queen's Park,Hamilton Academical,1,2,0,1,A
+133,2025-02-18,Morton,Hamilton Academical,2,0,1,1,H
+134,2025-02-21,Morton,Falkirk,0,2,0,0,A
+135,2025-02-22,Partick,Airdrie United,1,1,1,0,D
+136,2025-02-22,Raith Rovers,Hamilton Academical,2,0,1,1,H
+137,2025-02-22,Ayr Utd,Livingston,1,2,0,1,A
+138,2025-02-22,Dunfermline,Queen's Park,0,0,0,0,D
+139,2025-02-25,Hamilton Academical,Dunfermline,1,0,0,1,H
+140,2025-02-25,Livingston,Morton,3,2,3,0,H
+141,2025-02-25,Airdrie United,Raith Rovers,1,0,0,1,H
+142,2025-02-28,Partick,Livingston,1,1,1,0,D
+143,2025-03-01,Hamilton Academical,Falkirk,2,2,2,0,D
+144,2025-03-01,Raith Rovers,Queen's Park,0,4,0,0,A
+145,2025-03-01,Ayr Utd,Airdrie United,4,1,3,1,H
+146,2025-03-01,Dunfermline,Morton,2,1,0,2,H
+147,2025-03-04,Airdrie United,Falkirk,0,3,0,0,A
+148,2025-03-04,Queen's Park,Ayr Utd,2,3,0,2,A
+149,2025-03-05,Livingston,Raith Rovers,0,0,0,0,D
+150,2025-03-08,Morton,Ayr Utd,2,1,0,2,H
+151,2025-03-08,Falkirk,Dunfermline,1,0,1,0,H
+152,2025-03-08,Airdrie United,Hamilton Academical,2,1,0,2,H
+153,2025-03-11,Queen's Park,Partick,0,2,0,0,A
+154,2025-03-14,Raith Rovers,Dunfermline,2,0,1,1,H
+155,2025-03-15,Hamilton Academical,Morton,0,2,0,0,A
+156,2025-03-15,Partick,Ayr Utd,2,0,2,0,H
+157,2025-03-15,Airdrie United,Livingston,3,3,2,1,D
+158,2025-03-15,Queen's Park,Falkirk,0,4,0,0,A
+159,2025-03-21,Partick,Raith Rovers,0,0,0,0,D
+160,2025-03-22,Morton,Queen's Park,2,1,1,1,H
+161,2025-03-22,Ayr Utd,Hamilton Academical,1,1,0,1,D
+162,2025-03-22,Falkirk,Airdrie United,2,0,0,2,H
+163,2025-03-25,Livingston,Falkirk,1,0,0,1,H
+164,2025-03-25,Morton,Raith Rovers,3,3,1,2,D
+165,2025-03-29,Hamilton Academical,Raith Rovers,0,3,0,0,A
+166,2025-03-29,Morton,Partick,0,1,0,0,A
+167,2025-03-29,Ayr Utd,Dunfermline,3,0,1,2,H
+168,2025-04-02,Dunfermline,Livingston,1,0,1,0,H
+169,2025-04-02,Queen's Park,Airdrie United,0,5,0,0,A
+170,2025-04-05,Livingston,Queen's Park,3,0,3,0,H
+171,2025-04-05,Raith Rovers,Ayr Utd,1,0,0,1,H
+172,2025-04-05,Dunfermline,Hamilton Academical,0,1,0,0,A
+173,2025-04-05,Falkirk,Morton,5,0,3,2,H
+174,2025-04-05,Airdrie United,Partick,2,1,0,2,H
+175,2025-04-11,Ayr Utd,Falkirk,1,1,0,1,D
+176,2025-04-12,Partick,Hamilton Academical,1,2,0,1,A
+177,2025-04-12,Morton,Livingston,1,2,1,0,A
+178,2025-04-12,Raith Rovers,Airdrie United,1,1,1,0,D
+179,2025-04-12,Queen's Park,Dunfermline,0,1,0,0,A
+180,2025-04-18,Livingston,Ayr Utd,5,0,3,2,H
+181,2025-04-19,Hamilton Academical,Queen's Park,0,0,0,0,D
+182,2025-04-19,Dunfermline,Partick,0,0,0,0,D
+183,2025-04-19,Falkirk,Raith Rovers,1,3,1,0,A
+184,2025-04-19,Airdrie United,Morton,0,1,0,0,A
+185,2025-04-25,Partick,Falkirk,2,1,1,1,H
+186,2025-04-26,Hamilton Academical,Livingston,0,3,0,0,A
+187,2025-04-26,Raith Rovers,Morton,1,1,1,0,D
+188,2025-04-26,Ayr Utd,Queen's Park,2,2,1,1,D
+189,2025-04-26,Dunfermline,Airdrie United,0,0,0,0,D
+190,2025-05-02,Livingston,Partick,0,1,0,0,A
+191,2025-05-02,Morton,Dunfermline,2,0,2,0,H
+192,2025-05-02,Falkirk,Hamilton Academical,3,1,1,2,H
+193,2025-05-02,Airdrie United,Ayr Utd,0,1,0,0,A
+194,2025-05-02,Queen's Park,Raith Rovers,1,5,0,1,A
+195,2025-05-06,Queen of the South,Cove Rangers,0,0,0,0,D
+196,2025-05-06,Stenhousemuir,Airdrie United,1,3,0,1,A
+197,2025-05-10,Airdrie United,Stenhousemuir,2,1,1,1,H
+198,2025-05-10,Cove Rangers,Queen of the South,2,1,1,1,H
+199,2025-05-14,Cove Rangers,Airdrie United,1,2,1,0,A
+200,2025-05-17,Airdrie United,Cove Rangers,0,0,0,0,D

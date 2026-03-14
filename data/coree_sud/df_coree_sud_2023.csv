@@ -1,0 +1,232 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+231,2023,2023-02-25,Ulsan Hyundai FC,Jeonbuk Motors,2,1,1,1,H
+232,2023,2023-02-25,Suwon Bluewings,Gwangju FC,0,1,0,0,A
+233,2023,2023-02-25,FC Seoul,Incheon United,2,1,1,1,H
+234,2023,2023-02-26,Jeju United FC,Suwon City FC,0,0,0,0,D
+235,2023,2023-02-26,Pohang Steelers,Daegu FC,3,2,1,2,H
+236,2023,2023-02-26,Daejeon Citizen,Gangwon FC,2,0,2,0,H
+237,2023,2023-03-04,Suwon City FC,Pohang Steelers,1,2,0,1,A
+238,2023,2023-03-04,Incheon United,Daejeon Citizen,3,3,1,2,D
+239,2023,2023-03-04,Daegu FC,Jeju United FC,1,1,0,1,D
+240,2023,2023-03-05,Gangwon FC,Ulsan Hyundai FC,0,1,0,0,A
+241,2023,2023-03-05,Jeonbuk Motors,Suwon Bluewings,1,1,1,0,D
+242,2023,2023-03-05,Gwangju FC,FC Seoul,0,2,0,0,A
+243,2023,2023-03-11,Daejeon Citizen,Pohang Steelers,0,0,0,0,D
+244,2023,2023-03-11,Suwon City FC,Suwon Bluewings,2,1,1,1,H
+245,2023,2023-03-11,Gangwon FC,Daegu FC,1,1,1,0,D
+246,2023,2023-03-12,FC Seoul,Ulsan Hyundai FC,1,2,0,1,A
+247,2023,2023-03-12,Jeonbuk Motors,Gwangju FC,2,0,0,2,H
+248,2023,2023-03-12,Incheon United,Jeju United FC,1,0,1,0,H
+249,2023,2023-03-18,Gwangju FC,Incheon United,5,0,2,3,H
+250,2023,2023-03-18,Pohang Steelers,Gangwon FC,1,1,0,1,D
+251,2023,2023-03-18,Jeju United FC,FC Seoul,1,2,0,1,A
+252,2023,2023-03-19,Daegu FC,Jeonbuk Motors,2,0,1,1,H
+253,2023,2023-03-19,Suwon Bluewings,Daejeon Citizen,1,3,0,1,A
+254,2023,2023-03-19,Ulsan Hyundai FC,Suwon City FC,3,0,1,2,H
+255,2023,2023-04-01,Jeonbuk Motors,Pohang Steelers,1,2,1,0,A
+256,2023,2023-04-01,Gwangju FC,Suwon City FC,2,0,2,0,H
+257,2023,2023-04-01,Incheon United,Daegu FC,0,0,0,0,D
+258,2023,2023-04-01,Daejeon Citizen,FC Seoul,3,2,2,1,H
+259,2023,2023-04-02,Jeju United FC,Ulsan Hyundai FC,1,3,1,0,A
+260,2023,2023-04-02,Suwon Bluewings,Gangwon FC,1,1,1,0,D
+261,2023,2023-04-08,Ulsan Hyundai FC,Suwon Bluewings,2,1,2,0,H
+262,2023,2023-04-08,FC Seoul,Daegu FC,3,0,3,0,H
+263,2023,2023-04-08,Pohang Steelers,Gwangju FC,2,0,0,2,H
+264,2023,2023-04-09,Suwon City FC,Daejeon Citizen,5,3,0,5,H
+265,2023,2023-04-09,Jeonbuk Motors,Incheon United,2,0,0,2,H
+266,2023,2023-04-09,Gangwon FC,Jeju United FC,0,1,0,0,A
+267,2023,2023-04-15,Suwon Bluewings,Jeju United FC,2,3,1,1,A
+268,2023,2023-04-15,Pohang Steelers,FC Seoul,1,1,1,0,D
+269,2023,2023-04-15,Suwon City FC,Jeonbuk Motors,1,0,1,0,H
+270,2023,2023-04-16,Gangwon FC,Incheon United,0,2,0,0,A
+271,2023,2023-04-16,Daejeon Citizen,Ulsan Hyundai FC,2,1,2,0,H
+272,2023,2023-04-16,Daegu FC,Gwangju FC,3,4,0,3,A
+273,2023,2023-04-22,FC Seoul,Suwon Bluewings,3,1,1,2,H
+274,2023,2023-04-22,Daegu FC,Daejeon Citizen,1,0,1,0,H
+275,2023,2023-04-22,Ulsan Hyundai FC,Pohang Steelers,2,2,0,2,D
+276,2023,2023-04-22,Incheon United,Suwon City FC,2,2,1,1,D
+277,2023,2023-04-23,Gwangju FC,Gangwon FC,0,0,0,0,D
+278,2023,2023-04-23,Jeju United FC,Jeonbuk Motors,0,2,0,0,A
+279,2023,2023-04-25,Incheon United,Ulsan Hyundai FC,0,1,0,0,A
+280,2023,2023-04-25,Pohang Steelers,Suwon Bluewings,1,0,1,0,H
+281,2023,2023-04-26,Gangwon FC,FC Seoul,3,2,1,2,H
+282,2023,2023-04-26,Gwangju FC,Jeju United FC,0,1,0,0,A
+283,2023,2023-04-26,Suwon City FC,Daegu FC,1,1,0,1,D
+284,2023,2023-04-26,Jeonbuk Motors,Daejeon Citizen,1,2,0,1,A
+285,2023,2023-04-29,Suwon City FC,FC Seoul,0,3,0,0,A
+286,2023,2023-04-29,Jeonbuk Motors,Gangwon FC,0,1,0,0,A
+287,2023,2023-04-30,Daejeon Citizen,Jeju United FC,0,3,0,0,A
+288,2023,2023-04-30,Pohang Steelers,Incheon United,0,2,0,0,A
+289,2023,2023-04-30,Suwon Bluewings,Daegu FC,0,1,0,0,A
+290,2023,2023-04-30,Ulsan Hyundai FC,Gwangju FC,2,1,0,2,H
+291,2023,2023-05-05,Daegu FC,Ulsan Hyundai FC,0,3,0,0,A
+292,2023,2023-05-05,FC Seoul,Jeonbuk Motors,1,1,0,1,D
+293,2023,2023-05-05,Incheon United,Suwon Bluewings,0,1,0,0,A
+294,2023,2023-05-06,Jeju United FC,Pohang Steelers,2,1,0,2,H
+295,2023,2023-05-06,Suwon City FC,Gangwon FC,2,0,1,1,H
+296,2023,2023-05-06,Gwangju FC,Daejeon Citizen,0,0,0,0,D
+297,2023,2023-05-09,Ulsan Hyundai FC,Gangwon FC,1,0,0,1,H
+298,2023,2023-05-09,Daegu FC,Pohang Steelers,1,1,1,0,D
+299,2023,2023-05-09,FC Seoul,Gwangju FC,3,1,1,2,H
+300,2023,2023-05-10,Daejeon Citizen,Suwon City FC,2,1,1,1,H
+301,2023,2023-05-10,Jeju United FC,Incheon United,2,0,1,1,H
+302,2023,2023-05-10,Suwon Bluewings,Jeonbuk Motors,0,3,0,0,A
+303,2023,2023-05-13,Pohang Steelers,Daejeon Citizen,3,2,0,3,H
+304,2023,2023-05-13,Gwangju FC,Daegu FC,0,2,0,0,A
+305,2023,2023-05-13,Gangwon FC,Suwon Bluewings,0,2,0,0,A
+306,2023,2023-05-14,Ulsan Hyundai FC,FC Seoul,3,2,1,2,H
+307,2023,2023-05-14,Incheon United,Jeonbuk Motors,0,0,0,0,D
+308,2023,2023-05-14,Suwon City FC,Jeju United FC,0,5,0,0,A
+309,2023,2023-05-20,Incheon United,Gwangju FC,1,1,0,1,D
+310,2023,2023-05-20,FC Seoul,Jeju United FC,1,1,0,1,D
+311,2023,2023-05-20,Daejeon Citizen,Daegu FC,0,1,0,0,A
+312,2023,2023-05-21,Gangwon FC,Pohang Steelers,0,0,0,0,D
+313,2023,2023-05-21,Suwon Bluewings,Ulsan Hyundai FC,2,3,1,1,A
+314,2023,2023-05-21,Jeonbuk Motors,Suwon City FC,3,1,1,2,H
+315,2023,2023-05-27,Jeju United FC,Suwon Bluewings,2,1,1,1,H
+316,2023,2023-05-27,Daegu FC,Incheon United,2,2,0,2,D
+317,2023,2023-05-28,FC Seoul,Gangwon FC,1,0,1,0,H
+318,2023,2023-05-28,Suwon City FC,Gwangju FC,0,2,0,0,A
+319,2023,2023-05-28,Ulsan Hyundai FC,Daejeon Citizen,3,3,1,2,D
+320,2023,2023-05-29,Pohang Steelers,Jeonbuk Motors,1,0,0,1,H
+321,2023,2023-06-03,Jeonbuk Motors,Ulsan Hyundai FC,2,0,0,2,H
+322,2023,2023-06-03,Suwon Bluewings,Suwon City FC,1,2,0,1,A
+323,2023,2023-06-03,Jeju United FC,Gangwon FC,2,2,0,2,D
+324,2023,2023-06-03,Gwangju FC,Pohang Steelers,4,2,1,3,H
+325,2023,2023-06-04,Daejeon Citizen,Incheon United,1,3,0,1,A
+326,2023,2023-06-04,Daegu FC,FC Seoul,1,0,1,0,H
+327,2023,2023-06-06,Suwon City FC,Ulsan Hyundai FC,1,3,1,0,A
+328,2023,2023-06-06,Pohang Steelers,Jeju United FC,2,1,1,1,H
+329,2023,2023-06-07,Gwangju FC,Suwon Bluewings,2,1,0,2,H
+330,2023,2023-06-07,Jeonbuk Motors,Daegu FC,1,0,0,1,H
+331,2023,2023-06-07,Gangwon FC,Daejeon Citizen,1,2,0,1,A
+332,2023,2023-06-07,Incheon United,FC Seoul,1,1,1,0,D
+333,2023,2023-06-10,Daegu FC,Suwon City FC,3,1,0,3,H
+334,2023,2023-06-10,Ulsan Hyundai FC,Jeju United FC,5,1,1,4,H
+335,2023,2023-06-10,Daejeon Citizen,Gwangju FC,1,1,0,1,D
+336,2023,2023-06-11,Gangwon FC,Jeonbuk Motors,1,2,0,1,A
+337,2023,2023-06-11,FC Seoul,Pohang Steelers,1,1,1,0,D
+338,2023,2023-06-11,Suwon Bluewings,Incheon United,0,0,0,0,D
+339,2023,2023-06-24,Suwon Bluewings,FC Seoul,0,1,0,0,A
+340,2023,2023-06-24,Jeju United FC,Daejeon Citizen,1,1,0,1,D
+341,2023,2023-06-24,Gwangju FC,Jeonbuk Motors,2,0,1,1,H
+342,2023,2023-06-24,Ulsan Hyundai FC,Daegu FC,3,1,1,2,H
+343,2023,2023-06-25,Incheon United,Pohang Steelers,0,1,0,0,A
+344,2023,2023-06-25,Suwon City FC,Gangwon FC,1,1,0,1,D
+345,2023,2023-07-01,Jeonbuk Motors,Jeju United FC,2,0,1,1,H
+346,2023,2023-07-01,Daegu FC,Suwon Bluewings,1,1,0,1,D
+347,2023,2023-07-01,FC Seoul,Daejeon Citizen,0,0,0,0,D
+348,2023,2023-07-02,Gwangju FC,Ulsan Hyundai FC,0,1,0,0,A
+349,2023,2023-07-02,Pohang Steelers,Suwon City FC,3,1,1,2,H
+350,2023,2023-07-02,Incheon United,Gangwon FC,1,0,1,0,H
+351,2023,2023-07-07,Gangwon FC,Gwangju FC,1,1,0,1,D
+352,2023,2023-07-07,Jeju United FC,Daegu FC,1,2,1,0,A
+353,2023,2023-07-08,Pohang Steelers,Ulsan Hyundai FC,0,1,0,0,A
+354,2023,2023-07-08,Suwon City FC,Incheon United,2,2,2,0,D
+355,2023,2023-07-08,Jeonbuk Motors,FC Seoul,2,1,0,2,H
+356,2023,2023-07-09,Daejeon Citizen,Suwon Bluewings,2,2,2,0,D
+357,2023,2023-07-11,Daegu FC,Gangwon FC,0,0,0,0,D
+358,2023,2023-07-11,Jeju United FC,Gwangju FC,0,0,0,0,D
+359,2023,2023-07-12,Ulsan Hyundai FC,Incheon United,1,2,0,1,A
+360,2023,2023-07-12,Daejeon Citizen,Jeonbuk Motors,2,2,0,2,D
+361,2023,2023-07-12,Suwon Bluewings,Pohang Steelers,1,1,0,1,D
+362,2023,2023-07-12,FC Seoul,Suwon City FC,7,2,3,4,H
+363,2023,2023-07-15,Suwon Bluewings,Ulsan Hyundai FC,3,1,1,2,H
+364,2023,2023-07-15,Gangwon FC,FC Seoul,1,1,1,0,D
+365,2023,2023-07-15,Gwangju FC,Daegu FC,1,1,1,0,D
+366,2023,2023-07-16,Jeonbuk Motors,Suwon City FC,1,0,1,0,H
+367,2023,2023-07-16,Pohang Steelers,Jeju United FC,4,2,1,3,H
+368,2023,2023-07-16,Incheon United,Daejeon Citizen,2,0,0,2,H
+369,2023,2023-07-21,Pohang Steelers,Jeonbuk Motors,2,1,1,1,H
+370,2023,2023-07-21,Ulsan Hyundai FC,Jeju United FC,2,1,2,0,H
+371,2023,2023-07-22,Suwon City FC,Gwangju FC,0,1,0,0,A
+372,2023,2023-07-22,Gangwon FC,Suwon Bluewings,1,2,1,0,A
+373,2023,2023-07-22,FC Seoul,Incheon United,0,1,0,0,A
+374,2023,2023-07-22,Daejeon Citizen,Daegu FC,1,0,0,1,H
+375,2023,2023-08-04,Gwangju FC,Daejeon Citizen,3,0,2,1,H
+376,2023,2023-08-04,FC Seoul,Pohang Steelers,2,2,0,2,D
+377,2023,2023-08-05,Suwon Bluewings,Suwon City FC,0,2,0,0,A
+378,2023,2023-08-05,Daegu FC,Ulsan Hyundai FC,0,0,0,0,D
+379,2023,2023-08-06,Jeonbuk Motors,Incheon United,2,0,2,0,H
+380,2023,2023-08-06,Jeju United FC,Gangwon FC,1,1,0,1,D
+381,2023,2023-08-12,Jeonbuk Motors,Suwon Bluewings,1,1,0,1,D
+382,2023,2023-08-12,Gangwon FC,Ulsan Hyundai FC,2,0,1,1,H
+383,2023,2023-08-12,Jeju United FC,Suwon City FC,3,0,2,1,H
+384,2023,2023-08-13,Daejeon Citizen,FC Seoul,4,3,2,2,H
+385,2023,2023-08-13,Incheon United,Daegu FC,3,1,3,0,H
+386,2023,2023-08-13,Pohang Steelers,Gwangju FC,1,1,1,0,D
+387,2023,2023-08-18,Incheon United,Gwangju FC,2,2,0,2,D
+388,2023,2023-08-18,Suwon Bluewings,Jeju United FC,1,0,0,1,H
+389,2023,2023-08-19,Gangwon FC,Suwon City FC,1,2,1,0,A
+390,2023,2023-08-19,Ulsan Hyundai FC,Jeonbuk Motors,1,0,0,1,H
+391,2023,2023-08-19,FC Seoul,Daegu FC,2,2,2,0,D
+392,2023,2023-08-20,Pohang Steelers,Daejeon Citizen,4,3,1,3,H
+393,2023,2023-08-25,Suwon City FC,Incheon United,1,2,0,1,A
+394,2023,2023-08-25,Jeonbuk Motors,Daejeon Citizen,1,1,1,0,D
+395,2023,2023-08-26,Daegu FC,Jeju United FC,1,0,0,1,H
+396,2023,2023-08-26,Gangwon FC,Pohang Steelers,1,1,1,0,D
+397,2023,2023-08-27,FC Seoul,Ulsan Hyundai FC,2,2,1,1,D
+398,2023,2023-08-27,Gwangju FC,Suwon Bluewings,4,0,2,2,H
+399,2023,2023-09-01,Daejeon Citizen,Suwon City FC,0,1,0,0,A
+400,2023,2023-09-01,Daegu FC,Gangwon FC,1,0,1,0,H
+401,2023,2023-09-02,Suwon Bluewings,FC Seoul,0,1,0,0,A
+402,2023,2023-09-02,Incheon United,Pohang Steelers,0,2,0,0,A
+403,2023,2023-09-03,Ulsan Hyundai FC,Gwangju FC,0,2,0,0,A
+404,2023,2023-09-03,Jeju United FC,Jeonbuk Motors,0,0,0,0,D
+405,2023,2023-09-16,Jeonbuk Motors,Gangwon FC,1,3,1,0,A
+406,2023,2023-09-16,Incheon United,Jeju United FC,2,1,1,1,H
+407,2023,2023-09-16,Pohang Steelers,Suwon City FC,2,0,2,0,H
+408,2023,2023-09-16,Ulsan Hyundai FC,Daejeon Citizen,1,1,1,0,D
+409,2023,2023-09-17,FC Seoul,Gwangju FC,0,1,0,0,A
+410,2023,2023-09-17,Suwon Bluewings,Daegu FC,0,1,0,0,A
+411,2023,2023-09-23,Daejeon Citizen,Suwon Bluewings,3,1,2,1,H
+412,2023,2023-09-23,Jeju United FC,FC Seoul,1,3,0,1,A
+413,2023,2023-09-24,Suwon City FC,Ulsan Hyundai FC,2,3,0,2,A
+414,2023,2023-09-24,Gwangju FC,Jeonbuk Motors,0,1,0,0,A
+415,2023,2023-09-24,Gangwon FC,Incheon United,1,1,1,0,D
+416,2023,2023-09-24,Daegu FC,Pohang Steelers,0,0,0,0,D
+417,2023,2023-09-30,Suwon City FC,FC Seoul,1,1,0,1,D
+418,2023,2023-09-30,Pohang Steelers,Ulsan Hyundai FC,0,0,0,0,D
+419,2023,2023-09-30,Jeonbuk Motors,Daegu FC,1,3,1,0,A
+420,2023,2023-09-30,Incheon United,Suwon Bluewings,2,0,1,1,H
+421,2023,2023-10-01,Gangwon FC,Daejeon Citizen,1,1,1,0,D
+422,2023,2023-10-01,Jeju United FC,Gwangju FC,1,2,0,1,A
+423,2023,2023-10-08,Daegu FC,Suwon City FC,2,2,1,1,D
+424,2023,2023-10-08,Daejeon Citizen,Jeju United FC,1,0,1,0,H
+425,2023,2023-10-08,Gwangju FC,Gangwon FC,1,0,0,1,H
+426,2023,2023-10-08,Suwon Bluewings,Pohang Steelers,1,0,1,0,H
+427,2023,2023-10-08,FC Seoul,Jeonbuk Motors,0,2,0,0,A
+428,2023,2023-10-08,Ulsan Hyundai FC,Incheon United,0,0,0,0,D
+429,2023,2023-10-20,Pohang Steelers,Incheon United,1,1,0,1,D
+430,2023,2023-10-21,Gwangju FC,Ulsan Hyundai FC,1,0,0,1,H
+431,2023,2023-10-21,Daegu FC,Jeonbuk Motors,1,2,1,0,A
+432,2023,2023-10-22,Jeju United FC,Suwon Bluewings,2,0,2,0,H
+433,2023,2023-10-22,FC Seoul,Gangwon FC,2,1,0,2,H
+434,2023,2023-10-22,Daejeon Citizen,Suwon City FC,1,1,0,1,D
+435,2023,2023-10-28,Jeonbuk Motors,Pohang Steelers,1,1,0,1,D
+436,2023,2023-10-28,Gangwon FC,Jeju United FC,1,1,0,1,D
+437,2023,2023-10-28,Gwangju FC,Incheon United,0,2,0,0,A
+438,2023,2023-10-29,Suwon Bluewings,Daejeon Citizen,2,2,2,0,D
+439,2023,2023-10-29,Ulsan Hyundai FC,Daegu FC,2,0,0,2,H
+440,2023,2023-10-29,Suwon City FC,FC Seoul,3,4,1,2,A
+441,2023,2023-11-11,Daejeon Citizen,Gangwon FC,0,1,0,0,A
+442,2023,2023-11-11,Daegu FC,Gwangju FC,1,1,1,0,D
+443,2023,2023-11-11,Jeju United FC,FC Seoul,0,0,0,0,D
+444,2023,2023-11-12,Suwon City FC,Suwon Bluewings,2,3,1,1,A
+445,2023,2023-11-12,Incheon United,Jeonbuk Motors,1,1,0,1,D
+446,2023,2023-11-12,Ulsan Hyundai FC,Pohang Steelers,3,2,0,3,H
+447,2023,2023-11-24,Incheon United,Ulsan Hyundai FC,3,1,0,3,H
+448,2023,2023-11-25,Jeju United FC,Daejeon Citizen,0,2,0,0,A
+449,2023,2023-11-25,Jeonbuk Motors,Gwangju FC,2,0,2,0,H
+450,2023,2023-11-25,Gangwon FC,Suwon City FC,2,0,1,1,H
+451,2023,2023-11-25,Pohang Steelers,Daegu FC,1,0,0,1,H
+452,2023,2023-11-25,FC Seoul,Suwon Bluewings,0,1,0,0,A
+453,2023,2023-12-02,Daejeon Citizen,FC Seoul,2,2,1,1,D
+454,2023,2023-12-02,Suwon City FC,Jeju United FC,1,1,0,1,D
+455,2023,2023-12-02,Suwon Bluewings,Gangwon FC,0,0,0,0,D
+456,2023,2023-12-03,Daegu FC,Incheon United,2,1,1,1,H
+457,2023,2023-12-03,Gwangju FC,Pohang Steelers,0,0,0,0,D
+458,2023,2023-12-03,Ulsan Hyundai FC,Jeonbuk Motors,1,0,1,0,H
+459,2023,2023-12-06,Busan I Park,Suwon City FC,2,1,0,2,H
+460,2023,2023-12-06,Gimpo Citizen,Gangwon FC,0,0,0,0,D
+461,2023,2023-12-09,Gangwon FC,Gimpo Citizen,2,1,0,2,H

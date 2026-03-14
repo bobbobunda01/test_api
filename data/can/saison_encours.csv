@@ -1,0 +1,579 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,can,2025,2025-12-21,Morocco,Comoros,2,0,0,0,H
+1,can,2025,2025-12-22,Mali,Zambia,1,1,0,0,D
+2,can,2025,2025-12-22,South Africa,Angola,2,1,1,1,H
+3,can,2025,2025-12-22,Egypt,Zimbabwe,2,1,0,1,H
+4,can,2025,2025-12-23,Congo DR,Benin,1,0,1,0,H
+5,can,2025,2025-12-23,Senegal,Botswana,3,0,1,0,H
+6,can,2025,2025-12-23,Nigeria,Tanzania,2,1,1,0,H
+7,can,2025,2025-12-23,Tunisia,Uganda,3,1,2,0,H
+8,can,2025,2025-12-24,Burkina Faso,Equatorial Guinea,2,1,0,0,H
+9,can,2025,2025-12-24,Algeria,Sudan,3,0,1,0,H
+10,can,2025,2025-12-24,Ivory Coast,Mozambique,1,0,0,0,H
+11,can,2025,2025-12-24,Cameroon,Gabon,1,0,1,0,H
+12,can,2025,2025-12-26,Angola,Zimbabwe,1,1,1,1,D
+13,can,2025,2025-12-26,Egypt,South Africa,1,0,1,0,H
+14,can,2025,2025-12-26,Zambia,Comoros,0,0,0,0,D
+15,can,2025,2025-12-26,Morocco,Mali,1,1,1,0,D
+16,can,2025,2025-12-27,Benin,Botswana,1,0,1,0,H
+17,can,2025,2025-12-27,Senegal,Congo DR,1,1,0,0,D
+18,can,2025,2025-12-27,Uganda,Tanzania,1,1,0,0,D
+19,can,2025,2025-12-27,Nigeria,Tunisia,3,2,1,0,H
+20,can,2025,2025-12-28,Gabon,Mozambique,2,3,1,2,A
+21,can,2025,2025-12-28,Equatorial Guinea,Sudan,0,1,0,0,A
+22,can,2025,2025-12-28,Algeria,Burkina Faso,1,0,1,0,H
+23,can,2025,2025-12-28,Ivory Coast,Cameroon,1,1,0,0,D
+24,can,2025,2025-12-29,Zimbabwe,South Africa,2,3,1,1,A
+25,can,2025,2025-12-29,Angola,Egypt,0,0,0,0,D
+26,can,2025,2025-12-29,Zambia,Morocco,0,3,0,2,A
+27,can,2025,2025-12-29,Comoros,Mali,0,0,0,0,D
+28,can,2025,2025-12-30,Tanzania,Tunisia,1,1,0,1,D
+29,can,2025,2025-12-30,Uganda,Nigeria,1,3,0,1,A
+30,can,2025,2025-12-30,Benin,Senegal,0,3,0,1,A
+31,can,2025,2025-12-30,Botswana,Congo DR,0,3,0,2,A
+32,can,2025,2025-12-31,Sudan,Burkina Faso,0,2,0,1,A
+33,can,2025,2025-12-31,Equatorial Guinea,Algeria,1,3,0,3,A
+34,can,2025,2025-12-31,Gabon,Ivory Coast,2,3,2,1,A
+35,can,2025,2025-12-31,Mozambique,Cameroon,1,2,1,1,A
+36,can,2025,2026-01-03,Senegal,Sudan,3,1,2,1,H
+37,can,2025,2026-01-04,Morocco,Tanzania,1,0,0,0,H
+38,can,2025,2026-01-04,South Africa,Cameroon,1,2,0,1,A
+39,can,2025,2026-01-05,Nigeria,Mozambique,4,0,2,0,H
+40,can,2025,2026-01-06,Ivory Coast,Burkina Faso,3,0,2,0,H
+41,can,2025,2026-01-09,Mali,Senegal,0,1,0,1,A
+42,can,2025,2026-01-09,Cameroon,Morocco,0,2,0,1,A
+43,can,2025,2026-01-10,Algeria,Nigeria,0,2,0,0,A
+44,can,2025,2026-01-10,Egypt,Ivory Coast,3,2,2,1,H
+0,world_cup_africa,2018,2015-10-07,Comoros,Lesotho,0,0,0,0,D
+1,world_cup_africa,2018,2015-10-07,Seychelles,Burundi,0,1,0,1,A
+2,world_cup_africa,2018,2015-10-07,Tanzania,Malawi,2,0,2,0,H
+3,world_cup_africa,2018,2015-10-07,Mauritius,Kenya,2,5,0,2,A
+4,world_cup_africa,2018,2015-10-08,South Sudan,Mauritania,1,1,1,1,D
+5,world_cup_africa,2018,2015-10-08,Sao Tome and Principe,Ethiopia,1,0,0,0,H
+6,world_cup_africa,2018,2015-10-08,Liberia,Guinea-Bissau,1,1,1,0,D
+7,world_cup_africa,2018,2015-10-09,Somalia,Niger,0,2,0,0,A
+8,world_cup_africa,2018,2015-10-09,Djibouti,Swaziland,0,6,0,1,A
+9,world_cup_africa,2018,2015-10-09,Gambia,Namibia,1,1,0,0,D
+10,world_cup_africa,2018,2015-10-10,Central African Republic,Madagascar,0,3,0,2,A
+11,world_cup_africa,2018,2015-10-10,Eritrea,Botswana,0,2,0,1,A
+12,world_cup_africa,2018,2015-10-10,Chad,Sierra Leone,1,0,0,0,H
+13,world_cup_africa,2018,2015-10-11,Malawi,Tanzania,1,0,1,0,H
+14,world_cup_africa,2018,2015-10-11,Ethiopia,Sao Tome and Principe,3,0,1,0,H
+15,world_cup_africa,2018,2015-10-11,Kenya,Mauritius,0,0,0,0,D
+16,world_cup_africa,2018,2015-10-13,Madagascar,Central African Republic,2,2,2,1,D
+17,world_cup_africa,2018,2015-10-13,Burundi,Seychelles,2,0,0,0,H
+18,world_cup_africa,2018,2015-10-13,Namibia,Gambia,2,1,1,1,H
+19,world_cup_africa,2018,2015-10-13,Sierra Leone,Chad,2,1,0,1,H
+20,world_cup_africa,2018,2015-10-13,Niger,Somalia,4,0,3,0,H
+21,world_cup_africa,2018,2015-10-13,Guinea-Bissau,Liberia,1,3,1,2,A
+22,world_cup_africa,2018,2015-10-13,Lesotho,Comoros,1,1,1,0,D
+23,world_cup_africa,2018,2015-10-13,Mauritania,South Sudan,4,0,1,0,H
+24,world_cup_africa,2018,2015-10-13,Botswana,Eritrea,3,1,2,1,H
+25,world_cup_africa,2018,2015-10-17,Swaziland,Djibouti,2,1,2,1,H
+26,world_cup_africa,2018,2015-11-11,Sudan,Zambia,0,1,0,1,A
+27,world_cup_africa,2018,2015-11-11,Mozambique,Gabon,1,0,0,0,H
+28,world_cup_africa,2018,2015-11-12,Burundi,Congo DR,2,3,1,1,A
+29,world_cup_africa,2018,2015-11-12,Namibia,Guinea,0,1,0,1,A
+30,world_cup_africa,2018,2015-11-12,Benin,Burkina Faso,2,1,1,0,H
+31,world_cup_africa,2018,2015-11-12,Togo,Uganda,0,1,0,1,A
+32,world_cup_africa,2018,2015-11-12,Morocco,Equatorial Guinea,2,0,1,0,H
+33,world_cup_africa,2018,2015-11-13,Madagascar,Senegal,2,2,1,0,D
+34,world_cup_africa,2018,2015-11-13,Comoros,Ghana,0,0,0,0,D
+35,world_cup_africa,2018,2015-11-13,Kenya,Cape Verde Islands,1,0,1,0,H
+36,world_cup_africa,2018,2015-11-13,Libya,Rwanda,1,0,0,0,H
+37,world_cup_africa,2018,2015-11-13,Angola,South Africa,1,3,1,2,A
+38,world_cup_africa,2018,2015-11-13,Niger,Cameroon,0,3,0,3,A
+39,world_cup_africa,2018,2015-11-13,Liberia,Ivory Coast,0,1,0,1,A
+40,world_cup_africa,2018,2015-11-13,Swaziland,Nigeria,0,0,0,0,D
+41,world_cup_africa,2018,2015-11-13,Mauritania,Tunisia,1,2,1,0,A
+42,world_cup_africa,2018,2015-11-14,Ethiopia,Congo,3,4,1,1,A
+43,world_cup_africa,2018,2015-11-14,Tanzania,Algeria,2,2,1,0,D
+44,world_cup_africa,2018,2015-11-14,Chad,Egypt,1,0,0,0,H
+45,world_cup_africa,2018,2015-11-14,Botswana,Mali,2,1,2,0,H
+46,world_cup_africa,2018,2015-11-15,Zambia,Sudan,2,0,0,0,H
+47,world_cup_africa,2018,2015-11-15,Uganda,Togo,3,0,3,0,H
+48,world_cup_africa,2018,2015-11-15,Equatorial Guinea,Morocco,1,0,1,0,H
+49,world_cup_africa,2018,2015-11-15,Guinea,Namibia,2,0,1,0,H
+50,world_cup_africa,2018,2015-11-17,Rwanda,Libya,1,3,1,1,A
+51,world_cup_africa,2018,2015-11-17,Cameroon,Niger,0,0,0,0,D
+52,world_cup_africa,2018,2015-11-17,Nigeria,Swaziland,2,0,0,0,H
+53,world_cup_africa,2018,2015-11-17,Ghana,Comoros,2,0,1,0,H
+54,world_cup_africa,2018,2015-11-17,Congo,Ethiopia,2,1,0,1,H
+55,world_cup_africa,2018,2015-11-17,Egypt,Chad,4,0,4,0,H
+56,world_cup_africa,2018,2015-11-17,Tunisia,Mauritania,2,1,0,0,H
+57,world_cup_africa,2018,2015-11-17,Ivory Coast,Liberia,3,0,2,0,H
+58,world_cup_africa,2018,2015-11-17,South Africa,Angola,1,0,0,0,H
+59,world_cup_africa,2018,2015-11-17,Burkina Faso,Benin,2,0,1,0,H
+60,world_cup_africa,2018,2015-11-17,Algeria,Tanzania,7,0,3,0,H
+61,world_cup_africa,2018,2015-11-17,Senegal,Madagascar,3,0,1,0,H
+62,world_cup_africa,2018,2015-11-17,Mali,Botswana,2,0,2,0,H
+63,world_cup_africa,2018,2015-11-17,Cape Verde Islands,Kenya,2,0,1,0,H
+64,world_cup_africa,2018,2016-10-07,Ghana,Uganda,0,0,0,0,D
+65,world_cup_africa,2018,2016-10-08,Gabon,Morocco,0,0,0,0,D
+66,world_cup_africa,2018,2016-10-08,Congo DR,Libya,4,0,2,0,H
+67,world_cup_africa,2018,2016-10-08,Ivory Coast,Mali,3,1,3,1,H
+68,world_cup_africa,2018,2016-10-08,Burkina Faso,South Africa,1,1,0,0,D
+69,world_cup_africa,2018,2016-10-08,Senegal,Cape Verde Islands,2,0,1,0,H
+70,world_cup_africa,2018,2016-10-09,Zambia,Nigeria,1,2,0,2,A
+71,world_cup_africa,2018,2016-10-09,Congo,Egypt,1,2,1,1,A
+72,world_cup_africa,2018,2016-10-09,Tunisia,Guinea,2,0,0,0,H
+73,world_cup_africa,2018,2016-10-09,Algeria,Cameroon,1,1,1,1,D
+74,world_cup_africa,2018,2016-11-11,Libya,Tunisia,0,1,0,0,A
+75,world_cup_africa,2018,2016-11-12,Uganda,Congo,1,0,1,0,H
+76,world_cup_africa,2018,2016-11-12,Cameroon,Zambia,1,1,1,1,D
+77,world_cup_africa,2018,2016-11-12,Nigeria,Algeria,3,1,2,0,H
+78,world_cup_africa,2018,2016-11-12,Cape Verde Islands,Burkina Faso,0,2,0,2,A
+79,world_cup_africa,2018,2016-11-12,Mali,Gabon,0,0,0,0,D
+80,world_cup_africa,2018,2016-11-12,Morocco,Ivory Coast,0,0,0,0,D
+81,world_cup_africa,2018,2016-11-13,Egypt,Ghana,2,0,1,0,H
+82,world_cup_africa,2018,2016-11-13,Guinea,Congo DR,1,2,1,0,A
+83,world_cup_africa,2018,2017-08-31,Uganda,Egypt,1,0,0,0,H
+84,world_cup_africa,2018,2017-08-31,Guinea,Libya,3,2,2,0,H
+85,world_cup_africa,2018,2017-09-01,Ghana,Congo,1,1,0,1,D
+86,world_cup_africa,2018,2017-09-01,Nigeria,Cameroon,4,0,2,0,H
+87,world_cup_africa,2018,2017-09-01,Cape Verde Islands,South Africa,2,1,2,1,H
+88,world_cup_africa,2018,2017-09-01,Tunisia,Congo DR,2,1,1,1,H
+89,world_cup_africa,2018,2017-09-01,Morocco,Mali,6,0,2,0,H
+90,world_cup_africa,2018,2017-09-02,Zambia,Algeria,3,1,2,0,H
+91,world_cup_africa,2018,2017-09-02,Gabon,Ivory Coast,0,3,0,0,A
+92,world_cup_africa,2018,2017-09-02,Senegal,Burkina Faso,0,0,0,0,D
+93,world_cup_africa,2018,2017-09-04,Cameroon,Nigeria,1,1,0,1,D
+94,world_cup_africa,2018,2017-09-04,Libya,Guinea,1,0,1,0,H
+95,world_cup_africa,2018,2017-09-05,Congo,Ghana,1,5,1,3,A
+96,world_cup_africa,2018,2017-09-05,South Africa,Cape Verde Islands,1,2,0,0,A
+97,world_cup_africa,2018,2017-09-05,Ivory Coast,Gabon,1,2,0,2,A
+98,world_cup_africa,2018,2017-09-05,Congo DR,Tunisia,2,2,1,0,D
+99,world_cup_africa,2018,2017-09-05,Egypt,Uganda,1,0,1,0,H
+100,world_cup_africa,2018,2017-09-05,Burkina Faso,Senegal,2,2,1,1,D
+101,world_cup_africa,2018,2017-09-05,Mali,Morocco,0,0,0,0,D
+102,world_cup_africa,2018,2017-09-05,Algeria,Zambia,0,1,0,0,A
+103,world_cup_africa,2018,2017-10-06,Mali,Ivory Coast,0,0,0,0,D
+104,world_cup_africa,2018,2017-10-07,Uganda,Ghana,0,0,0,0,D
+105,world_cup_africa,2018,2017-10-07,South Africa,Burkina Faso,3,1,3,0,H
+106,world_cup_africa,2018,2017-10-07,Nigeria,Zambia,1,0,0,0,H
+107,world_cup_africa,2018,2017-10-07,Cameroon,Algeria,2,0,1,0,H
+108,world_cup_africa,2018,2017-10-07,Guinea,Tunisia,1,4,1,1,A
+109,world_cup_africa,2018,2017-10-07,Libya,Congo DR,1,2,0,0,A
+110,world_cup_africa,2018,2017-10-07,Cape Verde Islands,Senegal,0,2,0,0,A
+111,world_cup_africa,2018,2017-10-07,Morocco,Gabon,3,0,1,0,H
+112,world_cup_africa,2018,2017-10-08,Egypt,Congo,2,1,0,0,H
+113,world_cup_africa,2018,2017-11-10,South Africa,Senegal,0,2,0,2,A
+114,world_cup_africa,2018,2017-11-10,Algeria,Nigeria,1,1,0,0,D
+115,world_cup_africa,2018,2017-11-11,Zambia,Cameroon,2,2,1,1,D
+116,world_cup_africa,2018,2017-11-11,Gabon,Mali,0,0,0,0,D
+117,world_cup_africa,2018,2017-11-11,Tunisia,Libya,0,0,0,0,D
+118,world_cup_africa,2018,2017-11-11,Ivory Coast,Morocco,0,2,0,2,A
+119,world_cup_africa,2018,2017-11-11,Congo DR,Guinea,3,1,0,0,H
+120,world_cup_africa,2018,2017-11-12,Congo,Uganda,1,1,1,1,D
+121,world_cup_africa,2018,2017-11-12,Ghana,Egypt,1,1,0,0,D
+122,world_cup_africa,2018,2017-11-14,Senegal,South Africa,2,1,0,0,H
+123,world_cup_africa,2018,2017-11-14,Burkina Faso,Cape Verde Islands,4,0,1,0,H
+124,world_cup_africa,2022,2019-09-04,Sao Tome and Principe,Guinea-Bissau,0,1,0,0,A
+125,world_cup_africa,2022,2019-09-04,South Sudan,Equatorial Guinea,1,1,0,1,D
+126,world_cup_africa,2022,2019-09-04,Mauritius,Mozambique,0,1,0,1,A
+127,world_cup_africa,2022,2019-09-04,Eritrea,Namibia,1,2,0,0,A
+128,world_cup_africa,2022,2019-09-04,Ethiopia,Lesotho,0,0,0,0,D
+129,world_cup_africa,2022,2019-09-04,Liberia,Sierra Leone,3,1,1,0,H
+130,world_cup_africa,2022,2019-09-04,Burundi,Tanzania,1,1,0,0,D
+131,world_cup_africa,2022,2019-09-04,Djibouti,Eswatini,2,1,1,0,H
+132,world_cup_africa,2022,2019-09-05,Seychelles,Rwanda,0,3,0,2,A
+133,world_cup_africa,2022,2019-09-05,Chad,Sudan,1,3,0,1,A
+134,world_cup_africa,2022,2019-09-05,Somalia,Zimbabwe,1,0,0,0,H
+135,world_cup_africa,2022,2019-09-06,Gambia,Angola,0,1,0,1,A
+136,world_cup_africa,2022,2019-09-06,Comoros,Togo,1,1,0,1,D
+137,world_cup_africa,2022,2019-09-07,Botswana,Malawi,0,0,0,0,D
+138,world_cup_africa,2022,2019-09-08,Sierra Leone,Liberia,1,0,0,0,H
+139,world_cup_africa,2022,2019-09-08,Lesotho,Ethiopia,1,1,0,0,D
+140,world_cup_africa,2022,2019-09-08,Equatorial Guinea,South Sudan,1,0,0,0,H
+141,world_cup_africa,2022,2019-09-10,Namibia,Eritrea,2,0,1,0,H
+142,world_cup_africa,2022,2019-09-10,Malawi,Botswana,1,0,0,0,H
+143,world_cup_africa,2022,2019-09-10,Sudan,Chad,0,0,0,0,D
+144,world_cup_africa,2022,2019-09-10,Mozambique,Mauritius,2,0,1,0,H
+145,world_cup_africa,2022,2019-09-10,Guinea-Bissau,Sao Tome and Principe,2,1,0,1,H
+146,world_cup_africa,2022,2019-09-10,Rwanda,Seychelles,7,0,4,0,H
+147,world_cup_africa,2022,2019-09-10,Zimbabwe,Somalia,3,1,0,0,H
+148,world_cup_africa,2022,2019-09-10,Angola,Gambia,2,1,1,0,H
+149,world_cup_africa,2022,2019-09-10,Togo,Comoros,2,0,1,0,H
+150,world_cup_africa,2022,2019-09-10,Eswatini,Djibouti,0,0,0,0,D
+151,world_cup_africa,2022,2021-09-01,Central African Republic,Cape Verde Islands,1,1,0,1,D
+152,world_cup_africa,2022,2021-09-01,Senegal,Togo,2,0,0,0,H
+153,world_cup_africa,2022,2021-09-01,Guinea-Bissau,Guinea,1,1,0,1,D
+154,world_cup_africa,2022,2021-09-01,Egypt,Angola,1,0,1,0,H
+155,world_cup_africa,2022,2021-09-01,Mali,Rwanda,1,0,1,0,H
+156,world_cup_africa,2022,2021-09-01,Libya,Gabon,2,1,1,1,H
+157,world_cup_africa,2022,2021-09-02,Congo DR,Tanzania,1,1,1,1,D
+158,world_cup_africa,2022,2021-09-02,Kenya,Uganda,0,0,0,0,D
+159,world_cup_africa,2022,2021-09-02,Madagascar,Benin,0,1,0,1,A
+160,world_cup_africa,2022,2021-09-02,Namibia,Congo,1,1,1,0,D
+161,world_cup_africa,2022,2021-09-02,Niger,Burkina Faso,0,2,0,0,A
+162,world_cup_africa,2022,2021-09-02,Morocco,Sudan,2,0,1,0,H
+163,world_cup_africa,2022,2021-09-02,Algeria,Djibouti,8,0,4,0,H
+164,world_cup_africa,2022,2021-09-03,Mozambique,Ivory Coast,0,0,0,0,D
+165,world_cup_africa,2022,2021-09-03,Zimbabwe,South Africa,0,0,0,0,D
+166,world_cup_africa,2022,2021-09-03,Nigeria,Liberia,2,0,2,0,H
+167,world_cup_africa,2022,2021-09-03,Mauritania,Zambia,1,2,0,1,A
+168,world_cup_africa,2022,2021-09-03,Tunisia,Equatorial Guinea,3,0,0,0,H
+169,world_cup_africa,2022,2021-09-03,Ghana,Ethiopia,1,0,1,0,H
+170,world_cup_africa,2022,2021-09-03,Cameroon,Malawi,2,0,2,0,H
+171,world_cup_africa,2022,2021-09-05,Rwanda,Kenya,1,1,1,1,D
+172,world_cup_africa,2022,2021-09-05,Togo,Namibia,0,1,0,0,A
+173,world_cup_africa,2022,2021-09-05,Gabon,Egypt,1,1,0,0,D
+174,world_cup_africa,2022,2021-09-06,Benin,Congo DR,1,1,1,1,D
+175,world_cup_africa,2022,2021-09-06,Uganda,Mali,0,0,0,0,D
+176,world_cup_africa,2022,2021-09-06,Djibouti,Niger,2,4,1,0,A
+177,world_cup_africa,2022,2021-09-06,Central African Republic,Liberia,0,1,0,0,A
+178,world_cup_africa,2022,2021-09-06,South Africa,Ghana,1,0,0,0,H
+179,world_cup_africa,2022,2021-09-06,Ivory Coast,Cameroon,2,1,2,0,H
+180,world_cup_africa,2022,2021-09-07,Tanzania,Madagascar,3,2,2,2,H
+181,world_cup_africa,2022,2021-09-07,Malawi,Mozambique,1,0,1,0,H
+182,world_cup_africa,2022,2021-09-07,Ethiopia,Zimbabwe,1,0,0,0,H
+183,world_cup_africa,2022,2021-09-07,Zambia,Tunisia,0,2,0,1,A
+184,world_cup_africa,2022,2021-09-07,Congo,Senegal,1,3,1,1,A
+185,world_cup_africa,2022,2021-09-07,Equatorial Guinea,Mauritania,1,0,0,0,H
+186,world_cup_africa,2022,2021-09-07,Cape Verde Islands,Nigeria,1,2,1,1,A
+187,world_cup_africa,2022,2021-09-07,Burkina Faso,Algeria,1,1,0,1,D
+188,world_cup_africa,2022,2021-09-07,Sudan,Guinea-Bissau,2,4,0,3,A
+189,world_cup_africa,2022,2021-09-07,Angola,Libya,0,1,0,1,A
+190,world_cup_africa,2022,2021-10-06,Sudan,Guinea,1,1,0,0,D
+191,world_cup_africa,2022,2021-10-06,Morocco,Guinea-Bissau,5,0,2,0,H
+192,world_cup_africa,2022,2021-10-07,Tanzania,Benin,0,1,0,0,A
+193,world_cup_africa,2022,2021-10-07,Congo DR,Madagascar,2,0,1,0,H
+194,world_cup_africa,2022,2021-10-07,Liberia,Cape Verde Islands,1,2,1,0,A
+195,world_cup_africa,2022,2021-10-07,Nigeria,Central African Republic,0,1,0,0,A
+196,world_cup_africa,2022,2021-10-07,Rwanda,Uganda,0,1,0,1,A
+197,world_cup_africa,2022,2021-10-07,Equatorial Guinea,Zambia,2,0,1,0,H
+198,world_cup_africa,2022,2021-10-07,Tunisia,Mauritania,3,0,2,0,H
+199,world_cup_africa,2022,2021-10-07,Mali,Kenya,5,0,4,0,H
+200,world_cup_africa,2022,2021-10-08,Malawi,Ivory Coast,0,3,0,1,A
+201,world_cup_africa,2022,2021-10-08,Angola,Gabon,3,1,1,0,H
+202,world_cup_africa,2022,2021-10-08,Cameroon,Mozambique,3,1,1,0,H
+203,world_cup_africa,2022,2021-10-08,Egypt,Libya,1,0,0,0,H
+204,world_cup_africa,2022,2021-10-08,Algeria,Niger,6,1,1,0,H
+205,world_cup_africa,2022,2021-10-08,Djibouti,Burkina Faso,0,4,0,1,A
+206,world_cup_africa,2022,2021-10-09,Ethiopia,South Africa,1,3,0,1,A
+207,world_cup_africa,2022,2021-10-09,Guinea,Sudan,2,2,0,0,D
+208,world_cup_africa,2022,2021-10-09,Ghana,Zimbabwe,3,1,1,0,H
+209,world_cup_africa,2022,2021-10-09,Togo,Congo,1,1,0,1,D
+210,world_cup_africa,2022,2021-10-09,Senegal,Namibia,4,1,2,0,H
+211,world_cup_africa,2022,2021-10-09,Guinea-Bissau,Morocco,0,3,0,2,A
+212,world_cup_africa,2022,2021-10-10,Kenya,Mali,0,1,0,0,A
+213,world_cup_africa,2022,2021-10-10,Benin,Tanzania,0,1,0,1,A
+214,world_cup_africa,2022,2021-10-10,Uganda,Rwanda,1,0,1,0,H
+215,world_cup_africa,2022,2021-10-10,Central African Republic,Nigeria,0,2,0,2,A
+216,world_cup_africa,2022,2021-10-10,Madagascar,Congo DR,1,0,1,0,H
+217,world_cup_africa,2022,2021-10-10,Zambia,Equatorial Guinea,1,1,0,0,D
+218,world_cup_africa,2022,2021-10-10,Cape Verde Islands,Liberia,1,0,0,0,H
+219,world_cup_africa,2022,2021-10-10,Mauritania,Tunisia,0,0,0,0,D
+220,world_cup_africa,2022,2021-10-11,Gabon,Angola,2,0,0,0,H
+221,world_cup_africa,2022,2021-10-11,Mozambique,Cameroon,0,1,0,0,A
+222,world_cup_africa,2022,2021-10-11,Ivory Coast,Malawi,2,1,1,1,H
+223,world_cup_africa,2022,2021-10-11,Burkina Faso,Djibouti,2,0,1,0,H
+224,world_cup_africa,2022,2021-10-11,Libya,Egypt,0,3,0,2,A
+225,world_cup_africa,2022,2021-10-12,Namibia,Senegal,1,3,1,1,A
+226,world_cup_africa,2022,2021-10-12,Zimbabwe,Ghana,0,1,0,1,A
+227,world_cup_africa,2022,2021-10-12,Niger,Algeria,0,4,0,2,A
+228,world_cup_africa,2022,2021-10-12,Congo,Togo,1,2,0,1,A
+229,world_cup_africa,2022,2021-10-12,South Africa,Ethiopia,1,0,1,0,H
+230,world_cup_africa,2022,2021-10-12,Guinea,Morocco,1,4,1,2,A
+231,world_cup_africa,2022,2021-11-11,Tanzania,Congo DR,0,3,0,1,A
+232,world_cup_africa,2022,2021-11-11,Ethiopia,Ghana,1,1,0,1,D
+233,world_cup_africa,2022,2021-11-11,Uganda,Kenya,1,1,0,0,D
+234,world_cup_africa,2022,2021-11-11,Rwanda,Mali,0,3,0,2,A
+235,world_cup_africa,2022,2021-11-11,Benin,Madagascar,2,0,1,0,H
+236,world_cup_africa,2022,2021-11-11,Congo,Namibia,1,1,0,1,D
+237,world_cup_africa,2022,2021-11-11,South Africa,Zimbabwe,1,0,1,0,H
+238,world_cup_africa,2022,2021-11-11,Togo,Senegal,1,1,1,0,D
+239,world_cup_africa,2022,2021-11-12,Burkina Faso,Niger,1,1,0,1,D
+240,world_cup_africa,2022,2021-11-12,Djibouti,Algeria,0,4,0,3,A
+241,world_cup_africa,2022,2021-11-12,Gabon,Libya,1,0,0,0,H
+242,world_cup_africa,2022,2021-11-12,Guinea,Guinea-Bissau,0,0,0,0,D
+243,world_cup_africa,2022,2021-11-12,Sudan,Morocco,0,3,0,1,A
+244,world_cup_africa,2022,2021-11-12,Angola,Egypt,2,2,2,1,D
+245,world_cup_africa,2022,2021-11-13,Malawi,Cameroon,0,4,0,2,A
+246,world_cup_africa,2022,2021-11-13,Zambia,Mauritania,4,0,3,0,H
+247,world_cup_africa,2022,2021-11-13,Equatorial Guinea,Tunisia,1,0,0,0,H
+248,world_cup_africa,2022,2021-11-13,Liberia,Nigeria,0,2,0,1,A
+249,world_cup_africa,2022,2021-11-13,Cape Verde Islands,Central African Republic,2,1,0,1,H
+250,world_cup_africa,2022,2021-11-13,Ivory Coast,Mozambique,3,0,1,0,H
+251,world_cup_africa,2022,2021-11-14,Madagascar,Tanzania,1,1,0,1,D
+252,world_cup_africa,2022,2021-11-14,Congo DR,Benin,2,0,1,0,H
+253,world_cup_africa,2022,2021-11-14,Zimbabwe,Ethiopia,1,1,1,0,D
+254,world_cup_africa,2022,2021-11-14,Mali,Uganda,1,0,1,0,H
+255,world_cup_africa,2022,2021-11-14,Senegal,Congo,2,0,2,0,H
+256,world_cup_africa,2022,2021-11-14,Ghana,South Africa,1,0,1,0,H
+257,world_cup_africa,2022,2021-11-15,Namibia,Togo,0,1,0,0,A
+258,world_cup_africa,2022,2021-11-15,Kenya,Rwanda,2,1,2,0,H
+259,world_cup_africa,2022,2021-11-15,Niger,Djibouti,7,2,2,1,H
+260,world_cup_africa,2022,2021-11-15,Guinea-Bissau,Sudan,0,0,0,0,D
+261,world_cup_africa,2022,2021-11-16,Egypt,Gabon,2,1,1,0,H
+262,world_cup_africa,2022,2021-11-16,Mozambique,Malawi,1,0,0,0,H
+263,world_cup_africa,2022,2021-11-16,Libya,Angola,1,1,0,0,D
+264,world_cup_africa,2022,2021-11-16,Nigeria,Cape Verde Islands,1,1,1,1,D
+265,world_cup_africa,2022,2021-11-16,Liberia,Central African Republic,3,1,2,0,H
+266,world_cup_africa,2022,2021-11-16,Algeria,Burkina Faso,2,2,1,1,D
+267,world_cup_africa,2022,2021-11-16,Tunisia,Zambia,3,1,3,0,H
+268,world_cup_africa,2022,2021-11-16,Morocco,Guinea,3,0,2,0,H
+269,world_cup_africa,2022,2021-11-16,Mauritania,Equatorial Guinea,1,1,1,0,D
+270,world_cup_africa,2022,2021-11-16,Cameroon,Ivory Coast,1,0,1,0,H
+271,world_cup_africa,2022,2022-03-25,Congo DR,Morocco,1,1,1,0,D
+272,world_cup_africa,2022,2022-03-25,Mali,Tunisia,0,1,0,1,A
+273,world_cup_africa,2022,2022-03-25,Cameroon,Algeria,0,1,0,1,A
+274,world_cup_africa,2022,2022-03-25,Egypt,Senegal,1,0,1,0,H
+275,world_cup_africa,2022,2022-03-25,Ghana,Nigeria,0,0,0,0,D
+276,world_cup_africa,2022,2022-03-29,Nigeria,Ghana,1,1,1,1,D
+277,world_cup_africa,2022,2022-03-29,Tunisia,Mali,0,0,0,0,D
+278,world_cup_africa,2022,2022-03-29,Morocco,Congo DR,4,1,2,0,H
+279,world_cup_africa,2023,2023-11-15,Rwanda,Zimbabwe,0,0,0,0,D
+280,world_cup_africa,2023,2023-11-15,Congo DR,Mauritania,2,0,0,0,H
+281,world_cup_africa,2023,2023-11-15,Ethiopia,Sierra Leone,0,0,0,0,D
+282,world_cup_africa,2023,2023-11-16,Botswana,Mozambique,2,3,0,1,A
+283,world_cup_africa,2023,2023-11-16,Burundi,Gambia,3,2,2,1,H
+284,world_cup_africa,2023,2023-11-16,Nigeria,Lesotho,1,1,0,0,D
+285,world_cup_africa,2023,2023-11-16,Egypt,Djibouti,6,0,2,0,H
+286,world_cup_africa,2023,2023-11-16,Gabon,Kenya,2,1,0,1,H
+287,world_cup_africa,2023,2023-11-16,Sudan,Togo,1,1,1,1,D
+288,world_cup_africa,2023,2023-11-16,Algeria,Somalia,3,1,2,0,H
+289,world_cup_africa,2023,2023-11-16,Cape Verde Islands,Angola,0,0,0,0,D
+290,world_cup_africa,2023,2023-11-17,Guinea,Uganda,2,1,1,1,H
+291,world_cup_africa,2023,2023-11-17,Comoros,Central African Republic,4,2,1,1,H
+292,world_cup_africa,2023,2023-11-17,Eswatini,Libya,0,1,0,0,A
+293,world_cup_africa,2023,2023-11-17,Ghana,Madagascar,1,0,0,0,H
+294,world_cup_africa,2023,2023-11-17,Zambia,Congo,4,2,2,2,H
+295,world_cup_africa,2023,2023-11-17,Liberia,Malawi,0,1,0,0,A
+296,world_cup_africa,2023,2023-11-17,Tunisia,Sao Tome and Principe,4,0,1,0,H
+297,world_cup_africa,2023,2023-11-17,Mali,Chad,3,1,1,0,H
+298,world_cup_africa,2023,2023-11-17,Ivory Coast,Seychelles,9,0,4,0,H
+299,world_cup_africa,2023,2023-11-17,Burkina Faso,Guinea-Bissau,1,1,0,1,D
+300,world_cup_africa,2023,2023-11-17,Cameroon,Mauritius,3,0,1,0,H
+301,world_cup_africa,2023,2023-11-18,South Africa,Benin,2,1,2,0,H
+302,world_cup_africa,2023,2023-11-18,Niger,Tanzania,0,1,0,0,A
+303,world_cup_africa,2023,2023-11-18,Senegal,South Sudan,4,0,3,0,H
+304,world_cup_africa,2023,2023-11-19,Mozambique,Algeria,0,2,0,0,A
+305,world_cup_africa,2023,2023-11-19,Zimbabwe,Nigeria,1,1,1,0,D
+306,world_cup_africa,2023,2023-11-19,Burundi,Gabon,1,2,0,1,A
+307,world_cup_africa,2023,2023-11-19,Sierra Leone,Egypt,0,2,0,1,A
+308,world_cup_africa,2023,2023-11-19,Sudan,Congo DR,1,0,0,0,H
+309,world_cup_africa,2023,2023-11-20,Djibouti,Guinea-Bissau,0,1,0,1,A
+310,world_cup_africa,2023,2023-11-20,Gambia,Ivory Coast,0,2,0,1,A
+311,world_cup_africa,2023,2023-11-20,Mali,Central African Republic,1,1,0,0,D
+312,world_cup_africa,2023,2023-11-20,Seychelles,Kenya,0,5,0,3,A
+313,world_cup_africa,2023,2023-11-20,Chad,Madagascar,0,3,0,1,A
+314,world_cup_africa,2023,2023-11-21,Malawi,Tunisia,0,1,0,0,A
+315,world_cup_africa,2023,2023-11-21,Ethiopia,Burkina Faso,0,3,0,0,A
+316,world_cup_africa,2023,2023-11-21,Rwanda,South Africa,2,0,2,0,H
+317,world_cup_africa,2023,2023-11-21,Lesotho,Benin,0,0,0,0,D
+318,world_cup_africa,2023,2023-11-21,Botswana,Guinea,1,0,0,0,H
+319,world_cup_africa,2023,2023-11-21,Eswatini,Cape Verde Islands,0,2,0,2,A
+320,world_cup_africa,2023,2023-11-21,Somalia,Uganda,0,1,0,1,A
+321,world_cup_africa,2023,2023-11-21,Sao Tome and Principe,Namibia,0,2,0,1,A
+322,world_cup_africa,2023,2023-11-21,South Sudan,Mauritania,0,0,0,0,D
+323,world_cup_africa,2023,2023-11-21,Mauritius,Angola,0,0,0,0,D
+324,world_cup_africa,2023,2023-11-21,Comoros,Ghana,1,0,1,0,H
+325,world_cup_africa,2023,2023-11-21,Libya,Cameroon,1,1,1,1,D
+326,world_cup_africa,2023,2023-11-21,Togo,Senegal,0,0,0,0,D
+327,world_cup_africa,2023,2023-11-21,Tanzania,Morocco,0,2,0,1,A
+328,world_cup_africa,2023,2023-11-21,Niger,Zambia,2,1,2,0,H
+329,world_cup_africa,2023,2024-06-05,Namibia,Liberia,1,1,1,0,D
+330,world_cup_africa,2023,2024-06-05,Sierra Leone,Djibouti,2,1,1,1,H
+331,world_cup_africa,2023,2024-06-05,Central African Republic,Chad,1,0,1,0,H
+332,world_cup_africa,2023,2024-06-05,Togo,South Sudan,1,1,0,0,D
+333,world_cup_africa,2023,2024-06-05,Tunisia,Equatorial Guinea,1,0,0,0,H
+334,world_cup_africa,2023,2024-06-06,Malawi,Sao Tome and Principe,3,1,2,0,H
+335,world_cup_africa,2023,2024-06-06,Mauritania,Sudan,0,2,0,2,A
+336,world_cup_africa,2023,2024-06-06,Guinea-Bissau,Ethiopia,0,0,0,0,D
+337,world_cup_africa,2023,2024-06-06,Libya,Mauritius,2,1,2,1,H
+338,world_cup_africa,2023,2024-06-06,Senegal,Congo DR,1,1,1,0,D
+339,world_cup_africa,2023,2024-06-06,Egypt,Burkina Faso,2,1,2,0,H
+340,world_cup_africa,2023,2024-06-06,Mali,Ghana,1,2,1,0,A
+341,world_cup_africa,2023,2024-06-06,Benin,Rwanda,1,0,1,0,H
+342,world_cup_africa,2023,2024-06-06,Algeria,Guinea,1,2,0,0,A
+343,world_cup_africa,2023,2024-06-07,Kenya,Burundi,1,1,0,0,D
+344,world_cup_africa,2023,2024-06-07,Mozambique,Somalia,2,1,2,0,H
+345,world_cup_africa,2023,2024-06-07,Zimbabwe,Lesotho,0,2,0,2,A
+346,world_cup_africa,2023,2024-06-07,Madagascar,Comoros,2,1,1,0,H
+347,world_cup_africa,2023,2024-06-07,Uganda,Botswana,1,0,0,0,H
+348,world_cup_africa,2023,2024-06-07,Angola,Eswatini,1,0,1,0,H
+349,world_cup_africa,2023,2024-06-07,Nigeria,South Africa,1,1,0,1,D
+350,world_cup_africa,2023,2024-06-07,Morocco,Zambia,2,1,1,0,H
+351,world_cup_africa,2023,2024-06-07,Ivory Coast,Gabon,1,0,1,0,H
+352,world_cup_africa,2023,2024-06-08,Cameroon,Cape Verde Islands,4,1,3,1,H
+353,world_cup_africa,2023,2024-06-08,Gambia,Seychelles,5,1,1,1,H
+354,world_cup_africa,2023,2024-06-09,Sao Tome and Principe,Liberia,0,1,0,0,A
+355,world_cup_africa,2023,2024-06-09,Mauritania,Senegal,0,1,0,1,A
+356,world_cup_africa,2023,2024-06-09,Namibia,Tunisia,0,0,0,0,D
+357,world_cup_africa,2023,2024-06-09,Congo DR,Togo,1,0,1,0,H
+358,world_cup_africa,2023,2024-06-09,Djibouti,Ethiopia,1,1,1,1,D
+359,world_cup_africa,2023,2024-06-10,Equatorial Guinea,Malawi,1,0,0,0,H
+360,world_cup_africa,2023,2024-06-10,Somalia,Botswana,1,3,0,1,A
+361,world_cup_africa,2023,2024-06-10,Guinea-Bissau,Egypt,1,1,1,0,D
+362,world_cup_africa,2023,2024-06-10,Benin,Nigeria,2,1,2,1,H
+363,world_cup_africa,2023,2024-06-10,Uganda,Algeria,1,2,1,0,A
+364,world_cup_africa,2023,2024-06-10,Burkina Faso,Sierra Leone,2,2,2,0,D
+365,world_cup_africa,2023,2024-06-10,Ghana,Central African Republic,4,3,1,2,H
+366,world_cup_africa,2023,2024-06-10,Guinea,Mozambique,0,1,0,0,A
+367,world_cup_africa,2023,2024-06-11,Madagascar,Mali,0,0,0,0,D
+368,world_cup_africa,2023,2024-06-11,South Sudan,Sudan,0,3,0,1,A
+369,world_cup_africa,2023,2024-06-11,Mauritius,Eswatini,2,1,2,0,H
+370,world_cup_africa,2023,2024-06-11,Kenya,Ivory Coast,0,0,0,0,D
+371,world_cup_africa,2023,2024-06-11,Zambia,Tanzania,0,1,0,1,A
+372,world_cup_africa,2023,2024-06-11,Lesotho,Rwanda,0,1,0,1,A
+373,world_cup_africa,2023,2024-06-11,Chad,Comoros,0,2,0,0,A
+374,world_cup_africa,2023,2024-06-11,South Africa,Zimbabwe,3,1,1,1,H
+375,world_cup_africa,2023,2024-06-11,Cape Verde Islands,Libya,1,0,1,0,H
+376,world_cup_africa,2023,2024-06-11,Gabon,Gambia,3,2,0,1,H
+377,world_cup_africa,2023,2024-06-11,Seychelles,Burundi,1,3,0,1,A
+378,world_cup_africa,2023,2024-06-11,Congo,Morocco,0,6,0,4,A
+379,world_cup_africa,2023,2024-06-11,Angola,Cameroon,1,1,0,1,D
+380,world_cup_africa,2023,2025-03-19,Liberia,Tunisia,0,1,0,1,A
+381,world_cup_africa,2023,2025-03-19,Central African Republic,Madagascar,1,4,1,2,A
+382,world_cup_africa,2023,2025-03-19,Eswatini,Cameroon,0,0,0,0,D
+383,world_cup_africa,2023,2025-03-20,Mozambique,Uganda,3,1,3,1,H
+384,world_cup_africa,2023,2025-03-20,Malawi,Namibia,0,1,0,1,A
+385,world_cup_africa,2023,2025-03-20,Sierra Leone,Guinea-Bissau,3,1,1,0,H
+386,world_cup_africa,2023,2025-03-20,Zimbabwe,Benin,2,2,1,2,D
+387,world_cup_africa,2023,2025-03-20,Cape Verde Islands,Mauritius,1,0,0,0,H
+388,world_cup_africa,2023,2025-03-20,Gambia,Kenya,3,3,0,0,D
+389,world_cup_africa,2023,2025-03-20,Gabon,Seychelles,3,0,2,0,H
+390,world_cup_africa,2023,2025-03-20,Libya,Angola,1,1,0,0,D
+391,world_cup_africa,2023,2025-03-20,Comoros,Mali,0,3,0,1,A
+392,world_cup_africa,2023,2025-03-21,Botswana,Algeria,1,3,0,1,A
+393,world_cup_africa,2023,2025-03-21,Equatorial Guinea,Sao Tome and Principe,2,0,2,0,H
+394,world_cup_africa,2023,2025-03-21,Burkina Faso,Djibouti,4,1,2,0,H
+395,world_cup_africa,2023,2025-03-21,Congo DR,South Sudan,1,0,1,0,H
+396,world_cup_africa,2023,2025-03-21,Rwanda,Nigeria,0,2,0,2,A
+397,world_cup_africa,2023,2025-03-21,Ghana,Chad,5,0,3,0,H
+398,world_cup_africa,2023,2025-03-21,Burundi,Ivory Coast,0,1,0,1,A
+399,world_cup_africa,2023,2025-03-21,Ethiopia,Egypt,0,2,0,2,A
+400,world_cup_africa,2023,2025-03-21,Guinea,Somalia,0,0,0,0,D
+401,world_cup_africa,2023,2025-03-21,Niger,Morocco,1,2,0,0,A
+402,world_cup_africa,2023,2025-03-22,Togo,Mauritania,2,2,1,0,D
+403,world_cup_africa,2023,2025-03-22,Sudan,Senegal,0,0,0,0,D
+404,world_cup_africa,2023,2025-03-23,Kenya,Gabon,1,2,0,1,A
+405,world_cup_africa,2023,2025-03-23,Eswatini,Mauritius,3,3,2,0,D
+406,world_cup_africa,2023,2025-03-24,Namibia,Equatorial Guinea,1,1,0,0,D
+407,world_cup_africa,2023,2025-03-24,Guinea-Bissau,Burkina Faso,1,2,1,1,A
+408,world_cup_africa,2023,2025-03-24,Liberia,Sao Tome and Principe,2,1,2,1,H
+409,world_cup_africa,2023,2025-03-24,Central African Republic,Mali,0,0,0,0,D
+410,world_cup_africa,2023,2025-03-24,Madagascar,Ghana,0,3,0,1,A
+411,world_cup_africa,2023,2025-03-24,Ivory Coast,Gambia,1,0,1,0,H
+412,world_cup_africa,2023,2025-03-24,Tunisia,Malawi,2,0,0,0,H
+413,world_cup_africa,2023,2025-03-24,Ethiopia,Djibouti,6,1,3,0,H
+414,world_cup_africa,2023,2025-03-25,Nigeria,Zimbabwe,1,1,0,0,D
+415,world_cup_africa,2023,2025-03-25,Rwanda,Lesotho,1,1,0,0,D
+416,world_cup_africa,2023,2025-03-25,Benin,South Africa,0,2,0,0,A
+417,world_cup_africa,2023,2025-03-25,Uganda,Guinea,1,0,1,0,H
+418,world_cup_africa,2023,2025-03-25,Angola,Cape Verde Islands,1,2,0,1,A
+419,world_cup_africa,2023,2025-03-25,Egypt,Sierra Leone,1,0,1,0,H
+420,world_cup_africa,2023,2025-03-25,Sudan,South Sudan,1,1,0,0,D
+421,world_cup_africa,2023,2025-03-25,Botswana,Somalia,2,0,0,0,H
+422,world_cup_africa,2023,2025-03-25,Burundi,Seychelles,5,0,3,0,H
+423,world_cup_africa,2023,2025-03-25,Cameroon,Libya,3,1,1,0,H
+424,world_cup_africa,2023,2025-03-25,Senegal,Togo,2,0,1,0,H
+425,world_cup_africa,2023,2025-03-25,Mauritania,Congo DR,0,2,0,1,A
+426,world_cup_africa,2023,2025-03-25,Comoros,Chad,1,0,1,0,H
+427,world_cup_africa,2023,2025-03-25,Algeria,Mozambique,5,1,3,1,H
+428,world_cup_africa,2023,2025-03-25,Morocco,Tanzania,2,0,0,0,H
+429,world_cup_africa,2023,2025-09-03,Seychelles,Gabon,0,4,0,3,A
+430,world_cup_africa,2023,2025-09-04,Chad,Ghana,1,1,0,1,D
+431,world_cup_africa,2023,2025-09-04,Madagascar,Central African Republic,2,0,1,0,H
+432,world_cup_africa,2023,2025-09-04,Sao Tome and Principe,Equatorial Guinea,2,3,2,0,A
+433,world_cup_africa,2023,2025-09-04,Mauritius,Cape Verde Islands,0,2,0,1,A
+434,world_cup_africa,2023,2025-09-04,Guinea-Bissau,Sierra Leone,1,1,0,1,D
+435,world_cup_africa,2023,2025-09-04,Angola,Libya,0,1,0,0,A
+436,world_cup_africa,2023,2025-09-04,Tunisia,Liberia,3,0,1,0,H
+437,world_cup_africa,2023,2025-09-04,Mali,Comoros,3,0,1,0,H
+438,world_cup_africa,2023,2025-09-04,Cameroon,Eswatini,3,0,3,0,H
+439,world_cup_africa,2023,2025-09-04,Algeria,Botswana,3,1,1,1,H
+440,world_cup_africa,2023,2025-09-05,Somalia,Guinea,0,3,0,1,A
+441,world_cup_africa,2023,2025-09-05,Namibia,Malawi,1,2,0,1,A
+442,world_cup_africa,2023,2025-09-05,South Sudan,Congo DR,1,4,0,3,A
+443,world_cup_africa,2023,2025-09-05,Kenya,Gambia,1,3,0,3,A
+444,world_cup_africa,2023,2025-09-05,Benin,Zimbabwe,1,0,0,0,H
+445,world_cup_africa,2023,2025-09-05,Congo,Tanzania,1,1,0,0,D
+446,world_cup_africa,2023,2025-09-05,Lesotho,South Africa,0,3,0,1,A
+447,world_cup_africa,2023,2025-09-05,Uganda,Mozambique,4,0,0,0,H
+448,world_cup_africa,2023,2025-09-05,Djibouti,Burkina Faso,0,6,0,4,A
+449,world_cup_africa,2023,2025-09-05,Senegal,Sudan,2,0,2,0,H
+450,world_cup_africa,2023,2025-09-05,Morocco,Niger,5,0,2,0,H
+451,world_cup_africa,2023,2025-09-05,Egypt,Ethiopia,2,0,2,0,H
+452,world_cup_africa,2023,2025-09-05,Mauritania,Togo,2,0,1,0,H
+453,world_cup_africa,2023,2025-09-05,Ivory Coast,Burundi,1,0,1,0,H
+454,world_cup_africa,2023,2025-09-06,Nigeria,Rwanda,1,0,0,0,H
+455,world_cup_africa,2023,2025-09-07,Central African Republic,Comoros,0,2,0,2,A
+456,world_cup_africa,2023,2025-09-08,Zambia,Morocco,0,2,0,1,A
+457,world_cup_africa,2023,2025-09-08,Mozambique,Botswana,2,0,1,0,H
+458,world_cup_africa,2023,2025-09-08,Equatorial Guinea,Tunisia,0,1,0,0,A
+459,world_cup_africa,2023,2025-09-08,Madagascar,Chad,3,1,0,1,H
+460,world_cup_africa,2023,2025-09-08,Malawi,Liberia,2,2,0,1,D
+461,world_cup_africa,2023,2025-09-08,Guinea,Algeria,0,0,0,0,D
+462,world_cup_africa,2023,2025-09-08,Guinea-Bissau,Djibouti,2,0,0,0,H
+463,world_cup_africa,2023,2025-09-08,Uganda,Somalia,2,0,2,0,H
+464,world_cup_africa,2023,2025-09-08,Ghana,Mali,1,0,0,0,H
+465,world_cup_africa,2023,2025-09-08,Libya,Eswatini,2,0,2,0,H
+466,world_cup_africa,2023,2025-09-09,Tanzania,Niger,0,1,0,0,A
+467,world_cup_africa,2023,2025-09-09,Namibia,Sao Tome and Principe,3,0,1,0,H
+468,world_cup_africa,2023,2025-09-09,Sierra Leone,Ethiopia,2,0,1,0,H
+469,world_cup_africa,2023,2025-09-09,Kenya,Seychelles,5,0,4,0,H
+470,world_cup_africa,2023,2025-09-09,Zimbabwe,Rwanda,0,1,0,1,A
+471,world_cup_africa,2023,2025-09-09,Burkina Faso,Egypt,0,0,0,0,D
+472,world_cup_africa,2023,2025-09-09,Congo DR,Senegal,2,3,2,1,A
+473,world_cup_africa,2023,2025-09-09,South Africa,Nigeria,1,1,1,1,D
+474,world_cup_africa,2023,2025-09-09,Cape Verde Islands,Cameroon,1,0,0,0,H
+475,world_cup_africa,2023,2025-09-09,Togo,Sudan,1,0,1,0,H
+476,world_cup_africa,2023,2025-09-09,Mauritania,South Sudan,0,0,0,0,D
+477,world_cup_africa,2023,2025-09-09,Gambia,Burundi,2,0,1,0,H
+478,world_cup_africa,2023,2025-09-09,Gabon,Ivory Coast,0,0,0,0,D
+479,world_cup_africa,2023,2025-09-09,Benin,Lesotho,4,0,3,0,H
+480,world_cup_africa,2023,2025-09-09,Angola,Mauritius,3,1,1,1,H
+481,world_cup_africa,2023,2025-10-08,Mauritius,Cameroon,0,2,0,0,A
+482,world_cup_africa,2023,2025-10-08,Ethiopia,Guinea-Bissau,1,0,1,0,H
+483,world_cup_africa,2023,2025-10-08,Libya,Cape Verde Islands,3,3,2,1,D
+484,world_cup_africa,2023,2025-10-08,Eswatini,Angola,2,2,0,0,D
+485,world_cup_africa,2023,2025-10-08,Sierra Leone,Burkina Faso,0,1,0,1,A
+486,world_cup_africa,2023,2025-10-08,Chad,Mali,0,2,0,1,A
+487,world_cup_africa,2023,2025-10-08,Comoros,Madagascar,1,2,0,1,A
+488,world_cup_africa,2023,2025-10-08,Central African Republic,Ghana,0,5,0,1,A
+489,world_cup_africa,2023,2025-10-08,Djibouti,Egypt,0,3,0,2,A
+490,world_cup_africa,2023,2025-10-08,Tanzania,Zambia,0,1,0,0,A
+491,world_cup_africa,2023,2025-10-08,Niger,Congo,3,1,1,0,H
+492,world_cup_africa,2023,2025-10-09,Burundi,Kenya,0,1,0,0,A
+493,world_cup_africa,2023,2025-10-09,Mozambique,Guinea,1,2,1,1,A
+494,world_cup_africa,2023,2025-10-09,Botswana,Uganda,0,1,0,0,A
+495,world_cup_africa,2023,2025-10-09,Liberia,Namibia,3,1,2,0,H
+496,world_cup_africa,2023,2025-10-09,Somalia,Algeria,0,3,0,2,A
+497,world_cup_africa,2023,2025-10-10,Gambia,Gabon,3,4,2,2,A
+498,world_cup_africa,2023,2025-10-10,South Sudan,Senegal,0,5,0,1,A
+499,world_cup_africa,2023,2025-10-10,Sudan,Mauritania,0,0,0,0,D
+500,world_cup_africa,2023,2025-10-10,Seychelles,Ivory Coast,0,7,0,4,A
+501,world_cup_africa,2023,2025-10-10,Togo,Congo DR,0,1,0,1,A
+502,world_cup_africa,2023,2025-10-10,Sao Tome and Principe,Tunisia,0,6,0,3,A
+503,world_cup_africa,2023,2025-10-10,Rwanda,Benin,0,1,0,0,A
+504,world_cup_africa,2023,2025-10-10,Lesotho,Nigeria,1,2,0,0,A
+505,world_cup_africa,2023,2025-10-10,Zimbabwe,South Africa,0,0,0,0,D
+506,world_cup_africa,2023,2025-10-12,Zambia,Niger,0,1,0,0,A
+507,world_cup_africa,2023,2025-10-12,Chad,Central African Republic,2,3,0,2,A
+508,world_cup_africa,2023,2025-10-12,Egypt,Guinea-Bissau,1,0,1,0,H
+509,world_cup_africa,2023,2025-10-12,Mali,Madagascar,4,1,2,0,H
+510,world_cup_africa,2023,2025-10-12,Burkina Faso,Ethiopia,3,1,0,0,H
+511,world_cup_africa,2023,2025-10-12,Ghana,Comoros,1,0,0,0,H
+512,world_cup_africa,2023,2025-10-12,Djibouti,Sierra Leone,1,2,1,1,A
+513,world_cup_africa,2023,2025-10-13,Tunisia,Namibia,3,0,1,0,H
+514,world_cup_africa,2023,2025-10-13,Sao Tome and Principe,Malawi,1,0,0,0,H
+515,world_cup_africa,2023,2025-10-13,South Sudan,Togo,0,0,0,0,D
+516,world_cup_africa,2023,2025-10-13,Equatorial Guinea,Liberia,1,1,1,1,D
+517,world_cup_africa,2023,2025-10-13,Mauritius,Libya,0,0,0,0,D
+518,world_cup_africa,2023,2025-10-13,Lesotho,Zimbabwe,1,0,0,0,H
+519,world_cup_africa,2023,2025-10-13,Cameroon,Angola,0,0,0,0,D
+520,world_cup_africa,2023,2025-10-13,Cape Verde Islands,Eswatini,3,0,0,0,H
+521,world_cup_africa,2023,2025-10-14,Seychelles,Gambia,0,7,0,2,A
+522,world_cup_africa,2023,2025-10-14,Nigeria,Benin,4,0,2,0,H
+523,world_cup_africa,2023,2025-10-14,Guinea,Botswana,2,2,2,2,D
+524,world_cup_africa,2023,2025-10-14,South Africa,Rwanda,3,0,2,0,H
+525,world_cup_africa,2023,2025-10-14,Algeria,Uganda,2,1,0,1,H
+526,world_cup_africa,2023,2025-10-14,Somalia,Mozambique,0,1,0,1,A
+527,world_cup_africa,2023,2025-10-14,Senegal,Mauritania,4,0,1,0,H
+528,world_cup_africa,2023,2025-10-14,Morocco,Congo,1,0,0,0,H
+529,world_cup_africa,2023,2025-10-14,Ivory Coast,Kenya,3,0,1,0,H
+530,world_cup_africa,2023,2025-10-14,Gabon,Burundi,2,0,0,0,H
+531,world_cup_africa,2023,2025-10-14,Congo DR,Sudan,1,0,1,0,H
+532,world_cup_africa,2023,2025-11-13,Cameroon,Congo DR,0,1,0,0,A

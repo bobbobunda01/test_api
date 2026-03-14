@@ -1,0 +1,307 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Japon,2022,2022-02-18,Kawasaki Frontale,FC Tokyo,1,0,0,1,H
+Japon,2022,2022-02-19,Sanfrecce Hiroshima,Sagan Tosu,0,0,0,0,D
+Japon,2022,2022-02-19,Shimizu S-pulse,Consadole Sapporo,1,1,0,1,D
+Japon,2022,2022-02-19,Gamba Osaka,Kashima,1,3,1,0,A
+Japon,2022,2022-02-19,Yokohama F. Marinos,Cerezo Osaka,2,2,0,2,D
+Japon,2022,2022-02-19,Kyoto Sanga,Urawa,1,0,0,1,H
+Japon,2022,2022-02-19,Avispa Fukuoka,Jubilo Iwata,1,1,0,1,D
+Japon,2022,2022-02-19,Shonan Bellmare,Kashiwa Reysol,0,2,0,0,A
+Japon,2022,2022-02-19,Nagoya Grampus,Vissel Kobe,2,0,1,1,H
+Japon,2022,2022-02-23,Yokohama F. Marinos,Kawasaki Frontale,4,2,0,4,H
+Japon,2022,2022-02-23,Urawa,Vissel Kobe,2,2,2,0,D
+Japon,2022,2022-02-26,Jubilo Iwata,Shimizu S-pulse,1,2,1,0,A
+Japon,2022,2022-02-26,Cerezo Osaka,Kyoto Sanga,1,1,0,1,D
+Japon,2022,2022-02-26,Consadole Sapporo,Sanfrecce Hiroshima,1,1,1,0,D
+Japon,2022,2022-02-26,Urawa,Gamba Osaka,0,1,0,0,A
+Japon,2022,2022-02-26,Kashima,Kawasaki Frontale,0,2,0,0,A
+Japon,2022,2022-02-26,Sagan Tosu,Shonan Bellmare,1,1,1,0,D
+Japon,2022,2022-02-26,Vissel Kobe,Avispa Fukuoka,0,0,0,0,D
+Japon,2022,2022-02-27,Kashiwa Reysol,Yokohama F. Marinos,3,1,1,2,H
+Japon,2022,2022-03-02,Kawasaki Frontale,Urawa,2,1,0,2,H
+Japon,2022,2022-03-02,Yokohama F. Marinos,Vissel Kobe,2,0,1,1,H
+Japon,2022,2022-03-05,Kyoto Sanga,Jubilo Iwata,1,4,0,1,A
+Japon,2022,2022-03-06,Nagoya Grampus,Sagan Tosu,1,1,1,0,D
+Japon,2022,2022-03-06,Yokohama F. Marinos,Shimizu S-pulse,2,0,2,0,H
+Japon,2022,2022-03-06,Avispa Fukuoka,Consadole Sapporo,0,0,0,0,D
+Japon,2022,2022-03-06,Urawa,Shonan Bellmare,2,0,1,1,H
+Japon,2022,2022-03-06,Kashima,Kashiwa Reysol,1,0,0,1,H
+Japon,2022,2022-03-06,Gamba Osaka,Kawasaki Frontale,2,2,1,1,D
+Japon,2022,2022-03-06,Sanfrecce Hiroshima,Vissel Kobe,1,1,0,1,D
+Japon,2022,2022-03-06,Cerezo Osaka,FC Tokyo,0,1,0,0,A
+Japon,2022,2022-03-11,Vissel Kobe,Kashima,0,2,0,0,A
+Japon,2022,2022-03-12,Consadole Sapporo,Yokohama F. Marinos,1,1,0,1,D
+Japon,2022,2022-03-12,Jubilo Iwata,Gamba Osaka,1,1,1,0,D
+Japon,2022,2022-03-12,Shimizu S-pulse,Cerezo Osaka,1,3,0,1,A
+Japon,2022,2022-03-12,Shonan Bellmare,Kyoto Sanga,1,1,0,1,D
+Japon,2022,2022-03-12,FC Tokyo,Sanfrecce Hiroshima,2,1,0,2,H
+Japon,2022,2022-03-12,Kashiwa Reysol,Avispa Fukuoka,1,0,1,0,H
+Japon,2022,2022-03-12,Kawasaki Frontale,Nagoya Grampus,1,0,1,0,H
+Japon,2022,2022-03-13,Sagan Tosu,Urawa,1,0,0,1,H
+Japon,2022,2022-03-18,Yokohama F. Marinos,Sagan Tosu,0,0,0,0,D
+Japon,2022,2022-03-19,Sanfrecce Hiroshima,Kawasaki Frontale,0,2,0,0,A
+Japon,2022,2022-03-19,Shimizu S-pulse,Vissel Kobe,0,0,0,0,D
+Japon,2022,2022-03-19,Gamba Osaka,Avispa Fukuoka,2,3,0,2,A
+Japon,2022,2022-03-19,Kyoto Sanga,FC Tokyo,0,1,0,0,A
+Japon,2022,2022-03-19,Urawa,Jubilo Iwata,4,1,3,1,H
+Japon,2022,2022-03-19,Kashima,Shonan Bellmare,2,1,0,2,H
+Japon,2022,2022-03-19,Cerezo Osaka,Consadole Sapporo,2,2,1,1,D
+Japon,2022,2022-03-20,Nagoya Grampus,Kashiwa Reysol,1,1,1,0,D
+Japon,2022,2022-04-01,Avispa Fukuoka,Sagan Tosu,0,0,0,0,D
+Japon,2022,2022-04-02,Gamba Osaka,Nagoya Grampus,3,1,1,2,H
+Japon,2022,2022-04-02,Kashiwa Reysol,Jubilo Iwata,2,0,1,1,H
+Japon,2022,2022-04-02,Shonan Bellmare,Sanfrecce Hiroshima,0,1,0,0,A
+Japon,2022,2022-04-02,Kawasaki Frontale,Cerezo Osaka,1,4,0,1,A
+Japon,2022,2022-04-02,Vissel Kobe,Kyoto Sanga,1,3,0,1,A
+Japon,2022,2022-04-02,Kashima,Shimizu S-pulse,2,1,0,2,H
+Japon,2022,2022-04-02,Consadole Sapporo,Urawa,1,1,0,1,D
+Japon,2022,2022-04-02,Yokohama F. Marinos,FC Tokyo,2,1,1,1,H
+Japon,2022,2022-04-05,Cerezo Osaka,Kashiwa Reysol,0,1,0,0,A
+Japon,2022,2022-04-06,Kyoto Sanga,Gamba Osaka,1,1,1,0,D
+Japon,2022,2022-04-06,Jubilo Iwata,Kawasaki Frontale,1,1,0,1,D
+Japon,2022,2022-04-06,Sanfrecce Hiroshima,Yokohama F. Marinos,2,0,1,1,H
+Japon,2022,2022-04-06,FC Tokyo,Vissel Kobe,3,1,0,3,H
+Japon,2022,2022-04-06,Sagan Tosu,Consadole Sapporo,5,0,1,4,H
+Japon,2022,2022-04-06,Avispa Fukuoka,Kashima,0,1,0,0,A
+Japon,2022,2022-04-06,Urawa,Shimizu S-pulse,1,1,1,0,D
+Japon,2022,2022-04-06,Nagoya Grampus,Shonan Bellmare,2,1,0,2,H
+Japon,2022,2022-04-09,Kawasaki Frontale,Kashiwa Reysol,1,0,1,0,H
+Japon,2022,2022-04-10,Shimizu S-pulse,Gamba Osaka,1,1,0,1,D
+Japon,2022,2022-04-10,Sanfrecce Hiroshima,Avispa Fukuoka,1,0,0,1,H
+Japon,2022,2022-04-10,Vissel Kobe,Cerezo Osaka,0,1,0,0,A
+Japon,2022,2022-04-10,FC Tokyo,Urawa,0,0,0,0,D
+Japon,2022,2022-04-10,Shonan Bellmare,Jubilo Iwata,0,0,0,0,D
+Japon,2022,2022-04-10,Nagoya Grampus,Consadole Sapporo,0,2,0,0,A
+Japon,2022,2022-04-10,Kashima,Yokohama F. Marinos,0,3,0,0,A
+Japon,2022,2022-04-10,Kyoto Sanga,Sagan Tosu,3,1,2,1,H
+Japon,2022,2022-04-16,Consadole Sapporo,FC Tokyo,0,0,0,0,D
+Japon,2022,2022-04-17,Gamba Osaka,Shonan Bellmare,0,1,0,0,A
+Japon,2022,2022-04-17,Kashima,Nagoya Grampus,0,0,0,0,D
+Japon,2022,2022-04-17,Sagan Tosu,Shimizu S-pulse,0,0,0,0,D
+Japon,2022,2022-04-17,Jubilo Iwata,Sanfrecce Hiroshima,2,2,1,1,D
+Japon,2022,2022-04-17,Avispa Fukuoka,Cerezo Osaka,0,0,0,0,D
+Japon,2022,2022-04-17,Kashiwa Reysol,Kyoto Sanga,0,2,0,0,A
+Japon,2022,2022-04-20,FC Tokyo,Nagoya Grampus,0,0,0,0,D
+Japon,2022,2022-04-28,Jubilo Iwata,Nagoya Grampus,2,1,0,2,H
+Japon,2022,2022-04-29,Consadole Sapporo,Shonan Bellmare,1,0,0,1,H
+Japon,2022,2022-04-29,Shimizu S-pulse,Sanfrecce Hiroshima,2,2,1,1,D
+Japon,2022,2022-04-29,Kyoto Sanga,Avispa Fukuoka,0,1,0,0,A
+Japon,2022,2022-04-29,Kashiwa Reysol,Sagan Tosu,1,4,0,1,A
+Japon,2022,2022-04-29,Cerezo Osaka,Kashima,0,3,0,0,A
+Japon,2022,2022-04-29,FC Tokyo,Gamba Osaka,2,0,1,1,H
+Japon,2022,2022-05-03,Sanfrecce Hiroshima,Kashiwa Reysol,1,2,1,0,A
+Japon,2022,2022-05-03,Nagoya Grampus,Kyoto Sanga,1,1,1,0,D
+Japon,2022,2022-05-03,Shonan Bellmare,Shimizu S-pulse,1,4,0,1,A
+Japon,2022,2022-05-03,Kashima,Jubilo Iwata,3,1,2,1,H
+Japon,2022,2022-05-03,Sagan Tosu,Cerezo Osaka,1,1,0,1,D
+Japon,2022,2022-05-03,Avispa Fukuoka,FC Tokyo,5,1,2,3,H
+Japon,2022,2022-05-04,Gamba Osaka,Consadole Sapporo,0,0,0,0,D
+Japon,2022,2022-05-06,Cerezo Osaka,Jubilo Iwata,2,1,2,0,H
+Japon,2022,2022-05-07,Sanfrecce Hiroshima,Kashima,3,0,1,2,H
+Japon,2022,2022-05-07,Shimizu S-pulse,Kawasaki Frontale,0,2,0,0,A
+Japon,2022,2022-05-07,Yokohama F. Marinos,Nagoya Grampus,2,1,1,1,H
+Japon,2022,2022-05-07,Consadole Sapporo,Kyoto Sanga,1,0,0,1,H
+Japon,2022,2022-05-07,Avispa Fukuoka,Shonan Bellmare,0,0,0,0,D
+Japon,2022,2022-05-08,Gamba Osaka,Vissel Kobe,2,0,0,2,H
+Japon,2022,2022-05-08,FC Tokyo,Sagan Tosu,0,1,0,0,A
+Japon,2022,2022-05-08,Kashiwa Reysol,Urawa,0,0,0,0,D
+Japon,2022,2022-05-13,Urawa,Sanfrecce Hiroshima,0,0,0,0,D
+Japon,2022,2022-05-14,Jubilo Iwata,FC Tokyo,2,1,1,1,H
+Japon,2022,2022-05-14,Nagoya Grampus,Cerezo Osaka,1,0,1,0,H
+Japon,2022,2022-05-14,Kyoto Sanga,Shimizu S-pulse,0,0,0,0,D
+Japon,2022,2022-05-14,Vissel Kobe,Sagan Tosu,4,0,2,2,H
+Japon,2022,2022-05-14,Kashima,Consadole Sapporo,4,1,3,1,H
+Japon,2022,2022-05-14,Shonan Bellmare,Yokohama F. Marinos,1,4,0,1,A
+Japon,2022,2022-05-14,Kawasaki Frontale,Avispa Fukuoka,2,0,0,2,H
+Japon,2022,2022-05-14,Kashiwa Reysol,Gamba Osaka,0,1,0,0,A
+Japon,2022,2022-05-18,Vissel Kobe,Kawasaki Frontale,0,1,0,0,A
+Japon,2022,2022-05-18,Urawa,Yokohama F. Marinos,3,3,0,3,D
+Japon,2022,2022-05-21,Sanfrecce Hiroshima,Kyoto Sanga,3,1,2,1,H
+Japon,2022,2022-05-21,Shimizu S-pulse,Nagoya Grampus,1,2,0,1,A
+Japon,2022,2022-05-21,Cerezo Osaka,Gamba Osaka,3,1,0,3,H
+Japon,2022,2022-05-21,Shonan Bellmare,Vissel Kobe,2,1,1,1,H
+Japon,2022,2022-05-21,FC Tokyo,Kashiwa Reysol,0,0,0,0,D
+Japon,2022,2022-05-21,Urawa,Kashima,1,1,1,0,D
+Japon,2022,2022-05-21,Sagan Tosu,Kawasaki Frontale,0,0,0,0,D
+Japon,2022,2022-05-21,Avispa Fukuoka,Yokohama F. Marinos,1,0,0,1,H
+Japon,2022,2022-05-22,Jubilo Iwata,Consadole Sapporo,1,2,1,0,A
+Japon,2022,2022-05-25,Consadole Sapporo,Kashiwa Reysol,1,6,0,1,A
+Japon,2022,2022-05-25,Shimizu S-pulse,FC Tokyo,0,3,0,0,A
+Japon,2022,2022-05-25,Vissel Kobe,Jubilo Iwata,0,0,0,0,D
+Japon,2022,2022-05-25,Kashima,Sagan Tosu,4,4,0,4,D
+Japon,2022,2022-05-25,Cerezo Osaka,Urawa,2,0,0,2,H
+Japon,2022,2022-05-25,Kawasaki Frontale,Shonan Bellmare,0,4,0,0,A
+Japon,2022,2022-05-25,Yokohama F. Marinos,Kyoto Sanga,2,0,1,1,H
+Japon,2022,2022-05-25,Nagoya Grampus,Avispa Fukuoka,1,0,1,0,H
+Japon,2022,2022-05-28,Sanfrecce Hiroshima,Nagoya Grampus,1,0,0,1,H
+Japon,2022,2022-05-28,Avispa Fukuoka,Urawa,0,0,0,0,D
+Japon,2022,2022-05-29,Vissel Kobe,Consadole Sapporo,4,1,1,3,H
+Japon,2022,2022-05-29,Kyoto Sanga,Kawasaki Frontale,1,0,0,1,H
+Japon,2022,2022-05-29,Shonan Bellmare,Cerezo Osaka,0,2,0,0,A
+Japon,2022,2022-05-29,FC Tokyo,Kashima,3,1,2,1,H
+Japon,2022,2022-05-29,Jubilo Iwata,Yokohama F. Marinos,0,2,0,0,A
+Japon,2022,2022-05-29,Kashiwa Reysol,Shimizu S-pulse,3,1,2,1,H
+Japon,2022,2022-05-29,Sagan Tosu,Gamba Osaka,2,1,1,1,H
+Japon,2022,2022-06-18,Jubilo Iwata,Sagan Tosu,3,1,3,0,H
+Japon,2022,2022-06-18,Shimizu S-pulse,Avispa Fukuoka,3,1,2,1,H
+Japon,2022,2022-06-18,Shonan Bellmare,FC Tokyo,2,0,1,1,H
+Japon,2022,2022-06-18,Kashima,Kyoto Sanga,1,0,0,1,H
+Japon,2022,2022-06-18,Kashiwa Reysol,Vissel Kobe,3,1,2,1,H
+Japon,2022,2022-06-18,Sanfrecce Hiroshima,Cerezo Osaka,2,1,0,2,H
+Japon,2022,2022-06-18,Urawa,Nagoya Grampus,3,0,3,0,H
+Japon,2022,2022-06-18,Gamba Osaka,Yokohama F. Marinos,1,2,1,0,A
+Japon,2022,2022-06-18,Kawasaki Frontale,Consadole Sapporo,5,2,1,4,H
+Japon,2022,2022-06-25,Yokohama F. Marinos,Kashiwa Reysol,4,0,3,1,H
+Japon,2022,2022-06-25,Avispa Fukuoka,Sanfrecce Hiroshima,1,3,1,0,A
+Japon,2022,2022-06-25,Kawasaki Frontale,Jubilo Iwata,1,1,1,0,D
+Japon,2022,2022-06-26,Consadole Sapporo,Gamba Osaka,1,0,0,1,H
+Japon,2022,2022-06-26,Nagoya Grampus,Kashima,1,1,0,1,D
+Japon,2022,2022-06-26,Vissel Kobe,Urawa,0,1,0,0,A
+Japon,2022,2022-06-26,Cerezo Osaka,Shimizu S-pulse,1,1,0,1,D
+Japon,2022,2022-06-26,Kyoto Sanga,Shonan Bellmare,0,1,0,0,A
+Japon,2022,2022-06-26,Sagan Tosu,FC Tokyo,5,0,1,4,H
+Japon,2022,2022-06-29,Gamba Osaka,Sanfrecce Hiroshima,2,0,2,0,H
+Japon,2022,2022-07-02,FC Tokyo,Avispa Fukuoka,2,2,0,2,D
+Japon,2022,2022-07-02,Kashiwa Reysol,Kashima,1,2,0,1,A
+Japon,2022,2022-07-02,Sanfrecce Hiroshima,Jubilo Iwata,3,0,1,2,H
+Japon,2022,2022-07-02,Kyoto Sanga,Consadole Sapporo,2,1,1,1,H
+Japon,2022,2022-07-02,Shimizu S-pulse,Yokohama F. Marinos,3,5,1,2,A
+Japon,2022,2022-07-02,Shonan Bellmare,Nagoya Grampus,0,0,0,0,D
+Japon,2022,2022-07-02,Cerezo Osaka,Kawasaki Frontale,2,1,0,2,H
+Japon,2022,2022-07-02,Gamba Osaka,Urawa,1,1,1,0,D
+Japon,2022,2022-07-02,Sagan Tosu,Vissel Kobe,0,2,0,0,A
+Japon,2022,2022-07-06,Jubilo Iwata,Avispa Fukuoka,0,1,0,0,A
+Japon,2022,2022-07-06,Kashiwa Reysol,Nagoya Grampus,0,1,0,0,A
+Japon,2022,2022-07-06,Shonan Bellmare,Gamba Osaka,1,0,1,0,H
+Japon,2022,2022-07-06,Vissel Kobe,Shimizu S-pulse,2,1,1,1,H
+Japon,2022,2022-07-06,Kashima,Cerezo Osaka,3,3,1,2,D
+Japon,2022,2022-07-06,FC Tokyo,Consadole Sapporo,3,0,2,1,H
+Japon,2022,2022-07-06,Yokohama F. Marinos,Sanfrecce Hiroshima,3,0,1,2,H
+Japon,2022,2022-07-06,Urawa,Kyoto Sanga,2,2,1,1,D
+Japon,2022,2022-07-09,Jubilo Iwata,Vissel Kobe,0,1,0,0,A
+Japon,2022,2022-07-09,Kawasaki Frontale,Gamba Osaka,4,0,4,0,H
+Japon,2022,2022-07-10,Consadole Sapporo,Kashima,0,0,0,0,D
+Japon,2022,2022-07-10,Sanfrecce Hiroshima,Shonan Bellmare,1,1,0,1,D
+Japon,2022,2022-07-10,Nagoya Grampus,Shimizu S-pulse,0,2,0,0,A
+Japon,2022,2022-07-10,Urawa,FC Tokyo,3,0,1,2,H
+Japon,2022,2022-07-10,Cerezo Osaka,Yokohama F. Marinos,2,2,1,1,D
+Japon,2022,2022-07-10,Sagan Tosu,Kashiwa Reysol,0,1,0,0,A
+Japon,2022,2022-07-10,Avispa Fukuoka,Kyoto Sanga,1,0,1,0,H
+Japon,2022,2022-07-16,Shimizu S-pulse,Urawa,1,2,0,1,A
+Japon,2022,2022-07-16,Kashima,Vissel Kobe,1,1,0,1,D
+Japon,2022,2022-07-16,Kashiwa Reysol,Consadole Sapporo,1,0,1,0,H
+Japon,2022,2022-07-16,Shonan Bellmare,Avispa Fukuoka,0,0,0,0,D
+Japon,2022,2022-07-16,Gamba Osaka,Cerezo Osaka,1,2,1,0,A
+Japon,2022,2022-07-16,Sagan Tosu,Yokohama F. Marinos,2,2,1,1,D
+Japon,2022,2022-07-17,FC Tokyo,Jubilo Iwata,2,0,2,0,H
+Japon,2022,2022-07-17,Kyoto Sanga,Sanfrecce Hiroshima,1,1,0,1,D
+Japon,2022,2022-07-30,Consadole Sapporo,Nagoya Grampus,2,2,1,1,D
+Japon,2022,2022-07-30,Jubilo Iwata,Shonan Bellmare,1,0,0,1,H
+Japon,2022,2022-07-30,Sanfrecce Hiroshima,FC Tokyo,1,2,1,0,A
+Japon,2022,2022-07-30,Urawa,Kawasaki Frontale,3,1,2,1,H
+Japon,2022,2022-07-30,Vissel Kobe,Kashiwa Reysol,0,1,0,0,A
+Japon,2022,2022-07-30,Cerezo Osaka,Avispa Fukuoka,2,0,1,1,H
+Japon,2022,2022-07-30,Gamba Osaka,Kyoto Sanga,1,1,0,1,D
+Japon,2022,2022-07-30,Yokohama F. Marinos,Kashima,2,0,1,1,H
+Japon,2022,2022-07-31,Shimizu S-pulse,Sagan Tosu,3,3,0,3,D
+Japon,2022,2022-08-06,Kashima,Sanfrecce Hiroshima,0,2,0,0,A
+Japon,2022,2022-08-06,Kyoto Sanga,Kashiwa Reysol,1,2,1,0,A
+Japon,2022,2022-08-06,Nagoya Grampus,Urawa,3,0,2,1,H
+Japon,2022,2022-08-06,Cerezo Osaka,Vissel Kobe,3,0,2,1,H
+Japon,2022,2022-08-07,FC Tokyo,Shimizu S-pulse,0,2,0,0,A
+Japon,2022,2022-08-07,Shonan Bellmare,Consadole Sapporo,1,5,0,1,A
+Japon,2022,2022-08-07,Kawasaki Frontale,Yokohama F. Marinos,2,1,1,1,H
+Japon,2022,2022-08-07,Sagan Tosu,Jubilo Iwata,2,0,1,1,H
+Japon,2022,2022-08-13,Consadole Sapporo,Vissel Kobe,0,2,0,0,A
+Japon,2022,2022-08-13,Jubilo Iwata,Urawa,0,6,0,0,A
+Japon,2022,2022-08-14,Kashima,Avispa Fukuoka,2,0,1,1,H
+Japon,2022,2022-08-14,Kashiwa Reysol,Sanfrecce Hiroshima,2,3,1,1,A
+Japon,2022,2022-08-14,Gamba Osaka,Shimizu S-pulse,0,2,0,0,A
+Japon,2022,2022-08-14,Sagan Tosu,Nagoya Grampus,0,0,0,0,D
+Japon,2022,2022-08-19,Nagoya Grampus,Jubilo Iwata,1,0,1,0,H
+Japon,2022,2022-08-20,Consadole Sapporo,Sagan Tosu,1,2,1,0,A
+Japon,2022,2022-08-20,Shimizu S-pulse,Kashiwa Reysol,1,1,1,0,D
+Japon,2022,2022-08-20,Sanfrecce Hiroshima,Gamba Osaka,5,2,1,4,H
+Japon,2022,2022-08-20,Avispa Fukuoka,Kawasaki Frontale,1,4,1,0,A
+Japon,2022,2022-08-21,Shonan Bellmare,Kashima,1,1,0,1,D
+Japon,2022,2022-08-26,Sagan Tosu,Avispa Fukuoka,1,1,1,0,D
+Japon,2022,2022-08-27,Shimizu S-pulse,Kyoto Sanga,1,0,0,1,H
+Japon,2022,2022-08-27,Nagoya Grampus,Gamba Osaka,0,2,0,0,A
+Japon,2022,2022-08-27,Kashiwa Reysol,FC Tokyo,3,6,0,3,A
+Japon,2022,2022-08-27,Cerezo Osaka,Sanfrecce Hiroshima,0,3,0,0,A
+Japon,2022,2022-08-27,Kawasaki Frontale,Kashima,2,1,2,0,H
+Japon,2022,2022-08-31,Kawasaki Frontale,Sagan Tosu,4,0,1,3,H
+Japon,2022,2022-08-31,Avispa Fukuoka,Gamba Osaka,0,1,0,0,A
+Japon,2022,2022-09-02,Consadole Sapporo,Cerezo Osaka,2,1,0,2,H
+Japon,2022,2022-09-03,Kashima,Urawa,2,2,2,0,D
+Japon,2022,2022-09-03,Jubilo Iwata,Kashiwa Reysol,2,2,0,2,D
+Japon,2022,2022-09-03,Sanfrecce Hiroshima,Shimizu S-pulse,2,0,0,2,H
+Japon,2022,2022-09-03,Shonan Bellmare,Kawasaki Frontale,2,1,0,2,H
+Japon,2022,2022-09-03,FC Tokyo,Yokohama F. Marinos,2,2,0,2,D
+Japon,2022,2022-09-03,Gamba Osaka,Sagan Tosu,0,3,0,0,A
+Japon,2022,2022-09-03,Kyoto Sanga,Vissel Kobe,2,0,2,0,H
+Japon,2022,2022-09-03,Avispa Fukuoka,Nagoya Grampus,2,3,1,1,A
+Japon,2022,2022-09-07,Yokohama F. Marinos,Shonan Bellmare,3,0,0,3,H
+Japon,2022,2022-09-10,Shimizu S-pulse,Shonan Bellmare,1,1,1,0,D
+Japon,2022,2022-09-10,Kawasaki Frontale,Sanfrecce Hiroshima,4,0,1,3,H
+Japon,2022,2022-09-10,Urawa,Kashiwa Reysol,4,1,2,2,H
+Japon,2022,2022-09-10,Vissel Kobe,Nagoya Grampus,0,0,0,0,D
+Japon,2022,2022-09-10,Cerezo Osaka,Sagan Tosu,2,1,0,2,H
+Japon,2022,2022-09-10,Gamba Osaka,FC Tokyo,0,0,0,0,D
+Japon,2022,2022-09-10,Yokohama F. Marinos,Avispa Fukuoka,1,0,1,0,H
+Japon,2022,2022-09-10,Kyoto Sanga,Kashima,1,1,1,0,D
+Japon,2022,2022-09-11,Consadole Sapporo,Jubilo Iwata,4,0,2,2,H
+Japon,2022,2022-09-14,Vissel Kobe,FC Tokyo,2,1,2,0,H
+Japon,2022,2022-09-14,Kyoto Sanga,Yokohama F. Marinos,1,2,0,1,A
+Japon,2022,2022-09-14,Urawa,Cerezo Osaka,0,1,0,0,A
+Japon,2022,2022-09-14,Nagoya Grampus,Kawasaki Frontale,1,1,0,1,D
+Japon,2022,2022-09-16,Sagan Tosu,Kashima,1,1,1,0,D
+Japon,2022,2022-09-17,Jubilo Iwata,Cerezo Osaka,2,2,0,2,D
+Japon,2022,2022-09-17,Kashiwa Reysol,Kawasaki Frontale,1,1,0,1,D
+Japon,2022,2022-09-17,Shonan Bellmare,Urawa,0,0,0,0,D
+Japon,2022,2022-09-17,Nagoya Grampus,Sanfrecce Hiroshima,0,0,0,0,D
+Japon,2022,2022-09-17,Avispa Fukuoka,Shimizu S-pulse,3,2,2,1,H
+Japon,2022,2022-09-18,Yokohama F. Marinos,Consadole Sapporo,0,0,0,0,D
+Japon,2022,2022-09-18,Vissel Kobe,Gamba Osaka,2,1,0,2,H
+Japon,2022,2022-09-18,FC Tokyo,Kyoto Sanga,2,0,1,1,H
+Japon,2022,2022-10-01,Cerezo Osaka,Shonan Bellmare,1,1,0,1,D
+Japon,2022,2022-10-01,Avispa Fukuoka,Vissel Kobe,0,1,0,0,A
+Japon,2022,2022-10-01,Sanfrecce Hiroshima,Urawa,4,1,1,3,H
+Japon,2022,2022-10-01,Kashima,FC Tokyo,0,1,0,0,A
+Japon,2022,2022-10-01,Sagan Tosu,Kyoto Sanga,0,1,0,0,A
+Japon,2022,2022-10-01,Consadole Sapporo,Kawasaki Frontale,4,3,2,2,H
+Japon,2022,2022-10-01,Nagoya Grampus,Yokohama F. Marinos,0,4,0,0,A
+Japon,2022,2022-10-01,Gamba Osaka,Kashiwa Reysol,0,0,0,0,D
+Japon,2022,2022-10-08,Consadole Sapporo,Avispa Fukuoka,1,2,1,0,A
+Japon,2022,2022-10-08,Jubilo Iwata,Kashima,3,3,3,0,D
+Japon,2022,2022-10-08,Vissel Kobe,Sanfrecce Hiroshima,4,0,1,3,H
+Japon,2022,2022-10-08,Kawasaki Frontale,Shimizu S-pulse,3,2,1,2,H
+Japon,2022,2022-10-08,Yokohama F. Marinos,Gamba Osaka,0,2,0,0,A
+Japon,2022,2022-10-08,Kyoto Sanga,Nagoya Grampus,1,1,0,1,D
+Japon,2022,2022-10-08,Urawa,Sagan Tosu,2,1,1,1,H
+Japon,2022,2022-10-08,FC Tokyo,Shonan Bellmare,0,2,0,0,A
+Japon,2022,2022-10-08,Kashiwa Reysol,Cerezo Osaka,0,0,0,0,D
+Japon,2022,2022-10-12,Vissel Kobe,Shonan Bellmare,1,0,0,1,H
+Japon,2022,2022-10-12,FC Tokyo,Cerezo Osaka,4,0,0,4,H
+Japon,2022,2022-10-12,Kawasaki Frontale,Kyoto Sanga,3,1,2,1,H
+Japon,2022,2022-10-12,Yokohama F. Marinos,Jubilo Iwata,0,1,0,0,A
+Japon,2022,2022-10-12,Urawa,Consadole Sapporo,1,1,0,1,D
+Japon,2022,2022-10-22,Shimizu S-pulse,Jubilo Iwata,1,1,1,0,D
+Japon,2022,2022-10-29,Sanfrecce Hiroshima,Consadole Sapporo,1,2,1,0,A
+Japon,2022,2022-10-29,Shimizu S-pulse,Kashima,0,1,0,0,A
+Japon,2022,2022-10-29,Shonan Bellmare,Sagan Tosu,3,0,2,1,H
+Japon,2022,2022-10-29,Nagoya Grampus,FC Tokyo,2,1,1,1,H
+Japon,2022,2022-10-29,Gamba Osaka,Jubilo Iwata,2,0,0,2,H
+Japon,2022,2022-10-29,Kawasaki Frontale,Vissel Kobe,2,1,1,1,H
+Japon,2022,2022-10-29,Yokohama F. Marinos,Urawa,4,1,2,2,H
+Japon,2022,2022-10-29,Kyoto Sanga,Cerezo Osaka,0,0,0,0,D
+Japon,2022,2022-10-29,Avispa Fukuoka,Kashiwa Reysol,2,1,2,0,H
+Japon,2022,2022-11-05,Consadole Sapporo,Shimizu S-pulse,4,3,1,3,H
+Japon,2022,2022-11-05,Jubilo Iwata,Kyoto Sanga,0,0,0,0,D
+Japon,2022,2022-11-05,Kashiwa Reysol,Shonan Bellmare,1,2,0,1,A
+Japon,2022,2022-11-05,Urawa,Avispa Fukuoka,1,1,0,1,D
+Japon,2022,2022-11-05,Vissel Kobe,Yokohama F. Marinos,1,3,1,0,A
+Japon,2022,2022-11-05,Kashima,Gamba Osaka,0,0,0,0,D
+Japon,2022,2022-11-05,Cerezo Osaka,Nagoya Grampus,0,1,0,0,A
+Japon,2022,2022-11-05,FC Tokyo,Kawasaki Frontale,2,3,0,2,A
+Japon,2022,2022-11-05,Sagan Tosu,Sanfrecce Hiroshima,2,2,0,2,D

@@ -1,0 +1,133 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+59,can,2019,2017-03-22,Sao Tome and Principe,Madagascar,0,1,0,0,A
+60,can,2019,2017-03-22,Djibouti,South Sudan,2,0,0,2,H
+61,can,2019,2017-03-24,Comoros,Mauritius,2,0,0,2,H
+62,can,2019,2017-03-26,Madagascar,Sao Tome and Principe,3,2,2,1,H
+63,can,2019,2017-03-28,Mauritius,Comoros,1,1,1,0,D
+64,can,2019,2017-03-28,South Sudan,Djibouti,6,0,4,2,H
+65,can,2019,2017-06-09,Sudan,Madagascar,1,3,0,1,A
+66,can,2019,2017-06-09,Libya,Seychelles,5,1,3,2,H
+67,can,2019,2017-06-10,Malawi,Comoros,1,0,1,0,H
+68,can,2019,2017-06-10,Zambia,Mozambique,0,1,0,0,A
+69,can,2019,2017-06-10,Botswana,Mauritania,0,1,0,0,A
+70,can,2019,2017-06-10,Cameroon,Morocco,1,0,1,0,H
+71,can,2019,2017-06-10,Niger,Swaziland,0,0,0,0,D
+72,can,2019,2017-06-10,Nigeria,South Africa,0,2,0,0,A
+73,can,2019,2017-06-10,Guinea-Bissau,Namibia,1,0,1,0,H
+74,can,2019,2017-06-10,Sierra Leone,Kenya,2,1,1,1,H
+75,can,2019,2017-06-10,Tanzania,Lesotho,1,1,1,0,D
+76,can,2019,2017-06-10,Congo DR,Congo,3,1,1,2,H
+77,can,2019,2017-06-10,Ivory Coast,Guinea,2,3,1,1,A
+78,can,2019,2017-06-10,Burkina Faso,Angola,3,1,2,1,H
+79,can,2019,2017-06-10,Mali,Gabon,2,1,0,2,H
+80,can,2019,2017-06-10,Senegal,Equatorial Guinea,3,0,1,2,H
+81,can,2019,2017-06-11,Zimbabwe,Liberia,3,0,1,2,H
+82,can,2019,2017-06-11,Ghana,Ethiopia,5,0,3,2,H
+83,can,2019,2017-06-11,Tunisia,Egypt,1,0,0,1,H
+84,can,2019,2018-09-08,Comoros,Cameroon,1,1,1,0,D
+85,can,2019,2018-09-08,Equatorial Guinea,Sudan,1,0,1,0,H
+86,can,2019,2018-09-08,Gambia,Algeria,1,1,0,1,D
+87,can,2019,2018-09-08,Morocco,Malawi,3,0,2,1,H
+88,can,2019,2018-09-09,Madagascar,Senegal,2,2,1,1,D
+89,can,2019,2018-09-09,Swaziland,Tunisia,0,2,0,0,A
+90,can,2019,2018-09-09,South Sudan,Mali,0,3,0,0,A
+91,can,2019,2018-09-09,Ethiopia,Sierra Leone,1,0,1,0,H
+92,can,2019,2018-09-09,Lesotho,Cape Verde Islands,1,1,0,1,D
+93,can,2019,2018-09-09,Rwanda,Ivory Coast,1,2,0,1,A
+94,can,2019,2018-09-09,Congo,Zimbabwe,1,1,0,1,D
+95,can,2019,2018-09-09,Angola,Botswana,1,0,1,0,H
+96,can,2019,2018-09-09,Liberia,Congo DR,1,1,0,1,D
+97,can,2019,2018-09-09,Togo,Benin,0,0,0,0,D
+98,can,2019,2018-09-09,Guinea,Central African Republic,1,0,0,1,H
+99,can,2019,2018-10-12,Cameroon,Malawi,1,0,0,1,H
+100,can,2019,2018-10-12,Togo,Gambia,1,1,0,1,D
+101,can,2019,2018-10-12,Algeria,Benin,2,0,1,1,H
+102,can,2019,2018-10-13,Equatorial Guinea,Madagascar,0,1,0,0,A
+103,can,2019,2018-10-13,Morocco,Comoros,1,0,0,1,H
+104,can,2019,2018-10-13,Senegal,Sudan,3,0,2,1,H
+105,can,2019,2018-10-16,Madagascar,Equatorial Guinea,1,0,1,0,H
+106,can,2019,2018-10-16,Comoros,Morocco,2,2,1,1,D
+107,can,2019,2018-10-16,Malawi,Cameroon,0,0,0,0,D
+108,can,2019,2018-10-16,Rwanda,Guinea,1,1,0,1,D
+109,can,2019,2018-10-16,Seychelles,South Africa,0,0,0,0,D
+110,can,2019,2018-10-16,Central African Republic,Ivory Coast,0,0,0,0,D
+111,can,2019,2018-10-16,Benin,Algeria,1,0,1,0,H
+112,can,2019,2018-10-16,Lesotho,Uganda,0,2,0,0,A
+113,can,2019,2018-10-16,Gambia,Togo,0,1,0,0,A
+114,can,2019,2018-10-16,Sudan,Senegal,0,1,0,0,A
+115,can,2019,2018-11-16,South Sudan,Burundi,2,5,1,1,A
+116,can,2019,2018-11-16,Morocco,Cameroon,2,0,0,2,H
+117,can,2019,2018-11-17,Comoros,Malawi,2,1,1,1,H
+118,can,2019,2018-11-17,Equatorial Guinea,Senegal,0,1,0,0,A
+119,can,2019,2018-11-17,Gambia,Benin,3,1,0,3,H
+120,can,2019,2018-11-18,Madagascar,Sudan,1,3,0,1,A
+121,can,2019,2018-11-18,Togo,Algeria,1,4,0,1,A
+122,can,2019,2019-03-22,Malawi,Morocco,0,0,0,0,D
+123,can,2019,2019-03-22,Sudan,Equatorial Guinea,1,4,1,0,A
+124,can,2019,2019-03-22,Nigeria,Seychelles,3,1,1,2,H
+125,can,2019,2019-03-22,Burkina Faso,Mauritania,1,0,1,0,H
+126,can,2019,2019-03-22,Botswana,Angola,0,1,0,0,A
+127,can,2019,2019-03-22,Tunisia,Eswatini,4,0,2,2,H
+128,can,2019,2019-03-22,Algeria,Gambia,1,1,1,0,D
+129,can,2019,2019-03-23,Burundi,Gabon,1,1,0,1,D
+130,can,2019,2019-03-23,Cameroon,Comoros,3,0,1,2,H
+131,can,2019,2019-03-23,Niger,Egypt,1,1,0,1,D
+132,can,2019,2019-03-23,Zambia,Namibia,4,1,1,3,H
+133,can,2019,2019-03-23,Guinea-Bissau,Mozambique,2,2,1,1,D
+134,can,2019,2019-03-23,Ivory Coast,Rwanda,3,0,1,2,H
+135,can,2019,2019-03-23,Ghana,Kenya,1,0,0,1,H
+136,can,2019,2019-03-23,Senegal,Madagascar,2,0,1,1,H
+137,can,2019,2019-03-23,Mali,South Sudan,3,0,2,1,H
+138,can,2019,2019-03-24,Congo DR,Liberia,1,0,0,1,H
+139,can,2019,2019-03-24,Zimbabwe,Congo,2,0,2,0,H
+140,can,2019,2019-03-24,Central African Republic,Guinea,0,0,0,0,D
+141,can,2019,2019-03-24,Tanzania,Uganda,3,0,1,2,H
+142,can,2019,2019-03-24,Benin,Togo,2,1,1,1,H
+143,can,2019,2019-03-24,Cape Verde Islands,Lesotho,0,0,0,0,D
+144,can,2019,2019-06-21,Egypt,Zimbabwe,1,0,1,0,H
+145,can,2019,2019-06-22,Congo DR,Uganda,0,2,0,0,A
+146,can,2019,2019-06-22,Nigeria,Burundi,1,0,0,1,H
+147,can,2019,2019-06-22,Guinea,Madagascar,2,2,1,1,D
+148,can,2019,2019-06-23,Morocco,Namibia,1,0,0,1,H
+149,can,2019,2019-06-23,Senegal,Tanzania,2,0,1,1,H
+150,can,2019,2019-06-23,Algeria,Kenya,2,0,2,0,H
+151,can,2019,2019-06-24,Ivory Coast,South Africa,1,0,0,1,H
+152,can,2019,2019-06-24,Tunisia,Angola,1,1,1,0,D
+153,can,2019,2019-06-24,Mali,Mauritania,4,1,2,2,H
+154,can,2019,2019-06-25,Cameroon,Guinea-Bissau,2,0,0,2,H
+155,can,2019,2019-06-25,Ghana,Benin,2,2,2,0,D
+156,can,2019,2019-06-26,Nigeria,Guinea,1,0,0,1,H
+157,can,2019,2019-06-26,Uganda,Zimbabwe,1,1,1,0,D
+158,can,2019,2019-06-26,Egypt,Congo DR,2,0,2,0,H
+159,can,2019,2019-06-27,Madagascar,Burundi,1,0,0,1,H
+160,can,2019,2019-06-27,Senegal,Algeria,0,1,0,0,A
+161,can,2019,2019-06-27,Kenya,Tanzania,3,2,1,2,H
+162,can,2019,2019-06-28,Tunisia,Mali,1,1,0,1,D
+163,can,2019,2019-06-28,Morocco,Ivory Coast,1,0,1,0,H
+164,can,2019,2019-06-28,South Africa,Namibia,1,0,0,1,H
+165,can,2019,2019-06-29,Mauritania,Angola,0,0,0,0,D
+166,can,2019,2019-06-29,Cameroon,Ghana,0,0,0,0,D
+167,can,2019,2019-06-29,Benin,Guinea-Bissau,0,0,0,0,D
+168,can,2019,2019-06-30,Madagascar,Nigeria,2,0,1,1,H
+169,can,2019,2019-06-30,Burundi,Guinea,0,2,0,0,A
+170,can,2019,2019-06-30,Uganda,Egypt,0,2,0,0,A
+171,can,2019,2019-06-30,Zimbabwe,Congo DR,0,4,0,0,A
+172,can,2019,2019-07-01,Namibia,Ivory Coast,1,4,0,1,A
+173,can,2019,2019-07-01,South Africa,Morocco,0,1,0,0,A
+174,can,2019,2019-07-01,Tanzania,Algeria,0,3,0,0,A
+175,can,2019,2019-07-01,Kenya,Senegal,0,3,0,0,A
+176,can,2019,2019-07-02,Guinea-Bissau,Ghana,0,2,0,0,A
+177,can,2019,2019-07-02,Benin,Cameroon,0,0,0,0,D
+178,can,2019,2019-07-02,Mauritania,Tunisia,0,0,0,0,D
+179,can,2019,2019-07-02,Angola,Mali,0,1,0,0,A
+180,can,2019,2019-07-05,Uganda,Senegal,0,1,0,0,A
+181,can,2019,2019-07-06,Nigeria,Cameroon,3,2,1,2,H
+182,can,2019,2019-07-06,Egypt,South Africa,0,1,0,0,A
+183,can,2019,2019-07-07,Algeria,Guinea,3,0,1,2,H
+184,can,2019,2019-07-08,Mali,Ivory Coast,0,1,0,0,A
+185,can,2019,2019-07-10,Senegal,Benin,1,0,0,1,H
+186,can,2019,2019-07-10,Nigeria,South Africa,2,1,1,1,H
+187,can,2019,2019-07-11,Madagascar,Tunisia,0,3,0,0,A
+188,can,2019,2019-07-14,Algeria,Nigeria,2,1,1,1,H
+189,can,2019,2019-07-17,Tunisia,Nigeria,0,1,0,0,A
+190,can,2019,2019-07-19,Senegal,Algeria,0,1,0,0,A

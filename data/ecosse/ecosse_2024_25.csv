@@ -1,0 +1,235 @@
+,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+0,2024-08-03,Heart Of Midlothian,Rangers,0,0,0,0,D
+1,2024-08-03,Motherwell,Ross County,0,0,0,0,D
+2,2024-08-04,Dundee Utd,Dundee,2,2,2,0,D
+3,2024-08-04,ST Mirren,Hibernian,3,0,0,3,H
+4,2024-08-04,Celtic,Kilmarnock,4,0,2,2,H
+5,2024-08-05,ST Johnstone,Aberdeen,1,2,0,1,A
+6,2024-08-10,Rangers,Motherwell,2,1,2,0,H
+7,2024-08-10,Ross County,Dundee Utd,1,1,0,1,D
+8,2024-08-10,Dundee,Heart Of Midlothian,3,1,3,0,H
+9,2024-08-11,Hibernian,Celtic,0,2,0,0,A
+10,2024-08-11,Kilmarnock,ST Johnstone,0,3,0,0,A
+11,2024-08-11,Aberdeen,ST Mirren,3,1,1,2,H
+12,2024-08-24,Hibernian,Dundee,2,2,1,1,D
+13,2024-08-24,Rangers,Ross County,6,0,2,4,H
+14,2024-08-24,Dundee Utd,ST Johnstone,2,0,0,2,H
+15,2024-08-25,ST Mirren,Celtic,0,3,0,0,A
+16,2024-08-25,Aberdeen,Kilmarnock,2,0,1,1,H
+17,2024-08-25,Motherwell,Heart Of Midlothian,3,1,1,2,H
+18,2024-08-31,Dundee,ST Mirren,2,2,1,1,D
+19,2024-08-31,ST Johnstone,Motherwell,1,2,0,1,A
+20,2024-08-31,Ross County,Aberdeen,0,1,0,0,A
+21,2024-09-01,Celtic,Rangers,3,0,2,1,H
+22,2024-09-01,Kilmarnock,Hibernian,1,1,0,1,D
+23,2024-09-01,Heart Of Midlothian,Dundee Utd,0,1,0,0,A
+24,2024-09-14,Celtic,Heart Of Midlothian,2,0,0,2,H
+25,2024-09-14,Hibernian,ST Johnstone,2,0,1,1,H
+26,2024-09-14,ST Mirren,Kilmarnock,2,2,2,0,D
+27,2024-09-14,Aberdeen,Motherwell,2,1,1,1,H
+28,2024-09-14,Ross County,Dundee,2,0,2,0,H
+29,2024-09-15,Dundee Utd,Rangers,0,1,0,0,A
+30,2024-09-21,ST Mirren,Heart Of Midlothian,2,1,2,0,H
+31,2024-09-21,Ross County,ST Johnstone,3,3,1,2,D
+32,2024-09-28,Kilmarnock,Dundee Utd,3,3,0,3,D
+33,2024-09-28,Dundee,Aberdeen,1,2,1,0,A
+34,2024-09-28,Heart Of Midlothian,Ross County,1,1,0,1,D
+35,2024-09-28,Motherwell,ST Mirren,2,1,2,0,H
+36,2024-09-28,ST Johnstone,Celtic,0,6,0,0,A
+37,2024-09-29,Rangers,Hibernian,1,0,1,0,H
+38,2024-10-05,Hibernian,Motherwell,1,2,0,1,A
+39,2024-10-05,ST Mirren,Dundee Utd,0,1,0,0,A
+40,2024-10-05,Dundee,Kilmarnock,2,3,1,1,A
+41,2024-10-06,Ross County,Celtic,1,2,1,0,A
+42,2024-10-06,Aberdeen,Heart Of Midlothian,3,2,1,2,H
+43,2024-10-06,Rangers,ST Johnstone,2,0,1,1,H
+44,2024-10-19,Celtic,Aberdeen,2,2,2,0,D
+45,2024-10-19,Heart Of Midlothian,ST Mirren,4,0,1,3,H
+46,2024-10-19,Motherwell,Dundee,0,1,0,0,A
+47,2024-10-19,ST Johnstone,Ross County,3,0,2,1,H
+48,2024-10-19,Dundee Utd,Hibernian,3,2,1,2,H
+49,2024-10-20,Kilmarnock,Rangers,1,0,0,1,H
+50,2024-10-26,Dundee,ST Johnstone,1,2,1,0,A
+51,2024-10-26,Ross County,Kilmarnock,2,1,0,2,H
+52,2024-10-26,Aberdeen,Dundee Utd,1,0,0,1,H
+53,2024-10-27,Hibernian,Heart Of Midlothian,1,1,0,1,D
+54,2024-10-27,Motherwell,Celtic,0,3,0,0,A
+55,2024-10-27,Rangers,ST Mirren,2,1,1,1,H
+56,2024-10-30,Celtic,Dundee,2,0,0,2,H
+57,2024-10-30,ST Mirren,ST Johnstone,3,1,1,2,H
+58,2024-10-30,Heart Of Midlothian,Kilmarnock,1,2,1,0,A
+59,2024-10-30,Ross County,Hibernian,0,0,0,0,D
+60,2024-10-30,Dundee Utd,Motherwell,1,2,1,0,A
+61,2024-10-30,Aberdeen,Rangers,2,1,1,1,H
+62,2024-11-02,ST Mirren,Ross County,0,0,0,0,D
+63,2024-11-02,ST Johnstone,Heart Of Midlothian,1,2,0,1,A
+64,2024-11-03,Hibernian,Dundee Utd,1,1,1,0,D
+65,2024-11-03,Dundee,Kilmarnock,3,2,1,2,H
+66,2024-11-09,Hibernian,ST Mirren,1,2,0,1,A
+67,2024-11-09,Motherwell,ST Johnstone,2,1,2,0,H
+68,2024-11-09,Dundee Utd,Ross County,3,0,0,3,H
+69,2024-11-09,Aberdeen,Dundee,4,1,0,4,H
+70,2024-11-10,Kilmarnock,Celtic,0,2,0,0,A
+71,2024-11-10,Rangers,Heart Of Midlothian,1,0,1,0,H
+72,2024-11-23,ST Johnstone,Kilmarnock,1,0,0,1,H
+73,2024-11-23,Ross County,Motherwell,2,1,0,2,H
+74,2024-11-23,Rangers,Dundee Utd,1,1,0,1,D
+75,2024-11-23,ST Mirren,Aberdeen,2,1,1,1,H
+76,2024-11-23,Dundee,Hibernian,4,1,3,1,H
+77,2024-11-23,Heart Of Midlothian,Celtic,1,4,0,1,A
+78,2024-11-26,Hibernian,Aberdeen,3,3,1,2,D
+79,2024-11-30,Celtic,Ross County,5,0,5,0,H
+80,2024-11-30,Kilmarnock,Dundee,1,1,0,1,D
+81,2024-11-30,Motherwell,Hibernian,0,3,0,0,A
+82,2024-11-30,Dundee Utd,ST Mirren,2,0,0,2,H
+83,2024-12-01,ST Johnstone,Rangers,0,1,0,0,A
+84,2024-12-01,Heart Of Midlothian,Aberdeen,1,1,0,1,D
+85,2024-12-04,Dundee,Motherwell,4,1,1,3,H
+86,2024-12-04,Rangers,Kilmarnock,6,0,1,5,H
+87,2024-12-04,Aberdeen,Celtic,0,1,0,0,A
+88,2024-12-07,Celtic,Hibernian,3,0,1,2,H
+89,2024-12-07,ST Mirren,Motherwell,0,1,0,0,A
+90,2024-12-07,Aberdeen,ST Johnstone,1,1,0,1,D
+91,2024-12-07,Heart Of Midlothian,Dundee,2,0,2,0,H
+92,2024-12-07,Dundee Utd,Kilmarnock,1,1,0,1,D
+93,2024-12-08,Ross County,Rangers,0,3,0,0,A
+94,2024-12-14,Hibernian,Ross County,3,1,1,2,H
+95,2024-12-14,Motherwell,Dundee Utd,4,3,3,1,H
+96,2024-12-14,ST Johnstone,ST Mirren,2,3,0,2,A
+97,2024-12-15,Kilmarnock,Heart Of Midlothian,1,0,1,0,H
+98,2024-12-20,Motherwell,Kilmarnock,1,1,1,0,D
+99,2024-12-21,Aberdeen,Hibernian,1,3,1,0,A
+100,2024-12-21,Rangers,Dundee,1,0,0,1,H
+101,2024-12-21,Ross County,ST Mirren,1,2,0,1,A
+102,2024-12-22,Dundee Utd,Celtic,0,0,0,0,D
+103,2024-12-22,Heart Of Midlothian,ST Johnstone,2,1,1,1,H
+104,2024-12-26,Heart Of Midlothian,Hibernian,1,2,1,0,A
+105,2024-12-26,Celtic,Motherwell,4,0,1,3,H
+106,2024-12-26,Kilmarnock,Aberdeen,4,0,1,3,H
+107,2024-12-26,Dundee,Ross County,0,3,0,0,A
+108,2024-12-26,ST Johnstone,Dundee Utd,1,2,1,0,A
+109,2024-12-26,ST Mirren,Rangers,2,1,1,1,H
+110,2024-12-29,Celtic,ST Johnstone,4,0,1,3,H
+111,2024-12-29,Hibernian,Kilmarnock,1,0,1,0,H
+112,2024-12-29,ST Mirren,Dundee,1,2,1,0,A
+113,2024-12-29,Motherwell,Rangers,2,2,2,0,D
+114,2024-12-29,Ross County,Heart Of Midlothian,2,2,0,2,D
+115,2024-12-29,Dundee Utd,Aberdeen,1,0,0,1,H
+116,2025-01-02,Kilmarnock,ST Mirren,2,0,1,1,H
+117,2025-01-02,Aberdeen,Ross County,1,2,1,0,A
+118,2025-01-02,Heart Of Midlothian,Motherwell,1,0,1,0,H
+119,2025-01-02,Rangers,Celtic,3,0,1,2,H
+120,2025-01-02,ST Johnstone,Hibernian,1,1,1,0,D
+121,2025-01-02,Dundee,Dundee Utd,1,2,0,1,A
+122,2025-01-05,Hibernian,Rangers,3,3,1,2,D
+123,2025-01-05,Motherwell,Aberdeen,2,0,2,0,H
+124,2025-01-05,Celtic,ST Mirren,3,0,2,1,H
+125,2025-01-05,Kilmarnock,Ross County,0,1,0,0,A
+126,2025-01-05,ST Johnstone,Dundee,1,3,0,1,A
+127,2025-01-05,Dundee Utd,Heart Of Midlothian,0,1,0,0,A
+128,2025-01-08,Celtic,Dundee Utd,2,0,1,1,H
+129,2025-01-08,Kilmarnock,Motherwell,0,0,0,0,D
+130,2025-01-09,Dundee,Rangers,1,1,1,0,D
+131,2025-01-11,Ross County,Celtic,1,4,0,1,A
+132,2025-01-11,Hibernian,Motherwell,3,1,2,1,H
+133,2025-01-11,ST Mirren,Dundee Utd,0,1,0,0,A
+134,2025-01-12,Aberdeen,Heart Of Midlothian,0,0,0,0,D
+135,2025-01-12,Rangers,ST Johnstone,3,1,3,0,H
+136,2025-01-14,Dundee,Celtic,3,3,1,2,D
+137,2025-01-15,Rangers,Aberdeen,3,0,1,2,H
+138,2025-01-25,Aberdeen,ST Mirren,0,3,0,0,A
+139,2025-01-25,Heart Of Midlothian,Kilmarnock,3,2,1,2,H
+140,2025-01-25,ST Johnstone,Motherwell,2,1,0,2,H
+141,2025-01-25,Ross County,Hibernian,1,1,0,1,D
+142,2025-01-26,Dundee Utd,Rangers,1,3,1,0,A
+143,2025-02-01,Hibernian,Aberdeen,2,0,1,1,H
+144,2025-02-01,ST Mirren,ST Johnstone,0,1,0,0,A
+145,2025-02-01,Dundee,Heart Of Midlothian,0,6,0,0,A
+146,2025-02-01,Kilmarnock,Dundee Utd,1,0,0,1,H
+147,2025-02-02,Motherwell,Celtic,1,3,1,0,A
+148,2025-02-02,Rangers,Ross County,4,0,3,1,H
+149,2025-02-05,Celtic,Dundee,6,0,2,4,H
+150,2025-02-15,Celtic,Dundee Utd,3,0,2,1,H
+151,2025-02-15,Kilmarnock,ST Johnstone,3,1,1,2,H
+152,2025-02-15,Dundee,Aberdeen,1,2,0,1,A
+153,2025-02-15,Motherwell,Ross County,0,3,0,0,A
+154,2025-02-16,Heart Of Midlothian,Rangers,1,3,0,1,A
+155,2025-02-16,ST Mirren,Hibernian,0,0,0,0,D
+156,2025-02-22,Hibernian,Celtic,2,1,2,0,H
+157,2025-02-22,Aberdeen,Kilmarnock,1,0,0,1,H
+158,2025-02-22,Rangers,ST Mirren,0,2,0,0,A
+159,2025-02-22,Ross County,Dundee,3,1,1,2,H
+160,2025-02-22,Dundee Utd,Motherwell,1,0,1,0,H
+161,2025-02-23,ST Johnstone,Heart Of Midlothian,1,2,0,1,A
+162,2025-02-25,Celtic,Aberdeen,5,1,3,2,H
+163,2025-02-26,Heart Of Midlothian,ST Mirren,3,1,0,3,H
+164,2025-02-26,Motherwell,Dundee,2,1,1,1,H
+165,2025-02-26,ST Johnstone,Ross County,1,0,0,1,H
+166,2025-02-26,Dundee Utd,Hibernian,1,3,1,0,A
+167,2025-02-26,Kilmarnock,Rangers,2,4,2,0,A
+168,2025-03-01,Dundee,ST Johnstone,1,1,1,0,D
+169,2025-03-01,Rangers,Motherwell,1,2,0,1,A
+170,2025-03-01,Ross County,Kilmarnock,1,0,1,0,H
+171,2025-03-01,ST Mirren,Celtic,2,5,1,1,A
+172,2025-03-02,Hibernian,Heart Of Midlothian,2,1,1,1,H
+173,2025-03-02,Aberdeen,Dundee Utd,2,2,0,2,D
+174,2025-03-15,Kilmarnock,Hibernian,1,1,0,1,D
+175,2025-03-15,Heart Of Midlothian,Ross County,2,0,1,1,H
+176,2025-03-15,Motherwell,ST Mirren,2,2,1,1,D
+177,2025-03-15,ST Johnstone,Aberdeen,0,0,0,0,D
+178,2025-03-16,Celtic,Rangers,2,3,0,2,A
+179,2025-03-16,Dundee Utd,Dundee,2,4,1,1,A
+180,2025-03-29,Celtic,Heart Of Midlothian,3,0,3,0,H
+181,2025-03-29,Hibernian,ST Johnstone,3,0,2,1,H
+182,2025-03-29,ST Mirren,Kilmarnock,5,1,2,3,H
+183,2025-03-29,Aberdeen,Motherwell,4,1,2,2,H
+184,2025-03-29,Dundee,Rangers,3,4,2,1,A
+185,2025-03-30,Ross County,Dundee Utd,0,1,0,0,A
+186,2025-04-05,Kilmarnock,Motherwell,2,0,1,1,H
+187,2025-04-05,Dundee,ST Mirren,2,0,1,1,H
+188,2025-04-05,Rangers,Hibernian,0,2,0,0,A
+189,2025-04-05,Ross County,Aberdeen,0,1,0,0,A
+190,2025-04-06,ST Johnstone,Celtic,1,0,1,0,H
+191,2025-04-06,Heart Of Midlothian,Dundee Utd,0,1,0,0,A
+192,2025-04-12,Celtic,Kilmarnock,5,1,4,1,H
+193,2025-04-12,ST Mirren,Ross County,3,2,1,2,H
+194,2025-04-12,Motherwell,Heart Of Midlothian,0,0,0,0,D
+195,2025-04-12,Dundee Utd,ST Johnstone,1,0,1,0,H
+196,2025-04-13,Aberdeen,Rangers,2,2,2,0,D
+197,2025-04-13,Hibernian,Dundee,4,0,1,3,H
+198,2025-04-26,Dundee Utd,Celtic,0,5,0,0,A
+199,2025-04-26,Kilmarnock,Ross County,2,0,1,1,H
+200,2025-04-26,ST Mirren,Rangers,2,2,1,1,D
+201,2025-04-26,Aberdeen,Hibernian,1,0,0,1,H
+202,2025-04-26,Heart Of Midlothian,Dundee,0,1,0,0,A
+203,2025-04-26,Motherwell,ST Johnstone,3,2,2,1,H
+204,2025-05-03,Hibernian,Dundee Utd,3,1,2,1,H
+205,2025-05-03,ST Mirren,Aberdeen,1,0,0,1,H
+206,2025-05-03,Dundee,Motherwell,1,2,1,0,A
+207,2025-05-03,ST Johnstone,Kilmarnock,0,2,0,0,A
+208,2025-05-03,Ross County,Heart Of Midlothian,1,3,1,0,A
+209,2025-05-04,Rangers,Celtic,1,1,1,0,D
+210,2025-05-06,Partick,Ayr Utd,0,1,0,0,A
+211,2025-05-09,Ayr Utd,Partick,0,2,0,0,A
+212,2025-05-10,Celtic,Hibernian,3,1,2,1,H
+213,2025-05-10,Kilmarnock,Dundee,3,2,1,2,H
+214,2025-05-10,Heart Of Midlothian,Motherwell,3,0,1,2,H
+215,2025-05-10,ST Johnstone,Ross County,2,1,1,1,H
+216,2025-05-10,Dundee Utd,ST Mirren,0,2,0,0,A
+217,2025-05-11,Rangers,Aberdeen,4,0,0,4,H
+218,2025-05-13,Partick,Livingston,0,2,0,0,A
+219,2025-05-14,ST Mirren,Hibernian,2,2,1,1,D
+220,2025-05-14,Dundee,Ross County,1,1,0,1,D
+221,2025-05-14,Heart Of Midlothian,ST Johnstone,2,1,2,0,H
+222,2025-05-14,Motherwell,Kilmarnock,3,0,0,3,H
+223,2025-05-14,Rangers,Dundee Utd,3,1,1,2,H
+224,2025-05-14,Aberdeen,Celtic,1,5,1,0,A
+225,2025-05-16,Livingston,Partick,2,0,1,1,H
+226,2025-05-17,Celtic,ST Mirren,1,1,0,1,D
+227,2025-05-17,Hibernian,Rangers,2,2,1,1,D
+228,2025-05-17,Dundee Utd,Aberdeen,2,1,0,2,H
+229,2025-05-18,Kilmarnock,Heart Of Midlothian,0,1,0,0,A
+230,2025-05-18,ST Johnstone,Dundee,0,2,0,0,A
+231,2025-05-18,Ross County,Motherwell,1,1,1,0,D
+232,2025-05-22,Livingston,Ross County,1,1,1,0,D
+233,2025-05-26,Ross County,Livingston,2,4,2,0,A

@@ -1,0 +1,309 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1151,bundesliga_2,2022,2022-07-15,FC Kaiserslautern,Hannover 96,2,1,1,1,H
+1152,bundesliga_2,2022,2022-07-16,Jahn Regensburg,SV Darmstadt 98,2,0,1,1,H
+1153,bundesliga_2,2022,2022-07-16,SpVgg Greuther Furth,Holstein Kiel,2,2,0,2,D
+1154,bundesliga_2,2022,2022-07-16,FC St. Pauli,FC Nurnberg,3,2,3,0,H
+1155,bundesliga_2,2022,2022-07-16,SV Sandhausen,Arminia Bielefeld,2,1,1,1,H
+1156,bundesliga_2,2022,2022-07-16,FC Magdeburg,Fortuna Dusseldorf,1,2,0,1,A
+1157,bundesliga_2,2022,2022-07-17,SC Paderborn 07,Karlsruher SC,5,0,0,5,H
+1158,bundesliga_2,2022,2022-07-17,Eintracht Braunschweig,Hamburger SV,0,2,0,0,A
+1159,bundesliga_2,2022,2022-07-17,Hansa Rostock,FC Heidenheim,0,1,0,0,A
+1160,bundesliga_2,2022,2022-07-22,Fortuna Dusseldorf,SC Paderborn 07,2,1,2,0,H
+1161,bundesliga_2,2022,2022-07-22,SV Darmstadt 98,SV Sandhausen,2,1,1,1,H
+1162,bundesliga_2,2022,2022-07-23,FC Nurnberg,SpVgg Greuther Furth,2,0,1,1,H
+1163,bundesliga_2,2022,2022-07-23,FC Heidenheim,Eintracht Braunschweig,3,0,1,2,H
+1164,bundesliga_2,2022,2022-07-23,Holstein Kiel,FC Kaiserslautern,2,2,0,2,D
+1165,bundesliga_2,2022,2022-07-23,Hannover 96,FC St. Pauli,2,2,1,1,D
+1166,bundesliga_2,2022,2022-07-24,Hamburger SV,Hansa Rostock,0,1,0,0,A
+1167,bundesliga_2,2022,2022-07-24,Arminia Bielefeld,Jahn Regensburg,0,3,0,0,A
+1168,bundesliga_2,2022,2022-07-24,Karlsruher SC,FC Magdeburg,2,3,0,2,A
+1169,bundesliga_2,2022,2022-08-05,SpVgg Greuther Furth,Karlsruher SC,1,1,0,1,D
+1170,bundesliga_2,2022,2022-08-05,SV Sandhausen,Fortuna Dusseldorf,1,0,0,1,H
+1171,bundesliga_2,2022,2022-08-06,Hamburger SV,FC Heidenheim,1,0,1,0,H
+1172,bundesliga_2,2022,2022-08-06,Jahn Regensburg,FC Nurnberg,0,0,0,0,D
+1173,bundesliga_2,2022,2022-08-06,SC Paderborn 07,Hannover 96,4,2,1,3,H
+1174,bundesliga_2,2022,2022-08-06,Hansa Rostock,Arminia Bielefeld,2,1,1,1,H
+1175,bundesliga_2,2022,2022-08-07,FC Magdeburg,Holstein Kiel,1,2,1,0,A
+1176,bundesliga_2,2022,2022-08-07,Eintracht Braunschweig,SV Darmstadt 98,0,1,0,0,A
+1177,bundesliga_2,2022,2022-08-07,FC Kaiserslautern,FC St. Pauli,2,1,1,1,H
+1178,bundesliga_2,2022,2022-08-12,FC Nurnberg,FC Heidenheim,0,3,0,0,A
+1179,bundesliga_2,2022,2022-08-12,FC Kaiserslautern,SC Paderborn 07,0,1,0,0,A
+1180,bundesliga_2,2022,2022-08-13,Arminia Bielefeld,Hamburger SV,0,2,0,0,A
+1181,bundesliga_2,2022,2022-08-13,Holstein Kiel,Eintracht Braunschweig,3,0,1,2,H
+1182,bundesliga_2,2022,2022-08-13,Karlsruher SC,SV Sandhausen,3,2,1,2,H
+1183,bundesliga_2,2022,2022-08-13,SV Darmstadt 98,Hansa Rostock,4,0,2,2,H
+1184,bundesliga_2,2022,2022-08-14,Fortuna Dusseldorf,SpVgg Greuther Furth,2,2,0,2,D
+1185,bundesliga_2,2022,2022-08-14,Hannover 96,Jahn Regensburg,1,0,0,1,H
+1186,bundesliga_2,2022,2022-08-14,FC St. Pauli,FC Magdeburg,3,0,2,1,H
+1187,bundesliga_2,2022,2022-08-19,Hamburger SV,SV Darmstadt 98,1,2,0,1,A
+1188,bundesliga_2,2022,2022-08-19,FC Magdeburg,Hannover 96,0,4,0,0,A
+1189,bundesliga_2,2022,2022-08-20,Jahn Regensburg,Karlsruher SC,0,6,0,0,A
+1190,bundesliga_2,2022,2022-08-20,SC Paderborn 07,Holstein Kiel,7,2,5,2,H
+1191,bundesliga_2,2022,2022-08-20,SV Sandhausen,FC Nurnberg,1,2,1,0,A
+1192,bundesliga_2,2022,2022-08-20,Eintracht Braunschweig,Fortuna Dusseldorf,2,2,0,2,D
+1193,bundesliga_2,2022,2022-08-21,SpVgg Greuther Furth,FC Kaiserslautern,1,3,1,0,A
+1194,bundesliga_2,2022,2022-08-21,FC Heidenheim,Arminia Bielefeld,1,1,1,0,D
+1195,bundesliga_2,2022,2022-08-21,Hansa Rostock,FC St. Pauli,2,0,2,0,H
+1196,bundesliga_2,2022,2022-08-26,Fortuna Dusseldorf,Jahn Regensburg,4,0,0,4,H
+1197,bundesliga_2,2022,2022-08-26,Arminia Bielefeld,Eintracht Braunschweig,4,1,3,1,H
+1198,bundesliga_2,2022,2022-08-27,SV Darmstadt 98,FC Heidenheim,2,2,1,1,D
+1199,bundesliga_2,2022,2022-08-27,FC St. Pauli,SC Paderborn 07,2,2,0,2,D
+1200,bundesliga_2,2022,2022-08-27,Karlsruher SC,Hansa Rostock,2,0,2,0,H
+1201,bundesliga_2,2022,2022-08-27,FC Nurnberg,Hamburger SV,0,2,0,0,A
+1202,bundesliga_2,2022,2022-08-28,Hannover 96,SpVgg Greuther Furth,2,1,0,2,H
+1203,bundesliga_2,2022,2022-08-28,Holstein Kiel,SV Sandhausen,1,0,0,1,H
+1204,bundesliga_2,2022,2022-08-28,FC Kaiserslautern,FC Magdeburg,4,4,2,2,D
+1205,bundesliga_2,2022,2022-09-02,FC Heidenheim,Fortuna Dusseldorf,2,1,1,1,H
+1206,bundesliga_2,2022,2022-09-02,Eintracht Braunschweig,FC Nurnberg,4,2,2,2,H
+1207,bundesliga_2,2022,2022-09-03,Jahn Regensburg,Holstein Kiel,0,0,0,0,D
+1208,bundesliga_2,2022,2022-09-03,SpVgg Greuther Furth,FC St. Pauli,2,2,0,2,D
+1209,bundesliga_2,2022,2022-09-03,SC Paderborn 07,FC Magdeburg,1,0,0,1,H
+1210,bundesliga_2,2022,2022-09-03,Hamburger SV,Karlsruher SC,1,0,1,0,H
+1211,bundesliga_2,2022,2022-09-04,SV Darmstadt 98,Arminia Bielefeld,1,1,1,0,D
+1212,bundesliga_2,2022,2022-09-04,SV Sandhausen,FC Kaiserslautern,0,0,0,0,D
+1213,bundesliga_2,2022,2022-09-04,Hansa Rostock,Hannover 96,0,1,0,0,A
+1214,bundesliga_2,2022,2022-09-09,FC Nurnberg,Arminia Bielefeld,1,0,0,1,H
+1215,bundesliga_2,2022,2022-09-09,Holstein Kiel,Hamburger SV,2,3,0,2,A
+1216,bundesliga_2,2022,2022-09-10,Hannover 96,Eintracht Braunschweig,1,1,0,1,D
+1217,bundesliga_2,2022,2022-09-10,SC Paderborn 07,Jahn Regensburg,3,0,1,2,H
+1218,bundesliga_2,2022,2022-09-10,Karlsruher SC,FC Heidenheim,0,0,0,0,D
+1219,bundesliga_2,2022,2022-09-10,Fortuna Dusseldorf,Hansa Rostock,3,1,2,1,H
+1220,bundesliga_2,2022,2022-09-11,FC Magdeburg,SpVgg Greuther Furth,2,1,1,1,H
+1221,bundesliga_2,2022,2022-09-11,FC St. Pauli,SV Sandhausen,1,1,1,0,D
+1222,bundesliga_2,2022,2022-09-11,FC Kaiserslautern,SV Darmstadt 98,3,3,0,3,D
+1223,bundesliga_2,2022,2022-09-16,SV Sandhausen,Hannover 96,2,3,0,2,A
+1224,bundesliga_2,2022,2022-09-16,Eintracht Braunschweig,Karlsruher SC,2,1,1,1,H
+1225,bundesliga_2,2022,2022-09-17,SV Darmstadt 98,FC Nurnberg,2,0,2,0,H
+1226,bundesliga_2,2022,2022-09-17,Arminia Bielefeld,Holstein Kiel,4,2,2,2,H
+1227,bundesliga_2,2022,2022-09-17,Hansa Rostock,FC Magdeburg,3,1,2,1,H
+1228,bundesliga_2,2022,2022-09-17,Hamburger SV,Fortuna Dusseldorf,2,0,1,1,H
+1229,bundesliga_2,2022,2022-09-18,Jahn Regensburg,FC St. Pauli,2,0,2,0,H
+1230,bundesliga_2,2022,2022-09-18,SpVgg Greuther Furth,SC Paderborn 07,2,1,1,1,H
+1231,bundesliga_2,2022,2022-09-18,FC Heidenheim,FC Kaiserslautern,2,2,2,0,D
+1232,bundesliga_2,2022,2022-09-30,Hannover 96,Hamburger SV,1,2,1,0,A
+1233,bundesliga_2,2022,2022-09-30,SC Paderborn 07,SV Darmstadt 98,1,2,1,0,A
+1234,bundesliga_2,2022,2022-10-01,Fortuna Dusseldorf,Arminia Bielefeld,4,1,1,3,H
+1235,bundesliga_2,2022,2022-10-01,SpVgg Greuther Furth,SV Sandhausen,1,1,0,1,D
+1236,bundesliga_2,2022,2022-10-01,Holstein Kiel,Hansa Rostock,1,1,1,0,D
+1237,bundesliga_2,2022,2022-10-01,FC St. Pauli,FC Heidenheim,0,0,0,0,D
+1238,bundesliga_2,2022,2022-10-02,FC Magdeburg,Jahn Regensburg,1,0,0,1,H
+1239,bundesliga_2,2022,2022-10-02,FC Kaiserslautern,Eintracht Braunschweig,1,1,0,1,D
+1240,bundesliga_2,2022,2022-10-02,Karlsruher SC,FC Nurnberg,3,0,1,2,H
+1241,bundesliga_2,2022,2022-10-07,Jahn Regensburg,SpVgg Greuther Furth,2,2,1,1,D
+1242,bundesliga_2,2022,2022-10-07,Arminia Bielefeld,Karlsruher SC,1,2,0,1,A
+1243,bundesliga_2,2022,2022-10-08,SV Darmstadt 98,Fortuna Dusseldorf,1,0,0,1,H
+1244,bundesliga_2,2022,2022-10-08,Eintracht Braunschweig,FC St. Pauli,2,1,0,2,H
+1245,bundesliga_2,2022,2022-10-08,Hansa Rostock,SC Paderborn 07,0,3,0,0,A
+1246,bundesliga_2,2022,2022-10-08,Hamburger SV,FC Kaiserslautern,1,1,1,0,D
+1247,bundesliga_2,2022,2022-10-09,FC Nurnberg,Holstein Kiel,2,3,1,1,A
+1248,bundesliga_2,2022,2022-10-09,FC Heidenheim,Hannover 96,2,1,1,1,H
+1249,bundesliga_2,2022,2022-10-09,SV Sandhausen,FC Magdeburg,1,0,0,1,H
+1250,bundesliga_2,2022,2022-10-14,SpVgg Greuther Furth,Hansa Rostock,2,2,1,1,D
+1251,bundesliga_2,2022,2022-10-14,FC St. Pauli,Hamburger SV,3,0,0,3,H
+1252,bundesliga_2,2022,2022-10-15,Fortuna Dusseldorf,FC Nurnberg,0,1,0,0,A
+1253,bundesliga_2,2022,2022-10-15,FC Magdeburg,Eintracht Braunschweig,0,2,0,0,A
+1254,bundesliga_2,2022,2022-10-15,Karlsruher SC,SV Darmstadt 98,1,2,1,0,A
+1255,bundesliga_2,2022,2022-10-15,Hannover 96,Arminia Bielefeld,2,0,1,1,H
+1256,bundesliga_2,2022,2022-10-16,SC Paderborn 07,SV Sandhausen,3,0,1,2,H
+1257,bundesliga_2,2022,2022-10-16,Holstein Kiel,FC Heidenheim,3,1,1,2,H
+1258,bundesliga_2,2022,2022-10-16,FC Kaiserslautern,Jahn Regensburg,0,3,0,0,A
+1259,bundesliga_2,2022,2022-10-21,SV Darmstadt 98,Holstein Kiel,1,1,0,1,D
+1260,bundesliga_2,2022,2022-10-21,Hansa Rostock,FC Kaiserslautern,0,2,0,0,A
+1261,bundesliga_2,2022,2022-10-22,FC Nurnberg,Hannover 96,0,0,0,0,D
+1262,bundesliga_2,2022,2022-10-22,Jahn Regensburg,SV Sandhausen,2,1,1,1,H
+1263,bundesliga_2,2022,2022-10-22,Eintracht Braunschweig,SC Paderborn 07,0,0,0,0,D
+1264,bundesliga_2,2022,2022-10-22,Arminia Bielefeld,FC St. Pauli,2,0,0,2,H
+1265,bundesliga_2,2022,2022-10-23,Hamburger SV,FC Magdeburg,2,3,0,2,A
+1266,bundesliga_2,2022,2022-10-23,FC Heidenheim,SpVgg Greuther Furth,3,1,2,1,H
+1267,bundesliga_2,2022,2022-10-23,Karlsruher SC,Fortuna Dusseldorf,0,2,0,0,A
+1268,bundesliga_2,2022,2022-10-28,SpVgg Greuther Furth,Arminia Bielefeld,1,0,1,0,H
+1269,bundesliga_2,2022,2022-10-28,FC Magdeburg,FC Heidenheim,1,1,0,1,D
+1270,bundesliga_2,2022,2022-10-29,Jahn Regensburg,Hansa Rostock,0,3,0,0,A
+1271,bundesliga_2,2022,2022-10-29,Holstein Kiel,Fortuna Dusseldorf,1,2,0,1,A
+1272,bundesliga_2,2022,2022-10-29,FC Kaiserslautern,FC Nurnberg,0,0,0,0,D
+1273,bundesliga_2,2022,2022-10-29,FC St. Pauli,SV Darmstadt 98,1,1,0,1,D
+1274,bundesliga_2,2022,2022-10-30,Hannover 96,Karlsruher SC,1,0,0,1,H
+1275,bundesliga_2,2022,2022-10-30,SC Paderborn 07,Hamburger SV,2,3,1,1,A
+1276,bundesliga_2,2022,2022-10-30,SV Sandhausen,Eintracht Braunschweig,2,2,0,2,D
+1277,bundesliga_2,2022,2022-11-04,SV Darmstadt 98,Hannover 96,1,0,0,1,H
+1278,bundesliga_2,2022,2022-11-04,Hansa Rostock,SV Sandhausen,0,1,0,0,A
+1279,bundesliga_2,2022,2022-11-05,Fortuna Dusseldorf,FC St. Pauli,1,0,1,0,H
+1280,bundesliga_2,2022,2022-11-05,FC Heidenheim,SC Paderborn 07,3,0,1,2,H
+1281,bundesliga_2,2022,2022-11-05,Karlsruher SC,Holstein Kiel,1,4,0,1,A
+1282,bundesliga_2,2022,2022-11-05,Arminia Bielefeld,FC Kaiserslautern,2,3,0,2,A
+1283,bundesliga_2,2022,2022-11-06,FC Nurnberg,FC Magdeburg,1,2,0,1,A
+1284,bundesliga_2,2022,2022-11-06,Hamburger SV,Jahn Regensburg,3,1,1,2,H
+1285,bundesliga_2,2022,2022-11-06,Eintracht Braunschweig,SpVgg Greuther Furth,0,1,0,0,A
+1286,bundesliga_2,2022,2022-11-08,Hannover 96,Fortuna Dusseldorf,2,0,2,0,H
+1287,bundesliga_2,2022,2022-11-08,SC Paderborn 07,Arminia Bielefeld,0,2,0,0,A
+1288,bundesliga_2,2022,2022-11-08,FC St. Pauli,Holstein Kiel,0,0,0,0,D
+1289,bundesliga_2,2022,2022-11-08,FC Kaiserslautern,Karlsruher SC,2,0,1,1,H
+1290,bundesliga_2,2022,2022-11-09,Jahn Regensburg,Eintracht Braunschweig,1,1,1,0,D
+1291,bundesliga_2,2022,2022-11-09,SpVgg Greuther Furth,Hamburger SV,1,0,1,0,H
+1292,bundesliga_2,2022,2022-11-09,SV Sandhausen,FC Heidenheim,3,4,0,3,A
+1293,bundesliga_2,2022,2022-11-09,Hansa Rostock,FC Nurnberg,1,1,0,1,D
+1294,bundesliga_2,2022,2022-11-10,FC Magdeburg,SV Darmstadt 98,0,1,0,0,A
+1295,bundesliga_2,2022,2022-11-11,Fortuna Dusseldorf,FC Kaiserslautern,1,2,1,0,A
+1296,bundesliga_2,2022,2022-11-11,Holstein Kiel,Hannover 96,1,1,1,0,D
+1297,bundesliga_2,2022,2022-11-12,Hamburger SV,SV Sandhausen,4,2,1,3,H
+1298,bundesliga_2,2022,2022-11-12,FC Heidenheim,Jahn Regensburg,5,4,3,2,H
+1299,bundesliga_2,2022,2022-11-12,Karlsruher SC,FC St. Pauli,4,4,3,1,D
+1300,bundesliga_2,2022,2022-11-12,Eintracht Braunschweig,Hansa Rostock,0,1,0,0,A
+1301,bundesliga_2,2022,2022-11-13,FC Nurnberg,SC Paderborn 07,2,1,1,1,H
+1302,bundesliga_2,2022,2022-11-13,SV Darmstadt 98,SpVgg Greuther Furth,1,1,1,0,D
+1303,bundesliga_2,2022,2022-11-13,Arminia Bielefeld,FC Magdeburg,3,1,1,2,H
+1304,bundesliga_2,2022,2023-01-27,Fortuna Dusseldorf,FC Magdeburg,3,2,2,1,H
+1305,bundesliga_2,2022,2023-01-27,Karlsruher SC,SC Paderborn 07,0,1,0,0,A
+1306,bundesliga_2,2022,2023-01-28,FC Heidenheim,Hansa Rostock,2,0,0,2,H
+1307,bundesliga_2,2022,2023-01-28,SV Darmstadt 98,Jahn Regensburg,2,0,2,0,H
+1308,bundesliga_2,2022,2023-01-28,Holstein Kiel,SpVgg Greuther Furth,2,1,0,2,H
+1309,bundesliga_2,2022,2023-01-28,Hannover 96,FC Kaiserslautern,1,3,1,0,A
+1310,bundesliga_2,2022,2023-01-29,FC Nurnberg,FC St. Pauli,0,1,0,0,A
+1311,bundesliga_2,2022,2023-01-29,Hamburger SV,Eintracht Braunschweig,4,2,2,2,H
+1312,bundesliga_2,2022,2023-01-29,Arminia Bielefeld,SV Sandhausen,1,2,1,0,A
+1313,bundesliga_2,2022,2023-02-03,SC Paderborn 07,Fortuna Dusseldorf,4,1,1,3,H
+1314,bundesliga_2,2022,2023-02-03,SV Sandhausen,SV Darmstadt 98,0,4,0,0,A
+1315,bundesliga_2,2022,2023-02-04,Jahn Regensburg,Arminia Bielefeld,1,3,1,0,A
+1316,bundesliga_2,2022,2023-02-04,Eintracht Braunschweig,FC Heidenheim,2,0,0,2,H
+1317,bundesliga_2,2022,2023-02-04,FC Kaiserslautern,Holstein Kiel,2,1,1,1,H
+1318,bundesliga_2,2022,2023-02-04,SpVgg Greuther Furth,FC Nurnberg,1,0,0,1,H
+1319,bundesliga_2,2022,2023-02-05,FC Magdeburg,Karlsruher SC,1,1,0,1,D
+1320,bundesliga_2,2022,2023-02-05,FC St. Pauli,Hannover 96,2,0,2,0,H
+1321,bundesliga_2,2022,2023-02-05,Hansa Rostock,Hamburger SV,0,2,0,0,A
+1322,bundesliga_2,2022,2023-02-10,Arminia Bielefeld,Hansa Rostock,0,1,0,0,A
+1323,bundesliga_2,2022,2023-02-10,Karlsruher SC,SpVgg Greuther Furth,2,1,1,1,H
+1324,bundesliga_2,2022,2023-02-11,Hannover 96,SC Paderborn 07,3,4,2,1,A
+1325,bundesliga_2,2022,2023-02-11,FC Nurnberg,Jahn Regensburg,1,0,0,1,H
+1326,bundesliga_2,2022,2023-02-11,Holstein Kiel,FC Magdeburg,2,3,1,1,A
+1327,bundesliga_2,2022,2023-02-11,FC Heidenheim,Hamburger SV,3,3,3,0,D
+1328,bundesliga_2,2022,2023-02-12,Fortuna Dusseldorf,SV Sandhausen,2,0,0,2,H
+1329,bundesliga_2,2022,2023-02-12,SV Darmstadt 98,Eintracht Braunschweig,2,1,0,2,H
+1330,bundesliga_2,2022,2023-02-12,FC St. Pauli,FC Kaiserslautern,1,0,0,1,H
+1331,bundesliga_2,2022,2023-02-17,SC Paderborn 07,FC Kaiserslautern,1,0,0,1,H
+1332,bundesliga_2,2022,2023-02-17,Eintracht Braunschweig,Holstein Kiel,2,3,0,2,A
+1333,bundesliga_2,2022,2023-02-18,Jahn Regensburg,Hannover 96,1,1,1,0,D
+1334,bundesliga_2,2022,2023-02-18,SpVgg Greuther Furth,Fortuna Dusseldorf,2,1,1,1,H
+1335,bundesliga_2,2022,2023-02-18,FC Magdeburg,FC St. Pauli,1,2,1,0,A
+1336,bundesliga_2,2022,2023-02-18,Hansa Rostock,SV Darmstadt 98,0,1,0,0,A
+1337,bundesliga_2,2022,2023-02-19,Hamburger SV,Arminia Bielefeld,2,1,1,1,H
+1338,bundesliga_2,2022,2023-02-19,FC Heidenheim,FC Nurnberg,5,0,3,2,H
+1339,bundesliga_2,2022,2023-02-19,SV Sandhausen,Karlsruher SC,0,3,0,0,A
+1340,bundesliga_2,2022,2023-02-24,Fortuna Dusseldorf,Eintracht Braunschweig,3,1,2,1,H
+1341,bundesliga_2,2022,2023-02-24,Karlsruher SC,Jahn Regensburg,1,0,1,0,H
+1342,bundesliga_2,2022,2023-02-25,FC Nurnberg,SV Sandhausen,1,0,0,1,H
+1343,bundesliga_2,2022,2023-02-25,Holstein Kiel,SC Paderborn 07,1,1,0,1,D
+1344,bundesliga_2,2022,2023-02-25,FC Kaiserslautern,SpVgg Greuther Furth,3,1,1,2,H
+1345,bundesliga_2,2022,2023-02-25,SV Darmstadt 98,Hamburger SV,1,1,0,1,D
+1346,bundesliga_2,2022,2023-02-26,Hannover 96,FC Magdeburg,1,2,0,1,A
+1347,bundesliga_2,2022,2023-02-26,FC St. Pauli,Hansa Rostock,1,0,1,0,H
+1348,bundesliga_2,2022,2023-02-26,Arminia Bielefeld,FC Heidenheim,0,1,0,0,A
+1349,bundesliga_2,2022,2023-03-03,FC Magdeburg,FC Kaiserslautern,2,0,1,1,H
+1350,bundesliga_2,2022,2023-03-03,SC Paderborn 07,FC St. Pauli,1,2,0,1,A
+1351,bundesliga_2,2022,2023-03-04,Hamburger SV,FC Nurnberg,3,0,1,2,H
+1352,bundesliga_2,2022,2023-03-04,Jahn Regensburg,Fortuna Dusseldorf,0,1,0,0,A
+1353,bundesliga_2,2022,2023-03-04,SV Sandhausen,Holstein Kiel,1,1,0,1,D
+1354,bundesliga_2,2022,2023-03-04,FC Heidenheim,SV Darmstadt 98,1,0,0,1,H
+1355,bundesliga_2,2022,2023-03-05,SpVgg Greuther Furth,Hannover 96,1,1,0,1,D
+1356,bundesliga_2,2022,2023-03-05,Eintracht Braunschweig,Arminia Bielefeld,3,3,2,1,D
+1357,bundesliga_2,2022,2023-03-05,Hansa Rostock,Karlsruher SC,0,2,0,0,A
+1358,bundesliga_2,2022,2023-03-10,FC Nurnberg,Eintracht Braunschweig,2,0,0,2,H
+1359,bundesliga_2,2022,2023-03-10,FC Kaiserslautern,SV Sandhausen,2,2,1,1,D
+1360,bundesliga_2,2022,2023-03-11,FC Magdeburg,SC Paderborn 07,0,0,0,0,D
+1361,bundesliga_2,2022,2023-03-11,FC St. Pauli,SpVgg Greuther Furth,2,1,1,1,H
+1362,bundesliga_2,2022,2023-03-11,Arminia Bielefeld,SV Darmstadt 98,3,1,0,3,H
+1363,bundesliga_2,2022,2023-03-11,Fortuna Dusseldorf,FC Heidenheim,1,1,1,0,D
+1364,bundesliga_2,2022,2023-03-12,Hannover 96,Hansa Rostock,1,1,0,1,D
+1365,bundesliga_2,2022,2023-03-12,Holstein Kiel,Jahn Regensburg,1,2,1,0,A
+1366,bundesliga_2,2022,2023-03-12,Karlsruher SC,Hamburger SV,4,2,3,1,H
+1367,bundesliga_2,2022,2023-03-17,FC Heidenheim,Karlsruher SC,5,2,2,3,H
+1368,bundesliga_2,2022,2023-03-17,Arminia Bielefeld,FC Nurnberg,2,2,2,0,D
+1369,bundesliga_2,2022,2023-03-18,Hamburger SV,Holstein Kiel,0,0,0,0,D
+1370,bundesliga_2,2022,2023-03-18,Jahn Regensburg,SC Paderborn 07,1,0,0,1,H
+1371,bundesliga_2,2022,2023-03-18,SpVgg Greuther Furth,FC Magdeburg,3,0,0,3,H
+1372,bundesliga_2,2022,2023-03-18,SV Darmstadt 98,FC Kaiserslautern,2,0,2,0,H
+1373,bundesliga_2,2022,2023-03-19,SV Sandhausen,FC St. Pauli,0,5,0,0,A
+1374,bundesliga_2,2022,2023-03-19,Eintracht Braunschweig,Hannover 96,1,0,0,1,H
+1375,bundesliga_2,2022,2023-03-19,Hansa Rostock,Fortuna Dusseldorf,2,5,0,2,A
+1376,bundesliga_2,2022,2023-03-31,Fortuna Dusseldorf,Hamburger SV,2,2,2,0,D
+1377,bundesliga_2,2022,2023-03-31,FC Nurnberg,SV Darmstadt 98,0,1,0,0,A
+1378,bundesliga_2,2022,2023-04-01,Hannover 96,SV Sandhausen,3,1,1,2,H
+1379,bundesliga_2,2022,2023-04-01,FC St. Pauli,Jahn Regensburg,1,0,1,0,H
+1380,bundesliga_2,2022,2023-04-01,Karlsruher SC,Eintracht Braunschweig,1,1,0,1,D
+1381,bundesliga_2,2022,2023-04-01,FC Kaiserslautern,FC Heidenheim,2,2,0,2,D
+1382,bundesliga_2,2022,2023-04-02,FC Magdeburg,Hansa Rostock,3,0,1,2,H
+1383,bundesliga_2,2022,2023-04-02,SC Paderborn 07,SpVgg Greuther Furth,3,2,1,2,H
+1384,bundesliga_2,2022,2023-04-02,Holstein Kiel,Arminia Bielefeld,2,3,1,1,A
+1385,bundesliga_2,2022,2023-04-08,FC Nurnberg,Karlsruher SC,1,1,0,1,D
+1386,bundesliga_2,2022,2023-04-08,Hamburger SV,Hannover 96,6,1,2,4,H
+1387,bundesliga_2,2022,2023-04-08,Eintracht Braunschweig,FC Kaiserslautern,1,0,0,1,H
+1388,bundesliga_2,2022,2023-04-08,FC Heidenheim,FC St. Pauli,0,1,0,0,A
+1389,bundesliga_2,2022,2023-04-09,Jahn Regensburg,FC Magdeburg,2,2,0,2,D
+1390,bundesliga_2,2022,2023-04-09,SV Darmstadt 98,SC Paderborn 07,2,1,1,1,H
+1391,bundesliga_2,2022,2023-04-09,Arminia Bielefeld,Fortuna Dusseldorf,2,2,1,1,D
+1392,bundesliga_2,2022,2023-04-09,SV Sandhausen,SpVgg Greuther Furth,0,2,0,0,A
+1393,bundesliga_2,2022,2023-04-09,Hansa Rostock,Holstein Kiel,2,3,1,1,A
+1394,bundesliga_2,2022,2023-04-14,Hannover 96,FC Heidenheim,0,3,0,0,A
+1395,bundesliga_2,2022,2023-04-14,SpVgg Greuther Furth,Jahn Regensburg,2,1,0,2,H
+1396,bundesliga_2,2022,2023-04-15,FC Magdeburg,SV Sandhausen,1,2,0,1,A
+1397,bundesliga_2,2022,2023-04-15,SC Paderborn 07,Hansa Rostock,3,0,0,3,H
+1398,bundesliga_2,2022,2023-04-15,Holstein Kiel,FC Nurnberg,2,1,2,0,H
+1399,bundesliga_2,2022,2023-04-15,FC Kaiserslautern,Hamburger SV,2,0,0,2,H
+1400,bundesliga_2,2022,2023-04-16,Fortuna Dusseldorf,SV Darmstadt 98,1,0,0,1,H
+1401,bundesliga_2,2022,2023-04-16,FC St. Pauli,Eintracht Braunschweig,1,2,0,1,A
+1402,bundesliga_2,2022,2023-04-16,Karlsruher SC,Arminia Bielefeld,4,2,0,4,H
+1403,bundesliga_2,2022,2023-04-21,Hamburger SV,FC St. Pauli,4,3,1,3,H
+1404,bundesliga_2,2022,2023-04-21,SV Darmstadt 98,Karlsruher SC,2,1,1,1,H
+1405,bundesliga_2,2022,2023-04-22,FC Nurnberg,Fortuna Dusseldorf,2,0,1,1,H
+1406,bundesliga_2,2022,2023-04-22,Arminia Bielefeld,Hannover 96,1,3,1,0,A
+1407,bundesliga_2,2022,2023-04-22,Hansa Rostock,SpVgg Greuther Furth,2,0,0,2,H
+1408,bundesliga_2,2022,2023-04-22,Eintracht Braunschweig,FC Magdeburg,1,2,0,1,A
+1409,bundesliga_2,2022,2023-04-23,Jahn Regensburg,FC Kaiserslautern,0,0,0,0,D
+1410,bundesliga_2,2022,2023-04-23,FC Heidenheim,Holstein Kiel,3,0,1,2,H
+1411,bundesliga_2,2022,2023-04-23,SV Sandhausen,SC Paderborn 07,2,2,1,1,D
+1412,bundesliga_2,2022,2023-04-28,SpVgg Greuther Furth,FC Heidenheim,0,2,0,0,A
+1413,bundesliga_2,2022,2023-04-28,SC Paderborn 07,Eintracht Braunschweig,5,1,2,3,H
+1414,bundesliga_2,2022,2023-04-29,FC Magdeburg,Hamburger SV,3,2,1,2,H
+1415,bundesliga_2,2022,2023-04-29,FC St. Pauli,Arminia Bielefeld,2,1,0,2,H
+1416,bundesliga_2,2022,2023-04-29,FC Kaiserslautern,Hansa Rostock,0,1,0,0,A
+1417,bundesliga_2,2022,2023-04-29,Hannover 96,FC Nurnberg,3,0,1,2,H
+1418,bundesliga_2,2022,2023-04-30,Fortuna Dusseldorf,Karlsruher SC,3,2,1,2,H
+1419,bundesliga_2,2022,2023-04-30,SV Sandhausen,Jahn Regensburg,2,1,1,1,H
+1420,bundesliga_2,2022,2023-04-30,Holstein Kiel,SV Darmstadt 98,0,3,0,0,A
+1421,bundesliga_2,2022,2023-05-05,Hamburger SV,SC Paderborn 07,2,2,1,1,D
+1422,bundesliga_2,2022,2023-05-05,Arminia Bielefeld,SpVgg Greuther Furth,1,1,1,0,D
+1423,bundesliga_2,2022,2023-05-06,Fortuna Dusseldorf,Holstein Kiel,3,0,3,0,H
+1424,bundesliga_2,2022,2023-05-06,Karlsruher SC,Hannover 96,2,1,2,0,H
+1425,bundesliga_2,2022,2023-05-06,Hansa Rostock,Jahn Regensburg,2,0,1,1,H
+1426,bundesliga_2,2022,2023-05-06,SV Darmstadt 98,FC St. Pauli,0,3,0,0,A
+1427,bundesliga_2,2022,2023-05-07,FC Nurnberg,FC Kaiserslautern,3,3,2,1,D
+1428,bundesliga_2,2022,2023-05-07,FC Heidenheim,FC Magdeburg,0,0,0,0,D
+1429,bundesliga_2,2022,2023-05-07,Eintracht Braunschweig,SV Sandhausen,2,1,0,2,H
+1430,bundesliga_2,2022,2023-05-12,FC Magdeburg,FC Nurnberg,2,2,1,1,D
+1431,bundesliga_2,2022,2023-05-12,SV Sandhausen,Hansa Rostock,1,2,0,1,A
+1432,bundesliga_2,2022,2023-05-13,SpVgg Greuther Furth,Eintracht Braunschweig,2,2,1,1,D
+1433,bundesliga_2,2022,2023-05-13,Holstein Kiel,Karlsruher SC,2,1,1,1,H
+1434,bundesliga_2,2022,2023-05-13,FC Kaiserslautern,Arminia Bielefeld,1,2,0,1,A
+1435,bundesliga_2,2022,2023-05-13,FC St. Pauli,Fortuna Dusseldorf,0,0,0,0,D
+1436,bundesliga_2,2022,2023-05-14,Hannover 96,SV Darmstadt 98,2,1,2,0,H
+1437,bundesliga_2,2022,2023-05-14,Jahn Regensburg,Hamburger SV,1,5,0,1,A
+1438,bundesliga_2,2022,2023-05-14,SC Paderborn 07,FC Heidenheim,3,2,1,2,H
+1439,bundesliga_2,2022,2023-05-19,SV Darmstadt 98,FC Magdeburg,1,0,1,0,H
+1440,bundesliga_2,2022,2023-05-19,Holstein Kiel,FC St. Pauli,3,4,1,2,A
+1441,bundesliga_2,2022,2023-05-20,FC Heidenheim,SV Sandhausen,1,0,0,1,H
+1442,bundesliga_2,2022,2023-05-20,Arminia Bielefeld,SC Paderborn 07,2,2,2,0,D
+1443,bundesliga_2,2022,2023-05-20,Eintracht Braunschweig,Jahn Regensburg,1,2,1,0,A
+1444,bundesliga_2,2022,2023-05-20,Hamburger SV,SpVgg Greuther Furth,2,1,1,1,H
+1445,bundesliga_2,2022,2023-05-21,Fortuna Dusseldorf,Hannover 96,3,3,1,2,D
+1446,bundesliga_2,2022,2023-05-21,FC Nurnberg,Hansa Rostock,0,0,0,0,D
+1447,bundesliga_2,2022,2023-05-21,Karlsruher SC,FC Kaiserslautern,2,0,0,2,H
+1448,bundesliga_2,2022,2023-05-28,Hannover 96,Holstein Kiel,1,5,0,1,A
+1449,bundesliga_2,2022,2023-05-28,Jahn Regensburg,FC Heidenheim,2,3,0,2,A
+1450,bundesliga_2,2022,2023-05-28,SpVgg Greuther Furth,SV Darmstadt 98,4,0,0,4,H
+1451,bundesliga_2,2022,2023-05-28,FC Magdeburg,Arminia Bielefeld,4,0,2,2,H
+1452,bundesliga_2,2022,2023-05-28,SC Paderborn 07,FC Nurnberg,0,1,0,0,A
+1453,bundesliga_2,2022,2023-05-28,FC St. Pauli,Karlsruher SC,1,1,0,1,D
+1454,bundesliga_2,2022,2023-05-28,SV Sandhausen,Hamburger SV,0,1,0,0,A
+1455,bundesliga_2,2022,2023-05-28,FC Kaiserslautern,Fortuna Dusseldorf,0,3,0,0,A
+1456,bundesliga_2,2022,2023-05-28,Hansa Rostock,Eintracht Braunschweig,2,1,0,2,H
+1457,bundesliga_2,2022,2023-06-02,SV Wehen,Arminia Bielefeld,4,0,1,3,H
+1458,bundesliga_2,2022,2023-06-06,Arminia Bielefeld,SV Wehen,1,2,1,0,A

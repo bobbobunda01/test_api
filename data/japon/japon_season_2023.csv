@@ -1,0 +1,307 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Japon,2023,2023-02-17,Kawasaki Frontale,Yokohama F. Marinos,1,2,0,1,A
+Japon,2023,2023-02-18,Sanfrecce Hiroshima,Consadole Sapporo,0,0,0,0,D
+Japon,2023,2023-02-18,Vissel Kobe,Avispa Fukuoka,1,0,0,1,H
+Japon,2023,2023-02-18,Cerezo Osaka,Albirex Niigata,2,2,1,1,D
+Japon,2023,2023-02-18,FC Tokyo,Urawa,2,0,0,2,H
+Japon,2023,2023-02-18,Kyoto Sanga,Kashima,0,2,0,0,A
+Japon,2023,2023-02-18,Yokohama FC,Nagoya Grampus,0,1,0,0,A
+Japon,2023,2023-02-18,Kashiwa Reysol,Gamba Osaka,2,2,1,1,D
+Japon,2023,2023-02-18,Sagan Tosu,Shonan Bellmare,1,5,1,0,A
+Japon,2023,2023-02-24,Shonan Bellmare,Yokohama FC,2,2,2,0,D
+Japon,2023,2023-02-25,Yokohama F. Marinos,Urawa,2,0,1,1,H
+Japon,2023,2023-02-25,Consadole Sapporo,Vissel Kobe,1,3,0,1,A
+Japon,2023,2023-02-25,Gamba Osaka,Sagan Tosu,1,1,0,1,D
+Japon,2023,2023-02-25,Avispa Fukuoka,Cerezo Osaka,2,1,0,2,H
+Japon,2023,2023-02-25,Nagoya Grampus,Kyoto Sanga,1,0,0,1,H
+Japon,2023,2023-02-25,Kashima,Kawasaki Frontale,1,2,1,0,A
+Japon,2023,2023-02-26,Sanfrecce Hiroshima,Albirex Niigata,1,2,0,1,A
+Japon,2023,2023-02-26,Kashiwa Reysol,FC Tokyo,1,1,1,0,D
+Japon,2023,2023-03-03,Yokohama F. Marinos,Sanfrecce Hiroshima,1,1,1,0,D
+Japon,2023,2023-03-04,Kawasaki Frontale,Shonan Bellmare,1,1,0,1,D
+Japon,2023,2023-03-04,Vissel Kobe,Gamba Osaka,4,0,1,3,H
+Japon,2023,2023-03-04,Kyoto Sanga,FC Tokyo,2,0,0,2,H
+Japon,2023,2023-03-04,Yokohama FC,Kashima,1,3,1,0,A
+Japon,2023,2023-03-04,Albirex Niigata,Consadole Sapporo,2,2,2,0,D
+Japon,2023,2023-03-04,Urawa,Cerezo Osaka,2,1,0,2,H
+Japon,2023,2023-03-04,Sagan Tosu,Nagoya Grampus,1,0,0,1,H
+Japon,2023,2023-03-04,Avispa Fukuoka,Kashiwa Reysol,1,0,0,1,H
+Japon,2023,2023-03-11,Vissel Kobe,Urawa,0,1,0,0,A
+Japon,2023,2023-03-11,Albirex Niigata,Kawasaki Frontale,1,0,1,0,H
+Japon,2023,2023-03-12,Cerezo Osaka,Sagan Tosu,2,1,1,1,H
+Japon,2023,2023-03-12,Consadole Sapporo,Yokohama F. Marinos,2,0,1,1,H
+Japon,2023,2023-03-12,Kashiwa Reysol,Nagoya Grampus,0,3,0,0,A
+Japon,2023,2023-03-12,Shonan Bellmare,Kyoto Sanga,0,2,0,0,A
+Japon,2023,2023-03-12,Kashima,Avispa Fukuoka,0,0,0,0,D
+Japon,2023,2023-03-12,FC Tokyo,Yokohama FC,3,1,2,1,H
+Japon,2023,2023-03-12,Gamba Osaka,Sanfrecce Hiroshima,1,2,0,1,A
+Japon,2023,2023-03-18,Nagoya Grampus,FC Tokyo,0,0,0,0,D
+Japon,2023,2023-03-18,Yokohama F. Marinos,Kashima,2,1,0,2,H
+Japon,2023,2023-03-18,Yokohama FC,Kyoto Sanga,1,4,1,0,A
+Japon,2023,2023-03-18,Urawa,Albirex Niigata,2,1,2,0,H
+Japon,2023,2023-03-18,Gamba Osaka,Consadole Sapporo,2,2,0,2,D
+Japon,2023,2023-03-18,Sagan Tosu,Vissel Kobe,0,1,0,0,A
+Japon,2023,2023-03-18,Kawasaki Frontale,Cerezo Osaka,0,0,0,0,D
+Japon,2023,2023-03-19,Sanfrecce Hiroshima,Kashiwa Reysol,1,0,0,1,H
+Japon,2023,2023-03-19,Avispa Fukuoka,Shonan Bellmare,2,1,0,2,H
+Japon,2023,2023-03-31,Kashiwa Reysol,Urawa,0,3,0,0,A
+Japon,2023,2023-04-01,Kyoto Sanga,Vissel Kobe,0,3,0,0,A
+Japon,2023,2023-04-01,Yokohama FC,Avispa Fukuoka,1,1,1,0,D
+Japon,2023,2023-04-01,Albirex Niigata,Nagoya Grampus,1,3,1,0,A
+Japon,2023,2023-04-01,Shonan Bellmare,Gamba Osaka,4,1,4,0,H
+Japon,2023,2023-04-01,Kashima,Sanfrecce Hiroshima,1,2,0,1,A
+Japon,2023,2023-04-01,Sagan Tosu,FC Tokyo,1,0,0,1,H
+Japon,2023,2023-04-01,Cerezo Osaka,Yokohama F. Marinos,2,1,2,0,H
+Japon,2023,2023-04-01,Consadole Sapporo,Kawasaki Frontale,3,4,2,1,A
+Japon,2023,2023-04-08,Yokohama F. Marinos,Yokohama FC,5,0,0,5,H
+Japon,2023,2023-04-09,Sanfrecce Hiroshima,Sagan Tosu,1,0,0,1,H
+Japon,2023,2023-04-09,Vissel Kobe,Albirex Niigata,0,0,0,0,D
+Japon,2023,2023-04-09,Cerezo Osaka,Consadole Sapporo,2,3,1,1,A
+Japon,2023,2023-04-09,Nagoya Grampus,Urawa,0,0,0,0,D
+Japon,2023,2023-04-09,FC Tokyo,Shonan Bellmare,2,2,1,1,D
+Japon,2023,2023-04-09,Gamba Osaka,Kawasaki Frontale,2,0,1,1,H
+Japon,2023,2023-04-09,Avispa Fukuoka,Kyoto Sanga,2,1,0,2,H
+Japon,2023,2023-04-09,Kashiwa Reysol,Kashima,1,0,1,0,H
+Japon,2023,2023-04-15,Yokohama FC,Sanfrecce Hiroshima,0,3,0,0,A
+Japon,2023,2023-04-15,Albirex Niigata,Avispa Fukuoka,3,2,0,3,H
+Japon,2023,2023-04-15,Shonan Bellmare,Yokohama F. Marinos,1,1,0,1,D
+Japon,2023,2023-04-15,Urawa,Consadole Sapporo,4,1,0,4,H
+Japon,2023,2023-04-15,Kawasaki Frontale,Nagoya Grampus,1,2,0,1,A
+Japon,2023,2023-04-15,Sagan Tosu,Kashiwa Reysol,1,1,0,1,D
+Japon,2023,2023-04-15,Kashima,Vissel Kobe,1,5,0,1,A
+Japon,2023,2023-04-15,FC Tokyo,Cerezo Osaka,1,2,0,1,A
+Japon,2023,2023-04-15,Kyoto Sanga,Gamba Osaka,2,1,1,1,H
+Japon,2023,2023-04-22,Sanfrecce Hiroshima,FC Tokyo,1,2,1,0,A
+Japon,2023,2023-04-22,Vissel Kobe,Yokohama F. Marinos,2,3,2,0,A
+Japon,2023,2023-04-23,Consadole Sapporo,Avispa Fukuoka,2,2,2,0,D
+Japon,2023,2023-04-23,Cerezo Osaka,Kashiwa Reysol,1,0,1,0,H
+Japon,2023,2023-04-23,Kyoto Sanga,Sagan Tosu,2,3,1,1,A
+Japon,2023,2023-04-23,Albirex Niigata,Kashima,0,2,0,0,A
+Japon,2023,2023-04-23,Nagoya Grampus,Shonan Bellmare,2,2,1,1,D
+Japon,2023,2023-04-23,Gamba Osaka,Yokohama FC,1,1,1,0,D
+Japon,2023,2023-04-23,Kawasaki Frontale,Urawa,1,1,0,1,D
+Japon,2023,2023-04-29,Vissel Kobe,Shonan Bellmare,2,0,1,1,H
+Japon,2023,2023-04-29,Cerezo Osaka,Sanfrecce Hiroshima,0,1,0,0,A
+Japon,2023,2023-04-29,Yokohama FC,Consadole Sapporo,1,4,1,0,A
+Japon,2023,2023-04-29,Kashiwa Reysol,Kyoto Sanga,1,1,0,1,D
+Japon,2023,2023-04-29,FC Tokyo,Albirex Niigata,2,1,2,0,H
+Japon,2023,2023-04-29,Yokohama F. Marinos,Nagoya Grampus,1,1,0,1,D
+Japon,2023,2023-04-29,Avispa Fukuoka,Kawasaki Frontale,1,3,0,1,A
+Japon,2023,2023-04-29,Kashima,Gamba Osaka,4,0,0,4,H
+Japon,2023,2023-05-03,Consadole Sapporo,Kashima,0,1,0,0,A
+Japon,2023,2023-05-03,Gamba Osaka,Cerezo Osaka,1,2,0,1,A
+Japon,2023,2023-05-03,Kyoto Sanga,Kawasaki Frontale,0,1,0,0,A
+Japon,2023,2023-05-03,Shonan Bellmare,Kashiwa Reysol,1,2,1,0,A
+Japon,2023,2023-05-03,Nagoya Grampus,Vissel Kobe,2,2,0,2,D
+Japon,2023,2023-05-03,Sagan Tosu,Yokohama F. Marinos,1,3,1,0,A
+Japon,2023,2023-05-03,Avispa Fukuoka,FC Tokyo,1,0,0,1,H
+Japon,2023,2023-05-03,Yokohama FC,Albirex Niigata,1,0,0,1,H
+Japon,2023,2023-05-06,Consadole Sapporo,FC Tokyo,5,1,3,2,H
+Japon,2023,2023-05-06,Nagoya Grampus,Gamba Osaka,1,0,0,1,H
+Japon,2023,2023-05-07,Sanfrecce Hiroshima,Avispa Fukuoka,3,1,0,3,H
+Japon,2023,2023-05-07,Vissel Kobe,Yokohama FC,3,0,1,2,H
+Japon,2023,2023-05-07,Cerezo Osaka,Kashima,0,1,0,0,A
+Japon,2023,2023-05-07,Yokohama F. Marinos,Kyoto Sanga,4,1,1,3,H
+Japon,2023,2023-05-07,Albirex Niigata,Kashiwa Reysol,0,0,0,0,D
+Japon,2023,2023-05-07,Kawasaki Frontale,Sagan Tosu,1,0,0,1,H
+Japon,2023,2023-05-10,Urawa,Sagan Tosu,0,2,0,0,A
+Japon,2023,2023-05-12,FC Tokyo,Kawasaki Frontale,2,1,2,0,H
+Japon,2023,2023-05-13,Vissel Kobe,Sanfrecce Hiroshima,2,0,0,2,H
+Japon,2023,2023-05-13,Shonan Bellmare,Consadole Sapporo,2,4,0,2,A
+Japon,2023,2023-05-13,Kashiwa Reysol,Yokohama FC,0,1,0,0,A
+Japon,2023,2023-05-14,Kashima,Nagoya Grampus,2,0,1,1,H
+Japon,2023,2023-05-14,Kyoto Sanga,Cerezo Osaka,0,1,0,0,A
+Japon,2023,2023-05-14,Albirex Niigata,Yokohama F. Marinos,2,1,0,2,H
+Japon,2023,2023-05-14,Avispa Fukuoka,Sagan Tosu,0,0,0,0,D
+Japon,2023,2023-05-14,Urawa,Gamba Osaka,3,1,1,2,H
+Japon,2023,2023-05-19,Consadole Sapporo,Kyoto Sanga,2,1,1,1,H
+Japon,2023,2023-05-20,Avispa Fukuoka,Urawa,0,0,0,0,D
+Japon,2023,2023-05-20,Shonan Bellmare,Cerezo Osaka,0,2,0,0,A
+Japon,2023,2023-05-20,Nagoya Grampus,Sanfrecce Hiroshima,2,1,1,1,H
+Japon,2023,2023-05-20,Kashima,FC Tokyo,1,1,1,0,D
+Japon,2023,2023-05-20,Kashiwa Reysol,Vissel Kobe,1,1,0,1,D
+Japon,2023,2023-05-20,Yokohama FC,Kawasaki Frontale,2,1,1,1,H
+Japon,2023,2023-05-20,Sagan Tosu,Albirex Niigata,2,0,1,1,H
+Japon,2023,2023-05-20,Gamba Osaka,Yokohama F. Marinos,0,2,0,0,A
+Japon,2023,2023-05-27,Consadole Sapporo,Nagoya Grampus,1,2,0,1,A
+Japon,2023,2023-05-27,Sanfrecce Hiroshima,Shonan Bellmare,1,0,0,1,H
+Japon,2023,2023-05-27,Vissel Kobe,FC Tokyo,3,2,3,0,H
+Japon,2023,2023-05-27,Sagan Tosu,Kashima,2,2,1,1,D
+Japon,2023,2023-05-27,Kyoto Sanga,Urawa,0,2,0,0,A
+Japon,2023,2023-05-28,Cerezo Osaka,Yokohama FC,2,0,1,1,H
+Japon,2023,2023-05-28,Yokohama F. Marinos,Avispa Fukuoka,2,0,2,0,H
+Japon,2023,2023-05-28,Albirex Niigata,Gamba Osaka,1,3,0,1,A
+Japon,2023,2023-05-28,Kawasaki Frontale,Kashiwa Reysol,2,0,2,0,H
+Japon,2023,2023-05-31,Urawa,Sanfrecce Hiroshima,2,1,0,2,H
+Japon,2023,2023-06-03,Shonan Bellmare,Albirex Niigata,2,2,1,1,D
+Japon,2023,2023-06-03,FC Tokyo,Yokohama F. Marinos,2,3,2,0,A
+Japon,2023,2023-06-03,Nagoya Grampus,Cerezo Osaka,3,1,3,0,H
+Japon,2023,2023-06-03,Avispa Fukuoka,Gamba Osaka,1,2,1,0,A
+Japon,2023,2023-06-03,Yokohama FC,Sagan Tosu,1,2,0,1,A
+Japon,2023,2023-06-03,Kashiwa Reysol,Consadole Sapporo,4,5,2,2,A
+Japon,2023,2023-06-04,Sanfrecce Hiroshima,Kyoto Sanga,3,1,0,3,H
+Japon,2023,2023-06-04,Urawa,Kashima,0,0,0,0,D
+Japon,2023,2023-06-10,Yokohama F. Marinos,Kashiwa Reysol,4,3,2,2,H
+Japon,2023,2023-06-10,Cerezo Osaka,Vissel Kobe,2,1,0,2,H
+Japon,2023,2023-06-10,Sagan Tosu,Consadole Sapporo,1,1,0,1,D
+Japon,2023,2023-06-11,Albirex Niigata,Kyoto Sanga,1,3,0,1,A
+Japon,2023,2023-06-11,Nagoya Grampus,Avispa Fukuoka,2,1,1,1,H
+Japon,2023,2023-06-11,Kashima,Shonan Bellmare,1,0,1,0,H
+Japon,2023,2023-06-11,Gamba Osaka,FC Tokyo,3,1,2,1,H
+Japon,2023,2023-06-11,Yokohama FC,Urawa,0,0,0,0,D
+Japon,2023,2023-06-11,Kawasaki Frontale,Sanfrecce Hiroshima,1,0,0,1,H
+Japon,2023,2023-06-24,Consadole Sapporo,Cerezo Osaka,1,4,1,0,A
+Japon,2023,2023-06-24,Kashiwa Reysol,Albirex Niigata,0,0,0,0,D
+Japon,2023,2023-06-24,Sanfrecce Hiroshima,Yokohama F. Marinos,0,1,0,0,A
+Japon,2023,2023-06-24,Shonan Bellmare,Sagan Tosu,0,6,0,0,A
+Japon,2023,2023-06-24,FC Tokyo,Nagoya Grampus,2,0,1,1,H
+Japon,2023,2023-06-24,Gamba Osaka,Kashima,2,1,2,0,H
+Japon,2023,2023-06-24,Kyoto Sanga,Yokohama FC,2,1,0,2,H
+Japon,2023,2023-06-24,Urawa,Kawasaki Frontale,1,1,0,1,D
+Japon,2023,2023-06-25,Avispa Fukuoka,Vissel Kobe,0,3,0,0,A
+Japon,2023,2023-06-28,Urawa,Shonan Bellmare,4,1,1,3,H
+Japon,2023,2023-06-30,Cerezo Osaka,Avispa Fukuoka,0,1,0,0,A
+Japon,2023,2023-07-01,Nagoya Grampus,Kawasaki Frontale,2,0,1,1,H
+Japon,2023,2023-07-01,Kashima,Kyoto Sanga,0,0,0,0,D
+Japon,2023,2023-07-01,Albirex Niigata,Sanfrecce Hiroshima,2,0,2,0,H
+Japon,2023,2023-07-01,Yokohama FC,Gamba Osaka,0,0,0,0,D
+Japon,2023,2023-07-01,Vissel Kobe,Consadole Sapporo,1,1,0,1,D
+Japon,2023,2023-07-01,FC Tokyo,Kashiwa Reysol,1,0,1,0,H
+Japon,2023,2023-07-01,Sagan Tosu,Urawa,1,2,1,0,A
+Japon,2023,2023-07-02,Yokohama F. Marinos,Shonan Bellmare,4,1,2,2,H
+Japon,2023,2023-07-07,Albirex Niigata,Vissel Kobe,0,1,0,0,A
+Japon,2023,2023-07-08,Nagoya Grampus,Yokohama F. Marinos,2,2,1,1,D
+Japon,2023,2023-07-08,Sanfrecce Hiroshima,Kashima,1,1,0,1,D
+Japon,2023,2023-07-08,Kashiwa Reysol,Shonan Bellmare,1,1,1,0,D
+Japon,2023,2023-07-08,Urawa,FC Tokyo,0,0,0,0,D
+Japon,2023,2023-07-08,Gamba Osaka,Kyoto Sanga,1,0,0,1,H
+Japon,2023,2023-07-08,Kawasaki Frontale,Yokohama FC,3,0,2,1,H
+Japon,2023,2023-07-08,Avispa Fukuoka,Consadole Sapporo,2,1,0,2,H
+Japon,2023,2023-07-08,Sagan Tosu,Cerezo Osaka,2,1,0,2,H
+Japon,2023,2023-07-15,Consadole Sapporo,Albirex Niigata,0,1,0,0,A
+Japon,2023,2023-07-15,Yokohama F. Marinos,Kawasaki Frontale,0,1,0,0,A
+Japon,2023,2023-07-16,Sanfrecce Hiroshima,Yokohama FC,1,1,0,1,D
+Japon,2023,2023-07-16,Shonan Bellmare,Avispa Fukuoka,0,1,0,0,A
+Japon,2023,2023-07-16,Vissel Kobe,Sagan Tosu,2,1,0,2,H
+Japon,2023,2023-07-16,Cerezo Osaka,Urawa,2,0,2,0,H
+Japon,2023,2023-07-16,FC Tokyo,Kashima,1,3,1,0,A
+Japon,2023,2023-07-16,Gamba Osaka,Kashiwa Reysol,3,1,1,2,H
+Japon,2023,2023-07-16,Kyoto Sanga,Nagoya Grampus,2,1,1,1,H
+Japon,2023,2023-07-22,Vissel Kobe,Kawasaki Frontale,2,2,0,2,D
+Japon,2023,2023-08-05,Shonan Bellmare,Sanfrecce Hiroshima,1,0,0,1,H
+Japon,2023,2023-08-05,Nagoya Grampus,Albirex Niigata,1,0,1,0,H
+Japon,2023,2023-08-06,Kashima,Consadole Sapporo,3,0,2,1,H
+Japon,2023,2023-08-06,Yokohama FC,Vissel Kobe,2,0,1,1,H
+Japon,2023,2023-08-06,Urawa,Yokohama F. Marinos,0,0,0,0,D
+Japon,2023,2023-08-06,Cerezo Osaka,FC Tokyo,0,1,0,0,A
+Japon,2023,2023-08-06,Kawasaki Frontale,Gamba Osaka,3,4,1,2,A
+Japon,2023,2023-08-06,Sagan Tosu,Avispa Fukuoka,0,1,0,0,A
+Japon,2023,2023-08-06,Kyoto Sanga,Kashiwa Reysol,0,1,0,0,A
+Japon,2023,2023-08-12,Consadole Sapporo,Sagan Tosu,1,1,0,1,D
+Japon,2023,2023-08-12,Albirex Niigata,Shonan Bellmare,2,2,0,2,D
+Japon,2023,2023-08-12,Kashiwa Reysol,Cerezo Osaka,1,1,1,0,D
+Japon,2023,2023-08-12,FC Tokyo,Kyoto Sanga,2,0,1,1,H
+Japon,2023,2023-08-12,Kawasaki Frontale,Vissel Kobe,0,1,0,0,A
+Japon,2023,2023-08-12,Avispa Fukuoka,Yokohama FC,2,0,1,1,H
+Japon,2023,2023-08-12,Yokohama F. Marinos,Gamba Osaka,2,1,1,1,H
+Japon,2023,2023-08-13,Sanfrecce Hiroshima,Urawa,2,1,0,2,H
+Japon,2023,2023-08-13,Nagoya Grampus,Kashima,1,0,1,0,H
+Japon,2023,2023-08-18,Avispa Fukuoka,Albirex Niigata,0,1,0,0,A
+Japon,2023,2023-08-18,Urawa,Nagoya Grampus,1,0,1,0,H
+Japon,2023,2023-08-19,Kashima,Sagan Tosu,2,1,1,1,H
+Japon,2023,2023-08-19,Sanfrecce Hiroshima,Kawasaki Frontale,3,2,1,2,H
+Japon,2023,2023-08-19,Vissel Kobe,Kashiwa Reysol,1,1,0,1,D
+Japon,2023,2023-08-19,Gamba Osaka,Shonan Bellmare,2,1,1,1,H
+Japon,2023,2023-08-19,Kyoto Sanga,Consadole Sapporo,3,0,1,2,H
+Japon,2023,2023-08-19,Yokohama F. Marinos,FC Tokyo,2,1,1,1,H
+Japon,2023,2023-08-20,Yokohama FC,Cerezo Osaka,0,1,0,0,A
+Japon,2023,2023-08-25,Shonan Bellmare,Urawa,0,1,0,0,A
+Japon,2023,2023-08-26,Kashima,Albirex Niigata,2,0,2,0,H
+Japon,2023,2023-08-26,Yokohama FC,Yokohama F. Marinos,4,1,1,3,H
+Japon,2023,2023-08-26,Kashiwa Reysol,Sanfrecce Hiroshima,0,0,0,0,D
+Japon,2023,2023-08-26,Cerezo Osaka,Nagoya Grampus,3,1,1,2,H
+Japon,2023,2023-08-26,FC Tokyo,Vissel Kobe,2,2,1,1,D
+Japon,2023,2023-08-26,Kawasaki Frontale,Consadole Sapporo,2,2,0,2,D
+Japon,2023,2023-08-26,Sagan Tosu,Gamba Osaka,1,1,0,1,D
+Japon,2023,2023-08-26,Kyoto Sanga,Avispa Fukuoka,2,0,2,0,H
+Japon,2023,2023-09-02,Consadole Sapporo,Gamba Osaka,4,0,1,3,H
+Japon,2023,2023-09-02,Nagoya Grampus,Yokohama FC,1,1,1,0,D
+Japon,2023,2023-09-02,Albirex Niigata,Urawa,1,1,0,1,D
+Japon,2023,2023-09-02,Kashiwa Reysol,Yokohama F. Marinos,2,0,0,2,H
+Japon,2023,2023-09-02,Shonan Bellmare,Kashima,2,2,2,0,D
+Japon,2023,2023-09-02,Cerezo Osaka,Kawasaki Frontale,3,0,0,3,H
+Japon,2023,2023-09-02,Sagan Tosu,Sanfrecce Hiroshima,0,2,0,0,A
+Japon,2023,2023-09-03,Vissel Kobe,Kyoto Sanga,2,1,1,1,H
+Japon,2023,2023-09-03,FC Tokyo,Avispa Fukuoka,1,2,0,1,A
+Japon,2023,2023-09-15,Kawasaki Frontale,FC Tokyo,1,0,0,1,H
+Japon,2023,2023-09-15,Yokohama F. Marinos,Sagan Tosu,1,1,0,1,D
+Japon,2023,2023-09-15,Urawa,Kyoto Sanga,0,0,0,0,D
+Japon,2023,2023-09-16,Kashima,Cerezo Osaka,1,0,1,0,H
+Japon,2023,2023-09-16,Consadole Sapporo,Shonan Bellmare,0,1,0,0,A
+Japon,2023,2023-09-16,Sanfrecce Hiroshima,Vissel Kobe,2,0,2,0,H
+Japon,2023,2023-09-16,Avispa Fukuoka,Nagoya Grampus,1,0,0,1,H
+Japon,2023,2023-09-17,Yokohama FC,Kashiwa Reysol,1,2,0,1,A
+Japon,2023,2023-09-17,Gamba Osaka,Albirex Niigata,1,1,0,1,D
+Japon,2023,2023-09-23,Albirex Niigata,Yokohama FC,3,1,1,2,H
+Japon,2023,2023-09-23,FC Tokyo,Sagan Tosu,3,2,0,3,H
+Japon,2023,2023-09-23,Nagoya Grampus,Consadole Sapporo,1,1,0,1,D
+Japon,2023,2023-09-23,Kashiwa Reysol,Avispa Fukuoka,1,3,1,0,A
+Japon,2023,2023-09-23,Vissel Kobe,Cerezo Osaka,1,0,0,1,H
+Japon,2023,2023-09-23,Kyoto Sanga,Sanfrecce Hiroshima,1,0,0,1,H
+Japon,2023,2023-09-24,Kashima,Yokohama F. Marinos,1,2,1,0,A
+Japon,2023,2023-09-24,Shonan Bellmare,Kawasaki Frontale,0,2,0,0,A
+Japon,2023,2023-09-24,Gamba Osaka,Urawa,1,3,1,0,A
+Japon,2023,2023-09-29,Kawasaki Frontale,Albirex Niigata,2,3,1,1,A
+Japon,2023,2023-09-29,Yokohama F. Marinos,Vissel Kobe,0,2,0,0,A
+Japon,2023,2023-09-29,Urawa,Yokohama FC,1,1,0,1,D
+Japon,2023,2023-09-30,Consadole Sapporo,Kashiwa Reysol,1,2,0,1,A
+Japon,2023,2023-09-30,Avispa Fukuoka,Kashima,0,0,0,0,D
+Japon,2023,2023-09-30,Cerezo Osaka,Shonan Bellmare,0,2,0,0,A
+Japon,2023,2023-09-30,Sanfrecce Hiroshima,Nagoya Grampus,3,1,0,3,H
+Japon,2023,2023-09-30,Sagan Tosu,Kyoto Sanga,3,2,1,2,H
+Japon,2023,2023-10-01,FC Tokyo,Gamba Osaka,3,0,2,1,H
+Japon,2023,2023-10-20,Kawasaki Frontale,Avispa Fukuoka,4,2,1,3,H
+Japon,2023,2023-10-20,Urawa,Kashiwa Reysol,2,0,0,2,H
+Japon,2023,2023-10-21,Albirex Niigata,Sagan Tosu,1,1,1,0,D
+Japon,2023,2023-10-21,Vissel Kobe,Kashima,3,1,2,1,H
+Japon,2023,2023-10-21,Gamba Osaka,Nagoya Grampus,0,1,0,0,A
+Japon,2023,2023-10-21,Yokohama F. Marinos,Consadole Sapporo,4,1,1,3,H
+Japon,2023,2023-10-21,Yokohama FC,FC Tokyo,1,0,1,0,H
+Japon,2023,2023-10-21,Kyoto Sanga,Shonan Bellmare,0,1,0,0,A
+Japon,2023,2023-10-21,Sanfrecce Hiroshima,Cerezo Osaka,0,0,0,0,D
+Japon,2023,2023-10-27,Nagoya Grampus,Sagan Tosu,1,1,0,1,D
+Japon,2023,2023-10-28,Consadole Sapporo,Yokohama FC,2,1,2,0,H
+Japon,2023,2023-10-28,Shonan Bellmare,Vissel Kobe,1,1,1,0,D
+Japon,2023,2023-10-28,Kashima,Urawa,0,0,0,0,D
+Japon,2023,2023-10-28,Cerezo Osaka,Gamba Osaka,1,0,1,0,H
+Japon,2023,2023-10-28,Kyoto Sanga,Albirex Niigata,0,1,0,0,A
+Japon,2023,2023-10-28,Avispa Fukuoka,Yokohama F. Marinos,0,4,0,0,A
+Japon,2023,2023-10-28,FC Tokyo,Sanfrecce Hiroshima,1,2,0,1,A
+Japon,2023,2023-10-29,Kashiwa Reysol,Kawasaki Frontale,1,1,1,0,D
+Japon,2023,2023-11-11,Consadole Sapporo,Sanfrecce Hiroshima,0,0,0,0,D
+Japon,2023,2023-11-11,Shonan Bellmare,Nagoya Grampus,2,1,2,0,H
+Japon,2023,2023-11-11,Albirex Niigata,FC Tokyo,0,0,0,0,D
+Japon,2023,2023-11-11,Kashima,Kashiwa Reysol,1,1,0,1,D
+Japon,2023,2023-11-11,Gamba Osaka,Avispa Fukuoka,1,2,1,0,A
+Japon,2023,2023-11-11,Sagan Tosu,Yokohama FC,1,3,1,0,A
+Japon,2023,2023-11-12,Kawasaki Frontale,Kyoto Sanga,3,3,2,1,D
+Japon,2023,2023-11-12,Yokohama F. Marinos,Cerezo Osaka,2,0,2,0,H
+Japon,2023,2023-11-12,Urawa,Vissel Kobe,1,2,0,1,A
+Japon,2023,2023-11-24,Kawasaki Frontale,Kashima,3,0,1,2,H
+Japon,2023,2023-11-24,Yokohama F. Marinos,Albirex Niigata,0,0,0,0,D
+Japon,2023,2023-11-25,Kashiwa Reysol,Sagan Tosu,2,2,2,0,D
+Japon,2023,2023-11-25,Sanfrecce Hiroshima,Gamba Osaka,3,0,2,1,H
+Japon,2023,2023-11-25,Urawa,Avispa Fukuoka,2,3,1,1,A
+Japon,2023,2023-11-25,Vissel Kobe,Nagoya Grampus,2,1,2,0,H
+Japon,2023,2023-11-25,Cerezo Osaka,Kyoto Sanga,0,1,0,0,A
+Japon,2023,2023-11-25,FC Tokyo,Consadole Sapporo,1,3,1,0,A
+Japon,2023,2023-11-25,Yokohama FC,Shonan Bellmare,0,1,0,0,A
+Japon,2023,2023-12-03,Consadole Sapporo,Urawa,0,2,0,0,A
+Japon,2023,2023-12-03,Shonan Bellmare,FC Tokyo,0,1,0,0,A
+Japon,2023,2023-12-03,Nagoya Grampus,Kashiwa Reysol,1,1,0,1,D
+Japon,2023,2023-12-03,Kashima,Yokohama FC,2,1,2,0,H
+Japon,2023,2023-12-03,Gamba Osaka,Vissel Kobe,0,1,0,0,A
+Japon,2023,2023-12-03,Sagan Tosu,Kawasaki Frontale,0,1,0,0,A
+Japon,2023,2023-12-03,Kyoto Sanga,Yokohama F. Marinos,3,1,1,2,H
+Japon,2023,2023-12-03,Albirex Niigata,Cerezo Osaka,1,0,0,1,H
+Japon,2023,2023-12-03,Avispa Fukuoka,Sanfrecce Hiroshima,0,1,0,0,A

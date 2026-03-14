@@ -1,0 +1,557 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+4497,Championship,2024,2024-08-09,Preston,Sheffield Utd,0,2,0,0,A
+4498,Championship,2024,2024-08-09,Blackburn,Derby,4,2,1,3,H
+4499,Championship,2024,2024-08-10,Cardiff,Sunderland,0,2,0,0,A
+4500,Championship,2024,2024-08-10,Millwall,Watford,2,3,0,2,A
+4501,Championship,2024,2024-08-10,Leeds,Portsmouth,3,3,1,2,D
+4502,Championship,2024,2024-08-10,Hull City,Bristol City,1,1,0,1,D
+4503,Championship,2024,2024-08-10,Middlesbrough,Swansea,1,0,1,0,H
+4504,Championship,2024,2024-08-10,QPR,West Brom,1,3,1,0,A
+4505,Championship,2024,2024-08-10,Stoke City,Coventry,1,0,0,1,H
+4506,Championship,2024,2024-08-10,Oxford United,Norwich,2,0,1,1,H
+4507,Championship,2024,2024-08-11,Sheffield Wednesday,Plymouth,4,0,1,3,H
+4508,Championship,2024,2024-08-12,Luton,Burnley,1,4,0,1,A
+4509,Championship,2024,2024-08-16,Coventry,Oxford United,3,2,2,1,H
+4510,Championship,2024,2024-08-17,West Brom,Leeds,0,0,0,0,D
+4511,Championship,2024,2024-08-17,Derby,Middlesbrough,1,0,1,0,H
+4512,Championship,2024,2024-08-17,Portsmouth,Luton,0,0,0,0,D
+4513,Championship,2024,2024-08-17,Watford,Stoke City,3,0,0,3,H
+4514,Championship,2024,2024-08-17,Burnley,Cardiff,5,0,2,3,H
+4515,Championship,2024,2024-08-17,Bristol City,Millwall,4,3,2,2,H
+4516,Championship,2024,2024-08-17,Sheffield Utd,QPR,2,2,2,0,D
+4517,Championship,2024,2024-08-17,Norwich,Blackburn,2,2,0,2,D
+4518,Championship,2024,2024-08-17,Swansea,Preston,3,0,1,2,H
+4519,Championship,2024,2024-08-17,Plymouth,Hull City,1,1,0,1,D
+4520,Championship,2024,2024-08-18,Sunderland,Sheffield Wednesday,4,0,3,1,H
+4521,Championship,2024,2024-08-23,Sheffield Wednesday,Leeds,0,2,0,0,A
+4522,Championship,2024,2024-08-24,Bristol City,Coventry,1,1,1,0,D
+4523,Championship,2024,2024-08-24,Hull City,Millwall,0,0,0,0,D
+4524,Championship,2024,2024-08-24,QPR,Plymouth,1,1,1,0,D
+4525,Championship,2024,2024-08-24,Watford,Derby,2,1,1,1,H
+4526,Championship,2024,2024-08-24,Preston,Luton,1,0,1,0,H
+4527,Championship,2024,2024-08-24,Blackburn,Oxford United,2,1,1,1,H
+4528,Championship,2024,2024-08-24,Middlesbrough,Portsmouth,2,2,1,1,D
+4529,Championship,2024,2024-08-24,Norwich,Sheffield Utd,1,1,1,0,D
+4530,Championship,2024,2024-08-24,Stoke City,West Brom,1,2,1,0,A
+4531,Championship,2024,2024-08-24,Sunderland,Burnley,1,0,1,0,H
+4532,Championship,2024,2024-08-25,Swansea,Cardiff,1,1,1,0,D
+4533,Championship,2024,2024-08-30,Luton,QPR,1,2,1,0,A
+4534,Championship,2024,2024-08-31,Cardiff,Middlesbrough,0,2,0,0,A
+4535,Championship,2024,2024-08-31,Burnley,Blackburn,1,1,1,0,D
+4536,Championship,2024,2024-08-31,Coventry,Norwich,0,1,0,0,A
+4537,Championship,2024,2024-08-31,Millwall,Sheffield Wednesday,3,0,0,3,H
+4538,Championship,2024,2024-08-31,West Brom,Swansea,1,0,1,0,H
+4539,Championship,2024,2024-08-31,Leeds,Hull City,2,0,0,2,H
+4540,Championship,2024,2024-08-31,Derby,Bristol City,3,0,1,2,H
+4541,Championship,2024,2024-08-31,Oxford United,Preston,3,1,1,2,H
+4542,Championship,2024,2024-08-31,Portsmouth,Sunderland,1,3,0,1,A
+4543,Championship,2024,2024-08-31,Plymouth,Stoke City,0,1,0,0,A
+4544,Championship,2024,2024-09-01,Sheffield Utd,Watford,1,0,1,0,H
+4545,Championship,2024,2024-09-13,Hull City,Sheffield Utd,0,2,0,0,A
+4546,Championship,2024,2024-09-14,Millwall,Luton,0,1,0,0,A
+4547,Championship,2024,2024-09-14,Leeds,Burnley,0,1,0,0,A
+4548,Championship,2024,2024-09-14,Oxford United,Stoke City,1,0,0,1,H
+4549,Championship,2024,2024-09-14,Watford,Coventry,1,1,0,1,D
+4550,Championship,2024,2024-09-14,Blackburn,Bristol City,3,0,1,2,H
+4551,Championship,2024,2024-09-14,Derby,Cardiff,1,0,1,0,H
+4552,Championship,2024,2024-09-14,Middlesbrough,Preston,1,1,1,0,D
+4553,Championship,2024,2024-09-14,Sheffield Wednesday,QPR,1,1,0,1,D
+4554,Championship,2024,2024-09-14,Swansea,Norwich,1,0,1,0,H
+4555,Championship,2024,2024-09-14,Plymouth,Sunderland,3,2,0,3,H
+4556,Championship,2024,2024-09-15,Portsmouth,West Brom,0,3,0,0,A
+4557,Championship,2024,2024-09-20,Stoke City,Hull City,1,3,1,0,A
+4558,Championship,2024,2024-09-21,Norwich,Watford,4,1,2,2,H
+4559,Championship,2024,2024-09-21,QPR,Millwall,1,1,1,0,D
+4560,Championship,2024,2024-09-21,Sunderland,Middlesbrough,1,0,1,0,H
+4561,Championship,2024,2024-09-21,Cardiff,Leeds,0,2,0,0,A
+4562,Championship,2024,2024-09-21,Burnley,Portsmouth,2,1,0,2,H
+4563,Championship,2024,2024-09-21,Bristol City,Oxford United,2,1,0,2,H
+4564,Championship,2024,2024-09-21,West Brom,Plymouth,1,0,0,1,H
+4565,Championship,2024,2024-09-21,Sheffield Utd,Derby,1,0,0,1,H
+4566,Championship,2024,2024-09-21,Coventry,Swansea,1,2,1,0,A
+4567,Championship,2024,2024-09-21,Luton,Sheffield Wednesday,2,1,0,2,H
+4568,Championship,2024,2024-09-22,Preston,Blackburn,0,0,0,0,D
+4569,Championship,2024,2024-09-27,Plymouth,Luton,3,1,1,2,H
+4570,Championship,2024,2024-09-28,Blackburn,QPR,2,0,0,2,H
+4571,Championship,2024,2024-09-28,Derby,Norwich,2,3,0,2,A
+4572,Championship,2024,2024-09-28,Sheffield Wednesday,West Brom,3,2,2,1,H
+4573,Championship,2024,2024-09-28,Watford,Sunderland,2,1,1,1,H
+4574,Championship,2024,2024-09-28,Millwall,Preston,3,1,2,1,H
+4575,Championship,2024,2024-09-28,Leeds,Coventry,3,0,1,2,H
+4576,Championship,2024,2024-09-28,Hull City,Cardiff,4,1,2,2,H
+4577,Championship,2024,2024-09-28,Middlesbrough,Stoke City,2,0,1,1,H
+4578,Championship,2024,2024-09-28,Oxford United,Burnley,0,0,0,0,D
+4579,Championship,2024,2024-09-28,Portsmouth,Sheffield Utd,0,0,0,0,D
+4580,Championship,2024,2024-09-29,Swansea,Bristol City,1,1,1,0,D
+4581,Championship,2024,2024-10-01,Cardiff,Millwall,1,0,1,0,H
+4582,Championship,2024,2024-10-01,Burnley,Plymouth,1,0,1,0,H
+4583,Championship,2024,2024-10-01,Norwich,Leeds,1,1,1,0,D
+4584,Championship,2024,2024-10-01,QPR,Hull City,1,3,1,0,A
+4585,Championship,2024,2024-10-01,Sunderland,Derby,2,0,1,1,H
+4586,Championship,2024,2024-10-01,Coventry,Blackburn,3,0,1,2,H
+4587,Championship,2024,2024-10-01,Luton,Oxford United,2,2,2,0,D
+4588,Championship,2024,2024-10-01,West Brom,Middlesbrough,0,1,0,0,A
+4589,Championship,2024,2024-10-02,Preston,Watford,3,0,0,3,H
+4590,Championship,2024,2024-10-02,Sheffield Utd,Swansea,1,0,1,0,H
+4591,Championship,2024,2024-10-02,Stoke City,Portsmouth,6,1,3,3,H
+4592,Championship,2024,2024-10-02,Bristol City,Sheffield Wednesday,0,0,0,0,D
+4593,Championship,2024,2024-10-04,Sunderland,Leeds,2,2,1,1,D
+4594,Championship,2024,2024-10-05,Burnley,Preston,0,0,0,0,D
+4595,Championship,2024,2024-10-05,Norwich,Hull City,4,0,2,2,H
+4596,Championship,2024,2024-10-05,Portsmouth,Oxford United,1,1,0,1,D
+4597,Championship,2024,2024-10-05,Watford,Middlesbrough,2,1,0,2,H
+4598,Championship,2024,2024-10-05,West Brom,Millwall,0,0,0,0,D
+4599,Championship,2024,2024-10-05,Sheffield Utd,Luton,2,0,1,1,H
+4600,Championship,2024,2024-10-05,Derby,QPR,2,0,0,2,H
+4601,Championship,2024,2024-10-05,Swansea,Stoke City,0,0,0,0,D
+4602,Championship,2024,2024-10-05,Coventry,Sheffield Wednesday,1,2,1,0,A
+4603,Championship,2024,2024-10-05,Plymouth,Blackburn,2,1,1,1,H
+4604,Championship,2024,2024-10-06,Bristol City,Cardiff,1,1,0,1,D
+4605,Championship,2024,2024-10-18,Leeds,Sheffield Utd,2,0,0,2,H
+4606,Championship,2024,2024-10-19,Cardiff,Plymouth,5,0,2,3,H
+4607,Championship,2024,2024-10-19,Preston,Coventry,1,0,0,1,H
+4608,Championship,2024,2024-10-19,Oxford United,West Brom,1,1,0,1,D
+4609,Championship,2024,2024-10-19,Luton,Watford,3,0,1,2,H
+4610,Championship,2024,2024-10-19,Millwall,Derby,1,1,0,1,D
+4611,Championship,2024,2024-10-19,Blackburn,Swansea,1,0,1,0,H
+4612,Championship,2024,2024-10-19,Middlesbrough,Bristol City,0,2,0,0,A
+4613,Championship,2024,2024-10-19,QPR,Portsmouth,1,2,1,0,A
+4614,Championship,2024,2024-10-19,Sheffield Wednesday,Burnley,0,2,0,0,A
+4615,Championship,2024,2024-10-19,Stoke City,Norwich,1,1,1,0,D
+4616,Championship,2024,2024-10-20,Hull City,Sunderland,0,1,0,0,A
+4617,Championship,2024,2024-10-22,Cardiff,Portsmouth,2,0,2,0,H
+4618,Championship,2024,2024-10-22,Preston,Norwich,2,2,2,0,D
+4619,Championship,2024,2024-10-22,Leeds,Watford,2,1,2,0,H
+4620,Championship,2024,2024-10-22,Sheffield Wednesday,Swansea,0,0,0,0,D
+4621,Championship,2024,2024-10-22,Stoke City,Bristol City,2,2,2,0,D
+4622,Championship,2024,2024-10-22,Oxford United,Derby,1,1,1,0,D
+4623,Championship,2024,2024-10-22,QPR,Coventry,1,1,0,1,D
+4624,Championship,2024,2024-10-23,Millwall,Plymouth,1,0,1,0,H
+4625,Championship,2024,2024-10-23,Hull City,Burnley,1,1,1,0,D
+4626,Championship,2024,2024-10-23,Blackburn,West Brom,0,0,0,0,D
+4627,Championship,2024,2024-10-23,Luton,Sunderland,1,2,0,1,A
+4628,Championship,2024,2024-10-23,Middlesbrough,Sheffield Utd,1,0,0,1,H
+4629,Championship,2024,2024-10-25,Portsmouth,Sheffield Wednesday,1,2,1,0,A
+4630,Championship,2024,2024-10-26,Watford,Blackburn,1,0,0,1,H
+4631,Championship,2024,2024-10-26,Bristol City,Leeds,0,0,0,0,D
+4632,Championship,2024,2024-10-26,Coventry,Luton,3,2,0,3,H
+4633,Championship,2024,2024-10-26,Burnley,QPR,0,0,0,0,D
+4634,Championship,2024,2024-10-26,West Brom,Cardiff,0,0,0,0,D
+4635,Championship,2024,2024-10-26,Sheffield Utd,Stoke City,2,0,1,1,H
+4636,Championship,2024,2024-10-26,Derby,Hull City,1,1,0,1,D
+4637,Championship,2024,2024-10-26,Swansea,Millwall,0,1,0,0,A
+4638,Championship,2024,2024-10-26,Sunderland,Oxford United,2,0,1,1,H
+4639,Championship,2024,2024-10-26,Plymouth,Preston,3,3,0,3,D
+4640,Championship,2024,2024-10-27,Norwich,Middlesbrough,3,3,1,2,D
+4641,Championship,2024,2024-11-01,Luton,West Brom,1,1,0,1,D
+4642,Championship,2024,2024-11-02,Blackburn,Sheffield Utd,0,2,0,0,A
+4643,Championship,2024,2024-11-02,Stoke City,Derby,2,1,1,1,H
+4644,Championship,2024,2024-11-02,Oxford United,Swansea,1,2,0,1,A
+4645,Championship,2024,2024-11-02,Cardiff,Norwich,2,1,0,2,H
+4646,Championship,2024,2024-11-02,Preston,Bristol City,1,3,0,1,A
+4647,Championship,2024,2024-11-02,Leeds,Plymouth,3,0,3,0,H
+4648,Championship,2024,2024-11-02,Hull City,Portsmouth,1,1,1,0,D
+4649,Championship,2024,2024-11-02,Middlesbrough,Coventry,0,3,0,0,A
+4650,Championship,2024,2024-11-02,QPR,Sunderland,0,0,0,0,D
+4651,Championship,2024,2024-11-02,Sheffield Wednesday,Watford,2,6,1,1,A
+4652,Championship,2024,2024-11-03,Millwall,Burnley,1,0,0,1,H
+4653,Championship,2024,2024-11-05,Bristol City,Sheffield Utd,1,2,0,1,A
+4654,Championship,2024,2024-11-05,QPR,Middlesbrough,1,4,0,1,A
+4655,Championship,2024,2024-11-05,Sheffield Wednesday,Norwich,2,0,2,0,H
+4656,Championship,2024,2024-11-05,Oxford United,Hull City,1,0,0,1,H
+4657,Championship,2024,2024-11-05,Swansea,Watford,1,0,1,0,H
+4658,Championship,2024,2024-11-05,Plymouth,Portsmouth,1,0,0,1,H
+4659,Championship,2024,2024-11-06,Millwall,Leeds,1,0,1,0,H
+4660,Championship,2024,2024-11-06,Blackburn,Stoke City,0,2,0,0,A
+4661,Championship,2024,2024-11-06,Coventry,Derby,1,2,0,1,A
+4662,Championship,2024,2024-11-06,Preston,Sunderland,0,0,0,0,D
+4663,Championship,2024,2024-11-06,Luton,Cardiff,1,0,0,1,H
+4664,Championship,2024,2024-11-07,West Brom,Burnley,0,0,0,0,D
+4665,Championship,2024,2024-11-08,Watford,Oxford United,1,0,0,1,H
+4666,Championship,2024,2024-11-09,Cardiff,Blackburn,1,3,0,1,A
+4667,Championship,2024,2024-11-09,Middlesbrough,Luton,5,1,2,3,H
+4668,Championship,2024,2024-11-09,Stoke City,Millwall,1,1,0,1,D
+4669,Championship,2024,2024-11-09,Leeds,QPR,2,0,1,1,H
+4670,Championship,2024,2024-11-09,Derby,Plymouth,1,1,1,0,D
+4671,Championship,2024,2024-11-09,Norwich,Bristol City,0,2,0,0,A
+4672,Championship,2024,2024-11-09,Sunderland,Coventry,2,2,2,0,D
+4673,Championship,2024,2024-11-09,Portsmouth,Preston,3,1,2,1,H
+4674,Championship,2024,2024-11-10,Sheffield Utd,Sheffield Wednesday,1,0,0,1,H
+4675,Championship,2024,2024-11-10,Hull City,West Brom,1,2,1,0,A
+4676,Championship,2024,2024-11-10,Burnley,Swansea,1,0,0,1,H
+4677,Championship,2024,2024-11-22,Plymouth,Watford,2,2,1,1,D
+4678,Championship,2024,2024-11-23,Bristol City,Burnley,0,1,0,0,A
+4679,Championship,2024,2024-11-23,Sheffield Wednesday,Cardiff,1,1,1,0,D
+4680,Championship,2024,2024-11-23,Coventry,Sheffield Utd,2,2,1,1,D
+4681,Championship,2024,2024-11-23,Millwall,Sunderland,1,1,0,1,D
+4682,Championship,2024,2024-11-23,Preston,Derby,1,1,1,0,D
+4683,Championship,2024,2024-11-23,West Brom,Norwich,2,2,2,0,D
+4684,Championship,2024,2024-11-23,QPR,Stoke City,1,1,0,1,D
+4685,Championship,2024,2024-11-23,Oxford United,Middlesbrough,2,6,1,1,A
+4686,Championship,2024,2024-11-23,Luton,Hull City,1,0,1,0,H
+4687,Championship,2024,2024-11-24,Swansea,Leeds,3,4,2,1,A
+4688,Championship,2024,2024-11-26,Watford,Bristol City,1,0,0,1,H
+4689,Championship,2024,2024-11-26,Burnley,Coventry,2,0,0,2,H
+4690,Championship,2024,2024-11-26,Sheffield Utd,Oxford United,3,0,2,1,H
+4691,Championship,2024,2024-11-26,Hull City,Sheffield Wednesday,0,2,0,0,A
+4692,Championship,2024,2024-11-26,Norwich,Plymouth,6,1,2,4,H
+4693,Championship,2024,2024-11-26,Stoke City,Preston,0,0,0,0,D
+4694,Championship,2024,2024-11-26,Sunderland,West Brom,0,0,0,0,D
+4695,Championship,2024,2024-11-27,Cardiff,QPR,0,2,0,0,A
+4696,Championship,2024,2024-11-27,Leeds,Luton,3,0,2,1,H
+4697,Championship,2024,2024-11-27,Middlesbrough,Blackburn,0,1,0,0,A
+4698,Championship,2024,2024-11-27,Derby,Swansea,1,2,0,1,A
+4699,Championship,2024,2024-11-29,Sheffield Utd,Sunderland,1,0,0,1,H
+4700,Championship,2024,2024-11-30,Watford,QPR,0,0,0,0,D
+4701,Championship,2024,2024-11-30,Middlesbrough,Hull City,3,1,2,1,H
+4702,Championship,2024,2024-11-30,Oxford United,Millwall,1,1,0,1,D
+4703,Championship,2024,2024-11-30,Blackburn,Leeds,1,0,1,0,H
+4704,Championship,2024,2024-11-30,Bristol City,Plymouth,4,0,0,4,H
+4705,Championship,2024,2024-11-30,Preston,West Brom,1,1,0,1,D
+4706,Championship,2024,2024-11-30,Norwich,Luton,4,2,2,2,H
+4707,Championship,2024,2024-11-30,Stoke City,Burnley,0,2,0,0,A
+4708,Championship,2024,2024-11-30,Swansea,Portsmouth,2,2,1,1,D
+4709,Championship,2024,2024-11-30,Coventry,Cardiff,2,2,1,1,D
+4710,Championship,2024,2024-12-01,Derby,Sheffield Wednesday,1,2,1,0,A
+4711,Championship,2024,2024-12-06,Burnley,Middlesbrough,1,1,1,0,D
+4712,Championship,2024,2024-12-07,Leeds,Derby,2,0,2,0,H
+4713,Championship,2024,2024-12-07,Sheffield Wednesday,Preston,1,1,0,1,D
+4714,Championship,2024,2024-12-07,Sunderland,Stoke City,2,1,1,1,H
+4715,Championship,2024,2024-12-07,Millwall,Coventry,0,1,0,0,A
+4716,Championship,2024,2024-12-07,Hull City,Blackburn,0,1,0,0,A
+4717,Championship,2024,2024-12-07,QPR,Norwich,3,0,2,1,H
+4718,Championship,2024,2024-12-07,Portsmouth,Bristol City,3,0,1,2,H
+4719,Championship,2024,2024-12-07,Luton,Swansea,1,1,1,0,D
+4720,Championship,2024,2024-12-08,West Brom,Sheffield Utd,2,2,1,1,D
+4721,Championship,2024,2024-12-10,Burnley,Derby,0,0,0,0,D
+4722,Championship,2024,2024-12-10,Sheffield Wednesday,Blackburn,0,1,0,0,A
+4723,Championship,2024,2024-12-10,Sunderland,Bristol City,1,1,0,1,D
+4724,Championship,2024,2024-12-10,Portsmouth,Norwich,0,0,0,0,D
+4725,Championship,2024,2024-12-10,Plymouth,Swansea,1,2,0,1,A
+4726,Championship,2024,2024-12-10,Luton,Stoke City,2,1,1,1,H
+4727,Championship,2024,2024-12-10,Leeds,Middlesbrough,3,1,1,2,H
+4728,Championship,2024,2024-12-11,Cardiff,Preston,0,2,0,0,A
+4729,Championship,2024,2024-12-11,Millwall,Sheffield Utd,0,1,0,0,A
+4730,Championship,2024,2024-12-11,Hull City,Watford,1,1,0,1,D
+4731,Championship,2024,2024-12-11,QPR,Oxford United,2,0,0,2,H
+4732,Championship,2024,2024-12-11,West Brom,Coventry,2,0,1,1,H
+4733,Championship,2024,2024-12-13,Derby,Portsmouth,4,0,3,1,H
+4734,Championship,2024,2024-12-14,Bristol City,QPR,1,1,0,1,D
+4735,Championship,2024,2024-12-14,Preston,Leeds,1,1,1,0,D
+4736,Championship,2024,2024-12-14,Coventry,Hull City,2,1,0,2,H
+4737,Championship,2024,2024-12-14,Sheffield Utd,Plymouth,2,0,1,1,H
+4738,Championship,2024,2024-12-14,Blackburn,Luton,2,0,2,0,H
+4739,Championship,2024,2024-12-14,Middlesbrough,Millwall,1,0,1,0,H
+4740,Championship,2024,2024-12-14,Stoke City,Cardiff,2,2,1,1,D
+4741,Championship,2024,2024-12-14,Swansea,Sunderland,2,3,2,0,A
+4742,Championship,2024,2024-12-14,Oxford United,Sheffield Wednesday,1,3,1,0,A
+4743,Championship,2024,2024-12-15,Watford,West Brom,2,1,1,1,H
+4744,Championship,2024,2024-12-15,Norwich,Burnley,1,2,1,0,A
+4745,Championship,2024,2024-12-20,Luton,Derby,2,1,0,2,H
+4746,Championship,2024,2024-12-21,Hull City,Swansea,2,1,1,1,H
+4747,Championship,2024,2024-12-21,Sheffield Wednesday,Stoke City,2,0,0,2,H
+4748,Championship,2024,2024-12-21,Portsmouth,Coventry,4,1,2,2,H
+4749,Championship,2024,2024-12-21,Cardiff,Sheffield Utd,0,2,0,0,A
+4750,Championship,2024,2024-12-21,Burnley,Watford,2,1,1,1,H
+4751,Championship,2024,2024-12-21,Millwall,Blackburn,1,0,0,1,H
+4752,Championship,2024,2024-12-21,Leeds,Oxford United,4,0,1,3,H
+4753,Championship,2024,2024-12-21,QPR,Preston,2,1,0,2,H
+4754,Championship,2024,2024-12-21,Sunderland,Norwich,2,1,0,2,H
+4755,Championship,2024,2024-12-21,Plymouth,Middlesbrough,3,3,1,2,D
+4756,Championship,2024,2024-12-22,West Brom,Bristol City,2,0,2,0,H
+4757,Championship,2024,2024-12-26,Watford,Portsmouth,2,1,0,2,H
+4758,Championship,2024,2024-12-26,Bristol City,Luton,1,0,0,1,H
+4759,Championship,2024,2024-12-26,Preston,Hull City,1,0,0,1,H
+4760,Championship,2024,2024-12-26,Sheffield Utd,Burnley,0,2,0,0,A
+4761,Championship,2024,2024-12-26,Blackburn,Sunderland,2,2,1,1,D
+4762,Championship,2024,2024-12-26,Middlesbrough,Sheffield Wednesday,3,3,3,0,D
+4763,Championship,2024,2024-12-26,Norwich,Millwall,2,1,2,0,H
+4764,Championship,2024,2024-12-26,Swansea,QPR,3,0,3,0,H
+4765,Championship,2024,2024-12-26,Oxford United,Cardiff,3,2,1,2,H
+4766,Championship,2024,2024-12-26,Coventry,Plymouth,4,0,4,0,H
+4767,Championship,2024,2024-12-26,Derby,West Brom,2,1,1,1,H
+4768,Championship,2024,2024-12-26,Stoke City,Leeds,0,2,0,0,A
+4769,Championship,2024,2024-12-29,Preston,Sheffield Wednesday,3,1,1,2,H
+4770,Championship,2024,2024-12-29,Sheffield Utd,West Brom,1,1,1,0,D
+4771,Championship,2024,2024-12-29,Norwich,QPR,1,1,0,1,D
+4772,Championship,2024,2024-12-29,Watford,Cardiff,1,2,1,0,A
+4773,Championship,2024,2024-12-29,Bristol City,Portsmouth,3,0,3,0,H
+4774,Championship,2024,2024-12-29,Blackburn,Hull City,0,1,0,0,A
+4775,Championship,2024,2024-12-29,Stoke City,Sunderland,1,0,0,1,H
+4776,Championship,2024,2024-12-29,Swansea,Luton,2,1,1,1,H
+4777,Championship,2024,2024-12-29,Oxford United,Plymouth,2,0,1,1,H
+4778,Championship,2024,2024-12-29,Coventry,Millwall,0,0,0,0,D
+4779,Championship,2024,2024-12-29,Derby,Leeds,0,1,0,0,A
+4780,Championship,2024,2024-12-29,Middlesbrough,Burnley,0,0,0,0,D
+4781,Championship,2024,2025-01-01,QPR,Watford,3,1,2,1,H
+4782,Championship,2024,2025-01-01,Plymouth,Bristol City,2,2,0,2,D
+4783,Championship,2024,2025-01-01,Millwall,Oxford United,0,1,0,0,A
+4784,Championship,2024,2025-01-01,Cardiff,Coventry,1,1,1,0,D
+4785,Championship,2024,2025-01-01,Burnley,Stoke City,0,0,0,0,D
+4786,Championship,2024,2025-01-01,West Brom,Preston,3,1,3,0,H
+4787,Championship,2024,2025-01-01,Leeds,Blackburn,1,1,0,1,D
+4788,Championship,2024,2025-01-01,Sheffield Wednesday,Derby,4,2,1,3,H
+4789,Championship,2024,2025-01-01,Portsmouth,Swansea,4,0,2,2,H
+4790,Championship,2024,2025-01-01,Luton,Norwich,0,1,0,0,A
+4791,Championship,2024,2025-01-01,Hull City,Middlesbrough,0,1,0,0,A
+4792,Championship,2024,2025-01-01,Sunderland,Sheffield Utd,2,1,2,0,H
+4793,Championship,2024,2025-01-04,Blackburn,Burnley,0,1,0,0,A
+4794,Championship,2024,2025-01-04,Stoke City,Plymouth,0,0,0,0,D
+4795,Championship,2024,2025-01-04,Swansea,West Brom,1,1,0,1,D
+4796,Championship,2024,2025-01-04,Watford,Sheffield Utd,1,2,1,0,A
+4797,Championship,2024,2025-01-04,Bristol City,Derby,1,0,1,0,H
+4798,Championship,2024,2025-01-04,Preston,Oxford United,1,1,0,1,D
+4799,Championship,2024,2025-01-04,Hull City,Leeds,3,3,1,2,D
+4800,Championship,2024,2025-01-04,Middlesbrough,Cardiff,1,1,1,0,D
+4801,Championship,2024,2025-01-04,Norwich,Coventry,2,1,0,2,H
+4802,Championship,2024,2025-01-04,Sheffield Wednesday,Millwall,2,2,1,1,D
+4803,Championship,2024,2025-01-05,Sunderland,Portsmouth,1,0,1,0,H
+4804,Championship,2024,2025-01-06,QPR,Luton,2,1,1,1,H
+4805,Championship,2024,2025-01-14,Cardiff,Watford,1,1,0,1,D
+4806,Championship,2024,2025-01-14,Plymouth,Oxford United,1,1,0,1,D
+4807,Championship,2024,2025-01-15,Blackburn,Portsmouth,3,0,0,3,H
+4808,Championship,2024,2025-01-17,Burnley,Sunderland,0,0,0,0,D
+4809,Championship,2024,2025-01-18,Cardiff,Swansea,3,0,0,3,H
+4810,Championship,2024,2025-01-18,Millwall,Hull City,0,1,0,0,A
+4811,Championship,2024,2025-01-18,Plymouth,QPR,0,1,0,0,A
+4812,Championship,2024,2025-01-18,West Brom,Stoke City,1,1,0,1,D
+4813,Championship,2024,2025-01-18,Sheffield Utd,Norwich,2,0,1,1,H
+4814,Championship,2024,2025-01-18,Derby,Watford,0,2,0,0,A
+4815,Championship,2024,2025-01-18,Oxford United,Blackburn,1,0,0,1,H
+4816,Championship,2024,2025-01-18,Coventry,Bristol City,1,0,0,1,H
+4817,Championship,2024,2025-01-18,Portsmouth,Middlesbrough,2,1,0,2,H
+4818,Championship,2024,2025-01-18,Luton,Preston,0,0,0,0,D
+4819,Championship,2024,2025-01-19,Leeds,Sheffield Wednesday,3,0,1,2,H
+4820,Championship,2024,2025-01-21,Watford,Preston,1,2,0,1,A
+4821,Championship,2024,2025-01-21,Hull City,QPR,1,2,0,1,A
+4822,Championship,2024,2025-01-21,Blackburn,Coventry,0,2,0,0,A
+4823,Championship,2024,2025-01-21,Derby,Sunderland,0,1,0,0,A
+4824,Championship,2024,2025-01-21,Middlesbrough,West Brom,2,0,1,1,H
+4825,Championship,2024,2025-01-21,Swansea,Sheffield Utd,1,2,1,0,A
+4826,Championship,2024,2025-01-21,Oxford United,Luton,3,2,1,2,H
+4827,Championship,2024,2025-01-21,Millwall,Cardiff,2,2,2,0,D
+4828,Championship,2024,2025-01-22,Leeds,Norwich,2,0,1,1,H
+4829,Championship,2024,2025-01-22,Sheffield Wednesday,Bristol City,2,2,1,1,D
+4830,Championship,2024,2025-01-22,Portsmouth,Stoke City,3,1,2,1,H
+4831,Championship,2024,2025-01-22,Plymouth,Burnley,0,5,0,0,A
+4832,Championship,2024,2025-01-24,Sheffield Utd,Hull City,0,3,0,0,A
+4833,Championship,2024,2025-01-25,Norwich,Swansea,5,1,1,4,H
+4834,Championship,2024,2025-01-25,Stoke City,Oxford United,0,0,0,0,D
+4835,Championship,2024,2025-01-25,Luton,Millwall,0,1,0,0,A
+4836,Championship,2024,2025-01-25,Cardiff,Derby,2,1,0,2,H
+4837,Championship,2024,2025-01-25,Bristol City,Blackburn,2,1,1,1,H
+4838,Championship,2024,2025-01-25,Preston,Middlesbrough,2,1,1,1,H
+4839,Championship,2024,2025-01-25,West Brom,Portsmouth,5,1,4,1,H
+4840,Championship,2024,2025-01-25,QPR,Sheffield Wednesday,0,2,0,0,A
+4841,Championship,2024,2025-01-25,Sunderland,Plymouth,2,2,0,2,D
+4842,Championship,2024,2025-01-25,Coventry,Watford,2,1,1,1,H
+4843,Championship,2024,2025-01-27,Burnley,Leeds,0,0,0,0,D
+4844,Championship,2024,2025-01-28,Portsmouth,Millwall,0,1,0,0,A
+4845,Championship,2024,2025-01-31,Blackburn,Preston,2,1,1,1,H
+4846,Championship,2024,2025-02-01,Watford,Norwich,0,1,0,0,A
+4847,Championship,2024,2025-02-01,Oxford United,Bristol City,1,1,0,1,D
+4848,Championship,2024,2025-02-01,Plymouth,West Brom,2,1,0,2,H
+4849,Championship,2024,2025-02-01,Millwall,QPR,2,1,2,0,H
+4850,Championship,2024,2025-02-01,Leeds,Cardiff,7,0,2,5,H
+4851,Championship,2024,2025-02-01,Hull City,Stoke City,1,2,1,0,A
+4852,Championship,2024,2025-02-01,Derby,Sheffield Utd,0,1,0,0,A
+4853,Championship,2024,2025-02-01,Sheffield Wednesday,Luton,1,1,0,1,D
+4854,Championship,2024,2025-02-01,Swansea,Coventry,0,2,0,0,A
+4855,Championship,2024,2025-02-01,Portsmouth,Burnley,0,0,0,0,D
+4856,Championship,2024,2025-02-03,Middlesbrough,Sunderland,2,3,1,1,A
+4857,Championship,2024,2025-02-04,Burnley,Oxford United,1,0,1,0,H
+4858,Championship,2024,2025-02-04,QPR,Blackburn,2,1,1,1,H
+4859,Championship,2024,2025-02-05,Coventry,Leeds,0,2,0,0,A
+4860,Championship,2024,2025-02-08,West Brom,Sheffield Wednesday,2,1,0,2,H
+4861,Championship,2024,2025-02-08,Sunderland,Watford,2,2,1,1,D
+4862,Championship,2024,2025-02-08,Sheffield Utd,Portsmouth,2,1,1,1,H
+4863,Championship,2024,2025-02-08,Norwich,Derby,1,1,0,1,D
+4864,Championship,2024,2025-02-09,Bristol City,Swansea,0,1,0,0,A
+4865,Championship,2024,2025-02-11,Watford,Leeds,0,4,0,0,A
+4866,Championship,2024,2025-02-11,Derby,Oxford United,0,0,0,0,D
+4867,Championship,2024,2025-02-11,Coventry,QPR,1,0,0,1,H
+4868,Championship,2024,2025-02-11,Portsmouth,Cardiff,2,1,2,0,H
+4869,Championship,2024,2025-02-11,Norwich,Preston,0,1,0,0,A
+4870,Championship,2024,2025-02-12,Burnley,Hull City,2,0,2,0,H
+4871,Championship,2024,2025-02-12,Bristol City,Stoke City,2,0,1,1,H
+4872,Championship,2024,2025-02-12,Swansea,Sheffield Wednesday,0,1,0,0,A
+4873,Championship,2024,2025-02-12,Sunderland,Luton,2,0,1,1,H
+4874,Championship,2024,2025-02-12,Plymouth,Millwall,5,1,2,3,H
+4875,Championship,2024,2025-02-12,West Brom,Blackburn,0,2,0,0,A
+4876,Championship,2024,2025-02-12,Sheffield Utd,Middlesbrough,3,1,1,2,H
+4877,Championship,2024,2025-02-14,QPR,Derby,4,0,2,2,H
+4878,Championship,2024,2025-02-15,Cardiff,Bristol City,1,1,0,1,D
+4879,Championship,2024,2025-02-15,Preston,Burnley,0,0,0,0,D
+4880,Championship,2024,2025-02-15,Oxford United,Portsmouth,0,2,0,0,A
+4881,Championship,2024,2025-02-15,Millwall,West Brom,1,1,1,0,D
+4882,Championship,2024,2025-02-15,Hull City,Norwich,1,1,1,0,D
+4883,Championship,2024,2025-02-15,Blackburn,Plymouth,2,0,0,2,H
+4884,Championship,2024,2025-02-15,Middlesbrough,Watford,0,1,0,0,A
+4885,Championship,2024,2025-02-15,Sheffield Wednesday,Coventry,1,2,0,1,A
+4886,Championship,2024,2025-02-15,Stoke City,Swansea,3,1,0,3,H
+4887,Championship,2024,2025-02-15,Luton,Sheffield Utd,0,1,0,0,A
+4888,Championship,2024,2025-02-17,Leeds,Sunderland,2,1,0,2,H
+4889,Championship,2024,2025-02-18,Preston,Millwall,1,1,0,1,D
+4890,Championship,2024,2025-02-19,Luton,Plymouth,1,1,0,1,D
+4891,Championship,2024,2025-02-21,Bristol City,Middlesbrough,2,1,0,2,H
+4892,Championship,2024,2025-02-21,Burnley,Sheffield Wednesday,4,0,1,3,H
+4893,Championship,2024,2025-02-22,Derby,Millwall,0,1,0,0,A
+4894,Championship,2024,2025-02-22,Sunderland,Hull City,0,1,0,0,A
+4895,Championship,2024,2025-02-22,Plymouth,Cardiff,1,1,0,1,D
+4896,Championship,2024,2025-02-22,West Brom,Oxford United,2,0,1,1,H
+4897,Championship,2024,2025-02-22,Norwich,Stoke City,4,2,1,3,H
+4898,Championship,2024,2025-02-22,Swansea,Blackburn,3,0,2,1,H
+4899,Championship,2024,2025-02-22,Coventry,Preston,2,1,2,0,H
+4900,Championship,2024,2025-02-22,Portsmouth,QPR,2,1,0,2,H
+4901,Championship,2024,2025-02-23,Watford,Luton,2,0,2,0,H
+4902,Championship,2024,2025-02-24,Sheffield Utd,Leeds,1,3,1,0,A
+4903,Championship,2024,2025-02-25,Cardiff,Hull City,1,0,0,1,H
+4904,Championship,2024,2025-02-25,Stoke City,Middlesbrough,1,3,1,0,A
+4905,Championship,2024,2025-02-28,Sheffield Wednesday,Sunderland,1,2,0,1,A
+4906,Championship,2024,2025-03-01,Leeds,West Brom,1,1,1,0,D
+4907,Championship,2024,2025-03-01,Blackburn,Norwich,1,1,0,1,D
+4908,Championship,2024,2025-03-01,Oxford United,Coventry,2,3,0,2,A
+4909,Championship,2024,2025-03-01,Middlesbrough,Derby,1,0,0,1,H
+4910,Championship,2024,2025-03-01,QPR,Sheffield Utd,1,2,0,1,A
+4911,Championship,2024,2025-03-01,Stoke City,Watford,0,0,0,0,D
+4912,Championship,2024,2025-03-01,Luton,Portsmouth,1,0,1,0,H
+4913,Championship,2024,2025-03-04,Cardiff,Burnley,1,2,1,0,A
+4914,Championship,2024,2025-03-04,Millwall,Bristol City,0,2,0,0,A
+4915,Championship,2024,2025-03-04,Preston,Swansea,0,0,0,0,D
+4916,Championship,2024,2025-03-04,Hull City,Plymouth,2,0,0,2,H
+4917,Championship,2024,2025-03-07,Norwich,Oxford United,1,1,1,0,D
+4918,Championship,2024,2025-03-08,Watford,Millwall,1,2,1,0,A
+4919,Championship,2024,2025-03-08,Coventry,Stoke City,3,2,2,1,H
+4920,Championship,2024,2025-03-08,Burnley,Luton,4,0,2,2,H
+4921,Championship,2024,2025-03-08,Bristol City,Hull City,1,1,0,1,D
+4922,Championship,2024,2025-03-08,West Brom,QPR,1,0,1,0,H
+4923,Championship,2024,2025-03-08,Sheffield Utd,Preston,1,0,0,1,H
+4924,Championship,2024,2025-03-08,Derby,Blackburn,2,1,2,0,H
+4925,Championship,2024,2025-03-08,Swansea,Middlesbrough,1,0,1,0,H
+4926,Championship,2024,2025-03-08,Sunderland,Cardiff,2,1,1,1,H
+4927,Championship,2024,2025-03-08,Plymouth,Sheffield Wednesday,0,3,0,0,A
+4928,Championship,2024,2025-03-09,Portsmouth,Leeds,1,0,0,1,H
+4929,Championship,2024,2025-03-11,Cardiff,Luton,1,2,0,1,A
+4930,Championship,2024,2025-03-11,Burnley,West Brom,1,1,1,0,D
+4931,Championship,2024,2025-03-11,Derby,Coventry,2,0,1,1,H
+4932,Championship,2024,2025-03-11,Middlesbrough,QPR,2,1,1,1,H
+4933,Championship,2024,2025-03-11,Norwich,Sheffield Wednesday,2,3,2,0,A
+4934,Championship,2024,2025-03-11,Sunderland,Preston,1,1,0,1,D
+4935,Championship,2024,2025-03-11,Sheffield Utd,Bristol City,1,1,0,1,D
+4936,Championship,2024,2025-03-12,Watford,Swansea,1,0,1,0,H
+4937,Championship,2024,2025-03-12,Leeds,Millwall,2,0,1,1,H
+4938,Championship,2024,2025-03-12,Hull City,Oxford United,2,1,0,2,H
+4939,Championship,2024,2025-03-12,Portsmouth,Plymouth,1,2,0,1,A
+4940,Championship,2024,2025-03-12,Stoke City,Blackburn,1,0,1,0,H
+4941,Championship,2024,2025-03-14,Bristol City,Norwich,2,1,2,0,H
+4942,Championship,2024,2025-03-15,Millwall,Stoke City,1,0,0,1,H
+4943,Championship,2024,2025-03-15,QPR,Leeds,2,2,2,0,D
+4944,Championship,2024,2025-03-15,Preston,Portsmouth,2,1,0,2,H
+4945,Championship,2024,2025-03-15,West Brom,Hull City,1,1,0,1,D
+4946,Championship,2024,2025-03-15,Blackburn,Cardiff,1,2,1,0,A
+4947,Championship,2024,2025-03-15,Swansea,Burnley,0,2,0,0,A
+4948,Championship,2024,2025-03-15,Oxford United,Watford,1,0,0,1,H
+4949,Championship,2024,2025-03-15,Coventry,Sunderland,3,0,2,1,H
+4950,Championship,2024,2025-03-15,Plymouth,Derby,2,3,1,1,A
+4951,Championship,2024,2025-03-15,Luton,Middlesbrough,0,0,0,0,D
+4952,Championship,2024,2025-03-16,Sheffield Wednesday,Sheffield Utd,0,1,0,0,A
+4953,Championship,2024,2025-03-28,Sheffield Utd,Coventry,3,1,2,1,H
+4954,Championship,2024,2025-03-29,Watford,Plymouth,0,0,0,0,D
+4955,Championship,2024,2025-03-29,Hull City,Luton,0,1,0,0,A
+4956,Championship,2024,2025-03-29,Cardiff,Sheffield Wednesday,1,1,1,0,D
+4957,Championship,2024,2025-03-29,Burnley,Bristol City,1,0,1,0,H
+4958,Championship,2024,2025-03-29,Leeds,Swansea,2,2,1,1,D
+4959,Championship,2024,2025-03-29,Middlesbrough,Oxford United,2,1,0,2,H
+4960,Championship,2024,2025-03-29,Norwich,West Brom,1,0,0,1,H
+4961,Championship,2024,2025-03-29,Stoke City,QPR,3,1,2,1,H
+4962,Championship,2024,2025-03-29,Sunderland,Millwall,1,0,1,0,H
+4963,Championship,2024,2025-03-29,Portsmouth,Blackburn,1,0,1,0,H
+4964,Championship,2024,2025-04-02,Derby,Preston,2,0,0,2,H
+4965,Championship,2024,2025-04-04,Blackburn,Middlesbrough,0,2,0,0,A
+4966,Championship,2024,2025-04-05,West Brom,Sunderland,0,1,0,0,A
+4967,Championship,2024,2025-04-05,Coventry,Burnley,1,2,1,0,A
+4968,Championship,2024,2025-04-05,Luton,Leeds,1,1,1,0,D
+4969,Championship,2024,2025-04-05,Bristol City,Watford,2,1,2,0,H
+4970,Championship,2024,2025-04-05,Millwall,Portsmouth,2,1,0,2,H
+4971,Championship,2024,2025-04-05,Preston,Stoke City,1,1,1,0,D
+4972,Championship,2024,2025-04-05,QPR,Cardiff,0,0,0,0,D
+4973,Championship,2024,2025-04-05,Sheffield Wednesday,Hull City,0,1,0,0,A
+4974,Championship,2024,2025-04-05,Swansea,Derby,1,0,0,1,H
+4975,Championship,2024,2025-04-05,Oxford United,Sheffield Utd,1,0,1,0,H
+4976,Championship,2024,2025-04-05,Plymouth,Norwich,2,1,2,0,H
+4977,Championship,2024,2025-04-08,Watford,Hull City,1,0,0,1,H
+4978,Championship,2024,2025-04-08,Bristol City,West Brom,2,1,0,2,H
+4979,Championship,2024,2025-04-08,Preston,Cardiff,2,2,1,1,D
+4980,Championship,2024,2025-04-08,Sheffield Utd,Millwall,0,1,0,0,A
+4981,Championship,2024,2025-04-08,Blackburn,Sheffield Wednesday,2,2,0,2,D
+4982,Championship,2024,2025-04-08,Derby,Burnley,0,0,0,0,D
+4983,Championship,2024,2025-04-08,Norwich,Sunderland,0,0,0,0,D
+4984,Championship,2024,2025-04-08,Stoke City,Luton,1,1,0,1,D
+4985,Championship,2024,2025-04-08,Middlesbrough,Leeds,0,1,0,0,A
+4986,Championship,2024,2025-04-09,Swansea,Plymouth,3,0,3,0,H
+4987,Championship,2024,2025-04-09,Oxford United,QPR,1,3,0,1,A
+4988,Championship,2024,2025-04-09,Coventry,Portsmouth,1,0,0,1,H
+4989,Championship,2024,2025-04-11,Burnley,Norwich,2,1,2,0,H
+4990,Championship,2024,2025-04-12,Leeds,Preston,2,1,2,0,H
+4991,Championship,2024,2025-04-12,Plymouth,Sheffield Utd,2,1,0,2,H
+4992,Championship,2024,2025-04-12,Cardiff,Stoke City,0,1,0,0,A
+4993,Championship,2024,2025-04-12,Millwall,Middlesbrough,1,0,0,1,H
+4994,Championship,2024,2025-04-12,West Brom,Watford,2,1,1,1,H
+4995,Championship,2024,2025-04-12,QPR,Bristol City,1,1,1,0,D
+4996,Championship,2024,2025-04-12,Sheffield Wednesday,Oxford United,0,1,0,0,A
+4997,Championship,2024,2025-04-12,Sunderland,Swansea,0,1,0,0,A
+4998,Championship,2024,2025-04-12,Portsmouth,Derby,2,2,0,2,D
+4999,Championship,2024,2025-04-12,Luton,Blackburn,0,1,0,0,A
+5000,Championship,2024,2025-04-14,Hull City,Coventry,1,1,0,1,D
+5001,Championship,2024,2025-04-18,Derby,Luton,0,1,0,0,A
+5002,Championship,2024,2025-04-18,Watford,Burnley,1,2,1,0,A
+5003,Championship,2024,2025-04-18,Bristol City,Sunderland,2,1,0,2,H
+5004,Championship,2024,2025-04-18,Preston,QPR,1,2,1,0,A
+5005,Championship,2024,2025-04-18,Blackburn,Millwall,4,1,2,2,H
+5006,Championship,2024,2025-04-18,Middlesbrough,Plymouth,2,1,1,1,H
+5007,Championship,2024,2025-04-18,Norwich,Portsmouth,3,5,1,2,A
+5008,Championship,2024,2025-04-18,Stoke City,Sheffield Wednesday,2,0,1,1,H
+5009,Championship,2024,2025-04-18,Swansea,Hull City,1,0,0,1,H
+5010,Championship,2024,2025-04-18,Coventry,West Brom,2,0,1,1,H
+5011,Championship,2024,2025-04-18,Sheffield Utd,Cardiff,2,0,1,1,H
+5012,Championship,2024,2025-04-18,Oxford United,Leeds,0,1,0,0,A
+5013,Championship,2024,2025-04-21,Cardiff,Oxford United,1,1,0,1,D
+5014,Championship,2024,2025-04-21,Millwall,Norwich,3,1,2,1,H
+5015,Championship,2024,2025-04-21,West Brom,Derby,1,3,0,1,A
+5016,Championship,2024,2025-04-21,Leeds,Stoke City,6,0,5,1,H
+5017,Championship,2024,2025-04-21,Hull City,Preston,2,1,0,2,H
+5018,Championship,2024,2025-04-21,QPR,Swansea,1,2,0,1,A
+5019,Championship,2024,2025-04-21,Sheffield Wednesday,Middlesbrough,2,1,0,2,H
+5020,Championship,2024,2025-04-21,Sunderland,Blackburn,0,1,0,0,A
+5021,Championship,2024,2025-04-21,Portsmouth,Watford,1,0,1,0,H
+5022,Championship,2024,2025-04-21,Plymouth,Coventry,3,1,2,1,H
+5023,Championship,2024,2025-04-21,Luton,Bristol City,3,1,0,3,H
+5024,Championship,2024,2025-04-21,Burnley,Sheffield Utd,2,1,2,0,H
+5025,Championship,2024,2025-04-25,Stoke City,Sheffield Utd,0,2,0,0,A
+5026,Championship,2024,2025-04-26,QPR,Burnley,0,5,0,0,A
+5027,Championship,2024,2025-04-26,Luton,Coventry,1,0,0,1,H
+5028,Championship,2024,2025-04-26,Cardiff,West Brom,0,0,0,0,D
+5029,Championship,2024,2025-04-26,Millwall,Swansea,1,0,1,0,H
+5030,Championship,2024,2025-04-26,Preston,Plymouth,1,2,0,1,A
+5031,Championship,2024,2025-04-26,Hull City,Derby,0,1,0,0,A
+5032,Championship,2024,2025-04-26,Blackburn,Watford,2,1,0,2,H
+5033,Championship,2024,2025-04-26,Middlesbrough,Norwich,0,0,0,0,D
+5034,Championship,2024,2025-04-26,Sheffield Wednesday,Portsmouth,1,1,1,0,D
+5035,Championship,2024,2025-04-26,Oxford United,Sunderland,2,0,1,1,H
+5036,Championship,2024,2025-04-28,Leeds,Bristol City,4,0,1,3,H
+5037,Championship,2024,2025-05-03,Watford,Sheffield Wednesday,1,1,1,0,D
+5038,Championship,2024,2025-05-03,Burnley,Millwall,3,1,1,2,H
+5039,Championship,2024,2025-05-03,Bristol City,Preston,2,2,0,2,D
+5040,Championship,2024,2025-05-03,West Brom,Luton,5,3,3,2,H
+5041,Championship,2024,2025-05-03,Sheffield Utd,Blackburn,1,1,0,1,D
+5042,Championship,2024,2025-05-03,Derby,Stoke City,0,0,0,0,D
+5043,Championship,2024,2025-05-03,Norwich,Cardiff,4,2,3,1,H
+5044,Championship,2024,2025-05-03,Swansea,Oxford United,3,3,1,2,D
+5045,Championship,2024,2025-05-03,Sunderland,QPR,0,1,0,0,A
+5046,Championship,2024,2025-05-03,Coventry,Middlesbrough,2,0,1,1,H
+5047,Championship,2024,2025-05-03,Portsmouth,Hull City,1,1,0,1,D
+5048,Championship,2024,2025-05-03,Plymouth,Leeds,1,2,1,0,A
+5049,Championship,2024,2025-05-08,Bristol City,Sheffield Utd,0,3,0,0,A
+5050,Championship,2024,2025-05-09,Coventry,Sunderland,1,2,0,1,A
+5051,Championship,2024,2025-05-12,Sheffield Utd,Bristol City,3,0,1,2,H
+5052,Championship,2024,2025-05-24,Sheffield Utd,Sunderland,1,2,1,0,A

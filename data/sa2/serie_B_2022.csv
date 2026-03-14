@@ -1,0 +1,391 @@
+,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+2146,serie_B,2022,2022-08-12,Parma,Bari,2,2,2,0,D
+2147,serie_B,2022,2022-08-13,Cittadella,Pisa,4,3,1,3,H
+2148,serie_B,2022,2022-08-13,Palermo,Perugia,2,0,1,1,H
+2149,serie_B,2022,2022-08-13,como,Cagliari,1,1,1,0,D
+2150,serie_B,2022,2022-08-14,Spal,Reggina,1,3,0,1,A
+2151,serie_B,2022,2022-08-14,Benevento,Nuova Cosenza,0,1,0,0,A
+2152,serie_B,2022,2022-08-14,Ascoli,Ternana,2,1,2,0,H
+2153,serie_B,2022,2022-08-14,Venezia,Genoa,1,2,0,1,A
+2154,serie_B,2022,2022-08-14,Brescia,Sudtirol,2,0,1,1,H
+2155,serie_B,2022,2022-08-14,Modena,Frosinone,0,1,0,0,A
+2156,serie_B,2022,2022-08-19,Bari,Palermo,1,1,0,1,D
+2157,serie_B,2022,2022-08-20,Genoa,Benevento,0,0,0,0,D
+2158,serie_B,2022,2022-08-20,Ascoli,Spal,1,1,1,0,D
+2159,serie_B,2022,2022-08-20,Perugia,Parma,0,0,0,0,D
+2160,serie_B,2022,2022-08-21,Cagliari,Cittadella,2,1,0,2,H
+2161,serie_B,2022,2022-08-21,Frosinone,Brescia,3,0,1,2,H
+2162,serie_B,2022,2022-08-21,Ternana,Reggina,1,0,1,0,H
+2163,serie_B,2022,2022-08-21,Pisa,como,2,2,1,1,D
+2164,serie_B,2022,2022-08-21,Sudtirol,Venezia,1,2,0,1,A
+2165,serie_B,2022,2022-08-21,Nuova Cosenza,Modena,2,1,0,2,H
+2166,serie_B,2022,2022-08-27,Spal,Cagliari,1,0,1,0,H
+2167,serie_B,2022,2022-08-27,Palermo,Ascoli,2,3,1,1,A
+2168,serie_B,2022,2022-08-27,Modena,Ternana,4,1,2,2,H
+2169,serie_B,2022,2022-08-28,Benevento,Frosinone,2,1,1,1,H
+2170,serie_B,2022,2022-08-28,Cittadella,Venezia,1,1,0,1,D
+2171,serie_B,2022,2022-08-28,Parma,Nuova Cosenza,1,0,1,0,H
+2172,serie_B,2022,2022-08-28,Perugia,Bari,1,3,0,1,A
+2173,serie_B,2022,2022-08-28,Pisa,Genoa,0,1,0,0,A
+2174,serie_B,2022,2022-08-28,Reggina,Sudtirol,4,0,2,2,H
+2175,serie_B,2022,2022-08-29,como,Brescia,0,1,0,0,A
+2176,serie_B,2022,2022-09-02,Cagliari,Modena,1,0,1,0,H
+2177,serie_B,2022,2022-09-03,Ascoli,Cittadella,0,0,0,0,D
+2178,serie_B,2022,2022-09-03,Bari,Spal,2,2,2,0,D
+2179,serie_B,2022,2022-09-03,Frosinone,como,2,0,1,1,H
+2180,serie_B,2022,2022-09-03,Ternana,Nuova Cosenza,1,1,1,0,D
+2181,serie_B,2022,2022-09-03,Venezia,Benevento,0,2,0,0,A
+2182,serie_B,2022,2022-09-03,Brescia,Perugia,2,1,2,0,H
+2183,serie_B,2022,2022-09-03,Reggina,Palermo,3,0,1,2,H
+2184,serie_B,2022,2022-09-03,Genoa,Parma,3,3,2,1,D
+2185,serie_B,2022,2022-09-04,Sudtirol,Pisa,2,1,1,1,H
+2186,serie_B,2022,2022-09-09,Palermo,Genoa,1,0,0,1,H
+2187,serie_B,2022,2022-09-10,Benevento,Cagliari,0,2,0,0,A
+2188,serie_B,2022,2022-09-10,Cittadella,Frosinone,1,0,0,1,H
+2189,serie_B,2022,2022-09-10,Parma,Ternana,2,3,1,1,A
+2190,serie_B,2022,2022-09-10,Pisa,Reggina,0,1,0,0,A
+2191,serie_B,2022,2022-09-10,como,Sudtirol,0,2,0,0,A
+2192,serie_B,2022,2022-09-10,Modena,Brescia,1,3,1,0,A
+2193,serie_B,2022,2022-09-10,Nuova Cosenza,Bari,0,1,0,0,A
+2194,serie_B,2022,2022-09-10,Perugia,Ascoli,1,0,1,0,H
+2195,serie_B,2022,2022-09-11,Spal,Venezia,2,0,1,1,H
+2196,serie_B,2022,2022-09-16,Brescia,Benevento,1,0,0,1,H
+2197,serie_B,2022,2022-09-17,Cagliari,Bari,0,1,0,0,A
+2198,serie_B,2022,2022-09-17,Ascoli,Parma,1,3,0,1,A
+2199,serie_B,2022,2022-09-17,Frosinone,Palermo,1,0,1,0,H
+2200,serie_B,2022,2022-09-17,Venezia,Pisa,1,1,1,0,D
+2201,serie_B,2022,2022-09-17,como,Spal,3,3,1,2,D
+2202,serie_B,2022,2022-09-17,Sudtirol,Nuova Cosenza,1,1,1,0,D
+2203,serie_B,2022,2022-09-17,Reggina,Cittadella,3,0,1,2,H
+2204,serie_B,2022,2022-09-17,Genoa,Modena,1,0,1,0,H
+2205,serie_B,2022,2022-09-18,Ternana,Perugia,1,0,1,0,H
+2206,serie_B,2022,2022-09-30,Nuova Cosenza,como,3,1,2,1,H
+2207,serie_B,2022,2022-10-01,Cagliari,Venezia,1,4,1,0,A
+2208,serie_B,2022,2022-10-01,Spal,Genoa,0,2,0,0,A
+2209,serie_B,2022,2022-10-01,Bari,Brescia,6,2,3,3,H
+2210,serie_B,2022,2022-10-01,Cittadella,Ternana,0,2,0,0,A
+2211,serie_B,2022,2022-10-01,Palermo,Sudtirol,0,1,0,0,A
+2212,serie_B,2022,2022-10-01,Parma,Frosinone,2,1,1,1,H
+2213,serie_B,2022,2022-10-01,Modena,Reggina,1,0,0,1,H
+2214,serie_B,2022,2022-10-01,Perugia,Pisa,1,3,0,1,A
+2215,serie_B,2022,2022-10-02,Benevento,Ascoli,1,1,0,1,D
+2216,serie_B,2022,2022-10-07,Genoa,Cagliari,0,0,0,0,D
+2217,serie_B,2022,2022-10-08,Ascoli,Modena,1,2,1,0,A
+2218,serie_B,2022,2022-10-08,Ternana,Palermo,3,0,0,3,H
+2219,serie_B,2022,2022-10-08,Venezia,Bari,1,2,0,1,A
+2220,serie_B,2022,2022-10-08,Brescia,Cittadella,1,1,1,0,D
+2221,serie_B,2022,2022-10-08,Pisa,Parma,0,0,0,0,D
+2222,serie_B,2022,2022-10-08,Frosinone,Spal,2,0,0,2,H
+2223,serie_B,2022,2022-10-08,Reggina,Nuova Cosenza,3,0,1,2,H
+2224,serie_B,2022,2022-10-09,como,Perugia,1,0,1,0,H
+2225,serie_B,2022,2022-10-09,Sudtirol,Benevento,1,1,0,1,D
+2226,serie_B,2022,2022-10-14,Venezia,Frosinone,1,3,1,0,A
+2227,serie_B,2022,2022-10-15,Cagliari,Brescia,2,1,2,0,H
+2228,serie_B,2022,2022-10-15,Benevento,Ternana,2,3,2,0,A
+2229,serie_B,2022,2022-10-15,Cittadella,Spal,0,0,0,0,D
+2230,serie_B,2022,2022-10-15,Palermo,Pisa,3,3,2,1,D
+2231,serie_B,2022,2022-10-15,Parma,Reggina,2,0,0,2,H
+2232,serie_B,2022,2022-10-15,Modena,como,5,1,3,2,H
+2233,serie_B,2022,2022-10-15,Nuova Cosenza,Genoa,1,2,1,0,A
+2234,serie_B,2022,2022-10-15,Bari,Ascoli,0,2,0,0,A
+2235,serie_B,2022,2022-10-16,Perugia,Sudtirol,1,2,0,1,A
+2236,serie_B,2022,2022-10-22,Spal,Nuova Cosenza,5,0,2,3,H
+2237,serie_B,2022,2022-10-22,Frosinone,Bari,1,0,0,1,H
+2238,serie_B,2022,2022-10-22,Brescia,Venezia,1,1,1,0,D
+2239,serie_B,2022,2022-10-22,como,Benevento,2,1,2,0,H
+2240,serie_B,2022,2022-10-22,Sudtirol,Parma,1,0,1,0,H
+2241,serie_B,2022,2022-10-22,Reggina,Perugia,2,3,0,2,A
+2242,serie_B,2022,2022-10-22,Ternana,Genoa,1,2,1,0,A
+2243,serie_B,2022,2022-10-23,Palermo,Cittadella,0,0,0,0,D
+2244,serie_B,2022,2022-10-23,Pisa,Modena,4,2,1,3,H
+2245,serie_B,2022,2022-10-24,Ascoli,Cagliari,2,1,1,1,H
+2246,serie_B,2022,2022-10-28,Bari,Ternana,0,0,0,0,D
+2247,serie_B,2022,2022-10-29,Cagliari,Reggina,1,1,1,0,D
+2248,serie_B,2022,2022-10-29,Spal,Sudtirol,1,1,1,0,D
+2249,serie_B,2022,2022-10-29,Benevento,Pisa,0,0,0,0,D
+2250,serie_B,2022,2022-10-29,Venezia,Ascoli,0,2,0,0,A
+2251,serie_B,2022,2022-10-29,Parma,como,1,0,1,0,H
+2252,serie_B,2022,2022-10-29,Modena,Palermo,0,2,0,0,A
+2253,serie_B,2022,2022-10-29,Nuova Cosenza,Frosinone,1,2,1,0,A
+2254,serie_B,2022,2022-10-29,Genoa,Brescia,1,1,1,0,D
+2255,serie_B,2022,2022-10-30,Perugia,Cittadella,0,2,0,0,A
+2256,serie_B,2022,2022-11-05,Benevento,Bari,1,1,1,0,D
+2257,serie_B,2022,2022-11-05,Cittadella,Modena,0,0,0,0,D
+2258,serie_B,2022,2022-11-05,Ternana,Spal,0,0,0,0,D
+2259,serie_B,2022,2022-11-05,Brescia,Ascoli,1,1,0,1,D
+2260,serie_B,2022,2022-11-05,Pisa,Nuova Cosenza,3,1,2,1,H
+2261,serie_B,2022,2022-11-05,Sudtirol,Cagliari,2,2,1,1,D
+2262,serie_B,2022,2022-11-05,Frosinone,Perugia,1,0,1,0,H
+2263,serie_B,2022,2022-11-05,Palermo,Parma,1,0,0,1,H
+2264,serie_B,2022,2022-11-06,como,Venezia,1,0,0,1,H
+2265,serie_B,2022,2022-11-07,Reggina,Genoa,2,1,1,1,H
+2266,serie_B,2022,2022-11-11,Ascoli,Frosinone,0,1,0,0,A
+2267,serie_B,2022,2022-11-12,Cagliari,Pisa,1,1,0,1,D
+2268,serie_B,2022,2022-11-12,Spal,Benevento,1,2,1,0,A
+2269,serie_B,2022,2022-11-12,Bari,Sudtirol,2,2,1,1,D
+2270,serie_B,2022,2022-11-12,Venezia,Reggina,1,2,1,0,A
+2271,serie_B,2022,2022-11-12,Parma,Cittadella,3,1,1,2,H
+2272,serie_B,2022,2022-11-12,Modena,Perugia,1,1,1,0,D
+2273,serie_B,2022,2022-11-12,Nuova Cosenza,Palermo,3,2,1,2,H
+2274,serie_B,2022,2022-11-12,Ternana,Brescia,0,0,0,0,D
+2275,serie_B,2022,2022-11-13,Genoa,como,1,1,1,0,D
+2276,serie_B,2022,2022-11-26,Parma,Modena,1,2,0,1,A
+2277,serie_B,2022,2022-11-26,Pisa,Ternana,3,1,3,0,H
+2278,serie_B,2022,2022-11-27,Reggina,Benevento,2,2,2,0,D
+2279,serie_B,2022,2022-11-27,Cittadella,Nuova Cosenza,1,1,1,0,D
+2280,serie_B,2022,2022-11-27,Frosinone,Cagliari,2,2,1,1,D
+2281,serie_B,2022,2022-11-27,Brescia,Spal,2,0,2,0,H
+2282,serie_B,2022,2022-11-27,Perugia,Genoa,1,0,0,1,H
+2283,serie_B,2022,2022-11-27,como,Bari,1,1,1,0,D
+2284,serie_B,2022,2022-11-27,Sudtirol,Ascoli,2,2,0,2,D
+2285,serie_B,2022,2022-11-27,Palermo,Venezia,0,1,0,0,A
+2286,serie_B,2022,2022-12-03,Venezia,Ternana,2,1,2,0,H
+2287,serie_B,2022,2022-12-03,Cagliari,Parma,1,1,0,1,D
+2288,serie_B,2022,2022-12-04,Spal,Modena,2,3,0,2,A
+2289,serie_B,2022,2022-12-04,Genoa,Cittadella,0,1,0,0,A
+2290,serie_B,2022,2022-12-04,Ascoli,como,3,3,1,2,D
+2291,serie_B,2022,2022-12-04,Bari,Pisa,0,0,0,0,D
+2292,serie_B,2022,2022-12-04,Brescia,Reggina,0,2,0,0,A
+2293,serie_B,2022,2022-12-04,Sudtirol,Frosinone,1,1,1,0,D
+2294,serie_B,2022,2022-12-04,Nuova Cosenza,Perugia,0,0,0,0,D
+2295,serie_B,2022,2022-12-04,Benevento,Palermo,0,1,0,0,A
+2296,serie_B,2022,2022-12-07,Ternana,Cagliari,1,0,1,0,H
+2297,serie_B,2022,2022-12-08,Parma,Benevento,0,1,0,0,A
+2298,serie_B,2022,2022-12-08,Genoa,Sudtirol,2,0,0,2,H
+2299,serie_B,2022,2022-12-08,Cittadella,Bari,0,3,0,0,A
+2300,serie_B,2022,2022-12-08,Perugia,Spal,0,0,0,0,D
+2301,serie_B,2022,2022-12-08,Modena,Venezia,2,2,1,1,D
+2302,serie_B,2022,2022-12-08,Reggina,Frosinone,0,3,0,0,A
+2303,serie_B,2022,2022-12-08,Nuova Cosenza,Brescia,1,1,0,1,D
+2304,serie_B,2022,2022-12-08,Pisa,Ascoli,2,0,1,1,H
+2305,serie_B,2022,2022-12-08,Palermo,como,0,0,0,0,D
+2306,serie_B,2022,2022-12-11,Cagliari,Perugia,3,2,2,1,H
+2307,serie_B,2022,2022-12-11,Spal,Palermo,1,1,1,0,D
+2308,serie_B,2022,2022-12-11,Benevento,Cittadella,1,0,1,0,H
+2309,serie_B,2022,2022-12-11,Ascoli,Genoa,0,0,0,0,D
+2310,serie_B,2022,2022-12-11,Venezia,Nuova Cosenza,2,0,1,1,H
+2311,serie_B,2022,2022-12-11,como,Reggina,0,1,0,0,A
+2312,serie_B,2022,2022-12-11,Sudtirol,Ternana,0,0,0,0,D
+2313,serie_B,2022,2022-12-11,Bari,Modena,4,1,2,2,H
+2314,serie_B,2022,2022-12-11,Frosinone,Pisa,0,0,0,0,D
+2315,serie_B,2022,2022-12-12,Brescia,Parma,0,2,0,0,A
+2316,serie_B,2022,2022-12-17,Pisa,Brescia,3,0,2,1,H
+2317,serie_B,2022,2022-12-17,Reggina,Bari,0,0,0,0,D
+2318,serie_B,2022,2022-12-18,Cittadella,Sudtirol,0,2,0,0,A
+2319,serie_B,2022,2022-12-18,Ternana,como,0,3,0,0,A
+2320,serie_B,2022,2022-12-18,Parma,Spal,0,1,0,0,A
+2321,serie_B,2022,2022-12-18,Modena,Benevento,1,1,1,0,D
+2322,serie_B,2022,2022-12-18,Nuova Cosenza,Ascoli,1,3,0,1,A
+2323,serie_B,2022,2022-12-18,Palermo,Cagliari,2,1,1,1,H
+2324,serie_B,2022,2022-12-18,Genoa,Frosinone,1,0,1,0,H
+2325,serie_B,2022,2022-12-19,Perugia,Venezia,2,1,2,0,H
+2326,serie_B,2022,2022-12-26,Brescia,Palermo,1,1,0,1,D
+2327,serie_B,2022,2022-12-26,Cagliari,Nuova Cosenza,2,0,0,2,H
+2328,serie_B,2022,2022-12-26,Spal,Pisa,0,1,0,0,A
+2329,serie_B,2022,2022-12-26,Benevento,Perugia,0,2,0,0,A
+2330,serie_B,2022,2022-12-26,Ascoli,Reggina,0,1,0,0,A
+2331,serie_B,2022,2022-12-26,Venezia,Parma,2,2,0,2,D
+2332,serie_B,2022,2022-12-26,como,Cittadella,2,0,1,1,H
+2333,serie_B,2022,2022-12-26,Sudtirol,Modena,0,2,0,0,A
+2334,serie_B,2022,2022-12-26,Frosinone,Ternana,3,0,1,2,H
+2335,serie_B,2022,2022-12-26,Bari,Genoa,1,2,1,0,A
+2336,serie_B,2022,2023-01-14,Cagliari,como,2,0,1,1,H
+2337,serie_B,2022,2023-01-14,Bari,Parma,4,0,3,1,H
+2338,serie_B,2022,2023-01-14,Perugia,Palermo,3,3,3,0,D
+2339,serie_B,2022,2023-01-14,Pisa,Cittadella,1,2,0,1,A
+2340,serie_B,2022,2023-01-14,Reggina,Spal,0,1,0,0,A
+2341,serie_B,2022,2023-01-14,Frosinone,Modena,2,1,0,2,H
+2342,serie_B,2022,2023-01-15,Sudtirol,Brescia,1,0,1,0,H
+2343,serie_B,2022,2023-01-15,Ternana,Ascoli,1,0,1,0,H
+2344,serie_B,2022,2023-01-15,Nuova Cosenza,Benevento,1,1,0,1,D
+2345,serie_B,2022,2023-01-16,Genoa,Venezia,1,0,0,1,H
+2346,serie_B,2022,2023-01-20,Palermo,Bari,1,0,0,1,H
+2347,serie_B,2022,2023-01-21,Spal,Ascoli,1,1,1,0,D
+2348,serie_B,2022,2023-01-21,Benevento,Genoa,1,2,0,1,A
+2349,serie_B,2022,2023-01-21,Venezia,Sudtirol,0,1,0,0,A
+2350,serie_B,2022,2023-01-21,Parma,Perugia,2,0,1,1,H
+2351,serie_B,2022,2023-01-21,como,Pisa,2,2,1,1,D
+2352,serie_B,2022,2023-01-21,Modena,Nuova Cosenza,2,0,0,2,H
+2353,serie_B,2022,2023-01-21,Reggina,Ternana,2,1,1,1,H
+2354,serie_B,2022,2023-01-21,Cittadella,Cagliari,0,0,0,0,D
+2355,serie_B,2022,2023-01-22,Brescia,Frosinone,1,3,1,0,A
+2356,serie_B,2022,2023-01-27,Cagliari,Spal,2,1,1,1,H
+2357,serie_B,2022,2023-01-28,Bari,Perugia,0,2,0,0,A
+2358,serie_B,2022,2023-01-28,Ternana,Modena,2,1,2,0,H
+2359,serie_B,2022,2023-01-28,Venezia,Cittadella,1,1,1,0,D
+2360,serie_B,2022,2023-01-28,Brescia,como,0,1,0,0,A
+2361,serie_B,2022,2023-01-28,Sudtirol,Reggina,2,1,1,1,H
+2362,serie_B,2022,2023-01-28,Nuova Cosenza,Parma,1,0,1,0,H
+2363,serie_B,2022,2023-01-28,Genoa,Pisa,0,0,0,0,D
+2364,serie_B,2022,2023-01-29,Ascoli,Palermo,1,2,0,1,A
+2365,serie_B,2022,2023-01-29,Frosinone,Benevento,1,0,0,1,H
+2366,serie_B,2022,2023-02-03,Modena,Cagliari,2,0,1,1,H
+2367,serie_B,2022,2023-02-04,Spal,Bari,3,4,0,3,A
+2368,serie_B,2022,2023-02-04,Benevento,Venezia,1,2,1,0,A
+2369,serie_B,2022,2023-02-04,Cittadella,Ascoli,3,0,1,2,H
+2370,serie_B,2022,2023-02-04,Perugia,Brescia,4,0,1,3,H
+2371,serie_B,2022,2023-02-04,Pisa,Sudtirol,0,1,0,0,A
+2372,serie_B,2022,2023-02-04,Nuova Cosenza,Ternana,0,0,0,0,D
+2373,serie_B,2022,2023-02-04,como,Frosinone,0,2,0,0,A
+2374,serie_B,2022,2023-02-05,Palermo,Reggina,2,1,0,2,H
+2375,serie_B,2022,2023-02-05,Parma,Genoa,2,0,1,1,H
+2376,serie_B,2022,2023-02-10,Genoa,Palermo,2,0,1,1,H
+2377,serie_B,2022,2023-02-11,Cagliari,Benevento,1,0,0,1,H
+2378,serie_B,2022,2023-02-11,Frosinone,Cittadella,3,0,1,2,H
+2379,serie_B,2022,2023-02-11,Venezia,Spal,2,1,2,0,H
+2380,serie_B,2022,2023-02-11,Brescia,Modena,0,1,0,0,A
+2381,serie_B,2022,2023-02-11,Sudtirol,como,1,1,0,1,D
+2382,serie_B,2022,2023-02-11,Reggina,Pisa,0,2,0,0,A
+2383,serie_B,2022,2023-02-11,Ascoli,Perugia,1,0,0,1,H
+2384,serie_B,2022,2023-02-11,Ternana,Parma,1,1,1,0,D
+2385,serie_B,2022,2023-02-12,Bari,Nuova Cosenza,2,1,1,1,H
+2386,serie_B,2022,2023-02-17,Pisa,Venezia,1,1,0,1,D
+2387,serie_B,2022,2023-02-18,Spal,como,1,1,1,0,D
+2388,serie_B,2022,2023-02-18,Benevento,Brescia,1,0,0,1,H
+2389,serie_B,2022,2023-02-18,Cittadella,Reggina,3,2,0,3,H
+2390,serie_B,2022,2023-02-18,Palermo,Frosinone,1,1,1,0,D
+2391,serie_B,2022,2023-02-18,Parma,Ascoli,0,1,0,0,A
+2392,serie_B,2022,2023-02-18,Nuova Cosenza,Sudtirol,0,0,0,0,D
+2393,serie_B,2022,2023-02-18,Bari,Cagliari,1,1,0,1,D
+2394,serie_B,2022,2023-02-18,Perugia,Ternana,3,0,0,3,H
+2395,serie_B,2022,2023-02-19,Modena,Genoa,2,2,1,1,D
+2396,serie_B,2022,2023-02-24,Frosinone,Parma,3,4,1,2,A
+2397,serie_B,2022,2023-02-24,Pisa,Perugia,2,1,0,2,H
+2398,serie_B,2022,2023-02-25,Ternana,Cittadella,1,2,1,0,A
+2399,serie_B,2022,2023-02-25,Venezia,Cagliari,0,0,0,0,D
+2400,serie_B,2022,2023-02-25,Brescia,Bari,0,2,0,0,A
+2401,serie_B,2022,2023-02-25,como,Nuova Cosenza,5,1,2,3,H
+2402,serie_B,2022,2023-02-25,Sudtirol,Palermo,1,1,1,0,D
+2403,serie_B,2022,2023-02-25,Reggina,Modena,2,1,1,1,H
+2404,serie_B,2022,2023-02-25,Genoa,Spal,3,0,0,3,H
+2405,serie_B,2022,2023-02-26,Ascoli,Benevento,0,0,0,0,D
+2406,serie_B,2022,2023-02-28,Palermo,Ternana,0,0,0,0,D
+2407,serie_B,2022,2023-02-28,Parma,Pisa,0,1,0,0,A
+2408,serie_B,2022,2023-02-28,Nuova Cosenza,Reggina,2,1,0,2,H
+2409,serie_B,2022,2023-03-01,Cagliari,Genoa,0,0,0,0,D
+2410,serie_B,2022,2023-03-01,Spal,Frosinone,0,2,0,0,A
+2411,serie_B,2022,2023-03-01,Benevento,Sudtirol,0,2,0,0,A
+2412,serie_B,2022,2023-03-01,Bari,Venezia,1,0,0,1,H
+2413,serie_B,2022,2023-03-01,Cittadella,Brescia,0,0,0,0,D
+2414,serie_B,2022,2023-03-01,Perugia,como,0,0,0,0,D
+2415,serie_B,2022,2023-03-01,Modena,Ascoli,0,1,0,0,A
+2416,serie_B,2022,2023-03-04,Pisa,Palermo,1,1,0,1,D
+2417,serie_B,2022,2023-03-04,Reggina,Parma,0,1,0,0,A
+2418,serie_B,2022,2023-03-05,Spal,Cittadella,2,1,1,1,H
+2419,serie_B,2022,2023-03-05,Ascoli,Bari,0,1,0,0,A
+2420,serie_B,2022,2023-03-05,Frosinone,Venezia,3,0,1,2,H
+2421,serie_B,2022,2023-03-05,Ternana,Benevento,2,2,2,0,D
+2422,serie_B,2022,2023-03-05,Brescia,Cagliari,1,1,0,1,D
+2423,serie_B,2022,2023-03-05,como,Modena,1,0,0,1,H
+2424,serie_B,2022,2023-03-05,Sudtirol,Perugia,2,1,1,1,H
+2425,serie_B,2022,2023-03-06,Genoa,Nuova Cosenza,4,0,1,3,H
+2426,serie_B,2022,2023-03-10,Cagliari,Ascoli,4,1,0,4,H
+2427,serie_B,2022,2023-03-11,Benevento,como,0,0,0,0,D
+2428,serie_B,2022,2023-03-11,Cittadella,Palermo,3,3,2,1,D
+2429,serie_B,2022,2023-03-11,Venezia,Brescia,1,1,0,1,D
+2430,serie_B,2022,2023-03-11,Parma,Sudtirol,0,0,0,0,D
+2431,serie_B,2022,2023-03-11,Modena,Pisa,1,0,1,0,H
+2432,serie_B,2022,2023-03-11,Bari,Frosinone,0,0,0,0,D
+2433,serie_B,2022,2023-03-12,Genoa,Ternana,1,0,1,0,H
+2434,serie_B,2022,2023-03-12,Nuova Cosenza,Spal,1,0,0,1,H
+2435,serie_B,2022,2023-03-17,Palermo,Modena,5,2,1,4,H
+2436,serie_B,2022,2023-03-18,Ascoli,Venezia,0,1,0,0,A
+2437,serie_B,2022,2023-03-18,Cittadella,Perugia,0,2,0,0,A
+2438,serie_B,2022,2023-03-18,Frosinone,Nuova Cosenza,0,1,0,0,A
+2439,serie_B,2022,2023-03-18,Brescia,Genoa,0,3,0,0,A
+2440,serie_B,2022,2023-03-18,Pisa,Benevento,2,0,1,1,H
+2441,serie_B,2022,2023-03-18,como,Parma,2,0,1,1,H
+2442,serie_B,2022,2023-03-18,Sudtirol,Spal,2,0,1,1,H
+2443,serie_B,2022,2023-03-18,Reggina,Cagliari,0,4,0,0,A
+2444,serie_B,2022,2023-03-19,Ternana,Bari,1,0,1,0,H
+2445,serie_B,2022,2023-03-31,Genoa,Reggina,1,0,1,0,H
+2446,serie_B,2022,2023-04-01,Cagliari,Sudtirol,1,1,1,0,D
+2447,serie_B,2022,2023-04-01,Spal,Ternana,1,1,1,0,D
+2448,serie_B,2022,2023-04-01,Ascoli,Brescia,4,3,1,3,H
+2449,serie_B,2022,2023-04-01,Venezia,como,3,2,1,2,H
+2450,serie_B,2022,2023-04-01,Parma,Palermo,2,1,1,1,H
+2451,serie_B,2022,2023-04-01,Nuova Cosenza,Pisa,1,0,1,0,H
+2452,serie_B,2022,2023-04-01,Bari,Benevento,2,0,0,2,H
+2453,serie_B,2022,2023-04-01,Perugia,Frosinone,1,1,0,1,D
+2454,serie_B,2022,2023-04-02,Modena,Cittadella,0,0,0,0,D
+2455,serie_B,2022,2023-04-05,Perugia,Reggina,1,3,1,0,A
+2456,serie_B,2022,2023-04-10,Benevento,Spal,1,3,1,0,A
+2457,serie_B,2022,2023-04-10,Cittadella,Parma,0,1,0,0,A
+2458,serie_B,2022,2023-04-10,Frosinone,Ascoli,2,0,1,1,H
+2459,serie_B,2022,2023-04-10,Brescia,Ternana,1,0,1,0,H
+2460,serie_B,2022,2023-04-10,Perugia,Modena,0,1,0,0,A
+2461,serie_B,2022,2023-04-10,como,Genoa,2,2,0,2,D
+2462,serie_B,2022,2023-04-10,Sudtirol,Bari,0,1,0,0,A
+2463,serie_B,2022,2023-04-10,Reggina,Venezia,1,0,1,0,H
+2464,serie_B,2022,2023-04-10,Pisa,Cagliari,0,0,0,0,D
+2465,serie_B,2022,2023-04-10,Palermo,Nuova Cosenza,0,0,0,0,D
+2466,serie_B,2022,2023-04-14,Modena,Parma,1,1,1,0,D
+2467,serie_B,2022,2023-04-15,Spal,Brescia,2,2,1,1,D
+2468,serie_B,2022,2023-04-15,Genoa,Perugia,2,0,1,1,H
+2469,serie_B,2022,2023-04-15,Benevento,Reggina,1,1,0,1,D
+2470,serie_B,2022,2023-04-15,Ascoli,Sudtirol,1,0,0,1,H
+2471,serie_B,2022,2023-04-15,Bari,como,2,2,0,2,D
+2472,serie_B,2022,2023-04-15,Venezia,Palermo,3,2,1,2,H
+2473,serie_B,2022,2023-04-15,Nuova Cosenza,Cittadella,1,1,1,0,D
+2474,serie_B,2022,2023-04-15,Cagliari,Frosinone,0,0,0,0,D
+2475,serie_B,2022,2023-04-16,Ternana,Pisa,2,1,0,2,H
+2476,serie_B,2022,2023-04-21,Reggina,Brescia,1,2,0,1,A
+2477,serie_B,2022,2023-04-22,Cittadella,Genoa,0,1,0,0,A
+2478,serie_B,2022,2023-04-22,Frosinone,Sudtirol,0,0,0,0,D
+2479,serie_B,2022,2023-04-22,Parma,Cagliari,2,1,0,2,H
+2480,serie_B,2022,2023-04-22,Perugia,Nuova Cosenza,0,0,0,0,D
+2481,serie_B,2022,2023-04-22,como,Ascoli,1,1,0,1,D
+2482,serie_B,2022,2023-04-22,Modena,Spal,0,0,0,0,D
+2483,serie_B,2022,2023-04-22,Palermo,Benevento,1,1,1,0,D
+2484,serie_B,2022,2023-04-23,Ternana,Venezia,1,4,0,1,A
+2485,serie_B,2022,2023-04-23,Pisa,Bari,1,2,1,0,A
+2486,serie_B,2022,2023-04-30,Cagliari,Ternana,2,1,1,1,H
+2487,serie_B,2022,2023-04-30,Spal,Perugia,1,1,0,1,D
+2488,serie_B,2022,2023-05-01,como,Palermo,1,1,1,0,D
+2489,serie_B,2022,2023-05-01,Benevento,Parma,2,2,0,2,D
+2490,serie_B,2022,2023-05-01,Ascoli,Pisa,2,1,0,2,H
+2491,serie_B,2022,2023-05-01,Bari,Cittadella,1,1,0,1,D
+2492,serie_B,2022,2023-05-01,Brescia,Nuova Cosenza,2,1,0,2,H
+2493,serie_B,2022,2023-05-01,Sudtirol,Genoa,0,0,0,0,D
+2494,serie_B,2022,2023-05-01,Venezia,Modena,5,0,1,4,H
+2495,serie_B,2022,2023-05-01,Frosinone,Reggina,3,1,2,1,H
+2496,serie_B,2022,2023-05-05,Perugia,Cagliari,0,5,0,0,A
+2497,serie_B,2022,2023-05-06,Genoa,Ascoli,2,1,1,1,H
+2498,serie_B,2022,2023-05-06,Cittadella,Benevento,3,1,1,2,H
+2499,serie_B,2022,2023-05-06,Ternana,Sudtirol,0,1,0,0,A
+2500,serie_B,2022,2023-05-06,Pisa,Frosinone,1,3,1,0,A
+2501,serie_B,2022,2023-05-06,Modena,Bari,1,1,0,1,D
+2502,serie_B,2022,2023-05-06,Reggina,como,2,1,1,1,H
+2503,serie_B,2022,2023-05-06,Nuova Cosenza,Venezia,1,1,0,1,D
+2504,serie_B,2022,2023-05-06,Palermo,Spal,2,1,2,0,H
+2505,serie_B,2022,2023-05-07,Parma,Brescia,2,0,2,0,H
+2506,serie_B,2022,2023-05-13,Cagliari,Palermo,2,1,1,1,H
+2507,serie_B,2022,2023-05-13,Spal,Parma,0,1,0,0,A
+2508,serie_B,2022,2023-05-13,Benevento,Modena,2,1,2,0,H
+2509,serie_B,2022,2023-05-13,Ascoli,Nuova Cosenza,1,1,1,0,D
+2510,serie_B,2022,2023-05-13,Bari,Reggina,1,0,1,0,H
+2511,serie_B,2022,2023-05-13,Venezia,Perugia,3,2,2,1,H
+2512,serie_B,2022,2023-05-13,Brescia,Pisa,1,1,0,1,D
+2513,serie_B,2022,2023-05-13,como,Ternana,3,1,0,3,H
+2514,serie_B,2022,2023-05-13,Sudtirol,Cittadella,1,1,0,1,D
+2515,serie_B,2022,2023-05-13,Frosinone,Genoa,3,2,2,1,H
+2516,serie_B,2022,2023-05-19,Genoa,Bari,4,3,2,2,H
+2517,serie_B,2022,2023-05-19,Cittadella,como,0,0,0,0,D
+2518,serie_B,2022,2023-05-19,Ternana,Frosinone,2,3,2,0,A
+2519,serie_B,2022,2023-05-19,Palermo,Brescia,2,2,2,0,D
+2520,serie_B,2022,2023-05-19,Parma,Venezia,2,1,1,1,H
+2521,serie_B,2022,2023-05-19,Perugia,Benevento,3,2,0,3,H
+2522,serie_B,2022,2023-05-19,Pisa,Spal,1,2,0,1,A
+2523,serie_B,2022,2023-05-19,Modena,Sudtirol,2,1,2,0,H
+2524,serie_B,2022,2023-05-19,Reggina,Ascoli,1,0,0,1,H
+2525,serie_B,2022,2023-05-19,Nuova Cosenza,Cagliari,0,1,0,0,A
+2526,serie_B,2022,2023-05-25,Cosenza,Brescia,1,0,0,1,H
+2527,serie_B,2022,2023-05-26,Sudtirol,Reggina,1,0,0,1,H
+2528,serie_B,2022,2023-05-27,Cagliari,Venezia,2,1,2,0,H
+2529,serie_B,2022,2023-05-29,Sudtirol,Bari,1,0,0,1,H
+2530,serie_B,2022,2023-05-30,Cagliari,Parma,3,2,0,3,H
+2531,serie_B,2022,2023-06-01,Brescia,Cosenza,1,1,0,1,D
+2532,serie_B,2022,2023-06-02,Bari,Sudtirol,1,0,0,1,H
+2533,serie_B,2022,2023-06-03,Parma,Cagliari,0,0,0,0,D
+2534,serie_B,2022,2023-06-08,Cagliari,Bari,1,1,1,0,D
+2535,serie_B,2022,2023-06-11,Bari,Cagliari,0,1,0,0,A

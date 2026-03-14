@@ -1,0 +1,234 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+ecosse,2022,2022-07-30,Livingston,Rangers,1,2,1,0,A
+ecosse,2022,2022-07-30,Kilmarnock,Dundee Utd,1,1,0,1,D
+ecosse,2022,2022-07-30,Heart Of Midlothian,Ross County,2,1,0,2,H
+ecosse,2022,2022-07-30,ST Johnstone,Hibernian,0,1,0,0,A
+ecosse,2022,2022-07-31,ST Mirren,Motherwell,0,1,0,0,A
+ecosse,2022,2022-07-31,Celtic,Aberdeen,2,0,1,1,H
+ecosse,2022,2022-08-06,Aberdeen,ST Mirren,4,1,3,1,H
+ecosse,2022,2022-08-06,Motherwell,ST Johnstone,1,2,0,1,A
+ecosse,2022,2022-08-06,Rangers,Kilmarnock,2,0,0,2,H
+ecosse,2022,2022-08-06,Ross County,Celtic,1,3,0,1,A
+ecosse,2022,2022-08-07,Hibernian,Heart Of Midlothian,1,1,0,1,D
+ecosse,2022,2022-08-07,Dundee Utd,Livingston,0,1,0,0,A
+ecosse,2022,2022-08-13,ST Mirren,Ross County,1,0,0,1,H
+ecosse,2022,2022-08-13,Aberdeen,Motherwell,2,3,1,1,A
+ecosse,2022,2022-08-13,Livingston,Hibernian,2,1,1,1,H
+ecosse,2022,2022-08-13,Rangers,ST Johnstone,4,0,1,3,H
+ecosse,2022,2022-08-14,Kilmarnock,Celtic,0,5,0,0,A
+ecosse,2022,2022-08-14,Heart Of Midlothian,Dundee Utd,4,1,1,3,H
+ecosse,2022,2022-08-20,Hibernian,Rangers,2,2,0,2,D
+ecosse,2022,2022-08-20,Motherwell,Livingston,1,0,0,1,H
+ecosse,2022,2022-08-20,ST Johnstone,Aberdeen,0,1,0,0,A
+ecosse,2022,2022-08-20,Ross County,Kilmarnock,1,0,0,1,H
+ecosse,2022,2022-08-20,Dundee Utd,ST Mirren,0,3,0,0,A
+ecosse,2022,2022-08-21,Celtic,Heart Of Midlothian,2,0,1,1,H
+ecosse,2022,2022-08-27,Kilmarnock,Motherwell,2,1,0,2,H
+ecosse,2022,2022-08-27,ST Mirren,Hibernian,1,0,1,0,H
+ecosse,2022,2022-08-27,Aberdeen,Livingston,5,0,1,4,H
+ecosse,2022,2022-08-27,Rangers,Ross County,4,0,2,2,H
+ecosse,2022,2022-08-28,Dundee Utd,Celtic,0,9,0,0,A
+ecosse,2022,2022-08-28,Heart Of Midlothian,ST Johnstone,3,2,2,1,H
+ecosse,2022,2022-09-03,Celtic,Rangers,4,0,3,1,H
+ecosse,2022,2022-09-03,Hibernian,Kilmarnock,1,0,1,0,H
+ecosse,2022,2022-09-03,Livingston,Heart Of Midlothian,1,0,1,0,H
+ecosse,2022,2022-09-03,Motherwell,Dundee Utd,0,0,0,0,D
+ecosse,2022,2022-09-03,ST Johnstone,ST Mirren,3,0,1,2,H
+ecosse,2022,2022-09-03,Ross County,Aberdeen,1,1,0,1,D
+ecosse,2022,2022-09-17,Hibernian,Aberdeen,3,1,1,2,H
+ecosse,2022,2022-09-17,Livingston,Kilmarnock,1,0,1,0,H
+ecosse,2022,2022-09-17,Rangers,Dundee Utd,2,1,1,1,H
+ecosse,2022,2022-09-17,ST Johnstone,Ross County,0,0,0,0,D
+ecosse,2022,2022-09-18,ST Mirren,Celtic,2,0,1,1,H
+ecosse,2022,2022-09-18,Motherwell,Heart Of Midlothian,0,3,0,0,A
+ecosse,2022,2022-10-01,Heart Of Midlothian,Rangers,0,4,0,0,A
+ecosse,2022,2022-10-01,Celtic,Motherwell,2,1,1,1,H
+ecosse,2022,2022-10-01,ST Mirren,Livingston,2,1,0,2,H
+ecosse,2022,2022-10-01,Aberdeen,Kilmarnock,4,1,3,1,H
+ecosse,2022,2022-10-01,Ross County,Hibernian,0,2,0,0,A
+ecosse,2022,2022-10-01,Dundee Utd,ST Johnstone,1,2,0,1,A
+ecosse,2022,2022-10-04,Ross County,Motherwell,0,5,0,0,A
+ecosse,2022,2022-10-05,Kilmarnock,ST Johnstone,2,1,1,1,H
+ecosse,2022,2022-10-08,ST Johnstone,Celtic,1,2,0,1,A
+ecosse,2022,2022-10-08,Hibernian,Motherwell,1,0,0,1,H
+ecosse,2022,2022-10-08,Livingston,Ross County,0,1,0,0,A
+ecosse,2022,2022-10-08,Rangers,ST Mirren,4,0,2,2,H
+ecosse,2022,2022-10-08,Dundee Utd,Aberdeen,4,0,2,2,H
+ecosse,2022,2022-10-09,Kilmarnock,Heart Of Midlothian,2,2,0,2,D
+ecosse,2022,2022-10-11,Dundee Utd,Hibernian,1,0,1,0,H
+ecosse,2022,2022-10-15,Celtic,Hibernian,6,1,3,3,H
+ecosse,2022,2022-10-15,ST Mirren,Kilmarnock,0,0,0,0,D
+ecosse,2022,2022-10-15,Livingston,ST Johnstone,1,0,1,0,H
+ecosse,2022,2022-10-15,Ross County,Dundee Utd,1,1,1,0,D
+ecosse,2022,2022-10-16,Motherwell,Rangers,1,2,0,1,A
+ecosse,2022,2022-10-16,Aberdeen,Heart Of Midlothian,2,0,0,2,H
+ecosse,2022,2022-10-21,Hibernian,ST Johnstone,1,2,1,0,A
+ecosse,2022,2022-10-22,Heart Of Midlothian,Celtic,3,4,1,2,A
+ecosse,2022,2022-10-22,Kilmarnock,Ross County,1,0,1,0,H
+ecosse,2022,2022-10-22,ST Mirren,Dundee Utd,2,1,1,1,H
+ecosse,2022,2022-10-22,Motherwell,Aberdeen,1,2,0,1,A
+ecosse,2022,2022-10-22,Rangers,Livingston,1,1,0,1,D
+ecosse,2022,2022-10-29,Hibernian,ST Mirren,3,0,1,2,H
+ecosse,2022,2022-10-29,Rangers,Aberdeen,4,1,2,2,H
+ecosse,2022,2022-10-29,ST Johnstone,Kilmarnock,1,0,1,0,H
+ecosse,2022,2022-10-29,Dundee Utd,Motherwell,0,1,0,0,A
+ecosse,2022,2022-10-30,Livingston,Celtic,0,3,0,0,A
+ecosse,2022,2022-10-30,Ross County,Heart Of Midlothian,1,2,1,0,A
+ecosse,2022,2022-11-04,Aberdeen,Hibernian,4,1,1,3,H
+ecosse,2022,2022-11-04,Kilmarnock,Livingston,2,3,2,0,A
+ecosse,2022,2022-11-05,Celtic,Dundee Utd,4,2,2,2,H
+ecosse,2022,2022-11-05,Ross County,ST Mirren,3,2,1,2,H
+ecosse,2022,2022-11-06,ST Johnstone,Rangers,2,1,1,1,H
+ecosse,2022,2022-11-06,Heart Of Midlothian,Motherwell,3,2,1,2,H
+ecosse,2022,2022-11-08,Hibernian,Ross County,0,2,0,0,A
+ecosse,2022,2022-11-08,Livingston,Aberdeen,2,1,2,0,H
+ecosse,2022,2022-11-09,ST Mirren,ST Johnstone,2,2,1,1,D
+ecosse,2022,2022-11-09,Motherwell,Celtic,1,2,0,1,A
+ecosse,2022,2022-11-09,Rangers,Heart Of Midlothian,1,0,0,1,H
+ecosse,2022,2022-11-09,Dundee Utd,Kilmarnock,4,0,3,1,H
+ecosse,2022,2022-11-12,ST Mirren,Rangers,1,1,0,1,D
+ecosse,2022,2022-11-12,Celtic,Ross County,2,1,0,2,H
+ecosse,2022,2022-11-12,Kilmarnock,Hibernian,1,0,0,1,H
+ecosse,2022,2022-11-12,Heart Of Midlothian,Livingston,1,1,0,1,D
+ecosse,2022,2022-11-12,ST Johnstone,Motherwell,1,1,1,0,D
+ecosse,2022,2022-11-12,Aberdeen,Dundee Utd,1,0,1,0,H
+ecosse,2022,2022-12-15,Rangers,Hibernian,3,2,1,2,H
+ecosse,2022,2022-12-17,Aberdeen,Celtic,0,1,0,0,A
+ecosse,2022,2022-12-17,Heart Of Midlothian,Kilmarnock,3,1,2,1,H
+ecosse,2022,2022-12-17,Ross County,ST Johnstone,1,2,1,0,A
+ecosse,2022,2022-12-20,Aberdeen,Rangers,2,3,1,1,A
+ecosse,2022,2022-12-21,Celtic,Livingston,2,1,2,0,H
+ecosse,2022,2022-12-23,Ross County,Rangers,0,1,0,0,A
+ecosse,2022,2022-12-23,Motherwell,Kilmarnock,2,2,1,1,D
+ecosse,2022,2022-12-24,Celtic,ST Johnstone,4,1,3,1,H
+ecosse,2022,2022-12-24,ST Mirren,Aberdeen,3,1,1,2,H
+ecosse,2022,2022-12-24,Hibernian,Livingston,4,0,3,1,H
+ecosse,2022,2022-12-24,Dundee Utd,Heart Of Midlothian,2,2,1,1,D
+ecosse,2022,2022-12-28,Kilmarnock,Aberdeen,2,1,2,0,H
+ecosse,2022,2022-12-28,Livingston,ST Mirren,1,1,0,1,D
+ecosse,2022,2022-12-28,Rangers,Motherwell,3,0,2,1,H
+ecosse,2022,2022-12-28,ST Johnstone,Heart Of Midlothian,2,3,0,2,A
+ecosse,2022,2022-12-28,Dundee Utd,Ross County,3,0,1,2,H
+ecosse,2022,2022-12-28,Hibernian,Celtic,0,4,0,0,A
+ecosse,2022,2023-01-02,Rangers,Celtic,2,2,0,2,D
+ecosse,2022,2023-01-02,Kilmarnock,ST Mirren,0,0,0,0,D
+ecosse,2022,2023-01-02,Aberdeen,Ross County,0,0,0,0,D
+ecosse,2022,2023-01-02,Heart Of Midlothian,Hibernian,3,0,2,1,H
+ecosse,2022,2023-01-02,Livingston,Motherwell,1,1,1,0,D
+ecosse,2022,2023-01-02,ST Johnstone,Dundee Utd,0,1,0,0,A
+ecosse,2022,2023-01-07,Celtic,Kilmarnock,2,0,1,1,H
+ecosse,2022,2023-01-07,ST Mirren,Heart Of Midlothian,1,1,1,0,D
+ecosse,2022,2023-01-07,Aberdeen,ST Johnstone,2,0,0,2,H
+ecosse,2022,2023-01-07,Ross County,Livingston,0,2,0,0,A
+ecosse,2022,2023-01-08,Motherwell,Hibernian,2,3,0,2,A
+ecosse,2022,2023-01-08,Dundee Utd,Rangers,0,2,0,0,A
+ecosse,2022,2023-01-13,Heart Of Midlothian,ST Mirren,1,0,1,0,H
+ecosse,2022,2023-01-14,Hibernian,Dundee Utd,2,2,1,1,D
+ecosse,2022,2023-01-14,Motherwell,Ross County,1,1,0,1,D
+ecosse,2022,2023-01-14,ST Johnstone,Livingston,2,4,0,2,A
+ecosse,2022,2023-01-18,Celtic,ST Mirren,4,0,2,2,H
+ecosse,2022,2023-01-18,Heart Of Midlothian,Aberdeen,5,0,4,1,H
+ecosse,2022,2023-01-18,Kilmarnock,Rangers,2,3,1,1,A
+ecosse,2022,2023-01-28,Hibernian,Aberdeen,6,0,3,3,H
+ecosse,2022,2023-01-28,ST Mirren,Motherwell,1,0,1,0,H
+ecosse,2022,2023-01-28,Rangers,ST Johnstone,2,0,1,1,H
+ecosse,2022,2023-01-28,Ross County,Kilmarnock,3,0,1,2,H
+ecosse,2022,2023-01-29,Livingston,Heart Of Midlothian,0,0,0,0,D
+ecosse,2022,2023-01-29,Dundee Utd,Celtic,0,2,0,0,A
+ecosse,2022,2023-01-31,Ross County,Hibernian,1,1,0,1,D
+ecosse,2022,2023-02-01,Celtic,Livingston,3,0,3,0,H
+ecosse,2022,2023-02-01,Kilmarnock,Dundee Utd,1,0,1,0,H
+ecosse,2022,2023-02-01,Aberdeen,ST Mirren,1,3,0,1,A
+ecosse,2022,2023-02-01,Heart Of Midlothian,Rangers,0,3,0,0,A
+ecosse,2022,2023-02-01,Motherwell,ST Johnstone,0,2,0,0,A
+ecosse,2022,2023-02-04,ST Mirren,Hibernian,0,1,0,0,A
+ecosse,2022,2023-02-04,Aberdeen,Motherwell,3,1,1,2,H
+ecosse,2022,2023-02-04,Heart Of Midlothian,Dundee Utd,3,1,0,3,H
+ecosse,2022,2023-02-04,Livingston,Kilmarnock,3,1,3,0,H
+ecosse,2022,2023-02-04,Rangers,Ross County,2,1,1,1,H
+ecosse,2022,2023-02-05,ST Johnstone,Celtic,1,4,1,0,A
+ecosse,2022,2023-02-15,Motherwell,ST Mirren,2,1,2,0,H
+ecosse,2022,2023-02-18,Celtic,Aberdeen,4,0,2,2,H
+ecosse,2022,2023-02-18,Hibernian,Kilmarnock,2,0,1,1,H
+ecosse,2022,2023-02-18,ST Mirren,Ross County,1,0,1,0,H
+ecosse,2022,2023-02-18,Livingston,Rangers,0,3,0,0,A
+ecosse,2022,2023-02-18,Dundee Utd,ST Johnstone,1,2,0,1,A
+ecosse,2022,2023-02-19,Motherwell,Heart Of Midlothian,2,0,1,1,H
+ecosse,2022,2023-02-25,Kilmarnock,Motherwell,1,1,1,0,D
+ecosse,2022,2023-02-25,Aberdeen,Livingston,1,0,1,0,H
+ecosse,2022,2023-02-25,ST Johnstone,ST Mirren,1,1,0,1,D
+ecosse,2022,2023-02-25,Ross County,Dundee Utd,4,0,2,2,H
+ecosse,2022,2023-03-04,Heart Of Midlothian,ST Johnstone,3,0,1,2,H
+ecosse,2022,2023-03-04,Livingston,Hibernian,1,4,1,0,A
+ecosse,2022,2023-03-04,Rangers,Kilmarnock,3,1,3,0,H
+ecosse,2022,2023-03-04,Ross County,Motherwell,0,2,0,0,A
+ecosse,2022,2023-03-04,Dundee Utd,Aberdeen,1,3,0,1,A
+ecosse,2022,2023-03-05,ST Mirren,Celtic,1,5,1,0,A
+ecosse,2022,2023-03-08,Celtic,Heart Of Midlothian,3,1,1,2,H
+ecosse,2022,2023-03-08,Hibernian,Rangers,1,4,1,0,A
+ecosse,2022,2023-03-08,Livingston,Dundee Utd,1,1,1,0,D
+ecosse,2022,2023-03-18,Motherwell,Rangers,2,4,1,1,A
+ecosse,2022,2023-03-18,Celtic,Hibernian,3,1,0,3,H
+ecosse,2022,2023-03-18,Kilmarnock,ST Johnstone,1,1,1,0,D
+ecosse,2022,2023-03-18,Aberdeen,Heart Of Midlothian,3,0,3,0,H
+ecosse,2022,2023-03-18,Livingston,Ross County,2,1,2,0,H
+ecosse,2022,2023-03-18,Dundee Utd,ST Mirren,1,1,1,0,D
+ecosse,2022,2023-04-01,Hibernian,Motherwell,1,3,0,1,A
+ecosse,2022,2023-04-01,Kilmarnock,Heart Of Midlothian,2,1,2,0,H
+ecosse,2022,2023-04-01,ST Mirren,Livingston,3,0,3,0,H
+ecosse,2022,2023-04-01,Rangers,Dundee Utd,2,0,1,1,H
+ecosse,2022,2023-04-01,ST Johnstone,Aberdeen,0,1,0,0,A
+ecosse,2022,2023-04-02,Ross County,Celtic,0,2,0,0,A
+ecosse,2022,2023-04-08,Celtic,Rangers,3,2,1,2,H
+ecosse,2022,2023-04-08,Aberdeen,Kilmarnock,2,0,1,1,H
+ecosse,2022,2023-04-08,Heart Of Midlothian,ST Mirren,0,2,0,0,A
+ecosse,2022,2023-04-08,Motherwell,Livingston,3,0,3,0,H
+ecosse,2022,2023-04-08,ST Johnstone,Ross County,0,2,0,0,A
+ecosse,2022,2023-04-09,Dundee Utd,Hibernian,2,1,1,1,H
+ecosse,2022,2023-04-14,Ross County,Aberdeen,0,1,0,0,A
+ecosse,2022,2023-04-15,Hibernian,Heart Of Midlothian,1,0,0,1,H
+ecosse,2022,2023-04-15,Livingston,ST Johnstone,2,0,2,0,H
+ecosse,2022,2023-04-15,Motherwell,Dundee Utd,1,2,1,0,A
+ecosse,2022,2023-04-15,Rangers,ST Mirren,5,2,1,4,H
+ecosse,2022,2023-04-16,Kilmarnock,Celtic,1,4,1,0,A
+ecosse,2022,2023-04-22,Heart Of Midlothian,Ross County,6,1,4,2,H
+ecosse,2022,2023-04-22,Celtic,Motherwell,1,1,1,0,D
+ecosse,2022,2023-04-22,ST Mirren,Kilmarnock,0,2,0,0,A
+ecosse,2022,2023-04-22,ST Johnstone,Hibernian,1,1,1,0,D
+ecosse,2022,2023-04-22,Dundee Utd,Livingston,2,0,1,1,H
+ecosse,2022,2023-04-23,Aberdeen,Rangers,2,0,0,2,H
+ecosse,2022,2023-05-06,Hibernian,ST Mirren,2,1,2,0,H
+ecosse,2022,2023-05-06,Motherwell,Kilmarnock,2,0,1,1,H
+ecosse,2022,2023-05-06,ST Johnstone,Dundee Utd,1,0,1,0,H
+ecosse,2022,2023-05-06,Ross County,Livingston,2,0,1,1,H
+ecosse,2022,2023-05-07,Heart Of Midlothian,Celtic,0,2,0,0,A
+ecosse,2022,2023-05-07,Rangers,Aberdeen,1,0,0,1,H
+ecosse,2022,2023-05-09,Partick,Queen's Park,4,3,2,2,H
+ecosse,2022,2023-05-12,Queen's Park,Partick,0,4,0,0,A
+ecosse,2022,2023-05-13,Rangers,Celtic,3,0,2,1,H
+ecosse,2022,2023-05-13,Kilmarnock,Livingston,2,0,0,2,H
+ecosse,2022,2023-05-13,ST Mirren,Heart Of Midlothian,2,2,2,0,D
+ecosse,2022,2023-05-13,Aberdeen,Hibernian,0,0,0,0,D
+ecosse,2022,2023-05-13,ST Johnstone,Motherwell,0,2,0,0,A
+ecosse,2022,2023-05-13,Dundee Utd,Ross County,1,3,1,0,A
+ecosse,2022,2023-05-19,Partick,Ayr Utd,3,0,1,2,H
+ecosse,2022,2023-05-20,Heart Of Midlothian,Aberdeen,2,1,1,1,H
+ecosse,2022,2023-05-20,Celtic,ST Mirren,2,2,1,1,D
+ecosse,2022,2023-05-20,Kilmarnock,ST Johnstone,0,1,0,0,A
+ecosse,2022,2023-05-20,Livingston,Dundee Utd,2,1,1,1,H
+ecosse,2022,2023-05-20,Motherwell,Ross County,1,0,0,1,H
+ecosse,2022,2023-05-21,Hibernian,Rangers,1,3,0,1,A
+ecosse,2022,2023-05-24,Hibernian,Celtic,4,2,0,4,H
+ecosse,2022,2023-05-24,Aberdeen,ST Mirren,3,0,2,1,H
+ecosse,2022,2023-05-24,Livingston,Motherwell,1,1,0,1,D
+ecosse,2022,2023-05-24,Rangers,Heart Of Midlothian,2,2,1,1,D
+ecosse,2022,2023-05-24,Ross County,ST Johnstone,3,3,0,3,D
+ecosse,2022,2023-05-24,Dundee Utd,Kilmarnock,0,3,0,0,A
+ecosse,2022,2023-05-26,Ayr Utd,Partick,0,5,0,0,A
+ecosse,2022,2023-05-27,Celtic,Aberdeen,5,0,2,3,H
+ecosse,2022,2023-05-27,ST Mirren,Rangers,0,3,0,0,A
+ecosse,2022,2023-05-27,Heart Of Midlothian,Hibernian,1,1,1,0,D
+ecosse,2022,2023-05-28,Kilmarnock,Ross County,3,1,1,2,H
+ecosse,2022,2023-05-28,Motherwell,Dundee Utd,3,2,1,2,H
+ecosse,2022,2023-05-28,ST Johnstone,Livingston,2,0,1,1,H
+ecosse,2022,2023-06-01,Partick,Ross County,2,0,2,0,H

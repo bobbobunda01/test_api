@@ -1,0 +1,379 @@
+,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+578,2023,2023-01-26,Rosario Central,Argentinos JRS,1,0,1,0,H
+579,2023,2023-01-27,Estudiantes L.P.,Tigre,1,2,0,1,A
+580,2023,2023-01-27,Talleres Cordoba,Independiente,0,1,0,0,A
+581,2023,2023-01-28,Defensa Y Justicia,Huracan,2,4,1,1,A
+582,2023,2023-01-28,San Lorenzo,Arsenal Sarandi,1,0,0,1,H
+583,2023,2023-01-28,Racing Club,Belgrano Cordoba,0,0,0,0,D
+584,2023,2023-01-28,Colon Santa Fe,Lanus,1,2,0,1,A
+585,2023,2023-01-28,Instituto Cordoba,Sarmiento Junin,0,0,0,0,D
+586,2023,2023-01-29,Central Cordoba de Santiago,River Plate,0,2,0,0,A
+587,2023,2023-01-29,Platense,Newells Old Boys,2,2,1,1,D
+588,2023,2023-01-30,Boca Juniors,Atletico Tucuman,1,0,0,1,H
+589,2023,2023-01-30,Barracas Central,Godoy Cruz,0,1,0,0,A
+590,2023,2023-01-30,Velez Sarsfield,Gimnasia L.P.,3,1,1,2,H
+591,2023,2023-01-30,Banfield,Union Santa Fe,0,0,0,0,D
+592,2023,2023-02-03,Tigre,Rosario Central,2,2,1,1,D
+593,2023,2023-02-03,Newells Old Boys,Velez Sarsfield,1,0,0,1,H
+594,2023,2023-02-04,Arsenal Sarandi,Estudiantes L.P.,1,1,1,0,D
+595,2023,2023-02-04,Sarmiento Junin,Barracas Central,3,5,1,2,A
+596,2023,2023-02-04,Belgrano Cordoba,River Plate,2,1,1,1,H
+597,2023,2023-02-05,Lanus,San Lorenzo,2,1,2,0,H
+598,2023,2023-02-05,Argentinos JRS,Racing Club,1,0,0,1,H
+599,2023,2023-02-05,Independiente,Platense,1,2,0,1,A
+600,2023,2023-02-05,Boca Juniors,Central Cordoba de Santiago,0,0,0,0,D
+601,2023,2023-02-06,Godoy Cruz,Colon Santa Fe,1,0,0,1,H
+602,2023,2023-02-06,Union Santa Fe,Instituto Cordoba,0,2,0,0,A
+603,2023,2023-02-06,Atletico Tucuman,Talleres Cordoba,0,2,0,0,A
+604,2023,2023-02-06,Gimnasia L.P.,Defensa Y Justicia,0,2,0,0,A
+605,2023,2023-02-07,Huracan,Banfield,3,2,3,0,H
+606,2023,2023-02-11,Colon Santa Fe,Sarmiento Junin,0,2,0,0,A
+607,2023,2023-02-11,Central Cordoba de Santiago,Belgrano Cordoba,0,1,0,0,A
+608,2023,2023-02-11,Defensa Y Justicia,Newells Old Boys,1,0,1,0,H
+609,2023,2023-02-11,San Lorenzo,Godoy Cruz,1,0,0,1,H
+610,2023,2023-02-11,Platense,Atletico Tucuman,1,1,1,0,D
+611,2023,2023-02-12,Velez Sarsfield,Independiente,0,0,0,0,D
+612,2023,2023-02-12,Talleres Cordoba,Boca Juniors,2,1,1,1,H
+613,2023,2023-02-12,Rosario Central,Arsenal Sarandi,2,1,1,1,H
+614,2023,2023-02-12,Banfield,Gimnasia L.P.,0,0,0,0,D
+615,2023,2023-02-12,River Plate,Argentinos JRS,2,1,0,2,H
+616,2023,2023-02-13,Racing Club,Tigre,2,2,1,1,D
+617,2023,2023-02-13,Instituto Cordoba,Huracan,0,0,0,0,D
+618,2023,2023-02-13,Barracas Central,Union Santa Fe,1,1,1,0,D
+619,2023,2023-02-13,Estudiantes L.P.,Lanus,0,2,0,0,A
+620,2023,2023-02-17,Gimnasia L.P.,Instituto Cordoba,2,0,1,1,H
+621,2023,2023-02-18,Huracan,Barracas Central,2,0,1,1,H
+622,2023,2023-02-18,Arsenal Sarandi,Racing Club,0,3,0,0,A
+623,2023,2023-02-18,Lanus,Rosario Central,3,0,0,3,H
+624,2023,2023-02-18,Tigre,River Plate,0,1,0,0,A
+625,2023,2023-02-18,Godoy Cruz,Estudiantes L.P.,0,1,0,0,A
+626,2023,2023-02-18,Argentinos JRS,Belgrano Cordoba,3,0,1,2,H
+627,2023,2023-02-19,Newells Old Boys,Banfield,2,0,0,2,H
+628,2023,2023-02-19,Union Santa Fe,Colon Santa Fe,1,1,1,0,D
+629,2023,2023-02-19,Boca Juniors,Platense,3,1,2,1,H
+630,2023,2023-02-20,Independiente,Defensa Y Justicia,0,2,0,0,A
+631,2023,2023-02-20,Talleres Cordoba,Central Cordoba de Santiago,2,0,2,0,H
+632,2023,2023-02-20,Sarmiento Junin,San Lorenzo,0,1,0,0,A
+633,2023,2023-02-21,Atletico Tucuman,Velez Sarsfield,1,1,0,1,D
+634,2023,2023-02-25,Rosario Central,Godoy Cruz,1,0,1,0,H
+635,2023,2023-02-25,Belgrano Cordoba,Tigre,0,2,0,0,A
+636,2023,2023-02-25,San Lorenzo,Union Santa Fe,1,0,0,1,H
+637,2023,2023-02-25,Estudiantes L.P.,Sarmiento Junin,1,1,0,1,D
+638,2023,2023-02-25,Platense,Talleres Cordoba,2,4,0,2,A
+639,2023,2023-02-26,Velez Sarsfield,Boca Juniors,1,2,0,1,A
+640,2023,2023-02-26,Defensa Y Justicia,Atletico Tucuman,3,0,3,0,H
+641,2023,2023-02-26,Colon Santa Fe,Huracan,1,1,1,0,D
+642,2023,2023-02-26,River Plate,Arsenal Sarandi,1,2,1,0,A
+643,2023,2023-02-27,Banfield,Independiente,0,0,0,0,D
+644,2023,2023-02-27,Instituto Cordoba,Newells Old Boys,3,1,2,1,H
+645,2023,2023-02-27,Barracas Central,Gimnasia L.P.,1,0,1,0,H
+646,2023,2023-02-27,Racing Club,Lanus,2,1,1,1,H
+647,2023,2023-02-28,Central Cordoba de Santiago,Argentinos JRS,1,0,1,0,H
+648,2023,2023-03-03,Union Santa Fe,Estudiantes L.P.,2,0,0,2,H
+649,2023,2023-03-03,Sarmiento Junin,Rosario Central,4,1,0,4,H
+650,2023,2023-03-04,Gimnasia L.P.,Colon Santa Fe,0,0,0,0,D
+651,2023,2023-03-04,Platense,Central Cordoba de Santiago,1,1,0,1,D
+652,2023,2023-03-04,Lanus,River Plate,0,2,0,0,A
+653,2023,2023-03-05,Atletico Tucuman,Banfield,1,0,1,0,H
+654,2023,2023-03-05,Newells Old Boys,Barracas Central,1,0,1,0,H
+655,2023,2023-03-05,Independiente,Instituto Cordoba,2,2,2,0,D
+656,2023,2023-03-05,Huracan,San Lorenzo,1,1,1,0,D
+657,2023,2023-03-06,Tigre,Argentinos JRS,0,1,0,0,A
+658,2023,2023-03-06,Talleres Cordoba,Velez Sarsfield,1,2,0,1,A
+659,2023,2023-03-06,Godoy Cruz,Racing Club,2,0,1,1,H
+660,2023,2023-03-06,Arsenal Sarandi,Belgrano Cordoba,0,1,0,0,A
+661,2023,2023-03-07,Boca Juniors,Defensa Y Justicia,0,0,0,0,D
+662,2023,2023-03-10,Barracas Central,Independiente,1,1,1,0,D
+663,2023,2023-03-11,Argentinos JRS,Arsenal Sarandi,1,1,0,1,D
+664,2023,2023-03-11,Instituto Cordoba,Atletico Tucuman,1,1,1,0,D
+665,2023,2023-03-11,San Lorenzo,Gimnasia L.P.,4,0,1,3,H
+666,2023,2023-03-11,Defensa Y Justicia,Talleres Cordoba,1,1,1,0,D
+667,2023,2023-03-12,Belgrano Cordoba,Lanus,0,0,0,0,D
+668,2023,2023-03-12,Central Cordoba de Santiago,Tigre,2,0,0,2,H
+669,2023,2023-03-12,Racing Club,Sarmiento Junin,1,0,1,0,H
+670,2023,2023-03-12,River Plate,Godoy Cruz,3,0,1,2,H
+671,2023,2023-03-12,Estudiantes L.P.,Huracan,2,1,1,1,H
+672,2023,2023-03-13,Rosario Central,Union Santa Fe,1,1,0,1,D
+673,2023,2023-03-13,Banfield,Boca Juniors,1,0,1,0,H
+674,2023,2023-03-14,Velez Sarsfield,Platense,1,1,1,0,D
+675,2023,2023-03-14,Colon Santa Fe,Newells Old Boys,1,1,1,0,D
+676,2023,2023-03-18,Union Santa Fe,Racing Club,1,3,0,1,A
+677,2023,2023-03-18,Arsenal Sarandi,Tigre,2,0,0,2,H
+678,2023,2023-03-18,Independiente,Colon Santa Fe,2,2,1,1,D
+679,2023,2023-03-18,Platense,Defensa Y Justicia,1,0,1,0,H
+680,2023,2023-03-19,Godoy Cruz,Belgrano Cordoba,3,1,2,1,H
+681,2023,2023-03-19,Atletico Tucuman,Barracas Central,1,1,1,0,D
+682,2023,2023-03-19,Gimnasia L.P.,Estudiantes L.P.,2,1,0,2,H
+683,2023,2023-03-19,Boca Juniors,Instituto Cordoba,2,3,1,1,A
+684,2023,2023-03-20,Talleres Cordoba,Banfield,0,1,0,0,A
+685,2023,2023-03-20,Sarmiento Junin,River Plate,0,2,0,0,A
+686,2023,2023-03-20,Newells Old Boys,San Lorenzo,1,0,0,1,H
+687,2023,2023-03-21,Huracan,Rosario Central,0,2,0,0,A
+688,2023,2023-03-21,Lanus,Argentinos JRS,0,0,0,0,D
+689,2023,2023-03-22,Velez Sarsfield,Central Cordoba de Santiago,4,0,1,3,H
+690,2023,2023-03-30,Defensa Y Justicia,Velez Sarsfield,0,0,0,0,D
+691,2023,2023-03-31,Argentinos JRS,Godoy Cruz,3,0,0,3,H
+692,2023,2023-03-31,Rosario Central,Gimnasia L.P.,3,1,1,2,H
+693,2023,2023-03-31,Estudiantes L.P.,Newells Old Boys,3,0,2,1,H
+694,2023,2023-04-01,River Plate,Union Santa Fe,1,0,1,0,H
+695,2023,2023-04-01,Barracas Central,Boca Juniors,0,3,0,0,A
+696,2023,2023-04-01,San Lorenzo,Independiente,0,0,0,0,D
+697,2023,2023-04-01,Racing Club,Huracan,2,1,0,2,H
+698,2023,2023-04-02,Tigre,Lanus,2,1,1,1,H
+699,2023,2023-04-02,Instituto Cordoba,Talleres Cordoba,0,3,0,0,A
+700,2023,2023-04-02,Colon Santa Fe,Atletico Tucuman,0,0,0,0,D
+701,2023,2023-04-03,Banfield,Platense,0,2,0,0,A
+702,2023,2023-04-03,Belgrano Cordoba,Sarmiento Junin,0,0,0,0,D
+703,2023,2023-04-04,Central Cordoba de Santiago,Arsenal Sarandi,1,0,1,0,H
+704,2023,2023-04-07,Lanus,Arsenal Sarandi,3,0,2,1,H
+705,2023,2023-04-07,Platense,Instituto Cordoba,1,0,0,1,H
+706,2023,2023-04-08,Velez Sarsfield,Banfield,3,3,3,0,D
+707,2023,2023-04-08,Talleres Cordoba,Barracas Central,3,0,0,3,H
+708,2023,2023-04-08,Sarmiento Junin,Argentinos JRS,2,0,0,2,H
+709,2023,2023-04-08,Gimnasia L.P.,Racing Club,3,1,1,2,H
+710,2023,2023-04-08,Union Santa Fe,Belgrano Cordoba,0,3,0,0,A
+711,2023,2023-04-08,Defensa Y Justicia,Central Cordoba de Santiago,1,2,0,1,A
+712,2023,2023-04-08,Atletico Tucuman,San Lorenzo,1,3,1,0,A
+713,2023,2023-04-09,Godoy Cruz,Tigre,1,1,1,0,D
+714,2023,2023-04-09,Independiente,Estudiantes L.P.,1,2,0,1,A
+715,2023,2023-04-09,Newells Old Boys,Rosario Central,0,0,0,0,D
+716,2023,2023-04-09,Huracan,River Plate,0,3,0,0,A
+717,2023,2023-04-10,Boca Juniors,Colon Santa Fe,1,2,0,1,A
+718,2023,2023-04-11,Barracas Central,Platense,1,0,1,0,H
+719,2023,2023-04-11,Argentinos JRS,Union Santa Fe,5,1,3,2,H
+720,2023,2023-04-12,Banfield,Defensa Y Justicia,0,3,0,0,A
+721,2023,2023-04-12,Instituto Cordoba,Velez Sarsfield,1,0,1,0,H
+722,2023,2023-04-12,Central Cordoba de Santiago,Lanus,1,1,1,0,D
+723,2023,2023-04-12,San Lorenzo,Boca Juniors,1,0,1,0,H
+724,2023,2023-04-12,Belgrano Cordoba,Huracan,2,0,1,1,H
+725,2023,2023-04-12,Racing Club,Newells Old Boys,0,1,0,0,A
+726,2023,2023-04-13,Rosario Central,Independiente,1,0,1,0,H
+727,2023,2023-04-13,Estudiantes L.P.,Atletico Tucuman,0,0,0,0,D
+728,2023,2023-04-13,Arsenal Sarandi,Godoy Cruz,2,3,1,1,A
+729,2023,2023-04-13,Colon Santa Fe,Talleres Cordoba,2,2,2,0,D
+730,2023,2023-04-13,River Plate,Gimnasia L.P.,3,0,1,2,H
+731,2023,2023-04-14,Tigre,Sarmiento Junin,1,0,1,0,H
+732,2023,2023-04-15,Defensa Y Justicia,Instituto Cordoba,1,0,0,1,H
+733,2023,2023-04-15,Boca Juniors,Estudiantes L.P.,0,1,0,0,A
+734,2023,2023-04-16,Gimnasia L.P.,Belgrano Cordoba,0,2,0,0,A
+735,2023,2023-04-16,Huracan,Argentinos JRS,0,0,0,0,D
+736,2023,2023-04-16,Velez Sarsfield,Barracas Central,0,0,0,0,D
+737,2023,2023-04-16,Union Santa Fe,Tigre,0,0,0,0,D
+738,2023,2023-04-16,Independiente,Racing Club,1,1,1,0,D
+739,2023,2023-04-16,Newells Old Boys,River Plate,0,1,0,0,A
+740,2023,2023-04-17,Talleres Cordoba,San Lorenzo,0,0,0,0,D
+741,2023,2023-04-17,Platense,Colon Santa Fe,0,0,0,0,D
+742,2023,2023-04-17,Banfield,Central Cordoba de Santiago,1,0,1,0,H
+743,2023,2023-04-17,Sarmiento Junin,Arsenal Sarandi,1,0,1,0,H
+744,2023,2023-04-18,Godoy Cruz,Lanus,4,4,3,1,D
+745,2023,2023-04-18,Atletico Tucuman,Rosario Central,2,2,1,1,D
+746,2023,2023-04-21,Colon Santa Fe,Velez Sarsfield,2,1,2,0,H
+747,2023,2023-04-22,Lanus,Sarmiento Junin,2,1,2,0,H
+748,2023,2023-04-22,Arsenal Sarandi,Union Santa Fe,2,1,0,2,H
+749,2023,2023-04-22,Belgrano Cordoba,Newells Old Boys,1,0,1,0,H
+750,2023,2023-04-22,Central Cordoba de Santiago,Godoy Cruz,0,2,0,0,A
+751,2023,2023-04-23,San Lorenzo,Platense,1,0,0,1,H
+752,2023,2023-04-23,Rosario Central,Boca Juniors,2,2,1,1,D
+753,2023,2023-04-23,Instituto Cordoba,Banfield,1,1,0,1,D
+754,2023,2023-04-23,Estudiantes L.P.,Talleres Cordoba,1,0,0,1,H
+755,2023,2023-04-23,River Plate,Independiente,2,0,1,1,H
+756,2023,2023-04-24,Barracas Central,Defensa Y Justicia,0,2,0,0,A
+757,2023,2023-04-24,Racing Club,Atletico Tucuman,1,3,0,1,A
+758,2023,2023-04-25,Argentinos JRS,Gimnasia L.P.,2,4,1,1,A
+759,2023,2023-04-25,Tigre,Huracan,1,0,1,0,H
+760,2023,2023-04-27,Sarmiento Junin,Godoy Cruz,1,1,1,0,D
+761,2023,2023-04-27,Platense,Estudiantes L.P.,1,2,1,0,A
+762,2023,2023-04-28,Huracan,Arsenal Sarandi,2,1,2,0,H
+763,2023,2023-04-28,Newells Old Boys,Argentinos JRS,0,0,0,0,D
+764,2023,2023-04-29,Atletico Tucuman,River Plate,1,1,1,0,D
+765,2023,2023-04-29,Velez Sarsfield,San Lorenzo,0,0,0,0,D
+766,2023,2023-04-29,Gimnasia L.P.,Tigre,1,1,1,0,D
+767,2023,2023-04-29,Banfield,Barracas Central,0,0,0,0,D
+768,2023,2023-04-29,Instituto Cordoba,Central Cordoba de Santiago,0,2,0,0,A
+769,2023,2023-04-30,Boca Juniors,Racing Club,3,1,2,1,H
+770,2023,2023-04-30,Defensa Y Justicia,Colon Santa Fe,2,0,1,1,H
+771,2023,2023-04-30,Independiente,Belgrano Cordoba,2,0,1,1,H
+772,2023,2023-04-30,Talleres Cordoba,Rosario Central,3,1,1,2,H
+773,2023,2023-05-05,Godoy Cruz,Union Santa Fe,0,0,0,0,D
+774,2023,2023-05-05,Barracas Central,Instituto Cordoba,3,0,1,2,H
+775,2023,2023-05-06,Lanus,Huracan,1,0,1,0,H
+776,2023,2023-05-06,Belgrano Cordoba,Atletico Tucuman,1,0,1,0,H
+777,2023,2023-05-06,Colon Santa Fe,Banfield,2,0,2,0,H
+778,2023,2023-05-06,Argentinos JRS,Independiente,2,2,0,2,D
+779,2023,2023-05-07,Rosario Central,Platense,4,0,2,2,H
+780,2023,2023-05-07,River Plate,Boca Juniors,1,0,0,1,H
+781,2023,2023-05-08,Estudiantes L.P.,Velez Sarsfield,2,0,0,2,H
+782,2023,2023-05-08,Tigre,Newells Old Boys,2,2,2,0,D
+783,2023,2023-05-08,Arsenal Sarandi,Gimnasia L.P.,0,1,0,0,A
+784,2023,2023-05-08,San Lorenzo,Defensa Y Justicia,0,0,0,0,D
+785,2023,2023-05-08,Racing Club,Talleres Cordoba,2,4,0,2,A
+786,2023,2023-05-09,Central Cordoba de Santiago,Sarmiento Junin,0,1,0,0,A
+787,2023,2023-05-12,Huracan,Godoy Cruz,0,0,0,0,D
+788,2023,2023-05-13,Atletico Tucuman,Argentinos JRS,1,2,1,0,A
+789,2023,2023-05-13,Independiente,Tigre,2,1,1,1,H
+790,2023,2023-05-13,Banfield,San Lorenzo,1,2,1,0,A
+791,2023,2023-05-13,Newells Old Boys,Arsenal Sarandi,2,0,1,1,H
+792,2023,2023-05-13,Instituto Cordoba,Colon Santa Fe,1,0,0,1,H
+793,2023,2023-05-14,Defensa Y Justicia,Estudiantes L.P.,1,1,1,0,D
+794,2023,2023-05-14,Platense,Racing Club,3,0,2,1,H
+795,2023,2023-05-14,Boca Juniors,Belgrano Cordoba,2,0,0,2,H
+796,2023,2023-05-15,Talleres Cordoba,River Plate,2,1,0,2,H
+797,2023,2023-05-15,Union Santa Fe,Sarmiento Junin,0,2,0,0,A
+798,2023,2023-05-15,Barracas Central,Central Cordoba de Santiago,2,2,0,2,D
+799,2023,2023-05-15,Gimnasia L.P.,Lanus,1,0,0,1,H
+800,2023,2023-05-15,Velez Sarsfield,Rosario Central,0,0,0,0,D
+801,2023,2023-05-19,Arsenal Sarandi,Independiente,2,1,1,1,H
+802,2023,2023-05-19,Godoy Cruz,Gimnasia L.P.,2,0,1,1,H
+803,2023,2023-05-19,Rosario Central,Defensa Y Justicia,2,1,1,1,H
+804,2023,2023-05-19,Estudiantes L.P.,Banfield,1,0,0,1,H
+805,2023,2023-05-19,Central Cordoba de Santiago,Union Santa Fe,0,1,0,0,A
+806,2023,2023-05-20,Argentinos JRS,Boca Juniors,0,1,0,0,A
+807,2023,2023-05-20,San Lorenzo,Instituto Cordoba,2,0,0,2,H
+808,2023,2023-05-21,Lanus,Newells Old Boys,1,0,1,0,H
+809,2023,2023-05-21,Tigre,Atletico Tucuman,0,0,0,0,D
+810,2023,2023-05-21,Belgrano Cordoba,Talleres Cordoba,1,1,1,0,D
+811,2023,2023-05-21,Colon Santa Fe,Barracas Central,1,1,1,0,D
+812,2023,2023-05-21,Sarmiento Junin,Huracan,0,0,0,0,D
+813,2023,2023-05-21,River Plate,Platense,2,1,1,1,H
+814,2023,2023-05-27,Atletico Tucuman,Arsenal Sarandi,1,0,0,1,H
+815,2023,2023-05-27,Gimnasia L.P.,Sarmiento Junin,0,0,0,0,D
+816,2023,2023-05-27,Platense,Belgrano Cordoba,1,0,1,0,H
+817,2023,2023-05-27,Independiente,Lanus,1,1,1,0,D
+818,2023,2023-05-28,Barracas Central,San Lorenzo,1,0,1,0,H
+819,2023,2023-05-28,Defensa Y Justicia,Racing Club,1,1,1,0,D
+820,2023,2023-05-28,Talleres Cordoba,Argentinos JRS,1,0,0,1,H
+821,2023,2023-05-28,Boca Juniors,Tigre,1,0,1,0,H
+822,2023,2023-05-29,Newells Old Boys,Godoy Cruz,2,0,1,1,H
+823,2023,2023-05-29,Colon Santa Fe,Central Cordoba de Santiago,2,2,0,2,D
+824,2023,2023-05-29,Huracan,Union Santa Fe,0,1,0,0,A
+825,2023,2023-05-29,Banfield,Rosario Central,2,0,1,1,H
+826,2023,2023-05-29,Instituto Cordoba,Estudiantes L.P.,0,0,0,0,D
+827,2023,2023-05-30,Velez Sarsfield,River Plate,2,2,0,2,D
+828,2023,2023-06-01,Sarmiento Junin,Newells Old Boys,0,0,0,0,D
+829,2023,2023-06-02,Arsenal Sarandi,Boca Juniors,1,0,1,0,H
+830,2023,2023-06-02,Estudiantes L.P.,Barracas Central,5,2,3,2,H
+831,2023,2023-06-03,Tigre,Talleres Cordoba,1,3,1,0,A
+832,2023,2023-06-03,Argentinos JRS,Platense,1,0,0,1,H
+833,2023,2023-06-03,Belgrano Cordoba,Velez Sarsfield,2,0,2,0,H
+834,2023,2023-06-03,Rosario Central,Instituto Cordoba,4,1,1,3,H
+835,2023,2023-06-03,Central Cordoba de Santiago,Huracan,2,0,2,0,H
+836,2023,2023-06-04,Racing Club,Banfield,2,0,1,1,H
+837,2023,2023-06-04,Union Santa Fe,Gimnasia L.P.,2,0,0,2,H
+838,2023,2023-06-04,San Lorenzo,Colon Santa Fe,0,0,0,0,D
+839,2023,2023-06-04,Godoy Cruz,Independiente,2,1,2,0,H
+840,2023,2023-06-05,Lanus,Atletico Tucuman,2,1,2,0,H
+841,2023,2023-06-09,Barracas Central,Rosario Central,0,0,0,0,D
+842,2023,2023-06-09,Independiente,Sarmiento Junin,2,0,1,1,H
+843,2023,2023-06-10,Platense,Tigre,1,0,0,1,H
+844,2023,2023-06-10,Boca Juniors,Lanus,1,1,0,1,D
+845,2023,2023-06-11,Talleres Cordoba,Arsenal Sarandi,1,0,1,0,H
+846,2023,2023-06-12,Newells Old Boys,Union Santa Fe,1,1,1,0,D
+847,2023,2023-06-12,San Lorenzo,Central Cordoba de Santiago,0,0,0,0,D
+848,2023,2023-06-12,Banfield,River Plate,1,4,1,0,A
+849,2023,2023-06-13,Velez Sarsfield,Argentinos JRS,0,1,0,0,A
+850,2023,2023-06-13,Instituto Cordoba,Racing Club,1,1,1,0,D
+851,2023,2023-06-13,Defensa Y Justicia,Belgrano Cordoba,2,0,1,1,H
+852,2023,2023-06-13,Colon Santa Fe,Estudiantes L.P.,1,0,1,0,H
+853,2023,2023-06-13,Gimnasia L.P.,Huracan,1,0,0,1,H
+854,2023,2023-06-13,Atletico Tucuman,Godoy Cruz,2,1,1,1,H
+855,2023,2023-06-17,Union Santa Fe,Lanus,1,1,0,1,D
+856,2023,2023-06-17,Racing Club,Velez Sarsfield,2,1,2,0,H
+857,2023,2023-06-18,River Plate,Defensa Y Justicia,1,0,0,1,H
+858,2023,2023-06-21,Estudiantes L.P.,San Lorenzo,1,1,1,0,D
+859,2023,2023-06-22,Central Cordoba de Santiago,Gimnasia L.P.,0,0,0,0,D
+860,2023,2023-06-22,Tigre,Velez Sarsfield,2,1,0,2,H
+861,2023,2023-06-22,Racing Club,Barracas Central,1,1,1,0,D
+862,2023,2023-06-22,River Plate,Instituto Cordoba,3,1,1,2,H
+863,2023,2023-06-23,Godoy Cruz,Boca Juniors,4,0,2,2,H
+864,2023,2023-06-23,Huracan,Newells Old Boys,1,1,1,0,D
+865,2023,2023-06-24,Argentinos JRS,Defensa Y Justicia,3,1,1,2,H
+866,2023,2023-06-24,Union Santa Fe,Independiente,3,0,1,2,H
+867,2023,2023-06-24,Lanus,Talleres Cordoba,2,1,0,2,H
+868,2023,2023-06-25,Arsenal Sarandi,Platense,0,2,0,0,A
+869,2023,2023-06-25,Rosario Central,Colon Santa Fe,1,1,0,1,D
+870,2023,2023-06-25,Sarmiento Junin,Atletico Tucuman,4,1,3,1,H
+871,2023,2023-06-26,Belgrano Cordoba,Banfield,3,1,1,2,H
+872,2023,2023-06-30,Platense,Lanus,0,1,0,0,A
+873,2023,2023-07-01,Velez Sarsfield,Arsenal Sarandi,1,0,0,1,H
+874,2023,2023-07-01,Atletico Tucuman,Union Santa Fe,1,0,1,0,H
+875,2023,2023-07-01,Barracas Central,River Plate,2,1,1,1,H
+876,2023,2023-07-01,San Lorenzo,Rosario Central,1,0,0,1,H
+877,2023,2023-07-01,Estudiantes L.P.,Central Cordoba de Santiago,1,1,1,0,D
+878,2023,2023-07-02,Talleres Cordoba,Godoy Cruz,1,1,1,0,D
+879,2023,2023-07-02,Independiente,Huracan,1,0,1,0,H
+880,2023,2023-07-02,Colon Santa Fe,Racing Club,0,4,0,0,A
+881,2023,2023-07-02,Instituto Cordoba,Belgrano Cordoba,1,0,1,0,H
+882,2023,2023-07-02,Defensa Y Justicia,Tigre,1,0,0,1,H
+883,2023,2023-07-02,Banfield,Argentinos JRS,1,0,0,1,H
+884,2023,2023-07-03,Boca Juniors,Sarmiento Junin,2,0,0,2,H
+885,2023,2023-07-03,Newells Old Boys,Gimnasia L.P.,2,2,1,1,D
+886,2023,2023-07-04,Lanus,Velez Sarsfield,0,1,0,0,A
+887,2023,2023-07-05,Godoy Cruz,Platense,2,1,1,1,H
+888,2023,2023-07-05,Tigre,Banfield,1,2,0,1,A
+889,2023,2023-07-05,Rosario Central,Estudiantes L.P.,0,0,0,0,D
+890,2023,2023-07-05,Racing Club,San Lorenzo,1,1,1,0,D
+891,2023,2023-07-06,River Plate,Colon Santa Fe,2,0,1,1,H
+892,2023,2023-07-06,Arsenal Sarandi,Defensa Y Justicia,1,2,1,0,A
+893,2023,2023-07-06,Union Santa Fe,Boca Juniors,0,0,0,0,D
+894,2023,2023-07-06,Argentinos JRS,Instituto Cordoba,0,0,0,0,D
+895,2023,2023-07-06,Sarmiento Junin,Talleres Cordoba,0,1,0,0,A
+896,2023,2023-07-07,Belgrano Cordoba,Barracas Central,0,2,0,0,A
+897,2023,2023-07-07,Huracan,Atletico Tucuman,0,1,0,0,A
+898,2023,2023-07-07,Gimnasia L.P.,Independiente,1,1,0,1,D
+899,2023,2023-07-08,Central Cordoba de Santiago,Newells Old Boys,2,0,1,1,H
+900,2023,2023-07-08,Estudiantes L.P.,Racing Club,0,0,0,0,D
+901,2023,2023-07-08,San Lorenzo,River Plate,0,0,0,0,D
+902,2023,2023-07-09,Instituto Cordoba,Tigre,0,1,0,0,A
+903,2023,2023-07-09,Platense,Sarmiento Junin,1,0,0,1,H
+904,2023,2023-07-09,Velez Sarsfield,Godoy Cruz,1,1,0,1,D
+905,2023,2023-07-09,Defensa Y Justicia,Lanus,2,2,0,2,D
+906,2023,2023-07-09,Banfield,Arsenal Sarandi,0,0,0,0,D
+907,2023,2023-07-10,Barracas Central,Argentinos JRS,0,0,0,0,D
+908,2023,2023-07-10,Colon Santa Fe,Belgrano Cordoba,0,0,0,0,D
+909,2023,2023-07-10,Boca Juniors,Huracan,1,0,0,1,H
+910,2023,2023-07-11,Talleres Cordoba,Union Santa Fe,0,0,0,0,D
+911,2023,2023-07-11,Rosario Central,Central Cordoba de Santiago,2,0,1,1,H
+912,2023,2023-07-11,Independiente,Newells Old Boys,0,2,0,0,A
+913,2023,2023-07-12,Atletico Tucuman,Gimnasia L.P.,2,0,2,0,H
+914,2023,2023-07-14,Godoy Cruz,Defensa Y Justicia,2,2,0,2,D
+915,2023,2023-07-14,Sarmiento Junin,Velez Sarsfield,1,1,0,1,D
+916,2023,2023-07-15,Huracan,Talleres Cordoba,0,1,0,0,A
+917,2023,2023-07-15,Union Santa Fe,Platense,0,0,0,0,D
+918,2023,2023-07-15,Racing Club,Rosario Central,1,1,1,0,D
+919,2023,2023-07-15,River Plate,Estudiantes L.P.,3,1,3,0,H
+920,2023,2023-07-16,Belgrano Cordoba,San Lorenzo,0,1,0,0,A
+921,2023,2023-07-16,Gimnasia L.P.,Boca Juniors,1,3,0,1,A
+922,2023,2023-07-16,Lanus,Banfield,2,2,1,1,D
+923,2023,2023-07-17,Argentinos JRS,Colon Santa Fe,1,0,0,1,H
+924,2023,2023-07-17,Central Cordoba de Santiago,Independiente,0,1,0,0,A
+925,2023,2023-07-17,Tigre,Barracas Central,0,1,0,0,A
+926,2023,2023-07-17,Arsenal Sarandi,Instituto Cordoba,0,2,0,0,A
+927,2023,2023-07-17,Newells Old Boys,Atletico Tucuman,0,0,0,0,D
+928,2023,2023-07-22,San Lorenzo,Argentinos JRS,0,2,0,0,A
+929,2023,2023-07-22,Estudiantes L.P.,Belgrano Cordoba,4,0,2,2,H
+930,2023,2023-07-22,Platense,Huracan,0,1,0,0,A
+931,2023,2023-07-23,Atletico Tucuman,Independiente,1,0,1,0,H
+932,2023,2023-07-23,Defensa Y Justicia,Sarmiento Junin,3,0,1,2,H
+933,2023,2023-07-24,Rosario Central,River Plate,3,3,1,2,D
+934,2023,2023-07-24,Velez Sarsfield,Union Santa Fe,0,0,0,0,D
+935,2023,2023-07-24,Talleres Cordoba,Gimnasia L.P.,2,2,2,0,D
+936,2023,2023-07-24,Banfield,Godoy Cruz,2,0,1,1,H
+937,2023,2023-07-24,Racing Club,Central Cordoba de Santiago,3,1,2,1,H
+938,2023,2023-07-24,Boca Juniors,Newells Old Boys,2,1,1,1,H
+939,2023,2023-07-25,Barracas Central,Arsenal Sarandi,0,0,0,0,D
+940,2023,2023-07-25,Colon Santa Fe,Tigre,1,3,0,1,A
+941,2023,2023-07-25,Instituto Cordoba,Lanus,2,1,1,1,H
+942,2023,2023-07-28,Union Santa Fe,Defensa Y Justicia,2,0,0,2,H
+943,2023,2023-07-28,Argentinos JRS,Estudiantes L.P.,2,3,0,2,A
+944,2023,2023-07-28,Belgrano Cordoba,Rosario Central,0,0,0,0,D
+945,2023,2023-07-28,Newells Old Boys,Talleres Cordoba,1,1,1,0,D
+946,2023,2023-07-29,River Plate,Racing Club,2,1,1,1,H
+947,2023,2023-07-29,Central Cordoba de Santiago,Atletico Tucuman,0,2,0,0,A
+948,2023,2023-07-29,Sarmiento Junin,Banfield,0,0,0,0,D
+949,2023,2023-07-29,Independiente,Boca Juniors,0,2,0,0,A
+950,2023,2023-07-29,Tigre,San Lorenzo,2,0,1,1,H
+951,2023,2023-07-30,Lanus,Barracas Central,2,0,1,1,H
+952,2023,2023-07-30,Arsenal Sarandi,Colon Santa Fe,2,0,1,1,H
+953,2023,2023-07-30,Gimnasia L.P.,Platense,1,1,1,0,D
+954,2023,2023-07-30,Huracan,Velez Sarsfield,1,0,1,0,H
+955,2023,2023-07-30,Godoy Cruz,Instituto Cordoba,4,2,3,1,H

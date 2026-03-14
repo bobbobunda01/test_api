@@ -1,0 +1,183 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Suisse,2022,2022-07-16,BSC Young Boys,FC Zurich,4,0,0,4,H
+Suisse,2022,2022-07-16,FC Winterthur,FC Basel 1893,1,1,1,0,D
+Suisse,2022,2022-07-17,FC Lugano,FC Sion,2,3,0,2,A
+Suisse,2022,2022-07-17,Servette FC,FC ST. Gallen,1,0,1,0,H
+Suisse,2022,2022-07-23,FC Zurich,FC Luzern,0,0,0,0,D
+Suisse,2022,2022-07-23,FC ST. Gallen,FC Winterthur,2,0,2,0,H
+Suisse,2022,2022-07-24,FC Basel 1893,Servette FC,1,1,1,0,D
+Suisse,2022,2022-07-24,FC Sion,BSC Young Boys,0,3,0,0,A
+Suisse,2022,2022-07-24,Grasshoppers,FC Lugano,2,1,1,1,H
+Suisse,2022,2022-07-30,FC ST. Gallen,FC Zurich,2,0,2,0,H
+Suisse,2022,2022-07-30,FC Sion,Servette FC,0,0,0,0,D
+Suisse,2022,2022-07-31,BSC Young Boys,Grasshoppers,1,1,1,0,D
+Suisse,2022,2022-07-31,FC Winterthur,FC Lugano,1,4,1,0,A
+Suisse,2022,2022-08-06,Servette FC,FC Winterthur,1,0,0,1,H
+Suisse,2022,2022-08-06,Grasshoppers,FC ST. Gallen,3,2,2,1,H
+Suisse,2022,2022-08-07,FC Zurich,FC Sion,0,3,0,0,A
+Suisse,2022,2022-08-07,FC Basel 1893,BSC Young Boys,0,0,0,0,D
+Suisse,2022,2022-08-07,FC Lugano,FC Luzern,1,2,0,1,A
+Suisse,2022,2022-08-10,FC Luzern,Grasshoppers,1,1,1,0,D
+Suisse,2022,2022-08-13,FC Sion,Grasshoppers,2,2,1,1,D
+Suisse,2022,2022-08-13,FC ST. Gallen,FC Luzern,4,1,1,3,H
+Suisse,2022,2022-08-14,FC Winterthur,FC Zurich,1,1,0,1,D
+Suisse,2022,2022-08-14,FC Basel 1893,FC Lugano,0,2,0,0,A
+Suisse,2022,2022-08-14,BSC Young Boys,Servette FC,3,0,1,2,H
+Suisse,2022,2022-08-27,FC Luzern,FC Sion,2,0,2,0,H
+Suisse,2022,2022-08-27,Servette FC,Grasshoppers,3,1,1,2,H
+Suisse,2022,2022-08-28,FC Lugano,FC ST. Gallen,2,3,1,1,A
+Suisse,2022,2022-08-28,FC Zurich,FC Basel 1893,2,4,1,1,A
+Suisse,2022,2022-08-28,FC Winterthur,BSC Young Boys,1,5,1,0,A
+Suisse,2022,2022-09-03,FC Sion,FC Basel 1893,2,1,1,1,H
+Suisse,2022,2022-09-03,FC Zurich,FC Lugano,1,2,1,0,A
+Suisse,2022,2022-09-04,FC Luzern,Servette FC,0,2,0,0,A
+Suisse,2022,2022-09-04,FC ST. Gallen,BSC Young Boys,2,1,0,2,H
+Suisse,2022,2022-09-04,Grasshoppers,FC Winterthur,3,0,1,2,H
+Suisse,2022,2022-09-10,FC ST. Gallen,FC Sion,1,2,0,1,A
+Suisse,2022,2022-09-10,FC Winterthur,FC Luzern,0,6,0,0,A
+Suisse,2022,2022-09-11,Servette FC,FC Zurich,3,2,2,1,H
+Suisse,2022,2022-09-11,FC Basel 1893,Grasshoppers,5,1,2,3,H
+Suisse,2022,2022-09-11,BSC Young Boys,FC Lugano,3,0,2,1,H
+Suisse,2022,2022-10-01,FC Basel 1893,FC ST. Gallen,3,2,2,1,H
+Suisse,2022,2022-10-01,Grasshoppers,FC Zurich,1,1,0,1,D
+Suisse,2022,2022-10-02,FC Sion,FC Winterthur,1,3,1,0,A
+Suisse,2022,2022-10-02,FC Lugano,Servette FC,1,0,1,0,H
+Suisse,2022,2022-10-02,FC Luzern,BSC Young Boys,1,2,1,0,A
+Suisse,2022,2022-10-08,Grasshoppers,FC Sion,4,4,3,1,D
+Suisse,2022,2022-10-08,BSC Young Boys,FC ST. Gallen,2,1,1,1,H
+Suisse,2022,2022-10-09,Servette FC,FC Luzern,1,1,1,0,D
+Suisse,2022,2022-10-09,FC Lugano,FC Basel 1893,1,0,1,0,H
+Suisse,2022,2022-10-09,FC Zurich,FC Winterthur,0,0,0,0,D
+Suisse,2022,2022-10-15,FC Sion,FC Luzern,2,0,1,1,H
+Suisse,2022,2022-10-15,FC Winterthur,Grasshoppers,1,0,0,1,H
+Suisse,2022,2022-10-16,FC ST. Gallen,FC Lugano,1,1,1,0,D
+Suisse,2022,2022-10-16,FC Zurich,BSC Young Boys,0,0,0,0,D
+Suisse,2022,2022-10-16,Servette FC,FC Basel 1893,0,0,0,0,D
+Suisse,2022,2022-10-18,FC Winterthur,FC Sion,1,0,1,0,H
+Suisse,2022,2022-10-19,FC Lugano,BSC Young Boys,1,4,1,0,A
+Suisse,2022,2022-10-19,FC Luzern,FC ST. Gallen,3,3,2,1,D
+Suisse,2022,2022-10-20,FC Basel 1893,FC Zurich,0,0,0,0,D
+Suisse,2022,2022-10-20,Grasshoppers,Servette FC,2,3,0,2,A
+Suisse,2022,2022-10-22,BSC Young Boys,FC Sion,1,1,0,1,D
+Suisse,2022,2022-10-22,FC Luzern,FC Lugano,3,1,0,3,H
+Suisse,2022,2022-10-23,FC Basel 1893,FC Winterthur,3,1,2,1,H
+Suisse,2022,2022-10-23,FC Zurich,Grasshoppers,1,4,0,1,A
+Suisse,2022,2022-10-23,FC ST. Gallen,Servette FC,1,1,0,1,D
+Suisse,2022,2022-10-29,Grasshoppers,FC Luzern,1,3,1,0,A
+Suisse,2022,2022-10-29,Servette FC,FC Lugano,2,2,2,0,D
+Suisse,2022,2022-10-30,FC Sion,FC Zurich,0,1,0,0,A
+Suisse,2022,2022-10-30,BSC Young Boys,FC Basel 1893,3,1,2,1,H
+Suisse,2022,2022-10-30,FC Winterthur,FC ST. Gallen,1,0,1,0,H
+Suisse,2022,2022-11-05,FC ST. Gallen,Grasshoppers,2,1,1,1,H
+Suisse,2022,2022-11-05,FC Luzern,FC Winterthur,1,1,0,1,D
+Suisse,2022,2022-11-06,Servette FC,BSC Young Boys,0,0,0,0,D
+Suisse,2022,2022-11-06,FC Basel 1893,FC Sion,0,0,0,0,D
+Suisse,2022,2022-11-06,FC Lugano,FC Zurich,2,0,1,1,H
+Suisse,2022,2022-11-09,FC Luzern,FC Basel 1893,0,2,0,0,A
+Suisse,2022,2022-11-12,FC Sion,FC ST. Gallen,2,7,1,1,A
+Suisse,2022,2022-11-12,Grasshoppers,FC Basel 1893,1,0,1,0,H
+Suisse,2022,2022-11-13,FC Zurich,Servette FC,4,1,1,3,H
+Suisse,2022,2022-11-13,BSC Young Boys,FC Luzern,3,0,2,1,H
+Suisse,2022,2022-11-13,FC Lugano,FC Winterthur,3,1,2,1,H
+Suisse,2022,2023-01-21,FC Luzern,FC Zurich,2,2,0,2,D
+Suisse,2022,2023-01-21,Grasshoppers,BSC Young Boys,1,2,0,1,A
+Suisse,2022,2023-01-22,FC Sion,FC Lugano,2,3,1,1,A
+Suisse,2022,2023-01-22,FC ST. Gallen,FC Basel 1893,1,1,1,0,D
+Suisse,2022,2023-01-28,FC Lugano,Grasshoppers,1,1,0,1,D
+Suisse,2022,2023-01-28,FC Basel 1893,FC Luzern,2,3,1,1,A
+Suisse,2022,2023-01-29,BSC Young Boys,FC Winterthur,5,1,3,2,H
+Suisse,2022,2023-01-29,FC Zurich,FC ST. Gallen,1,0,0,1,H
+Suisse,2022,2023-01-29,Servette FC,FC Sion,2,2,2,0,D
+Suisse,2022,2023-02-04,Grasshoppers,FC Basel 1893,1,0,0,1,H
+Suisse,2022,2023-02-04,FC ST. Gallen,Servette FC,3,0,2,1,H
+Suisse,2022,2023-02-05,FC Sion,FC Zurich,0,1,0,0,A
+Suisse,2022,2023-02-05,FC Luzern,BSC Young Boys,1,1,1,0,D
+Suisse,2022,2023-02-05,FC Winterthur,FC Lugano,1,0,1,0,H
+Suisse,2022,2023-02-11,Servette FC,Grasshoppers,2,1,1,1,H
+Suisse,2022,2023-02-11,FC Basel 1893,FC Sion,3,1,1,2,H
+Suisse,2022,2023-02-12,FC Lugano,FC Luzern,1,1,1,0,D
+Suisse,2022,2023-02-12,BSC Young Boys,FC ST. Gallen,5,1,2,3,H
+Suisse,2022,2023-02-12,FC Zurich,FC Winterthur,1,1,1,0,D
+Suisse,2022,2023-02-15,FC Winterthur,Servette FC,1,2,0,1,A
+Suisse,2022,2023-02-18,FC Winterthur,FC Sion,1,1,1,0,D
+Suisse,2022,2023-02-18,BSC Young Boys,FC Lugano,1,1,0,1,D
+Suisse,2022,2023-02-19,FC ST. Gallen,FC Luzern,2,2,1,1,D
+Suisse,2022,2023-02-19,FC Basel 1893,Servette FC,2,2,0,2,D
+Suisse,2022,2023-02-19,Grasshoppers,FC Zurich,1,2,1,0,A
+Suisse,2022,2023-02-25,FC Sion,FC ST. Gallen,0,4,0,0,A
+Suisse,2022,2023-02-25,FC Zurich,BSC Young Boys,2,2,1,1,D
+Suisse,2022,2023-02-26,FC Luzern,Grasshoppers,1,0,0,1,H
+Suisse,2022,2023-02-26,FC Lugano,FC Basel 1893,2,2,2,0,D
+Suisse,2022,2023-02-26,Servette FC,FC Winterthur,1,1,1,0,D
+Suisse,2022,2023-03-04,FC Winterthur,BSC Young Boys,1,1,0,1,D
+Suisse,2022,2023-03-04,FC Luzern,FC Basel 1893,0,1,0,0,A
+Suisse,2022,2023-03-05,FC ST. Gallen,Grasshoppers,1,1,1,0,D
+Suisse,2022,2023-03-05,FC Sion,FC Lugano,1,1,0,1,D
+Suisse,2022,2023-03-05,FC Zurich,Servette FC,1,1,0,1,D
+Suisse,2022,2023-03-11,BSC Young Boys,FC Sion,4,0,2,2,H
+Suisse,2022,2023-03-11,FC Lugano,FC Zurich,2,0,2,0,H
+Suisse,2022,2023-03-12,Servette FC,FC Luzern,0,1,0,0,A
+Suisse,2022,2023-03-12,FC Basel 1893,FC ST. Gallen,1,1,0,1,D
+Suisse,2022,2023-03-12,Grasshoppers,FC Winterthur,2,1,1,1,H
+Suisse,2022,2023-03-18,FC Zurich,FC Luzern,2,1,1,1,H
+Suisse,2022,2023-03-18,FC Sion,Grasshoppers,1,2,1,0,A
+Suisse,2022,2023-03-19,FC Winterthur,FC ST. Gallen,1,0,0,1,H
+Suisse,2022,2023-03-19,BSC Young Boys,FC Basel 1893,3,0,0,3,H
+Suisse,2022,2023-03-19,FC Lugano,Servette FC,1,1,0,1,D
+Suisse,2022,2023-04-01,Servette FC,BSC Young Boys,2,1,0,2,H
+Suisse,2022,2023-04-01,FC Basel 1893,FC Winterthur,2,0,1,1,H
+Suisse,2022,2023-04-02,Grasshoppers,FC Lugano,2,1,1,1,H
+Suisse,2022,2023-04-02,FC Luzern,FC Sion,1,2,0,1,A
+Suisse,2022,2023-04-02,FC ST. Gallen,FC Zurich,2,2,1,1,D
+Suisse,2022,2023-04-08,FC Zurich,FC Basel 1893,1,1,1,0,D
+Suisse,2022,2023-04-08,FC Sion,Servette FC,2,2,1,1,D
+Suisse,2022,2023-04-10,FC Lugano,FC ST. Gallen,1,1,1,0,D
+Suisse,2022,2023-04-10,BSC Young Boys,Grasshoppers,2,0,0,2,H
+Suisse,2022,2023-04-10,FC Winterthur,FC Luzern,1,2,0,1,A
+Suisse,2022,2023-04-15,Servette FC,FC Lugano,0,0,0,0,D
+Suisse,2022,2023-04-15,FC Luzern,FC Zurich,4,1,2,2,H
+Suisse,2022,2023-04-16,FC ST. Gallen,FC Winterthur,2,3,2,0,A
+Suisse,2022,2023-04-16,FC Basel 1893,BSC Young Boys,1,1,0,1,D
+Suisse,2022,2023-04-16,Grasshoppers,FC Sion,1,3,0,1,A
+Suisse,2022,2023-04-22,FC Winterthur,Grasshoppers,1,2,0,1,A
+Suisse,2022,2023-04-22,BSC Young Boys,Servette FC,6,1,4,2,H
+Suisse,2022,2023-04-23,FC Basel 1893,FC Luzern,0,2,0,0,A
+Suisse,2022,2023-04-23,FC Lugano,FC Sion,2,0,0,2,H
+Suisse,2022,2023-04-23,FC Zurich,FC ST. Gallen,1,0,0,1,H
+Suisse,2022,2023-04-25,Grasshoppers,BSC Young Boys,4,1,2,2,H
+Suisse,2022,2023-04-26,FC ST. Gallen,FC Lugano,1,2,1,0,A
+Suisse,2022,2023-04-26,Servette FC,FC Zurich,4,0,2,2,H
+Suisse,2022,2023-04-27,FC Sion,FC Basel 1893,1,2,1,0,A
+Suisse,2022,2023-04-27,FC Luzern,FC Winterthur,3,1,1,2,H
+Suisse,2022,2023-04-29,FC Lugano,Grasshoppers,5,1,1,4,H
+Suisse,2022,2023-04-29,Servette FC,FC ST. Gallen,1,1,1,0,D
+Suisse,2022,2023-04-30,FC Zurich,FC Sion,2,2,1,1,D
+Suisse,2022,2023-04-30,BSC Young Boys,FC Luzern,5,1,3,2,H
+Suisse,2022,2023-04-30,FC Winterthur,FC Basel 1893,1,4,1,0,A
+Suisse,2022,2023-05-06,FC Sion,FC Winterthur,0,1,0,0,A
+Suisse,2022,2023-05-06,FC ST. Gallen,BSC Young Boys,0,2,0,0,A
+Suisse,2022,2023-05-07,FC Luzern,FC Lugano,2,2,2,0,D
+Suisse,2022,2023-05-07,FC Basel 1893,FC Zurich,0,2,0,0,A
+Suisse,2022,2023-05-07,Grasshoppers,Servette FC,2,3,1,1,A
+Suisse,2022,2023-05-13,Grasshoppers,FC Luzern,2,0,0,2,H
+Suisse,2022,2023-05-13,Servette FC,FC Sion,5,0,3,2,H
+Suisse,2022,2023-05-14,BSC Young Boys,FC Zurich,1,1,1,0,D
+Suisse,2022,2023-05-14,FC Lugano,FC Winterthur,2,1,2,0,H
+Suisse,2022,2023-05-14,FC ST. Gallen,FC Basel 1893,6,1,3,3,H
+Suisse,2022,2023-05-20,FC Winterthur,Servette FC,0,1,0,0,A
+Suisse,2022,2023-05-20,FC Luzern,FC ST. Gallen,1,1,1,0,D
+Suisse,2022,2023-05-21,FC Sion,BSC Young Boys,0,2,0,0,A
+Suisse,2022,2023-05-21,FC Basel 1893,FC Lugano,1,1,1,0,D
+Suisse,2022,2023-05-21,FC Zurich,Grasshoppers,2,1,1,1,H
+Suisse,2022,2023-05-25,FC Lugano,BSC Young Boys,2,0,0,2,H
+Suisse,2022,2023-05-25,FC Sion,FC Luzern,1,2,1,0,A
+Suisse,2022,2023-05-25,Grasshoppers,FC ST. Gallen,2,2,1,1,D
+Suisse,2022,2023-05-25,FC Winterthur,FC Zurich,0,2,0,0,A
+Suisse,2022,2023-05-25,Servette FC,FC Basel 1893,3,3,1,2,D
+Suisse,2022,2023-05-29,FC Basel 1893,Grasshoppers,3,1,0,3,H
+Suisse,2022,2023-05-29,BSC Young Boys,FC Winterthur,2,1,1,1,H
+Suisse,2022,2023-05-29,FC Luzern,Servette FC,0,1,0,0,A
+Suisse,2022,2023-05-29,FC Zurich,FC Lugano,2,3,0,2,A
+Suisse,2022,2023-05-29,FC ST. Gallen,FC Sion,4,0,3,1,H
+Suisse,2022,2023-06-03,FC Sion,Stade Lausanne-Ouchy,0,2,0,0,A
+Suisse,2022,2023-06-06,Stade Lausanne-Ouchy,FC Sion,4,2,2,2,H

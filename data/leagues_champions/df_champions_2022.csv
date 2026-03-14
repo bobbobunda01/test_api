@@ -1,0 +1,215 @@
+,country,season,league_name,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+6008,World,2022,UEFA Champions League,2022-06-21,La Fiorita,Inter Club d'Escaldes,1.0,2.0,1.0,0.0,A
+6009,World,2022,UEFA Champions League,2022-06-21,FC Levadia Tallinn,Vikingur Reykjavik,1.0,6.0,1.0,3.0,A
+6010,World,2022,UEFA Champions League,2022-06-24,Inter Club d'Escaldes,Vikingur Reykjavik,0.0,1.0,0.0,0.0,A
+6011,World,2022,UEFA Champions League,2022-07-05,Pyunik Yerevan,CFR 1907 Cluj,0.0,0.0,0.0,0.0,D
+6012,World,2022,UEFA Champions League,2022-07-05,Malmo FF,Vikingur Reykjavik,3.0,2.0,2.0,1.0,H
+6013,World,2022,UEFA Champions League,2022-07-05,Ludogorets,Sutjeska,2.0,0.0,0.0,0.0,H
+6014,World,2022,UEFA Champions League,2022-07-05,Lech Poznan,Qarabag,1.0,0.0,1.0,0.0,H
+6015,World,2022,UEFA Champions League,2022-07-05,The New Saints,Linfield,1.0,0.0,0.0,0.0,H
+6016,World,2022,UEFA Champions League,2022-07-05,Ballkani,FK Zalgiris Vilnius,1.0,1.0,1.0,1.0,D
+6017,World,2022,UEFA Champions League,2022-07-05,Shamrock Rovers,Hibernians,3.0,0.0,2.0,0.0,H
+6018,World,2022,UEFA Champions League,2022-07-05,Shkupi 1927,Lincoln Red Imps FC,3.0,0.0,2.0,0.0,H
+6019,World,2022,UEFA Champions League,2022-07-06,FK Tobol Kostanay,Ferencvarosi TC,0.0,0.0,0.0,0.0,D
+6020,World,2022,UEFA Champions League,2022-07-06,HJK helsinki,Rīgas FS,1.0,0.0,1.0,0.0,H
+6021,World,2022,UEFA Champions League,2022-07-06,Bodo/Glimt,KI Klaksvik,3.0,0.0,2.0,0.0,H
+6022,World,2022,UEFA Champions League,2022-07-06,F91 Dudelange,Tirana,1.0,0.0,0.0,0.0,H
+6023,World,2022,UEFA Champions League,2022-07-06,Zrinjski,Sheriff Tiraspol,0.0,0.0,0.0,0.0,D
+6024,World,2022,UEFA Champions League,2022-07-06,Maribor,Shakhter Soligorsk,0.0,0.0,0.0,0.0,D
+6025,World,2022,UEFA Champions League,2022-07-06,Slovan Bratislava,Dinamo Batumi,0.0,0.0,0.0,0.0,D
+6026,World,2022,UEFA Champions League,2022-07-12,Rīgas FS,HJK helsinki,2.0,1.0,0.0,0.0,H
+6027,World,2022,UEFA Champions League,2022-07-12,Qarabag,Lech Poznan,5.0,1.0,2.0,1.0,H
+6028,World,2022,UEFA Champions League,2022-07-12,FK Zalgiris Vilnius,Ballkani,0.0,0.0,0.0,0.0,D
+6029,World,2022,UEFA Champions League,2022-07-12,Lincoln Red Imps FC,Shkupi 1927,2.0,0.0,1.0,0.0,H
+6030,World,2022,UEFA Champions League,2022-07-12,Sheriff Tiraspol,Zrinjski,1.0,0.0,1.0,0.0,H
+6031,World,2022,UEFA Champions League,2022-07-12,Tirana,F91 Dudelange,1.0,2.0,0.0,0.0,A
+6032,World,2022,UEFA Champions League,2022-07-12,Hibernians,Shamrock Rovers,0.0,0.0,0.0,0.0,D
+6033,World,2022,UEFA Champions League,2022-07-12,Sutjeska,Ludogorets,0.0,1.0,0.0,0.0,A
+6034,World,2022,UEFA Champions League,2022-07-12,Vikingur Reykjavik,Malmo FF,3.0,3.0,1.0,2.0,D
+6035,World,2022,UEFA Champions League,2022-07-13,Shakhter Soligorsk,Maribor,0.0,2.0,0.0,1.0,A
+6036,World,2022,UEFA Champions League,2022-07-13,KI Klaksvik,Bodo/Glimt,3.0,1.0,2.0,0.0,H
+6037,World,2022,UEFA Champions League,2022-07-13,Dinamo Batumi,Slovan Bratislava,0.0,0.0,0.0,0.0,D
+6038,World,2022,UEFA Champions League,2022-07-13,Ferencvarosi TC,FK Tobol Kostanay,5.0,1.0,3.0,1.0,H
+6039,World,2022,UEFA Champions League,2022-07-13,CFR 1907 Cluj,Pyunik Yerevan,1.0,1.0,1.0,0.0,D
+6040,World,2022,UEFA Champions League,2022-07-13,Linfield,The New Saints,1.0,0.0,0.0,0.0,H
+6041,World,2022,UEFA Champions League,2022-07-19,Qarabag,FC Zurich,3.0,2.0,2.0,0.0,H
+6042,World,2022,UEFA Champions League,2022-07-19,FK Zalgiris Vilnius,Malmo FF,1.0,0.0,0.0,0.0,H
+6043,World,2022,UEFA Champions League,2022-07-19,Pyunik Yerevan,F91 Dudelange,0.0,1.0,0.0,0.0,A
+6044,World,2022,UEFA Champions League,2022-07-19,FC Midtjylland,AEK Larnaca,1.0,1.0,0.0,0.0,D
+6045,World,2022,UEFA Champions League,2022-07-19,Ludogorets,Shamrock Rovers,3.0,0.0,2.0,0.0,H
+6046,World,2022,UEFA Champions League,2022-07-19,Linfield,Bodo/Glimt,1.0,0.0,0.0,0.0,H
+6047,World,2022,UEFA Champions League,2022-07-19,Dinamo Zagreb,Shkupi 1927,2.0,2.0,1.0,1.0,D
+6048,World,2022,UEFA Champions League,2022-07-20,HJK helsinki,Plzen,1.0,2.0,0.0,1.0,A
+6049,World,2022,UEFA Champions League,2022-07-20,Maccabi Haifa,Olympiakos Piraeus,1.0,1.0,0.0,1.0,D
+6050,World,2022,UEFA Champions League,2022-07-20,Dynamo Kyiv,Fenerbahce,0.0,0.0,0.0,0.0,D
+6051,World,2022,UEFA Champions League,2022-07-20,Ferencvarosi TC,Slovan Bratislava,1.0,2.0,0.0,0.0,A
+6052,World,2022,UEFA Champions League,2022-07-20,Maribor,Sheriff Tiraspol,0.0,0.0,0.0,0.0,D
+6053,World,2022,UEFA Champions League,2022-07-26,AEK Larnaca,FC Midtjylland,1.0,1.0,1.0,1.0,D
+6054,World,2022,UEFA Champions League,2022-07-26,Plzen,HJK helsinki,5.0,0.0,3.0,0.0,H
+6055,World,2022,UEFA Champions League,2022-07-26,Sheriff Tiraspol,Maribor,1.0,0.0,0.0,0.0,H
+6056,World,2022,UEFA Champions League,2022-07-26,F91 Dudelange,Pyunik Yerevan,1.0,4.0,1.0,1.0,A
+6057,World,2022,UEFA Champions League,2022-07-26,Shamrock Rovers,Ludogorets,2.0,1.0,1.0,0.0,H
+6058,World,2022,UEFA Champions League,2022-07-26,Shkupi 1927,Dinamo Zagreb,0.0,1.0,0.0,0.0,A
+6059,World,2022,UEFA Champions League,2022-07-27,Bodo/Glimt,Linfield,8.0,0.0,4.0,0.0,H
+6060,World,2022,UEFA Champions League,2022-07-27,FC Zurich,Qarabag,2.0,1.0,1.0,0.0,H
+6061,World,2022,UEFA Champions League,2022-07-27,Malmo FF,FK Zalgiris Vilnius,0.0,2.0,0.0,1.0,A
+6062,World,2022,UEFA Champions League,2022-07-27,Fenerbahce,Dynamo Kyiv,1.0,1.0,0.0,0.0,D
+6063,World,2022,UEFA Champions League,2022-07-27,Slovan Bratislava,Ferencvarosi TC,1.0,4.0,0.0,2.0,A
+6064,World,2022,UEFA Champions League,2022-07-27,Olympiakos Piraeus,Maccabi Haifa,0.0,4.0,0.0,1.0,A
+6065,World,2022,UEFA Champions League,2022-08-02,Sheriff Tiraspol,Plzen,1.0,2.0,1.0,1.0,A
+6066,World,2022,UEFA Champions League,2022-08-02,Ludogorets,Dinamo Zagreb,1.0,2.0,1.0,2.0,A
+6067,World,2022,UEFA Champions League,2022-08-02,Monaco,PSV Eindhoven,1.0,1.0,0.0,1.0,D
+6068,World,2022,UEFA Champions League,2022-08-02,Union St. Gilloise,Rangers,2.0,0.0,1.0,0.0,H
+6069,World,2022,UEFA Champions League,2022-08-02,Benfica,FC Midtjylland,4.0,1.0,3.0,0.0,H
+6070,World,2022,UEFA Champions League,2022-08-03,Bodo/Glimt,FK Zalgiris Vilnius,5.0,0.0,2.0,0.0,H
+6071,World,2022,UEFA Champions League,2022-08-03,Qarabag,Ferencvarosi TC,1.0,1.0,1.0,1.0,D
+6072,World,2022,UEFA Champions League,2022-08-03,Maccabi Haifa,Apollon Limassol,4.0,0.0,1.0,0.0,H
+6073,World,2022,UEFA Champions League,2022-08-03,Dynamo Kyiv,Sturm Graz,1.0,0.0,1.0,0.0,H
+6074,World,2022,UEFA Champions League,2022-08-03,FK Crvena Zvezda,Pyunik Yerevan,5.0,0.0,3.0,0.0,H
+6075,World,2022,UEFA Champions League,2022-08-09,FK Zalgiris Vilnius,Bodo/Glimt,1.0,1.0,1.0,0.0,D
+6076,World,2022,UEFA Champions League,2022-08-09,Plzen,Sheriff Tiraspol,2.0,1.0,1.0,0.0,H
+6077,World,2022,UEFA Champions League,2022-08-09,Apollon Limassol,Maccabi Haifa,2.0,0.0,2.0,0.0,H
+6078,World,2022,UEFA Champions League,2022-08-09,Pyunik Yerevan,FK Crvena Zvezda,0.0,2.0,0.0,1.0,A
+6079,World,2022,UEFA Champions League,2022-08-09,FC Midtjylland,Benfica,1.0,3.0,0.0,1.0,A
+6080,World,2022,UEFA Champions League,2022-08-09,Dinamo Zagreb,Ludogorets,4.0,2.0,3.0,1.0,H
+6081,World,2022,UEFA Champions League,2022-08-09,Ferencvarosi TC,Qarabag,1.0,3.0,0.0,1.0,A
+6082,World,2022,UEFA Champions League,2022-08-09,PSV Eindhoven,Monaco,2.0,2.0,1.0,0.0,D
+6083,World,2022,UEFA Champions League,2022-08-09,Sturm Graz,Dynamo Kyiv,1.0,0.0,1.0,0.0,H
+6084,World,2022,UEFA Champions League,2022-08-09,Rangers,Union St. Gilloise,3.0,0.0,1.0,0.0,H
+6085,World,2022,UEFA Champions League,2022-08-16,FC Copenhagen,Trabzonspor,2.0,1.0,1.0,0.0,H
+6086,World,2022,UEFA Champions League,2022-08-16,Rangers,PSV Eindhoven,2.0,2.0,1.0,1.0,D
+6087,World,2022,UEFA Champions League,2022-08-16,Bodo/Glimt,Dinamo Zagreb,1.0,0.0,1.0,0.0,H
+6088,World,2022,UEFA Champions League,2022-08-17,Qarabag,Plzen,0.0,0.0,0.0,0.0,D
+6089,World,2022,UEFA Champions League,2022-08-17,Dynamo Kyiv,Benfica,0.0,2.0,0.0,2.0,A
+6090,World,2022,UEFA Champions League,2022-08-17,Maccabi Haifa,FK Crvena Zvezda,3.0,2.0,1.0,2.0,H
+6091,World,2022,UEFA Champions League,2022-08-23,Benfica,Dynamo Kyiv,3.0,0.0,3.0,0.0,H
+6092,World,2022,UEFA Champions League,2022-08-23,Plzen,Qarabag,2.0,1.0,0.0,1.0,H
+6093,World,2022,UEFA Champions League,2022-08-23,FK Crvena Zvezda,Maccabi Haifa,2.0,2.0,2.0,1.0,D
+6094,World,2022,UEFA Champions League,2022-08-24,Trabzonspor,FC Copenhagen,0.0,0.0,0.0,0.0,D
+6095,World,2022,UEFA Champions League,2022-08-24,PSV Eindhoven,Rangers,0.0,1.0,0.0,0.0,A
+6096,World,2022,UEFA Champions League,2022-08-24,Dinamo Zagreb,Bodo/Glimt,2.0,1.0,2.0,0.0,H
+6097,World,2022,UEFA Champions League,2022-09-06,Dinamo Zagreb,Chelsea,1.0,0.0,1.0,0.0,H
+6098,World,2022,UEFA Champions League,2022-09-06,Borussia Dortmund,FC Copenhagen,3.0,0.0,2.0,0.0,H
+6099,World,2022,UEFA Champions League,2022-09-06,Paris Saint Germain,Juventus,2.0,1.0,2.0,0.0,H
+6100,World,2022,UEFA Champions League,2022-09-06,RB Leipzig,Shakhtar Donetsk,1.0,4.0,0.0,1.0,A
+6101,World,2022,UEFA Champions League,2022-09-06,Benfica,Maccabi Haifa,2.0,0.0,0.0,0.0,H
+6102,World,2022,UEFA Champions League,2022-09-06,Celtic,Real Madrid,0.0,3.0,0.0,0.0,A
+6103,World,2022,UEFA Champions League,2022-09-06,Sevilla,Manchester City,0.0,4.0,0.0,1.0,A
+6104,World,2022,UEFA Champions League,2022-09-06,Red Bull Salzburg,AC Milan,1.0,1.0,1.0,1.0,D
+6105,World,2022,UEFA Champions League,2022-09-07,Eintracht Frankfurt,Sporting CP,0.0,3.0,0.0,0.0,A
+6106,World,2022,UEFA Champions League,2022-09-07,Ajax,Rangers,4.0,0.0,3.0,0.0,H
+6107,World,2022,UEFA Champions League,2022-09-07,Barcelona,Plzen,5.0,1.0,3.0,1.0,H
+6108,World,2022,UEFA Champions League,2022-09-07,Inter,Bayern Munich,0.0,2.0,0.0,1.0,A
+6109,World,2022,UEFA Champions League,2022-09-07,Atletico Madrid,FC Porto,2.0,1.0,0.0,0.0,H
+6110,World,2022,UEFA Champions League,2022-09-07,Tottenham,Marseille,2.0,0.0,0.0,0.0,H
+6111,World,2022,UEFA Champions League,2022-09-07,Napoli,Liverpool,4.0,1.0,3.0,0.0,H
+6112,World,2022,UEFA Champions League,2022-09-07,Club Brugge KV,Bayer Leverkusen,1.0,0.0,1.0,0.0,H
+6113,World,2022,UEFA Champions League,2022-09-13,Plzen,Inter,0.0,2.0,0.0,1.0,A
+6114,World,2022,UEFA Champions League,2022-09-13,Sporting CP,Tottenham,2.0,0.0,0.0,0.0,H
+6115,World,2022,UEFA Champions League,2022-09-13,Liverpool,Ajax,2.0,1.0,1.0,1.0,H
+6116,World,2022,UEFA Champions League,2022-09-13,Marseille,Eintracht Frankfurt,0.0,1.0,0.0,1.0,A
+6117,World,2022,UEFA Champions League,2022-09-13,Bayern Munich,Barcelona,2.0,0.0,0.0,0.0,H
+6118,World,2022,UEFA Champions League,2022-09-13,Bayer Leverkusen,Atletico Madrid,2.0,0.0,0.0,0.0,H
+6119,World,2022,UEFA Champions League,2022-09-13,FC Porto,Club Brugge KV,0.0,4.0,0.0,1.0,A
+6120,World,2022,UEFA Champions League,2022-09-14,AC Milan,Dinamo Zagreb,3.0,1.0,1.0,0.0,H
+6121,World,2022,UEFA Champions League,2022-09-14,Shakhtar Donetsk,Celtic,1.0,1.0,1.0,1.0,D
+6122,World,2022,UEFA Champions League,2022-09-14,Maccabi Haifa,Paris Saint Germain,1.0,3.0,1.0,1.0,A
+6123,World,2022,UEFA Champions League,2022-09-14,Juventus,Benfica,1.0,2.0,1.0,1.0,A
+6124,World,2022,UEFA Champions League,2022-09-14,FC Copenhagen,Sevilla,0.0,0.0,0.0,0.0,D
+6125,World,2022,UEFA Champions League,2022-09-14,Real Madrid,RB Leipzig,2.0,0.0,0.0,0.0,H
+6126,World,2022,UEFA Champions League,2022-09-14,Manchester City,Borussia Dortmund,2.0,1.0,0.0,0.0,H
+6127,World,2022,UEFA Champions League,2022-09-14,Chelsea,Red Bull Salzburg,1.0,1.0,0.0,0.0,D
+6128,World,2022,UEFA Champions League,2022-09-14,Rangers,Napoli,0.0,3.0,0.0,0.0,A
+6129,World,2022,UEFA Champions League,2022-10-04,Marseille,Sporting CP,4.0,1.0,3.0,1.0,H
+6130,World,2022,UEFA Champions League,2022-10-04,Bayern Munich,Plzen,5.0,0.0,3.0,0.0,H
+6131,World,2022,UEFA Champions League,2022-10-04,Liverpool,Rangers,2.0,0.0,1.0,0.0,H
+6132,World,2022,UEFA Champions League,2022-10-04,Eintracht Frankfurt,Tottenham,0.0,0.0,0.0,0.0,D
+6133,World,2022,UEFA Champions League,2022-10-04,Ajax,Napoli,1.0,6.0,1.0,3.0,A
+6134,World,2022,UEFA Champions League,2022-10-04,FC Porto,Bayer Leverkusen,2.0,0.0,0.0,0.0,H
+6135,World,2022,UEFA Champions League,2022-10-04,Inter,Barcelona,1.0,0.0,1.0,0.0,H
+6136,World,2022,UEFA Champions League,2022-10-04,Club Brugge KV,Atletico Madrid,2.0,0.0,1.0,0.0,H
+6137,World,2022,UEFA Champions League,2022-10-05,RB Leipzig,Celtic,3.0,1.0,1.0,0.0,H
+6138,World,2022,UEFA Champions League,2022-10-05,Red Bull Salzburg,Dinamo Zagreb,1.0,0.0,0.0,0.0,H
+6139,World,2022,UEFA Champions League,2022-10-05,Sevilla,Borussia Dortmund,1.0,4.0,0.0,3.0,A
+6140,World,2022,UEFA Champions League,2022-10-05,Real Madrid,Shakhtar Donetsk,2.0,1.0,2.0,1.0,H
+6141,World,2022,UEFA Champions League,2022-10-05,Juventus,Maccabi Haifa,3.0,1.0,1.0,0.0,H
+6142,World,2022,UEFA Champions League,2022-10-05,Chelsea,AC Milan,3.0,0.0,1.0,0.0,H
+6143,World,2022,UEFA Champions League,2022-10-05,Manchester City,FC Copenhagen,5.0,0.0,3.0,0.0,H
+6144,World,2022,UEFA Champions League,2022-10-05,Benfica,Paris Saint Germain,1.0,1.0,1.0,1.0,D
+6145,World,2022,UEFA Champions League,2022-10-11,FC Copenhagen,Manchester City,0.0,0.0,0.0,0.0,D
+6146,World,2022,UEFA Champions League,2022-10-11,Maccabi Haifa,Juventus,2.0,0.0,2.0,0.0,H
+6147,World,2022,UEFA Champions League,2022-10-11,Paris Saint Germain,Benfica,1.0,1.0,1.0,0.0,D
+6148,World,2022,UEFA Champions League,2022-10-11,Borussia Dortmund,Sevilla,1.0,1.0,1.0,1.0,D
+6149,World,2022,UEFA Champions League,2022-10-11,Celtic,RB Leipzig,0.0,2.0,0.0,0.0,A
+6150,World,2022,UEFA Champions League,2022-10-11,AC Milan,Chelsea,0.0,2.0,0.0,2.0,A
+6151,World,2022,UEFA Champions League,2022-10-11,Shakhtar Donetsk,Real Madrid,1.0,1.0,0.0,0.0,D
+6152,World,2022,UEFA Champions League,2022-10-11,Dinamo Zagreb,Red Bull Salzburg,1.0,1.0,1.0,1.0,D
+6153,World,2022,UEFA Champions League,2022-10-12,Atletico Madrid,Club Brugge KV,0.0,0.0,0.0,0.0,D
+6154,World,2022,UEFA Champions League,2022-10-12,Napoli,Ajax,4.0,2.0,2.0,0.0,H
+6155,World,2022,UEFA Champions League,2022-10-12,Tottenham,Eintracht Frankfurt,3.0,2.0,3.0,1.0,H
+6156,World,2022,UEFA Champions League,2022-10-12,Bayer Leverkusen,FC Porto,0.0,3.0,0.0,1.0,A
+6157,World,2022,UEFA Champions League,2022-10-12,Sporting CP,Marseille,0.0,2.0,0.0,2.0,A
+6158,World,2022,UEFA Champions League,2022-10-12,Rangers,Liverpool,1.0,7.0,1.0,1.0,A
+6159,World,2022,UEFA Champions League,2022-10-12,Barcelona,Inter,3.0,3.0,1.0,0.0,D
+6160,World,2022,UEFA Champions League,2022-10-12,Plzen,Bayern Munich,2.0,4.0,0.0,4.0,A
+6161,World,2022,UEFA Champions League,2022-10-25,Sevilla,FC Copenhagen,3.0,0.0,0.0,0.0,H
+6162,World,2022,UEFA Champions League,2022-10-25,Red Bull Salzburg,Chelsea,1.0,2.0,0.0,1.0,A
+6163,World,2022,UEFA Champions League,2022-10-25,Dinamo Zagreb,AC Milan,0.0,4.0,0.0,1.0,A
+6164,World,2022,UEFA Champions League,2022-10-25,Celtic,Shakhtar Donetsk,1.0,1.0,1.0,0.0,D
+6165,World,2022,UEFA Champions League,2022-10-25,Benfica,Juventus,4.0,3.0,3.0,1.0,H
+6166,World,2022,UEFA Champions League,2022-10-25,Borussia Dortmund,Manchester City,0.0,0.0,0.0,0.0,D
+6167,World,2022,UEFA Champions League,2022-10-25,Paris Saint Germain,Maccabi Haifa,7.0,2.0,4.0,1.0,H
+6168,World,2022,UEFA Champions League,2022-10-25,RB Leipzig,Real Madrid,3.0,2.0,2.0,1.0,H
+6169,World,2022,UEFA Champions League,2022-10-26,Inter,Plzen,4.0,0.0,2.0,0.0,H
+6170,World,2022,UEFA Champions League,2022-10-26,Club Brugge KV,FC Porto,0.0,4.0,0.0,1.0,A
+6171,World,2022,UEFA Champions League,2022-10-26,Atletico Madrid,Bayer Leverkusen,2.0,2.0,1.0,2.0,D
+6172,World,2022,UEFA Champions League,2022-10-26,Tottenham,Sporting CP,1.0,1.0,0.0,1.0,D
+6173,World,2022,UEFA Champions League,2022-10-26,Eintracht Frankfurt,Marseille,2.0,1.0,2.0,1.0,H
+6174,World,2022,UEFA Champions League,2022-10-26,Ajax,Liverpool,0.0,3.0,0.0,1.0,A
+6175,World,2022,UEFA Champions League,2022-10-26,Napoli,Rangers,3.0,0.0,2.0,0.0,H
+6176,World,2022,UEFA Champions League,2022-10-26,Barcelona,Bayern Munich,0.0,3.0,0.0,2.0,A
+6177,World,2022,UEFA Champions League,2022-11-01,FC Porto,Atletico Madrid,2.0,1.0,2.0,0.0,H
+6178,World,2022,UEFA Champions League,2022-11-01,Bayer Leverkusen,Club Brugge KV,0.0,0.0,0.0,0.0,D
+6179,World,2022,UEFA Champions League,2022-11-01,Liverpool,Napoli,2.0,0.0,0.0,0.0,H
+6180,World,2022,UEFA Champions League,2022-11-01,Marseille,Tottenham,1.0,2.0,1.0,0.0,A
+6181,World,2022,UEFA Champions League,2022-11-01,Bayern Munich,Inter,2.0,0.0,1.0,0.0,H
+6182,World,2022,UEFA Champions League,2022-11-01,Sporting CP,Eintracht Frankfurt,1.0,2.0,1.0,0.0,A
+6183,World,2022,UEFA Champions League,2022-11-01,Rangers,Ajax,1.0,3.0,0.0,2.0,A
+6184,World,2022,UEFA Champions League,2022-11-01,Plzen,Barcelona,2.0,4.0,0.0,2.0,A
+6185,World,2022,UEFA Champions League,2022-11-02,Real Madrid,Celtic,5.0,1.0,2.0,0.0,H
+6186,World,2022,UEFA Champions League,2022-11-02,Shakhtar Donetsk,RB Leipzig,0.0,4.0,0.0,1.0,A
+6187,World,2022,UEFA Champions League,2022-11-02,Maccabi Haifa,Benfica,1.0,6.0,1.0,1.0,A
+6188,World,2022,UEFA Champions League,2022-11-02,AC Milan,Red Bull Salzburg,4.0,0.0,1.0,0.0,H
+6189,World,2022,UEFA Champions League,2022-11-02,Juventus,Paris Saint Germain,1.0,2.0,1.0,1.0,A
+6190,World,2022,UEFA Champions League,2022-11-02,Manchester City,Sevilla,3.0,1.0,0.0,1.0,H
+6191,World,2022,UEFA Champions League,2022-11-02,Chelsea,Dinamo Zagreb,2.0,1.0,2.0,1.0,H
+6192,World,2022,UEFA Champions League,2022-11-02,FC Copenhagen,Borussia Dortmund,1.0,1.0,1.0,1.0,D
+6193,World,2022,UEFA Champions League,2023-02-14,Paris Saint Germain,Bayern Munich,0.0,1.0,0.0,0.0,A
+6194,World,2022,UEFA Champions League,2023-02-14,AC Milan,Tottenham,1.0,0.0,1.0,0.0,H
+6195,World,2022,UEFA Champions League,2023-02-15,Borussia Dortmund,Chelsea,1.0,0.0,0.0,0.0,H
+6196,World,2022,UEFA Champions League,2023-02-15,Club Brugge KV,Benfica,0.0,2.0,0.0,0.0,A
+6197,World,2022,UEFA Champions League,2023-02-21,Liverpool,Real Madrid,2.0,5.0,2.0,2.0,A
+6198,World,2022,UEFA Champions League,2023-02-21,Eintracht Frankfurt,Napoli,0.0,2.0,0.0,1.0,A
+6199,World,2022,UEFA Champions League,2023-02-22,RB Leipzig,Manchester City,1.0,1.0,0.0,1.0,D
+6200,World,2022,UEFA Champions League,2023-02-22,Inter,FC Porto,1.0,0.0,0.0,0.0,H
+6201,World,2022,UEFA Champions League,2023-03-07,Chelsea,Borussia Dortmund,2.0,0.0,1.0,0.0,H
+6202,World,2022,UEFA Champions League,2023-03-07,Benfica,Club Brugge KV,5.0,1.0,2.0,0.0,H
+6203,World,2022,UEFA Champions League,2023-03-08,Bayern Munich,Paris Saint Germain,2.0,0.0,0.0,0.0,H
+6204,World,2022,UEFA Champions League,2023-03-08,Tottenham,AC Milan,0.0,0.0,0.0,0.0,D
+6205,World,2022,UEFA Champions League,2023-03-14,Manchester City,RB Leipzig,7.0,0.0,3.0,0.0,H
+6206,World,2022,UEFA Champions League,2023-03-14,FC Porto,Inter,0.0,0.0,0.0,0.0,D
+6207,World,2022,UEFA Champions League,2023-03-15,Napoli,Eintracht Frankfurt,3.0,0.0,1.0,0.0,H
+6208,World,2022,UEFA Champions League,2023-03-15,Real Madrid,Liverpool,1.0,0.0,0.0,0.0,H
+6209,World,2022,UEFA Champions League,2023-04-11,Manchester City,Bayern Munich,3.0,0.0,1.0,0.0,H
+6210,World,2022,UEFA Champions League,2023-04-11,Benfica,Inter,0.0,2.0,0.0,0.0,A
+6211,World,2022,UEFA Champions League,2023-04-12,AC Milan,Napoli,1.0,0.0,1.0,0.0,H
+6212,World,2022,UEFA Champions League,2023-04-12,Real Madrid,Chelsea,2.0,0.0,1.0,0.0,H
+6213,World,2022,UEFA Champions League,2023-04-18,Chelsea,Real Madrid,0.0,2.0,0.0,0.0,A
+6214,World,2022,UEFA Champions League,2023-04-18,Napoli,AC Milan,1.0,1.0,0.0,1.0,D
+6215,World,2022,UEFA Champions League,2023-04-19,Bayern Munich,Manchester City,1.0,1.0,0.0,0.0,D
+6216,World,2022,UEFA Champions League,2023-04-19,Inter,Benfica,3.0,3.0,1.0,1.0,D
+6217,World,2022,UEFA Champions League,2023-05-09,Real Madrid,Manchester City,1.0,1.0,1.0,0.0,D
+6218,World,2022,UEFA Champions League,2023-05-10,AC Milan,Inter,0.0,2.0,0.0,2.0,A
+6219,World,2022,UEFA Champions League,2023-05-16,Inter,AC Milan,1.0,0.0,0.0,0.0,H
+6220,World,2022,UEFA Champions League,2023-05-17,Manchester City,Real Madrid,4.0,0.0,2.0,0.0,H
+6221,World,2022,UEFA Champions League,2023-06-10,Manchester City,Inter,1.0,0.0,0.0,0.0,H
