@@ -91,7 +91,7 @@ USE_LLM_EXPLANATION = True
 OPENAI_EXPLAIN_ENABLED = True    # True/False
 OPENAI_EXPLAIN_MODEL = "gpt-4.1"
 OPENAI_EXPLAIN_TEMPERATURE = 0.5
-OPENAI_EXPLAIN_MAX_TOKENS = 260
+OPENAI_EXPLAIN_MAX_TOKENS = 460
 OPENAI_EXPLAIN_TIMEOUT = 20
 
 LLM_DEBUG = False          
@@ -665,7 +665,7 @@ def _api_get(endpoint: str, params: dict, timeout: int = 10, cache_ttl: int = 0)
 
 
 
-def _fetch_realtime_context_n(fixture_id: int) -> Optional[dict]:
+def _fetch_realtime_context(fixture_id: int) -> Optional[dict]:
     """
     Fetch full realtime context for a fixture_id.
     Returns ctx dict or None if fixture not found / empty response.
@@ -724,7 +724,7 @@ def _fetch_realtime_context_n(fixture_id: int) -> Optional[dict]:
    # ctx["meta"]["fetched_at"] = datetime.utcnow().isoformat() + "Z"
     return ctx
 
-def _fetch_realtime_context(fixture_id: int) -> Optional[dict]:
+def _fetch_realtime_context_(fixture_id: int) -> Optional[dict]:
     """
     Fetch realtime context for a fixture_id.
     Version hybride:
@@ -813,7 +813,7 @@ def _fetch_realtime_context(fixture_id: int) -> Optional[dict]:
     # --------------------------------------------------
     def _optional(name: str, endpoint: str, params: dict, ttl: int = 20):
         try:
-            d = _api_get(endpoint, params, timeout=REALTIME_TIMEOUT_OPTIONAL, cache_ttl=ttl)
+            d = _api_get(endpoint, params, timeout=10, cache_ttl=ttl)
 
             if isinstance(d, dict):
                 ctx[name] = d.get("response", []) or []
@@ -826,7 +826,7 @@ def _fetch_realtime_context(fixture_id: int) -> Optional[dict]:
 
         except RealtimeFetchError as e:
             ctx[name] = []
-            ctx["meta"]["missing"].append(f"{name}_err:{e.code}")
+            ctx["meta"]["missing"].append(f"{name}_err:{e.code}:{e.detail}")
         except Exception as e:
             ctx[name] = []
             ctx["meta"]["missing"].append(f"{name}_err:{type(e).__name__}")
@@ -834,38 +834,7 @@ def _fetch_realtime_context(fixture_id: int) -> Optional[dict]:
     # --------------------------------------------------
     # 4) realtime mode logic
     # --------------------------------------------------
-    """
-    if REALTIME_MODE == "off":
-        ctx["meta"]["fetched_at"] = datetime.datetime.utcnow().isoformat() + "Z"
-        return ctx
-
-    # injuries presque toujours utiles
-    _optional("injuries", "injuries", {"fixture": fixture_id}, ttl=60)
-
-    # PRE-MATCH => light
-    if status_short == "NS":
-        if minutes_to_kickoff is not None and minutes_to_kickoff <= REALTIME_LINEUPS_SOON_MINUTES:
-            _optional("lineups", "fixtures/lineups", {"fixture": fixture_id}, ttl=20)
-        else:
-            ctx["meta"]["missing"].append("lineups_not_due_yet")
-
-        # on saute volontairement les endpoints lourds
-        ctx["meta"]["skipped"].extend(["events", "statistics", "players"])
-
-    else:
-        # LIVE / HT / FT
-        _optional("events", "fixtures/events", {"fixture": fixture_id}, ttl=10)
-        _optional("lineups", "fixtures/lineups", {"fixture": fixture_id}, ttl=20)
-        _optional("statistics", "fixtures/statistics", {"fixture": fixture_id}, ttl=10)
-
-        if REALTIME_MODE == "full":
-            _optional("players", "fixtures/players", {"fixture": fixture_id}, ttl=10)
-        else:
-            ctx["meta"]["skipped"].append("players")
-
-        ctx["meta"]["fetched_at"] = datetime.datetime.utcnow().isoformat() + "Z"
-    return ctx
-    """
+   
     if REALTIME_MODE == "off":
         ctx["meta"]["fetched_at"] = datetime.datetime.utcnow().isoformat() + "Z"
         return ctx
@@ -1030,7 +999,8 @@ def format_absences_summary(summary: Dict[str, Any], max_players_per_team: int =
       - lists up to N players per team with reason
     Works with summary produced by _realtime_summary_enriched (Option B).
     """
-
+    missing_meta = summary.get("missing_meta") or []
+    injuries_failed = any(str(x).startswith("injuries_err:") for x in missing_meta)    
     def _as_list(x):
         return x if isinstance(x, list) else []
 
@@ -1074,10 +1044,13 @@ def format_absences_summary(summary: Dict[str, Any], max_players_per_team: int =
     lineups_expected_soon = bool(summary.get("lineups_expected_soon"))
 
     # If nothing at all
+    
     if injuries_total <= 0 and not home_players and not away_players:
+        if injuries_failed:
+            return "Absences : indisponibles pour le moment (erreur de récupération des blessures)."
         if status_short == "NS" and not lineups_available:
             return "Absences : non disponibles pour l’instant (compositions non publiées)."
-        return "Absences : aucune information notable."
+    return "Absences : aucune information notable."
 
     # Build lines
     line1 = f"Absences (pré-match) — {home}: {injuries_home} | {away}: {injuries_away}"

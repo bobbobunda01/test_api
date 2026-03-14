@@ -27,7 +27,8 @@ from fichier_py.fonction import (
 
 app = Flask(__name__)
 RACINE_PROJET = pathlib.Path(__file__).resolve().parents[1]
-
+######------------------
+######### SDDDE
 # -------------------------------------------------------------------
 # CONFIG GLOBALE
 # -------------------------------------------------------------------
